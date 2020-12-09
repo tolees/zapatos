@@ -10,8 +10,11 @@ author: ring
 slug: B01NA76URG
 description:
 actualPrice: 14.0 EUR
+currency: EUR
+price: 14.0
 comparePrice: 19.95 EUR
 inStock: true
+prodname: PUMA Popcat  Chanclas de Playa y Piscina Unisex Adulto  Blanco White Black  40.5 EU
 ---
 
 Está [PUMA Popcat  Chanclas de Playa y Piscina Unisex Adulto  Blanco White Black  40.5 EU](https://www.amazon.es/dp/B01NA76URG/?tag=tolees-21) con 29.82 de descuento por 14.0 EUR (original: 19.95 EUR) en el siguiente enlace!

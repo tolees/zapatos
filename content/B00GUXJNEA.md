@@ -10,8 +10,11 @@ author: ring
 slug: B00GUXJNEA
 description:
 actualPrice: 50.62 EUR
+currency: EUR
+price: 50.62
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Columbia Woodburn II Chukka Waterproof Omni-Heat  Zapatos Hombre  Marrón  Cordovan  Garnet Red   45 EU
 ---
 
 Está [Columbia Woodburn II Chukka Waterproof Omni-Heat  Zapatos Hombre  Marrón  Cordovan  Garnet Red   45 EU](https://www.amazon.es/dp/B00GUXJNEA/?tag=tolees-21) con 53.98 de descuento por 50.62 EUR (original: 109.99 EUR) en el siguiente enlace!

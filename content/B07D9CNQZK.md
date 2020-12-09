@@ -10,8 +10,11 @@ author: ring
 slug: B07D9CNQZK
 description:
 actualPrice: 10.3 EUR
+currency: EUR
+price: 10.3
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI 55886  Botines para Niñas  Marrón Taupe  33 EU
 ---
 
 Tienes [XTI 55886  Botines para Niñas  Marrón Taupe  33 EU](https://www.amazon.es/dp/B07D9CNQZK/?tag=tolees-21) con un 74.22 % de descuento con precio de oferta de 10.3 EUR (original: 39.95 EUR) en el siguiente enlace!

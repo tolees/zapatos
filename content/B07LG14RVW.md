@@ -10,8 +10,11 @@ author: ring
 slug: B07LG14RVW
 description:
 actualPrice: 41.72 EUR
+currency: EUR
+price: 41.72
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C9999   40 EU
 ---
 
 Tienes [Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C9999   40 EU](https://www.amazon.es/dp/B07LG14RVW/?tag=tolees-21) con un 58.24 % de descuento con precio de oferta de 41.72 EUR (original: 99.9 EUR) en el siguiente enlace!

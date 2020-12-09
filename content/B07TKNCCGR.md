@@ -10,8 +10,11 @@ author: ring
 slug: B07TKNCCGR
 description:
 actualPrice: 23.7 EUR
+currency: EUR
+price: 23.7
 comparePrice: 84.95 EUR
 inStock: true
+prodname: Clarks Bensley Run  Zapatos de Cordones Derby Hombre  Negro  Black Leather Black Leather   41.5 EU
 ---
 
 Ahora mismo tienes [Clarks Bensley Run  Zapatos de Cordones Derby Hombre  Negro  Black Leather Black Leather   41.5 EU](https://www.amazon.es/dp/B07TKNCCGR/?tag=tolees-21) a 23.7 EUR (original: 84.95 EUR) (72.10 %  de descuento) en el siguiente enlace!

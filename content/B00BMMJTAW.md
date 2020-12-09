@@ -10,8 +10,11 @@ author: ring
 slug: B00BMMJTAW
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U Dublin B  Zapatos de Vestir para Hombre  Negro  BLACKC9999   39 EU
 ---
 
 Tienes [Geox U Dublin B  Zapatos de Vestir para Hombre  Negro  BLACKC9999   39 EU](https://www.amazon.es/dp/B00BMMJTAW/?tag=tolees-21) con un 29.98 % de descuento con precio de oferta de 69.95 EUR (original: 99.9 EUR) en el siguiente enlace!

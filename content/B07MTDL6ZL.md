@@ -10,8 +10,11 @@ author: ring
 slug: B07MTDL6ZL
 description:
 actualPrice: 45.99 EUR
+currency: EUR
+price: 45.99
 comparePrice: 66.99 EUR
 inStock: true
+prodname: gracosy Sandalias Cuero Planas Verano Mujer Estilo Bohemia Zapatos para Mujer de Dedo Sandalias Talla Grande 37-42 Chanclas Romanas de Mujer Rojo Azul Púrpura Naranja Hecho a Mano Los Zapatos 2019
 ---
 
 Ahora mismo tienes [gracosy Sandalias Cuero Planas Verano Mujer Estilo Bohemia Zapatos para Mujer de Dedo Sandalias Talla Grande 37-42 Chanclas Romanas de Mujer Rojo Azul Púrpura Naranja Hecho a Mano Los Zapatos 2019](https://www.amazon.es/dp/B07MTDL6ZL/?tag=tolees-21) a 45.99 EUR (original: 66.99 EUR) (31.35 %  de descuento) en el siguiente enlace!

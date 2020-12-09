@@ -10,8 +10,11 @@ author: ring
 slug: B000YKPLB4
 description:
 actualPrice: 15.0 EUR
+currency: EUR
+price: 15.0
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Havaianas Brasil Chanclas Unisex Adulto  Marrón Dark Brown  37/38 EU
 ---
 
 Tienes [Havaianas Brasil Chanclas Unisex Adulto  Marrón Dark Brown  37/38 EU](https://www.amazon.es/dp/B000YKPLB4/?tag=tolees-21) con un 31.51 % de descuento con precio de oferta de 15.0 EUR (original: 21.9 EUR) en el siguiente enlace!

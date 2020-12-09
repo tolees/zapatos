@@ -10,8 +10,11 @@ author: ring
 slug: B07CN8YL5X
 description:
 actualPrice: 10.82 EUR
+currency: EUR
+price: 10.82
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Crocs Crocband Flip  Zapatos de Playa y Piscina Unisex Adulto  Verde  Army Green/White 37p   46/47 EU
 ---
 
 Tienes [Crocs Crocband Flip  Zapatos de Playa y Piscina Unisex Adulto  Verde  Army Green/White 37p   46/47 EU](https://www.amazon.es/dp/B07CN8YL5X/?tag=tolees-21) con un 63.81 % de descuento con precio de oferta de 10.82 EUR (original: 29.9 EUR) en el siguiente enlace!

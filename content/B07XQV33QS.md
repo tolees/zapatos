@@ -10,8 +10,11 @@ author: ring
 slug: B07XQV33QS
 description:
 actualPrice: 5.67 EUR
+currency: EUR
+price: 5.67
 comparePrice: 7.56 EUR
 inStock: true
+prodname: FIND Cork Peep Toe Sling Back Wedge Zapatos de tacón con Punta Abierta  Dorado  Sparke Gold   40 EU
 ---
 
 Ahora mismo tienes [FIND Cork Peep Toe Sling Back Wedge Zapatos de tacón con Punta Abierta  Dorado  Sparke Gold   40 EU](https://www.amazon.es/dp/B07XQV33QS/?tag=tolees-21) a 5.67 EUR (original: 7.56 EUR) (25.00 %  de descuento) en el siguiente enlace!

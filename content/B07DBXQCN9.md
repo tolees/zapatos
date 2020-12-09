@@ -10,8 +10,11 @@ author: ring
 slug: B07DBXQCN9
 description:
 actualPrice: 12.95 EUR
+currency: EUR
+price: 12.95
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Puma Leadcat  Chanclas Unisex Adulto  Verde Olivine 18  42 EU
 ---
 
 Ahora mismo tienes [Puma Leadcat  Chanclas Unisex Adulto  Verde Olivine 18  42 EU](https://www.amazon.es/dp/B07DBXQCN9/?tag=tolees-21) a 12.95 EUR (original: 24.95 EUR) (48.10 %  de descuento) en el siguiente enlace!

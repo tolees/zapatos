@@ -10,8 +10,11 @@ author: ring
 slug: B07BY1NS3Z
 description:
 actualPrice: 25.97 EUR
+currency: EUR
+price: 25.97
 comparePrice: 110 EUR
 inStock: true
+prodname: Jana 8-8-25503-21  Botines para Mujer  Marrón  Cigar 314   36 EU
 ---
 
 Está [Jana 8-8-25503-21  Botines para Mujer  Marrón  Cigar 314   36 EU](https://www.amazon.es/dp/B07BY1NS3Z/?tag=tolees-21) con 76.39 de descuento por 25.97 EUR (original: 110 EUR) en el siguiente enlace!

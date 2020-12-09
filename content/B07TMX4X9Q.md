@@ -10,8 +10,11 @@ author: ring
 slug: B07TMX4X9Q
 description:
 actualPrice: 33.69 EUR
+currency: EUR
+price: 33.69
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Hero  Zapatos de Cordones Brogue Mujer  Gris  Grey Snake Grey Snake   37 EU
 ---
 
 Ahora mismo tienes [Clarks Hero  Zapatos de Cordones Brogue Mujer  Gris  Grey Snake Grey Snake   37 EU](https://www.amazon.es/dp/B07TMX4X9Q/?tag=tolees-21) a 33.69 EUR (original: 110.0 EUR) (69.37 %  de descuento) en el siguiente enlace!

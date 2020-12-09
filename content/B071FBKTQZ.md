@@ -10,8 +10,11 @@ author: ring
 slug: B071FBKTQZ
 description:
 actualPrice: 16.2 EUR
+currency: EUR
+price: 16.2
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Crocs Classic Clog Kids  Zuecos Unisex Niños  Azul  Tropical Teal   22/23 EU
 ---
 
 Ahora mismo tienes [Crocs Classic Clog Kids  Zuecos Unisex Niños  Azul  Tropical Teal   22/23 EU](https://www.amazon.es/dp/B071FBKTQZ/?tag=tolees-21) a 16.2 EUR (original: 26.99 EUR) (39.98 %  de descuento) en el siguiente enlace!

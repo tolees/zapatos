@@ -10,8 +10,11 @@ author: ring
 slug: B07BLTNDQN
 description:
 actualPrice: 42.99 EUR
+currency: EUR
+price: 42.99
 comparePrice: 71.65 EUR
 inStock: true
+prodname: gracosy Mocasines de Cuero Merceditas Zapatos Planos para Mujer Verano Slip-On Hecho a Mano Cómodo Primavera Mocasines Vintage Patrón de Flores Barco Al Aire Libre Casual Zapatos para Caminar
 ---
 
 Tienes [gracosy Mocasines de Cuero Merceditas Zapatos Planos para Mujer Verano Slip-On Hecho a Mano Cómodo Primavera Mocasines Vintage Patrón de Flores Barco Al Aire Libre Casual Zapatos para Caminar](https://www.amazon.es/dp/B07BLTNDQN/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 42.99 EUR (original: 71.65 EUR) en el siguiente enlace!

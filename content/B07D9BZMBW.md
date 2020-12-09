@@ -10,8 +10,11 @@ author: ring
 slug: B07D9BZMBW
 description:
 actualPrice: 19.8 EUR
+currency: EUR
+price: 19.8
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 48495  Botines para Mujer  Negro  Black   40 EU
 ---
 
 Ahora mismo tienes [XTI 48495  Botines para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B07D9BZMBW/?tag=tolees-21) a 19.8 EUR (original: 49.95 EUR) (60.36 %  de descuento) en el siguiente enlace!

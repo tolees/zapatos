@@ -10,8 +10,11 @@ author: ring
 slug: B07C8P3SJB
 description:
 actualPrice: 47.9 EUR
+currency: EUR
+price: 47.9
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Grandin Plain  Zapatos de Cordones Brogue para Hombre  Gris  Graphite   44 EU
 ---
 
 Ahora mismo tienes [Clarks Grandin Plain  Zapatos de Cordones Brogue para Hombre  Gris  Graphite   44 EU](https://www.amazon.es/dp/B07C8P3SJB/?tag=tolees-21) a 47.9 EUR (original: 79.95 EUR) (40.09 %  de descuento) en el siguiente enlace!

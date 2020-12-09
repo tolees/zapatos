@@ -10,8 +10,11 @@ author: ring
 slug: B07TNVW3WK
 description:
 actualPrice: 16.64 EUR
+currency: EUR
+price: 16.64
 comparePrice: 84.95 EUR
 inStock: true
+prodname: Clarks Bensley Run  Zapatos de Cordones Derby Hombre  Marrón  Dark Tan Lea Dark Tan Lea   39.5 EU
 ---
 
 Está [Clarks Bensley Run  Zapatos de Cordones Derby Hombre  Marrón  Dark Tan Lea Dark Tan Lea   39.5 EU](https://www.amazon.es/dp/B07TNVW3WK/?tag=tolees-21) con 80.41 de descuento por 16.64 EUR (original: 84.95 EUR) en el siguiente enlace!

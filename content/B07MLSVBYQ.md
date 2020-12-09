@@ -10,8 +10,11 @@ author: ring
 slug: B07MLSVBYQ
 description:
 actualPrice: 45.27 EUR
+currency: EUR
+price: 45.27
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Clarks Atticus Lace  Zapatos de Cordones Derby para Hombre  Marrón Burgundy Nubuck  41.5 EU
 ---
 
 Está [Clarks Atticus Lace  Zapatos de Cordones Derby para Hombre  Marrón Burgundy Nubuck  41.5 EU](https://www.amazon.es/dp/B07MLSVBYQ/?tag=tolees-21) con 58.83 de descuento por 45.27 EUR (original: 109.95 EUR) en el siguiente enlace!

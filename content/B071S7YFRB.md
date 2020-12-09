@@ -10,8 +10,11 @@ author: ring
 slug: B071S7YFRB
 description:
 actualPrice: 43.89 EUR
+currency: EUR
+price: 43.89
 comparePrice: 85.9 EUR
 inStock: true
+prodname: Asics Hl701 - zapatos de gimnasia Hombre  Negro  Black / Black   40 EU
 ---
 
 Ahora mismo tienes [Asics Hl701 - zapatos de gimnasia Hombre  Negro  Black / Black   40 EU](https://www.amazon.es/dp/B071S7YFRB/?tag=tolees-21) a 43.89 EUR (original: 85.9 EUR) (48.91 %  de descuento) en el siguiente enlace!

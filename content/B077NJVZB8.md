@@ -10,8 +10,11 @@ author: ring
 slug: B077NJVZB8
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Marco Tozzi 22453  Zapatos de Tacón para Mujer  Negro  Black Comb   38 EU
 ---
 
 Tienes [Marco Tozzi 22453  Zapatos de Tacón para Mujer  Negro  Black Comb   38 EU](https://www.amazon.es/dp/B077NJVZB8/?tag=tolees-21) con un 44.96 % de descuento con precio de oferta de 21.99 EUR (original: 39.95 EUR) en el siguiente enlace!

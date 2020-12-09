@@ -10,8 +10,11 @@ author: ring
 slug: B07G7HZRB2
 description:
 actualPrice: 44.95 EUR
+currency: EUR
+price: 44.95
 comparePrice: 75 EUR
 inStock: true
+prodname: Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto   Black/Metallic Gold/Dark Grey/White 005   43 EU
 ---
 
 Está [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto   Black/Metallic Gold/Dark Grey/White 005   43 EU](https://www.amazon.es/dp/B07G7HZRB2/?tag=tolees-21) con 40.07 de descuento por 44.95 EUR (original: 75 EUR) en el siguiente enlace!

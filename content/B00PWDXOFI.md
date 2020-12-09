@@ -10,8 +10,11 @@ author: ring
 slug: B00PWDXOFI
 description:
 actualPrice: 71.49 EUR
+currency: EUR
+price: 71.49
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Columbia Woodburn II Chukka Waterproof Omni-Heat  Zapatos Hombre  Negro  Black  Goldenrod   42 EU
 ---
 
 Tienes [Columbia Woodburn II Chukka Waterproof Omni-Heat  Zapatos Hombre  Negro  Black  Goldenrod   42 EU](https://www.amazon.es/dp/B00PWDXOFI/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 71.49 EUR (original: 109.99 EUR) en el siguiente enlace!

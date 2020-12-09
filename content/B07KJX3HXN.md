@@ -10,8 +10,11 @@ author: ring
 slug: B07KJX3HXN
 description:
 actualPrice: 60.47 EUR
+currency: EUR
+price: 60.47
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Mujer  Monument  Wild Iris  37 EU
 ---
 
 Está [Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Mujer  Monument  Wild Iris  37 EU](https://www.amazon.es/dp/B07KJX3HXN/?tag=tolees-21) con 49.60 de descuento por 60.47 EUR (original: 119.99 EUR) en el siguiente enlace!

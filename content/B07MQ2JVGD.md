@@ -10,8 +10,11 @@ author: ring
 slug: B07MQ2JVGD
 description:
 actualPrice: 41.84 EUR
+currency: EUR
+price: 41.84
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Ronnie Limit  Zapatos de Cordones Brogue  Braun British Tan Leather  46 EU
 ---
 
 Está [Clarks Ronnie Limit  Zapatos de Cordones Brogue  Braun British Tan Leather  46 EU](https://www.amazon.es/dp/B07MQ2JVGD/?tag=tolees-21) con 58.14 de descuento por 41.84 EUR (original: 99.95 EUR) en el siguiente enlace!

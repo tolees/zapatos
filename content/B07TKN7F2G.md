@@ -10,8 +10,11 @@ author: ring
 slug: B07TKN7F2G
 description:
 actualPrice: 23.5 EUR
+currency: EUR
+price: 23.5
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Adriel Cove  Zapatos con Tacon y Correa de Tobillo para Mujer  Negro  Black Pat Black Pat   38 EU
 ---
 
 Está [Clarks Adriel Cove  Zapatos con Tacon y Correa de Tobillo para Mujer  Negro  Black Pat Black Pat   38 EU](https://www.amazon.es/dp/B07TKN7F2G/?tag=tolees-21) con 70.61 de descuento por 23.5 EUR (original: 79.95 EUR) en el siguiente enlace!

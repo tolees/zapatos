@@ -10,8 +10,11 @@ author: ring
 slug: B077BGN3HV
 description:
 actualPrice: 32.7 EUR
+currency: EUR
+price: 32.7
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Gioseppo 43598  Zapatos de Cordones Derby para Hombre  Marrón  Camel   44 EU
 ---
 
 Tienes [Gioseppo 43598  Zapatos de Cordones Derby para Hombre  Marrón  Camel   44 EU](https://www.amazon.es/dp/B077BGN3HV/?tag=tolees-21) con un 56.37 % de descuento con precio de oferta de 32.7 EUR (original: 74.95 EUR) en el siguiente enlace!

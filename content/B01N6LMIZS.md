@@ -10,8 +10,11 @@ author: ring
 slug: B01N6LMIZS
 description:
 actualPrice: 48.66 EUR
+currency: EUR
+price: 48.66
 comparePrice: 99.99 EUR
 inStock: true
+prodname: adidas Terrex Ax2r  Zapatos de Senderismo Hombre  Marrón  42 EU
 ---
 
 Tienes [adidas Terrex Ax2r  Zapatos de Senderismo Hombre  Marrón  42 EU](https://www.amazon.es/dp/B01N6LMIZS/?tag=tolees-21) con un 51.34 % de descuento con precio de oferta de 48.66 EUR (original: 99.99 EUR) en el siguiente enlace!

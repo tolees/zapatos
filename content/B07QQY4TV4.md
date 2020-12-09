@@ -10,8 +10,11 @@ author: ring
 slug: B07QQY4TV4
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: FUSHITON Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Aqua Cycling Deportes Acuáticos Calzado de Natación Escarpines para Hombre Mujer Yoga
 ---
 
 Está [FUSHITON Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Aqua Cycling Deportes Acuáticos Calzado de Natación Escarpines para Hombre Mujer Yoga](https://www.amazon.es/dp/B07QQY4TV4/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

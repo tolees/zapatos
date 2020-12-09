@@ -10,8 +10,11 @@ author: ring
 slug: B07FSCM9Q5
 description:
 actualPrice: 29.05 EUR
+currency: EUR
+price: 29.05
 comparePrice: 110 EUR
 inStock: true
+prodname: Clarks Komuter Walk  Zapatos de Cordones Derby para Hombre  Azul  Navy Leather-   41 EU
 ---
 
 Ahora mismo tienes [Clarks Komuter Walk  Zapatos de Cordones Derby para Hombre  Azul  Navy Leather-   41 EU](https://www.amazon.es/dp/B07FSCM9Q5/?tag=tolees-21) a 29.05 EUR (original: 110 EUR) (73.59 %  de descuento) en el siguiente enlace!

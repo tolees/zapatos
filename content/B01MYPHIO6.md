@@ -10,8 +10,11 @@ author: ring
 slug: B01MYPHIO6
 description:
 actualPrice: 22.63 EUR
+currency: EUR
+price: 22.63
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Marco Tozzi 24402  Zapatos de Tacón para Mujer  Negro  Black 001   38 EU
 ---
 
 Tienes [Marco Tozzi 24402  Zapatos de Tacón para Mujer  Negro  Black 001   38 EU](https://www.amazon.es/dp/B01MYPHIO6/?tag=tolees-21) con un 54.69 % de descuento con precio de oferta de 22.63 EUR (original: 49.95 EUR) en el siguiente enlace!

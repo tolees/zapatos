@@ -10,8 +10,11 @@ author: ring
 slug: B07C6RCWTQ
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 29.73 EUR
 inStock: true
+prodname: Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua Zapatillas Ligeros de Secado Rápido para Swim Beach Surf Yoga
 ---
 
 Tienes [Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua Zapatillas Ligeros de Secado Rápido para Swim Beach Surf Yoga](https://www.amazon.es/dp/B07C6RCWTQ/?tag=tolees-21) con un 52.94 % de descuento con precio de oferta de 13.99 EUR (original: 29.73 EUR) en el siguiente enlace!

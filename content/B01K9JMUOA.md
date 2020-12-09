@@ -10,8 +10,11 @@ author: ring
 slug: B01K9JMUOA
 description:
 actualPrice: 34.6 EUR
+currency: EUR
+price: 34.6
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Kendra Sienna  Zapatos de Tacón Mujer  Gris  Grey   39.5 EU
 ---
 
 Ahora mismo tienes [Clarks Kendra Sienna  Zapatos de Tacón Mujer  Gris  Grey   39.5 EU](https://www.amazon.es/dp/B01K9JMUOA/?tag=tolees-21) a 34.6 EUR (original: 99.95 EUR) (65.38 %  de descuento) en el siguiente enlace!

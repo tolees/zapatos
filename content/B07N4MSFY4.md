@@ -10,8 +10,11 @@ author: ring
 slug: B07N4MSFY4
 description:
 actualPrice: 42.49 EUR
+currency: EUR
+price: 42.49
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Levi s Woods W  Chanclas para Mujer  Blanco  B White 50   36 EU
 ---
 
 Ahora mismo tienes [Levi s Woods W  Chanclas para Mujer  Blanco  B White 50   36 EU](https://www.amazon.es/dp/B07N4MSFY4/?tag=tolees-21) a 42.49 EUR (original: 60.0 EUR) (29.18 %  de descuento) en el siguiente enlace!

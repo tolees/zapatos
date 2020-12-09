@@ -10,8 +10,11 @@ author: ring
 slug: B07D97BRKF
 description:
 actualPrice: 13.54 EUR
+currency: EUR
+price: 13.54
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 48534  Botines para Mujer  Negro  Black   41 EU
 ---
 
 Tienes [XTI 48534  Botines para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B07D97BRKF/?tag=tolees-21) con un 72.89 % de descuento con precio de oferta de 13.54 EUR (original: 49.95 EUR) en el siguiente enlace!

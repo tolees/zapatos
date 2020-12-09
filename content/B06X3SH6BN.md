@@ -10,8 +10,11 @@ author: ring
 slug: B06X3SH6BN
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 24.95 EUR
 inStock: true
+prodname: adidas Adilette Shower  Chanclas para Hombre  Negro  Core Black/Footwear White/Core Black 0   42 EU
 ---
 
 Tienes [adidas Adilette Shower  Chanclas para Hombre  Negro  Core Black/Footwear White/Core Black 0   42 EU](https://www.amazon.es/dp/B06X3SH6BN/?tag=tolees-21) con un 31.90 % de descuento con precio de oferta de 16.99 EUR (original: 24.95 EUR) en el siguiente enlace!

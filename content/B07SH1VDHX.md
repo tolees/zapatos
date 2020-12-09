@@ -10,8 +10,11 @@ author: ring
 slug: B07SH1VDHX
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s June Batwing  Chanclas para Hombre  Negro  R Black 59   39 EU
 ---
 
 Está [Levi s June Batwing  Chanclas para Hombre  Negro  R Black 59   39 EU](https://www.amazon.es/dp/B07SH1VDHX/?tag=tolees-21) con 34.04 de descuento por 16.49 EUR (original: 25.0 EUR) en el siguiente enlace!

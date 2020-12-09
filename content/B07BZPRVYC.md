@@ -10,8 +10,11 @@ author: ring
 slug: B07BZPRVYC
 description:
 actualPrice: 16.39 EUR
+currency: EUR
+price: 16.39
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Remonte R2672  Botines para Mujer  Negro  Schwarz/Antracite 02   40 EU
 ---
 
 Está [Remonte R2672  Botines para Mujer  Negro  Schwarz/Antracite 02   40 EU](https://www.amazon.es/dp/B07BZPRVYC/?tag=tolees-21) con 83.60 de descuento por 16.39 EUR (original: 99.95 EUR) en el siguiente enlace!

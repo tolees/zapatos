@@ -10,8 +10,11 @@ author: ring
 slug: B07JLS6JDZ
 description:
 actualPrice: 13.42 EUR
+currency: EUR
+price: 13.42
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI 32033  Zapatos con Tira de Tobillo para Mujer  Rojo  40 EU
 ---
 
 Ahora mismo tienes [XTI 32033  Zapatos con Tira de Tobillo para Mujer  Rojo  40 EU](https://www.amazon.es/dp/B07JLS6JDZ/?tag=tolees-21) a 13.42 EUR (original: 39.95 EUR) (66.41 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FLX1L9S
 description:
 actualPrice: 19.41 EUR
+currency: EUR
+price: 19.41
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Bata 7996322  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Nero 6   36 EU
 ---
 
 Está [Bata 7996322  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Nero 6   36 EU](https://www.amazon.es/dp/B07FLX1L9S/?tag=tolees-21) con 72.27 de descuento por 19.41 EUR (original: 69.99 EUR) en el siguiente enlace!

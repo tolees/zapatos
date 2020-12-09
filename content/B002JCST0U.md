@@ -10,8 +10,11 @@ author: ring
 slug: B002JCST0U
 description:
 actualPrice: 27.86 EUR
+currency: EUR
+price: 27.86
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   42/43 EU
 ---
 
 Está [Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   42/43 EU](https://www.amazon.es/dp/B002JCST0U/?tag=tolees-21) con 38.08 de descuento por 27.86 EUR (original: 44.99 EUR) en el siguiente enlace!

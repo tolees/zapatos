@@ -10,8 +10,11 @@ author: ring
 slug: B06X6NKJY9
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Hotmarzz Chanclas de Verano Mujer Sandalias Tacon de Playa Zapatillas de Casa Pantuflas Size 39 EU / 40 CN  Rojo
 ---
 
 Ahora mismo tienes [Hotmarzz Chanclas de Verano Mujer Sandalias Tacon de Playa Zapatillas de Casa Pantuflas Size 39 EU / 40 CN  Rojo](https://www.amazon.es/dp/B06X6NKJY9/?tag=tolees-21) a 12.99 EUR (original: 25.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

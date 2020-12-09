@@ -10,8 +10,11 @@ author: ring
 slug: B010SIWSBC
 description:
 actualPrice: 10.84 EUR
+currency: EUR
+price: 10.84
 comparePrice: 37.2 EUR
 inStock: true
+prodname: Maurer 15011602 Zapatos Seguridad Tiberina S1P Nº 40
 ---
 
 Tienes [Maurer 15011602 Zapatos Seguridad Tiberina S1P Nº 40](https://www.amazon.es/dp/B010SIWSBC/?tag=tolees-21) con un 70.86 % de descuento con precio de oferta de 10.84 EUR (original: 37.2 EUR) en el siguiente enlace!

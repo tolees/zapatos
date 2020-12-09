@@ -10,8 +10,11 @@ author: ring
 slug: B071FWBLP9
 description:
 actualPrice: 34.78 EUR
+currency: EUR
+price: 34.78
 comparePrice: 70 EUR
 inStock: true
+prodname: Under Armour UA Jet Low  Zapatos de Baloncesto para Hombre  Blanco  White   47 EU
 ---
 
 Tienes [Under Armour UA Jet Low  Zapatos de Baloncesto para Hombre  Blanco  White   47 EU](https://www.amazon.es/dp/B071FWBLP9/?tag=tolees-21) con un 50.31 % de descuento con precio de oferta de 34.78 EUR (original: 70 EUR) en el siguiente enlace!

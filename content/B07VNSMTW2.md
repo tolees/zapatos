@@ -10,8 +10,11 @@ author: ring
 slug: B07VNSMTW2
 description:
 actualPrice: 23.07 EUR
+currency: EUR
+price: 23.07
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Art Rotterdam  Zapatos de tacón con Punta Abierta para Mujer  Multicolor  Kaki/Orange Kaki/Orange   37 EU
 ---
 
 Está [Art Rotterdam  Zapatos de tacón con Punta Abierta para Mujer  Multicolor  Kaki/Orange Kaki/Orange   37 EU](https://www.amazon.es/dp/B07VNSMTW2/?tag=tolees-21) con 72.86 de descuento por 23.07 EUR (original: 85.0 EUR) en el siguiente enlace!

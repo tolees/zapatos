@@ -10,8 +10,11 @@ author: ring
 slug: B083XZS6PY
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 72.0 EUR
 inStock: true
+prodname: ONEMIX Zapatillas de Running para Hombre  Transpirables Aire Libre y Deporte Casual Zapatos Gimnasio Correr Sneakers 1309 Greyblack 42
 ---
 
 Está [ONEMIX Zapatillas de Running para Hombre  Transpirables Aire Libre y Deporte Casual Zapatos Gimnasio Correr Sneakers 1309 Greyblack 42](https://www.amazon.es/dp/B083XZS6PY/?tag=tolees-21) con 45.85 de descuento por 38.99 EUR (original: 72.0 EUR) en el siguiente enlace!

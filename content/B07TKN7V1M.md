@@ -10,8 +10,11 @@ author: ring
 slug: B07TKN7V1M
 description:
 actualPrice: 25.44 EUR
+currency: EUR
+price: 25.44
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Alice Greta  Zapatos con Tacon y Correa de Tobillo para Mujer  Negro  Black Leather Black Leather   37 EU
 ---
 
 Ahora mismo tienes [Clarks Alice Greta  Zapatos con Tacon y Correa de Tobillo para Mujer  Negro  Black Leather Black Leather   37 EU](https://www.amazon.es/dp/B07TKN7V1M/?tag=tolees-21) a 25.44 EUR (original: 79.95 EUR) (68.18 %  de descuento) en el siguiente enlace!

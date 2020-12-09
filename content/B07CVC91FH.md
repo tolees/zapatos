@@ -10,8 +10,11 @@ author: ring
 slug: B07CVC91FH
 description:
 actualPrice: 60 EUR
+currency: EUR
+price: 60
 comparePrice: 82.49 EUR
 inStock: true
+prodname: Under Armour Jet Mid 3020623-003  Zapatos de Baloncesto para Hombre  Negro  Black 3020623/003   43 EU
 ---
 
 Está [Under Armour Jet Mid 3020623-003  Zapatos de Baloncesto para Hombre  Negro  Black 3020623/003   43 EU](https://www.amazon.es/dp/B07CVC91FH/?tag=tolees-21) con 27.26 de descuento por 60 EUR (original: 82.49 EUR) en el siguiente enlace!

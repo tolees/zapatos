@@ -10,8 +10,11 @@ author: ring
 slug: B07D9BZLV7
 description:
 actualPrice: 14.97 EUR
+currency: EUR
+price: 14.97
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 30951  Botines para Mujer  Negro  Black   39 EU
 ---
 
 Está [XTI 30951  Botines para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B07D9BZLV7/?tag=tolees-21) con 70.03 de descuento por 14.97 EUR (original: 49.95 EUR) en el siguiente enlace!

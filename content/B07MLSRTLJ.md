@@ -10,8 +10,11 @@ author: ring
 slug: B07MLSRTLJ
 description:
 actualPrice: 59.64 EUR
+currency: EUR
+price: 59.64
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Negro  Black Leather   41.5 EU
 ---
 
 Está [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Negro  Black Leather   41.5 EU](https://www.amazon.es/dp/B07MLSRTLJ/?tag=tolees-21) con 25.40 de descuento por 59.64 EUR (original: 79.95 EUR) en el siguiente enlace!

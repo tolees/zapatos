@@ -10,8 +10,11 @@ author: ring
 slug: B079MFZ8RL
 description:
 actualPrice: 32.12 EUR
+currency: EUR
+price: 32.12
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Bay Primrose  Sandalia con Pulsera para Mujer  Negro  Black Leather-   39 EU
 ---
 
 Está [Clarks Bay Primrose  Sandalia con Pulsera para Mujer  Negro  Black Leather-   39 EU](https://www.amazon.es/dp/B079MFZ8RL/?tag=tolees-21) con 59.82 de descuento por 32.12 EUR (original: 79.95 EUR) en el siguiente enlace!

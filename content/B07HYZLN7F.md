@@ -10,8 +10,11 @@ author: ring
 slug: B07HYZLN7F
 description:
 actualPrice: 28.15 EUR
+currency: EUR
+price: 28.15
 comparePrice: 60 EUR
 inStock: true
+prodname: Nike EBERNON Low  Zapatos de Baloncesto para Hombre   Blue Void/White 401   43 EU
 ---
 
 Tienes [Nike EBERNON Low  Zapatos de Baloncesto para Hombre   Blue Void/White 401   43 EU](https://www.amazon.es/dp/B07HYZLN7F/?tag=tolees-21) con un 53.08 % de descuento con precio de oferta de 28.15 EUR (original: 60 EUR) en el siguiente enlace!

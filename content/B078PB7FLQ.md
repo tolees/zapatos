@@ -10,8 +10,11 @@ author: ring
 slug: B078PB7FLQ
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 32.99 EUR
 inStock: true
+prodname: NACATIN Mochila Gimnasio Mujer/Hombre  Bolso Deportivo Niño con Gabinete para Zapatos  Bolsa Gimnasio de Poliéster  Resistente al Desgaste Impermeable Mochila de Deporte  Azul Oscuro 
 ---
 
 Tienes [NACATIN Mochila Gimnasio Mujer/Hombre  Bolso Deportivo Niño con Gabinete para Zapatos  Bolsa Gimnasio de Poliéster  Resistente al Desgaste Impermeable Mochila de Deporte  Azul Oscuro ](https://www.amazon.es/dp/B078PB7FLQ/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 21.99 EUR (original: 32.99 EUR) en el siguiente enlace!

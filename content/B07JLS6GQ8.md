@@ -10,8 +10,11 @@ author: ring
 slug: B07JLS6GQ8
 description:
 actualPrice: 14.49 EUR
+currency: EUR
+price: 14.49
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI 32032  Zapatos con Tira de Tobillo para Mujer  Rosa Nude  39 EU
 ---
 
 Ahora mismo tienes [XTI 32032  Zapatos con Tira de Tobillo para Mujer  Rosa Nude  39 EU](https://www.amazon.es/dp/B07JLS6GQ8/?tag=tolees-21) a 14.49 EUR (original: 39.95 EUR) (63.73 %  de descuento) en el siguiente enlace!

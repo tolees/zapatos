@@ -10,8 +10,11 @@ author: ring
 slug: B01MQJFIO7
 description:
 actualPrice: 22.23 EUR
+currency: EUR
+price: 22.23
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Tamaris 25700  Botines para Mujer   Antelope Met. 376   37 EU
 ---
 
 Está [Tamaris 25700  Botines para Mujer   Antelope Met. 376   37 EU](https://www.amazon.es/dp/B01MQJFIO7/?tag=tolees-21) con 77.76 de descuento por 22.23 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B072MKKRT9
 description:
 actualPrice: 46.73 EUR
+currency: EUR
+price: 46.73
 comparePrice: 66.75 EUR
 inStock: true
+prodname: Clarks Batcombe Wing  Zapatos de Cordones Derby  Marrón  Dark Tan Leather   42 EU
 ---
 
 Ahora mismo tienes [Clarks Batcombe Wing  Zapatos de Cordones Derby  Marrón  Dark Tan Leather   42 EU](https://www.amazon.es/dp/B072MKKRT9/?tag=tolees-21) a 46.73 EUR (original: 66.75 EUR) (29.99 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DCD7F8R
 description:
 actualPrice: 40.54 EUR
+currency: EUR
+price: 40.54
 comparePrice: 70 EUR
 inStock: true
+prodname: Nike Ebernon Low Prem  Zapatos de Baloncesto para Hombre  Verde  Neutral Olive/Cargo Khaki/Whit 200  40.5 EU
 ---
 
 Está [Nike Ebernon Low Prem  Zapatos de Baloncesto para Hombre  Verde  Neutral Olive/Cargo Khaki/Whit 200  40.5 EU](https://www.amazon.es/dp/B07DCD7F8R/?tag=tolees-21) con 42.09 de descuento por 40.54 EUR (original: 70 EUR) en el siguiente enlace!

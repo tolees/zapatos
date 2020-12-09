@@ -10,8 +10,11 @@ author: ring
 slug: B07JMPZKSY
 description:
 actualPrice: 18.47 EUR
+currency: EUR
+price: 18.47
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI 35046  Zapatos de tacón con Punta Cerrada para Mujer  Amarillo  37 EU
 ---
 
 Ahora mismo tienes [XTI 35046  Zapatos de tacón con Punta Cerrada para Mujer  Amarillo  37 EU](https://www.amazon.es/dp/B07JMPZKSY/?tag=tolees-21) a 18.47 EUR (original: 39.95 EUR) (53.77 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BWXPBMQ
 description:
 actualPrice: 24.98 EUR
+currency: EUR
+price: 24.98
 comparePrice: 49.95 EUR
 inStock: true
+prodname: CMP Rigel  Zapatos de Low Rise Senderismo Unisex Adulto  Gris  Asphalt-Ice Mint 64bn   34 EU
 ---
 
 Ahora mismo tienes [CMP Rigel  Zapatos de Low Rise Senderismo Unisex Adulto  Gris  Asphalt-Ice Mint 64bn   34 EU](https://www.amazon.es/dp/B07BWXPBMQ/?tag=tolees-21) a 24.98 EUR (original: 49.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

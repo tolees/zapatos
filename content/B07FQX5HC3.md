@@ -10,8 +10,11 @@ author: ring
 slug: B07FQX5HC3
 description:
 actualPrice: 35.94 EUR
+currency: EUR
+price: 35.94
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Un Trail Form  Zapatos de Cordones Derby para Hombre  Gris  Taupe Nubuck-   45 EU
 ---
 
 Tienes [Clarks Un Trail Form  Zapatos de Cordones Derby para Hombre  Gris  Taupe Nubuck-   45 EU](https://www.amazon.es/dp/B07FQX5HC3/?tag=tolees-21) con un 64.04 % de descuento con precio de oferta de 35.94 EUR (original: 99.95 EUR) en el siguiente enlace!

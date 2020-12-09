@@ -10,8 +10,11 @@ author: ring
 slug: B07DYGZ3C3
 description:
 actualPrice: 51.5 EUR
+currency: EUR
+price: 51.5
 comparePrice: 85 EUR
 inStock: true
+prodname: Merrell Terran Lattice Ii Sandalia con Pulsera Mujer  Rojo  Redwood Redwood   40 EU  7 UK 
 ---
 
 Tienes [Merrell Terran Lattice Ii Sandalia con Pulsera Mujer  Rojo  Redwood Redwood   40 EU  7 UK ](https://www.amazon.es/dp/B07DYGZ3C3/?tag=tolees-21) con un 39.41 % de descuento con precio de oferta de 51.5 EUR (original: 85 EUR) en el siguiente enlace!

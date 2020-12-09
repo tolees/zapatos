@@ -10,8 +10,11 @@ author: ring
 slug: B07D97KGRT
 description:
 actualPrice: 8.05 EUR
+currency: EUR
+price: 8.05
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI 55886  Botines para Niñas  Negro  Black   30 EU
 ---
 
 Tienes [XTI 55886  Botines para Niñas  Negro  Black   30 EU](https://www.amazon.es/dp/B07D97KGRT/?tag=tolees-21) con un 79.85 % de descuento con precio de oferta de 8.05 EUR (original: 39.95 EUR) en el siguiente enlace!

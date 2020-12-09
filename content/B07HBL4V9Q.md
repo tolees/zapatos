@@ -10,8 +10,11 @@ author: ring
 slug: B07HBL4V9Q
 description:
 actualPrice: 138.14 EUR
+currency: EUR
+price: 138.14
 comparePrice: 241.74 EUR
 inStock: true
+prodname: KAREN MILLEN Fashions Limited Tassel Ankle Boots  Botines para Mujer  Negro  Black 01   39 EU
 ---
 
 Está [KAREN MILLEN Fashions Limited Tassel Ankle Boots  Botines para Mujer  Negro  Black 01   39 EU](https://www.amazon.es/dp/B07HBL4V9Q/?tag=tolees-21) con 42.86 de descuento por 138.14 EUR (original: 241.74 EUR) en el siguiente enlace!

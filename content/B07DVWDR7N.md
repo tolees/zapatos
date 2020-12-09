@@ -10,8 +10,11 @@ author: ring
 slug: B07DVWDR7N
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 22 EUR
 inStock: true
+prodname: DC Shoes Spray Se  Zapatos de Playa y Piscina para Mujer  Rosa Pink Pip  39 EU
 ---
 
 Está [DC Shoes Spray Se  Zapatos de Playa y Piscina para Mujer  Rosa Pink Pip  39 EU](https://www.amazon.es/dp/B07DVWDR7N/?tag=tolees-21) con 50.23 de descuento por 10.95 EUR (original: 22 EUR) en el siguiente enlace!

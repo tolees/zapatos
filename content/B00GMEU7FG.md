@@ -10,8 +10,11 @@ author: ring
 slug: B00GMEU7FG
 description:
 actualPrice: 25.02 EUR
+currency: EUR
+price: 25.02
 comparePrice: 45 EUR
 inStock: true
+prodname: Birkenstock Kids ROMA   BF-NUBUK 233073 - Zuecos para unisex-niño  Brown / Mocha Brown  26
 ---
 
 Está [Birkenstock Kids ROMA   BF-NUBUK 233073 - Zuecos para unisex-niño  Brown / Mocha Brown  26](https://www.amazon.es/dp/B00GMEU7FG/?tag=tolees-21) con 44.40 de descuento por 25.02 EUR (original: 45 EUR) en el siguiente enlace!

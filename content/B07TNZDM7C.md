@@ -10,8 +10,11 @@ author: ring
 slug: B07TNZDM7C
 description:
 actualPrice: 20.86 EUR
+currency: EUR
+price: 20.86
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Sense Strap  Sandalia con Pulsera para Mujer  Beige  Praline Leather Praline Leather   38 EU
 ---
 
 Tienes [Clarks Sense Strap  Sandalia con Pulsera para Mujer  Beige  Praline Leather Praline Leather   38 EU](https://www.amazon.es/dp/B07TNZDM7C/?tag=tolees-21) con un 79.13 % de descuento con precio de oferta de 20.86 EUR (original: 99.95 EUR) en el siguiente enlace!

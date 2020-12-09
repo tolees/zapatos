@@ -10,8 +10,11 @@ author: ring
 slug: B07FR6STCM
 description:
 actualPrice: 22.56 EUR
+currency: EUR
+price: 22.56
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Bay Primrose  Sandalia con Pulsera para Mujer  Marrón  Light Tan Leather-   37 EU
 ---
 
 Tienes [Clarks Bay Primrose  Sandalia con Pulsera para Mujer  Marrón  Light Tan Leather-   37 EU](https://www.amazon.es/dp/B07FR6STCM/?tag=tolees-21) con un 71.78 % de descuento con precio de oferta de 22.56 EUR (original: 79.95 EUR) en el siguiente enlace!

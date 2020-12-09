@@ -10,8 +10,11 @@ author: ring
 slug: B00XACVVXA
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 7.72 EUR
 inStock: true
+prodname: Scholl  Desodorante calzado Fresh Step  elimina el olor y mantiene tus zapatos frescos  spray  150 ml
 ---
 
 Ahora mismo tienes [Scholl  Desodorante calzado Fresh Step  elimina el olor y mantiene tus zapatos frescos  spray  150 ml](https://www.amazon.es/dp/B00XACVVXA/?tag=tolees-21) a 4.99 EUR (original: 7.72 EUR) (35.36 %  de descuento) en el siguiente enlace!
