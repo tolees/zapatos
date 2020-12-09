@@ -14,7 +14,7 @@ currency: EUR
 price: 24.45
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Rieker Y2550  Botines para Mujer  Negro Schwarz 00  36 EU
+prodname: 'Rieker Y2550  Botines para Mujer  Negro Schwarz 00  36 EU'
 ---
 
 Tienes [Rieker Y2550  Botines para Mujer  Negro Schwarz 00  36 EU](https://www.amazon.es/dp/B07C5H7FCM/?tag=tolees-21) con un 65.05 % de descuento con precio de oferta de 24.45 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.82
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 30910  Botines para Mujer  Negro  Black   41 EU
+prodname: 'XTI 30910  Botines para Mujer  Negro  Black   41 EU'
 ---
 
 Tienes [XTI 30910  Botines para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B07D96CPVK/?tag=tolees-21) con un 64.32 % de descuento con precio de oferta de 17.82 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.97
 comparePrice: 249 EUR
 inStock: true
-prodname: Liebeskind Berlin LS0120 Grain  Botines para Mujer  Gris  36 EU
+prodname: 'Liebeskind Berlin LS0120 Grain  Botines para Mujer  Gris  36 EU'
 ---
 
 Tienes [Liebeskind Berlin LS0120 Grain  Botines para Mujer  Gris  36 EU](https://www.amazon.es/dp/B01FU9MIZA/?tag=tolees-21) con un 83.95 % de descuento con precio de oferta de 39.97 EUR (original: 249 EUR) en el siguiente enlace!

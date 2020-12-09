@@ -14,7 +14,7 @@ currency: EUR
 price: 18.68
 comparePrice: 40.29 EUR
 inStock: true
-prodname: find. Botines Chelsea Hombre  Marrón  Brown Brown   40 EU
+prodname: 'find. Botines Chelsea Hombre  Marrón  Brown Brown   40 EU'
 ---
 
 Ahora mismo tienes [find. Botines Chelsea Hombre  Marrón  Brown Brown   40 EU](https://www.amazon.es/dp/B07FGKRXMV/?tag=tolees-21) a 18.68 EUR (original: 40.29 EUR) (53.64 %  de descuento) en el siguiente enlace!

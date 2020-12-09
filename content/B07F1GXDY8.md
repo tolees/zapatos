@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Havaianas You Metallic  Chanclas para Mujer  Rosa  Rose Nude 7939   35/36 EU
+prodname: 'Havaianas You Metallic  Chanclas para Mujer  Rosa  Rose Nude 7939   35/36 EU'
 ---
 
 Ahora mismo tienes [Havaianas You Metallic  Chanclas para Mujer  Rosa  Rose Nude 7939   35/36 EU](https://www.amazon.es/dp/B07F1GXDY8/?tag=tolees-21) a 14.95 EUR (original: 29.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

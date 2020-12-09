@@ -14,7 +14,7 @@ currency: EUR
 price: 22.49
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Crocs Bistro  Zuecos Unisex Adulto  Negro  Black   42/43 EU
+prodname: 'Crocs Bistro  Zuecos Unisex Adulto  Negro  Black   42/43 EU'
 ---
 
 Tienes [Crocs Bistro  Zuecos Unisex Adulto  Negro  Black   42/43 EU](https://www.amazon.es/dp/B0014JKJJI/?tag=tolees-21) con un 62.45 % de descuento con precio de oferta de 22.49 EUR (original: 59.9 EUR) en el siguiente enlace!

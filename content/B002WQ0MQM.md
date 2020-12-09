@@ -14,7 +14,7 @@ currency: EUR
 price: 26.31
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Buffalo London 9681-525 Nappa 98586 - Zapatos clásicos de Cuero para Mujer  Color Negro  Talla 39
+prodname: 'Buffalo London 9681-525 Nappa 98586 - Zapatos clásicos de Cuero para Mujer  Color Negro  Talla 39'
 ---
 
 Ahora mismo tienes [Buffalo London 9681-525 Nappa 98586 - Zapatos clásicos de Cuero para Mujer  Color Negro  Talla 39](https://www.amazon.es/dp/B002WQ0MQM/?tag=tolees-21) a 26.31 EUR (original: 99.9 EUR) (73.66 %  de descuento) en el siguiente enlace!

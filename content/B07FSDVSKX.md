@@ -14,7 +14,7 @@ currency: EUR
 price: 23.09
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Rojo  Raspberry   35.5
+prodname: 'Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Rojo  Raspberry   35.5'
 ---
 
 Ahora mismo tienes [Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Rojo  Raspberry   35.5](https://www.amazon.es/dp/B07FSDVSKX/?tag=tolees-21) a 23.09 EUR (original: 99.95 EUR) (76.90 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.21
 comparePrice: 26.95 EUR
 inStock: true
-prodname: Langer & Messmer hormas para zapatos de madera de cedro  para hombre y mujer   incluye calzador pequeño de madera de cedro  perfecto para viajes tamaño 34-50  el original  38/39 EU 
+prodname: 'Langer & Messmer hormas para zapatos de madera de cedro  para hombre y mujer   incluye calzador pequeño de madera de cedro  perfecto para viajes tamaño 34-50  el original  38/39 EU '
 ---
 
 Está [Langer & Messmer hormas para zapatos de madera de cedro  para hombre y mujer   incluye calzador pequeño de madera de cedro  perfecto para viajes tamaño 34-50  el original  38/39 EU ](https://www.amazon.es/dp/B005MYBRQU/?tag=tolees-21) con 25.01 de descuento por 20.21 EUR (original: 26.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.06
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Clarks Desert London  Zapatos de Cordones Derby  Negro  Black Polished Black Polished   35.5 EU
+prodname: 'Clarks Desert London  Zapatos de Cordones Derby  Negro  Black Polished Black Polished   35.5 EU'
 ---
 
 Está [Clarks Desert London  Zapatos de Cordones Derby  Negro  Black Polished Black Polished   35.5 EU](https://www.amazon.es/dp/B07N1HTMC9/?tag=tolees-21) con 82.26 de descuento por 23.06 EUR (original: 130.0 EUR) en el siguiente enlace!

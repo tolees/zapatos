@@ -14,7 +14,7 @@ currency: EUR
 price: 5.69
 comparePrice: 56.99 EUR
 inStock: true
-prodname: Botas de Seguridad para Hombres  LM-861202 S1P SRC Zapatos de Seguridad con Punta de Acero Ligero Antideslizante
+prodname: 'Botas de Seguridad para Hombres  LM-861202 S1P SRC Zapatos de Seguridad con Punta de Acero Ligero Antideslizante'
 ---
 
 Ahora mismo tienes [Botas de Seguridad para Hombres  LM-861202 S1P SRC Zapatos de Seguridad con Punta de Acero Ligero Antideslizante](https://www.amazon.es/dp/B07FXVHZQP/?tag=tolees-21) a 5.69 EUR (original: 56.99 EUR) (90.02 %  de descuento) en el siguiente enlace!

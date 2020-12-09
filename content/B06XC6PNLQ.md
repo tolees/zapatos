@@ -14,7 +14,7 @@ currency: EUR
 price: 70.95
 comparePrice: 140 EUR
 inStock: true
-prodname: Clarks Clarkdale Bud  Botines Hombre  Marrón  Mahogany Leather   44 EU
+prodname: 'Clarks Clarkdale Bud  Botines Hombre  Marrón  Mahogany Leather   44 EU'
 ---
 
 Está [Clarks Clarkdale Bud  Botines Hombre  Marrón  Mahogany Leather   44 EU](https://www.amazon.es/dp/B06XC6PNLQ/?tag=tolees-21) con 49.32 de descuento por 70.95 EUR (original: 140 EUR) en el siguiente enlace!

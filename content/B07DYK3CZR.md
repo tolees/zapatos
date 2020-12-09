@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 25.11 EUR
 inStock: true
-prodname: Quiksilver Shoreline Nubuck  Zapatos de Playa y Piscina para Hombre  Negro Black/Brown Xkkc  39 EU
+prodname: 'Quiksilver Shoreline Nubuck  Zapatos de Playa y Piscina para Hombre  Negro Black/Brown Xkkc  39 EU'
 ---
 
 Tienes [Quiksilver Shoreline Nubuck  Zapatos de Playa y Piscina para Hombre  Negro Black/Brown Xkkc  39 EU](https://www.amazon.es/dp/B07DYK3CZR/?tag=tolees-21) con un 40.46 % de descuento con precio de oferta de 14.95 EUR (original: 25.11 EUR) en el siguiente enlace!

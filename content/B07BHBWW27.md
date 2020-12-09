@@ -14,7 +14,7 @@ currency: EUR
 price: 15.46
 comparePrice: 39.99 EUR
 inStock: true
-prodname: COOLWAY Choco  Zapatos de Cordones Oxford para Mujer  Negro  Blk 000   39 EU
+prodname: 'COOLWAY Choco  Zapatos de Cordones Oxford para Mujer  Negro  Blk 000   39 EU'
 ---
 
 Ahora mismo tienes [COOLWAY Choco  Zapatos de Cordones Oxford para Mujer  Negro  Blk 000   39 EU](https://www.amazon.es/dp/B07BHBWW27/?tag=tolees-21) a 15.46 EUR (original: 39.99 EUR) (61.34 %  de descuento) en el siguiente enlace!

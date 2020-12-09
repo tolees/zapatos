@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Nike Kawa Shower  Zapatos de Playa y Piscina para Hombre  Negro  Black/White   38.5 EU
+prodname: 'Nike Kawa Shower  Zapatos de Playa y Piscina para Hombre  Negro  Black/White   38.5 EU'
 ---
 
 Tienes [Nike Kawa Shower  Zapatos de Playa y Piscina para Hombre  Negro  Black/White   38.5 EU](https://www.amazon.es/dp/B01MXOKY3R/?tag=tolees-21) con un 27.29 % de descuento con precio de oferta de 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

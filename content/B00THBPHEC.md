@@ -14,7 +14,7 @@ currency: EUR
 price: 22.59
 comparePrice: 85.0 EUR
 inStock: true
-prodname: Birkenstock 26183  Sandalia para Mujer  Blanco Perla  36 EU
+prodname: 'Birkenstock 26183  Sandalia para Mujer  Blanco Perla  36 EU'
 ---
 
 Está [Birkenstock 26183  Sandalia para Mujer  Blanco Perla  36 EU](https://www.amazon.es/dp/B00THBPHEC/?tag=tolees-21) con 73.42 de descuento por 22.59 EUR (original: 85.0 EUR) en el siguiente enlace!

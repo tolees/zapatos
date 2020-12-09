@@ -14,7 +14,7 @@ currency: EUR
 price: 99.95
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Panama Jack Panama 03 Igloo  Botines para Hombre  Amarillo  Vintage C10   40 EU
+prodname: 'Panama Jack Panama 03 Igloo  Botines para Hombre  Amarillo  Vintage C10   40 EU'
 ---
 
 Está [Panama Jack Panama 03 Igloo  Botines para Hombre  Amarillo  Vintage C10   40 EU](https://www.amazon.es/dp/B01JRQG7Q8/?tag=tolees-21) con 49.77 de descuento por 99.95 EUR (original: 199.0 EUR) en el siguiente enlace!

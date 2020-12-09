@@ -14,7 +14,7 @@ currency: EUR
 price: 9.98
 comparePrice: 13.99 EUR
 inStock: true
-prodname: KEALIVE Traje de tres piezas  bolsa de zapatos
+prodname: 'KEALIVE Traje de tres piezas  bolsa de zapatos'
 ---
 
 Ahora mismo tienes [KEALIVE Traje de tres piezas  bolsa de zapatos](https://www.amazon.es/dp/B07DXTSQVK/?tag=tolees-21) a 9.98 EUR (original: 13.99 EUR) (28.66 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.24
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Rosa  Candy Pink 6X0   25/26 EU
+prodname: 'Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Rosa  Candy Pink 6X0   25/26 EU'
 ---
 
 Ahora mismo tienes [Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Rosa  Candy Pink 6X0   25/26 EU](https://www.amazon.es/dp/B01HEOI1PK/?tag=tolees-21) a 20.24 EUR (original: 26.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

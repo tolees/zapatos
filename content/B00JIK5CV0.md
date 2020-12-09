@@ -14,7 +14,7 @@ currency: EUR
 price: 12.94
 comparePrice: 45 EUR
 inStock: true
-prodname: US Marshall Dougga - Zapatos para mujer  color noir  talla 35
+prodname: 'US Marshall Dougga - Zapatos para mujer  color noir  talla 35'
 ---
 
 Tienes [US Marshall Dougga - Zapatos para mujer  color noir  talla 35](https://www.amazon.es/dp/B00JIK5CV0/?tag=tolees-21) con un 71.24 % de descuento con precio de oferta de 12.94 EUR (original: 45 EUR) en el siguiente enlace!

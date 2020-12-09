@@ -14,7 +14,7 @@ currency: EUR
 price: 19.42
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Sharon Crystal  Zapatos de Cordones Derby  Beige  Pewter-   35.5 EU
+prodname: 'Clarks Sharon Crystal  Zapatos de Cordones Derby  Beige  Pewter-   35.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Sharon Crystal  Zapatos de Cordones Derby  Beige  Pewter-   35.5 EU](https://www.amazon.es/dp/B07FSK9QFY/?tag=tolees-21) a 19.42 EUR (original: 89.95 EUR) (78.41 %  de descuento) en el siguiente enlace!

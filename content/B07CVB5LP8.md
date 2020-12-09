@@ -14,7 +14,7 @@ currency: EUR
 price: 24.7
 comparePrice: 70 EUR
 inStock: true
-prodname: Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Negro  Black/White/Metallic Silver 003   44/45 EU
+prodname: 'Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Negro  Black/White/Metallic Silver 003   44/45 EU'
 ---
 
 Está [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Negro  Black/White/Metallic Silver 003   44/45 EU](https://www.amazon.es/dp/B07CVB5LP8/?tag=tolees-21) con 64.71 de descuento por 24.7 EUR (original: 70 EUR) en el siguiente enlace!

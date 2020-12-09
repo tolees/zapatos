@@ -14,7 +14,7 @@ currency: EUR
 price: 98.01
 comparePrice: 149.9 EUR
 inStock: true
-prodname: El Naturalista Soft Grain  Botines para Mujer  Gris Plume  36 EU
+prodname: 'El Naturalista Soft Grain  Botines para Mujer  Gris Plume  36 EU'
 ---
 
 Está [El Naturalista Soft Grain  Botines para Mujer  Gris Plume  36 EU](https://www.amazon.es/dp/B07C5PH3LW/?tag=tolees-21) con 34.62 de descuento por 98.01 EUR (original: 149.9 EUR) en el siguiente enlace!

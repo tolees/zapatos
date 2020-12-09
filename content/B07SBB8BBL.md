@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 410   41/42 EU
+prodname: 'Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 410   41/42 EU'
 ---
 
 Está [Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 410   41/42 EU](https://www.amazon.es/dp/B07SBB8BBL/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

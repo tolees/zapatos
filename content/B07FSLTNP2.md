@@ -14,7 +14,7 @@ currency: EUR
 price: 66
 comparePrice: 110 EUR
 inStock: true
-prodname: Clarks Un Karely Sun  Chanclas para Mujer  Negro  Black Nubuck-   37.5 EU
+prodname: 'Clarks Un Karely Sun  Chanclas para Mujer  Negro  Black Nubuck-   37.5 EU'
 ---
 
 Tienes [Clarks Un Karely Sun  Chanclas para Mujer  Negro  Black Nubuck-   37.5 EU](https://www.amazon.es/dp/B07FSLTNP2/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 66 EUR (original: 110 EUR) en el siguiente enlace!

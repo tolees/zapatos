@@ -14,7 +14,7 @@ currency: EUR
 price: 58.24
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre  Marrón  CDB Black Leather   41 EU
+prodname: 'Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre  Marrón  CDB Black Leather   41 EU'
 ---
 
 Tienes [Skechers Delson-Antigo  Zapatos de Cordones Oxford Hombre  Marrón  CDB Black Leather   41 EU](https://www.amazon.es/dp/B07BQZ51PN/?tag=tolees-21) con un 27.15 % de descuento con precio de oferta de 58.24 EUR (original: 79.95 EUR) en el siguiente enlace!

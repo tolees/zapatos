@@ -14,7 +14,7 @@ currency: EUR
 price: 31.5
 comparePrice: 45 EUR
 inStock: true
-prodname: FIND Contrast Panel Zapatos de Cordones Derby  Marrón Brown  41 EU
+prodname: 'FIND Contrast Panel Zapatos de Cordones Derby  Marrón Brown  41 EU'
 ---
 
 Está [FIND Contrast Panel Zapatos de Cordones Derby  Marrón Brown  41 EU](https://www.amazon.es/dp/B07DWG52HP/?tag=tolees-21) con 30.00 de descuento por 31.5 EUR (original: 45 EUR) en el siguiente enlace!

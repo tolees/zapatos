@@ -14,7 +14,7 @@ currency: EUR
 price: 25.59
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Crocs Crocband U  Zuecos Unisex Adulto  Rojo  Pepper   45-46 EU
+prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Rojo  Pepper   45-46 EU'
 ---
 
 Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Rojo  Pepper   45-46 EU](https://www.amazon.es/dp/B01HQAMF04/?tag=tolees-21) a 25.59 EUR (original: 44.99 EUR) (43.12 %  de descuento) en el siguiente enlace!

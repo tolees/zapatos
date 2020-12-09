@@ -14,7 +14,7 @@ currency: EUR
 price: 12.91
 comparePrice: 55.95 EUR
 inStock: true
-prodname: Softline 25461-21  Botines para Mujer  Azul  Navy 805   40 EU
+prodname: 'Softline 25461-21  Botines para Mujer  Azul  Navy 805   40 EU'
 ---
 
 Ahora mismo tienes [Softline 25461-21  Botines para Mujer  Azul  Navy 805   40 EU](https://www.amazon.es/dp/B07BBJZ76L/?tag=tolees-21) a 12.91 EUR (original: 55.95 EUR) (76.93 %  de descuento) en el siguiente enlace!

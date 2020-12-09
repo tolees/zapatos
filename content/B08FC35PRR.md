@@ -14,7 +14,7 @@ currency: EUR
 price: 21.61
 comparePrice: 34.99 EUR
 inStock: true
-prodname: YihakIDS - Zapatos de bebé para niñas  niños y niñas  piel suave  de 0 a 6 meses – 2 años  Gris  Gris Love   21/22 EU
+prodname: 'YihakIDS - Zapatos de bebé para niñas  niños y niñas  piel suave  de 0 a 6 meses – 2 años  Gris  Gris Love   21/22 EU'
 ---
 
 Está [YihakIDS - Zapatos de bebé para niñas  niños y niñas  piel suave  de 0 a 6 meses – 2 años  Gris  Gris Love   21/22 EU](https://www.amazon.es/dp/B08FC35PRR/?tag=tolees-21) con 38.24 de descuento por 21.61 EUR (original: 34.99 EUR) en el siguiente enlace!

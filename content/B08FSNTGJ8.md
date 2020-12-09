@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 54.86 EUR
 inStock: true
-prodname: Dannto Zapatillas de Deporte Hombre Zapatos para Correr Aire Libre y Deporte Athletic Cordones Zapatillas De Running Trail Tenis Basket Respirable Gimnasio Sneakers （Azul 45
+prodname: 'Dannto Zapatillas de Deporte Hombre Zapatos para Correr Aire Libre y Deporte Athletic Cordones Zapatillas De Running Trail Tenis Basket Respirable Gimnasio Sneakers （Azul 45'
 ---
 
 Está [Dannto Zapatillas de Deporte Hombre Zapatos para Correr Aire Libre y Deporte Athletic Cordones Zapatillas De Running Trail Tenis Basket Respirable Gimnasio Sneakers （Azul 45](https://www.amazon.es/dp/B08FSNTGJ8/?tag=tolees-21) con 34.40 de descuento por 35.99 EUR (original: 54.86 EUR) en el siguiente enlace!

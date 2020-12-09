@@ -14,7 +14,7 @@ currency: EUR
 price: 38.35
 comparePrice: 59 EUR
 inStock: true
-prodname: FIND Zapatos T-bar de Tacón Mujer  Plateado  Silver 022   38 EU
+prodname: 'FIND Zapatos T-bar de Tacón Mujer  Plateado  Silver 022   38 EU'
 ---
 
 Está [FIND Zapatos T-bar de Tacón Mujer  Plateado  Silver 022   38 EU](https://www.amazon.es/dp/B078WWGDDP/?tag=tolees-21) con 35.00 de descuento por 38.35 EUR (original: 59 EUR) en el siguiente enlace!

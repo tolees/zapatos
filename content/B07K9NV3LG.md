@@ -14,7 +14,7 @@ currency: EUR
 price: 20.39
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Azul  Cobalto Brillante   38/39 EU
+prodname: 'Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Azul  Cobalto Brillante   38/39 EU'
 ---
 
 Está [Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Azul  Cobalto Brillante   38/39 EU](https://www.amazon.es/dp/B07K9NV3LG/?tag=tolees-21) con 49.01 de descuento por 20.39 EUR (original: 39.99 EUR) en el siguiente enlace!

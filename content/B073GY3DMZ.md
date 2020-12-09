@@ -14,7 +14,7 @@ currency: EUR
 price: 50.11
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Clarks Batcombe Hall Derby - Zapatos de Cordones para Hombre  Negro  Black Leather   42.5 EU
+prodname: 'Clarks Batcombe Hall Derby - Zapatos de Cordones para Hombre  Negro  Black Leather   42.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Batcombe Hall Derby - Zapatos de Cordones para Hombre  Negro  Black Leather   42.5 EU](https://www.amazon.es/dp/B073GY3DMZ/?tag=tolees-21) a 50.11 EUR (original: 110.0 EUR) (54.45 %  de descuento) en el siguiente enlace!

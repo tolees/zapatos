@@ -14,7 +14,7 @@ currency: EUR
 price: 21.33
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Mustang Schnür-Booty  Botines para Mujer  Marfil  Ivory 243   37 EU
+prodname: 'Mustang Schnür-Booty  Botines para Mujer  Marfil  Ivory 243   37 EU'
 ---
 
 Está [Mustang Schnür-Booty  Botines para Mujer  Marfil  Ivory 243   37 EU](https://www.amazon.es/dp/B07DB1GZ9T/?tag=tolees-21) con 69.51 de descuento por 21.33 EUR (original: 69.95 EUR) en el siguiente enlace!

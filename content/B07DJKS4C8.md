@@ -14,7 +14,7 @@ currency: EUR
 price: 20.87
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 35cp308  Botines para Mujer  Marrón  Dunkelbraun 380   40 EU
+prodname: 'Dockers by Gerli 35cp308  Botines para Mujer  Marrón  Dunkelbraun 380   40 EU'
 ---
 
 Tienes [Dockers by Gerli 35cp308  Botines para Mujer  Marrón  Dunkelbraun 380   40 EU](https://www.amazon.es/dp/B07DJKS4C8/?tag=tolees-21) con un 65.19 % de descuento con precio de oferta de 20.87 EUR (original: 59.95 EUR) en el siguiente enlace!

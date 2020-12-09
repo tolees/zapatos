@@ -14,7 +14,7 @@ currency: EUR
 price: 36.13
 comparePrice: 115 EUR
 inStock: true
-prodname: Geox D Prestyn B  Zapatos de Vestir para Mujer  Negro  Black   40 EU
+prodname: 'Geox D Prestyn B  Zapatos de Vestir para Mujer  Negro  Black   40 EU'
 ---
 
 Está [Geox D Prestyn B  Zapatos de Vestir para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06Y1CHSCG/?tag=tolees-21) con 68.58 de descuento por 36.13 EUR (original: 115 EUR) en el siguiente enlace!

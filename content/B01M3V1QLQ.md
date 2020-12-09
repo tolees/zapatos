@@ -14,7 +14,7 @@ currency: EUR
 price: 36.93
 comparePrice: 130 EUR
 inStock: true
-prodname: New Balance W530  Botines para Mujer  Negro  Black/Diva Pink   40 EU
+prodname: 'New Balance W530  Botines para Mujer  Negro  Black/Diva Pink   40 EU'
 ---
 
 Tienes [New Balance W530  Botines para Mujer  Negro  Black/Diva Pink   40 EU](https://www.amazon.es/dp/B01M3V1QLQ/?tag=tolees-21) con un 71.59 % de descuento con precio de oferta de 36.93 EUR (original: 130 EUR) en el siguiente enlace!

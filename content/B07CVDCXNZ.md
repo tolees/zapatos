@@ -14,7 +14,7 @@ currency: EUR
 price: 40.76
 comparePrice: 80 EUR
 inStock: true
-prodname: Under Armour Jet Mid  Zapatos de Baloncesto para Hombre  Negro  Black/Mod Gray/Metallic Silver 003   42.5 EU
+prodname: 'Under Armour Jet Mid  Zapatos de Baloncesto para Hombre  Negro  Black/Mod Gray/Metallic Silver 003   42.5 EU'
 ---
 
 Ahora mismo tienes [Under Armour Jet Mid  Zapatos de Baloncesto para Hombre  Negro  Black/Mod Gray/Metallic Silver 003   42.5 EU](https://www.amazon.es/dp/B07CVDCXNZ/?tag=tolees-21) a 40.76 EUR (original: 80 EUR) (49.05 %  de descuento) en el siguiente enlace!

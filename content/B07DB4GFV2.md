@@ -14,7 +14,7 @@ currency: EUR
 price: 17.28
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Mustang Schnür-Booty  Botines para Niñas  Azul  Navy 820   34 EU
+prodname: 'Mustang Schnür-Booty  Botines para Niñas  Azul  Navy 820   34 EU'
 ---
 
 Tienes [Mustang Schnür-Booty  Botines para Niñas  Azul  Navy 820   34 EU](https://www.amazon.es/dp/B07DB4GFV2/?tag=tolees-21) con un 68.55 % de descuento con precio de oferta de 17.28 EUR (original: 54.95 EUR) en el siguiente enlace!

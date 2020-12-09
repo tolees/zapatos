@@ -14,7 +14,7 @@ currency: EUR
 price: 26.51
 comparePrice: 75.76 EUR
 inStock: true
-prodname: Fangsto - Zapatos Oxfords clásicos de piel de ante para hombre  planos con cordones  color Multicolor  talla 41
+prodname: 'Fangsto - Zapatos Oxfords clásicos de piel de ante para hombre  planos con cordones  color Multicolor  talla 41'
 ---
 
 Ahora mismo tienes [Fangsto - Zapatos Oxfords clásicos de piel de ante para hombre  planos con cordones  color Multicolor  talla 41](https://www.amazon.es/dp/B01HBN75GK/?tag=tolees-21) a 26.51 EUR (original: 75.76 EUR) (65.01 %  de descuento) en el siguiente enlace!

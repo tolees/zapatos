@@ -14,7 +14,7 @@ currency: EUR
 price: 37.32
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Nude-   39 EU
+prodname: 'Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Nude-   39 EU'
 ---
 
 Tienes [Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Nude-   39 EU](https://www.amazon.es/dp/B07FQYVLGF/?tag=tolees-21) con un 58.51 % de descuento con precio de oferta de 37.32 EUR (original: 89.95 EUR) en el siguiente enlace!

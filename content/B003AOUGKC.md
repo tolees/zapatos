@@ -14,7 +14,7 @@ currency: EUR
 price: 7.95
 comparePrice: 17.9 EUR
 inStock: true
-prodname: Havaianas Top  Chanclas Unisex Adulto  Amarillo  Citrus Yellow   35/36 EU
+prodname: 'Havaianas Top  Chanclas Unisex Adulto  Amarillo  Citrus Yellow   35/36 EU'
 ---
 
 Ahora mismo tienes [Havaianas Top  Chanclas Unisex Adulto  Amarillo  Citrus Yellow   35/36 EU](https://www.amazon.es/dp/B003AOUGKC/?tag=tolees-21) a 7.95 EUR (original: 17.9 EUR) (55.59 %  de descuento) en el siguiente enlace!

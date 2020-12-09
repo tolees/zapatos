@@ -14,7 +14,7 @@ currency: EUR
 price: 23.08
 comparePrice: 35.99 EUR
 inStock: true
-prodname: MTNG Collection 51086  Sandalia con Pulsera para Mujer   Antil Negro C35442   37 EU
+prodname: 'MTNG Collection 51086  Sandalia con Pulsera para Mujer   Antil Negro C35442   37 EU'
 ---
 
 Ahora mismo tienes [MTNG Collection 51086  Sandalia con Pulsera para Mujer   Antil Negro C35442   37 EU](https://www.amazon.es/dp/B07M8GDVRP/?tag=tolees-21) a 23.08 EUR (original: 35.99 EUR) (35.87 %  de descuento) en el siguiente enlace!

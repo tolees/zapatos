@@ -14,7 +14,7 @@ currency: EUR
 price: 18.38
 comparePrice: 34.24 EUR
 inStock: true
-prodname: Reef Voyage TX  Chanclas para Hombre   Brown/Olive Bov   46 EU
+prodname: 'Reef Voyage TX  Chanclas para Hombre   Brown/Olive Bov   46 EU'
 ---
 
 Ahora mismo tienes [Reef Voyage TX  Chanclas para Hombre   Brown/Olive Bov   46 EU](https://www.amazon.es/dp/B072MPXHJF/?tag=tolees-21) a 18.38 EUR (original: 34.24 EUR) (46.32 %  de descuento) en el siguiente enlace!

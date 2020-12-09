@@ -14,7 +14,7 @@ currency: EUR
 price: 51.95
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Tilden Plain  Zapatos Derby para Hombre  Negro  Black Leather   39 1/2 EU
+prodname: 'Clarks Tilden Plain  Zapatos Derby para Hombre  Negro  Black Leather   39 1/2 EU'
 ---
 
 Está [Clarks Tilden Plain  Zapatos Derby para Hombre  Negro  Black Leather   39 1/2 EU](https://www.amazon.es/dp/B00TTJH9T8/?tag=tolees-21) con 35.02 de descuento por 51.95 EUR (original: 79.95 EUR) en el siguiente enlace!

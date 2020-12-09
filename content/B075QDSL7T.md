@@ -14,7 +14,7 @@ currency: EUR
 price: 20.56
 comparePrice: 55 EUR
 inStock: true
-prodname: TRUTH & FABLE Zapatos de Dama de Honor Mujer  Dorado  Gold   36 EU
+prodname: 'TRUTH & FABLE Zapatos de Dama de Honor Mujer  Dorado  Gold   36 EU'
 ---
 
 Tienes [TRUTH & FABLE Zapatos de Dama de Honor Mujer  Dorado  Gold   36 EU](https://www.amazon.es/dp/B075QDSL7T/?tag=tolees-21) con un 62.62 % de descuento con precio de oferta de 20.56 EUR (original: 55 EUR) en el siguiente enlace!

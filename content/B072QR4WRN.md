@@ -14,7 +14,7 @@ currency: EUR
 price: 16.77
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Skechers You Define  Chanclas para Mujer  Negro  Black/White BKW   37 EU
+prodname: 'Skechers You Define  Chanclas para Mujer  Negro  Black/White BKW   37 EU'
 ---
 
 Ahora mismo tienes [Skechers You Define  Chanclas para Mujer  Negro  Black/White BKW   37 EU](https://www.amazon.es/dp/B072QR4WRN/?tag=tolees-21) a 16.77 EUR (original: 44.95 EUR) (62.69 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.4
 comparePrice: 24.3 EUR
 inStock: true
-prodname: Havaianas Top  Chanclas para Unisex Adulto  Blanco  White   25/26 EU  23/24 Brazilian 
+prodname: 'Havaianas Top  Chanclas para Unisex Adulto  Blanco  White   25/26 EU  23/24 Brazilian '
 ---
 
 Está [Havaianas Top  Chanclas para Unisex Adulto  Blanco  White   25/26 EU  23/24 Brazilian ](https://www.amazon.es/dp/B004UIZIGO/?tag=tolees-21) con 53.09 de descuento por 11.4 EUR (original: 24.3 EUR) en el siguiente enlace!

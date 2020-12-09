@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 55.7 EUR
 inStock: true
-prodname: LARNMERN - Zapatilla Baja de Sintético Hombre  Color Verde  Talla 41 EU
+prodname: 'LARNMERN - Zapatilla Baja de Sintético Hombre  Color Verde  Talla 41 EU'
 ---
 
 Ahora mismo tienes [LARNMERN - Zapatilla Baja de Sintético Hombre  Color Verde  Talla 41 EU](https://www.amazon.es/dp/B07PMMG7VH/?tag=tolees-21) a 30.99 EUR (original: 55.7 EUR) (44.36 %  de descuento) en el siguiente enlace!

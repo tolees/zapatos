@@ -14,7 +14,7 @@ currency: EUR
 price: 65.79
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox U Mansel A  Zapatilla Baja para Hombre  Beige  Sand   43 EU
+prodname: 'Geox U Mansel A  Zapatilla Baja para Hombre  Beige  Sand   43 EU'
 ---
 
 Ahora mismo tienes [Geox U Mansel A  Zapatilla Baja para Hombre  Beige  Sand   43 EU](https://www.amazon.es/dp/B076HS1YKC/?tag=tolees-21) a 65.79 EUR (original: 99.9 EUR) (34.14 %  de descuento) en el siguiente enlace!

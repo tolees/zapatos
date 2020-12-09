@@ -14,7 +14,7 @@ currency: EUR
 price: 25.92
 comparePrice: 74.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Color Block Ballerina  Zapatos de Tacón para Mujer  Azul  Twilight Navy C87   39 EU
+prodname: 'Tommy Hilfiger Color Block Ballerina  Zapatos de Tacón para Mujer  Azul  Twilight Navy C87   39 EU'
 ---
 
 Tienes [Tommy Hilfiger Color Block Ballerina  Zapatos de Tacón para Mujer  Azul  Twilight Navy C87   39 EU](https://www.amazon.es/dp/B07V8VD5PM/?tag=tolees-21) con un 65.39 % de descuento con precio de oferta de 25.92 EUR (original: 74.9 EUR) en el siguiente enlace!

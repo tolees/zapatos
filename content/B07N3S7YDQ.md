@@ -14,7 +14,7 @@ currency: EUR
 price: 20.95
 comparePrice: 30 EUR
 inStock: true
-prodname: Gaatpot Unisex Niños Sandalias con Punta Cerrada Niña Niño Zapatos Sandalias de Vestir en Cuero Zapatillas Verano Amarillo 26 EU/26 CN
+prodname: 'Gaatpot Unisex Niños Sandalias con Punta Cerrada Niña Niño Zapatos Sandalias de Vestir en Cuero Zapatillas Verano Amarillo 26 EU/26 CN'
 ---
 
 Ahora mismo tienes [Gaatpot Unisex Niños Sandalias con Punta Cerrada Niña Niño Zapatos Sandalias de Vestir en Cuero Zapatillas Verano Amarillo 26 EU/26 CN](https://www.amazon.es/dp/B07N3S7YDQ/?tag=tolees-21) a 20.95 EUR (original: 30 EUR) (30.17 %  de descuento) en el siguiente enlace!

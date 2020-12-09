@@ -14,7 +14,7 @@ currency: EUR
 price: 47.97
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Becken Cap  Zapatos de Cordones Derby Hombre  Marrón  Tan Leather-   42 EU
+prodname: 'Clarks Becken Cap  Zapatos de Cordones Derby Hombre  Marrón  Tan Leather-   42 EU'
 ---
 
 Ahora mismo tienes [Clarks Becken Cap  Zapatos de Cordones Derby Hombre  Marrón  Tan Leather-   42 EU](https://www.amazon.es/dp/B07DNFF1HC/?tag=tolees-21) a 47.97 EUR (original: 79.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

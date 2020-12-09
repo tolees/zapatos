@@ -14,7 +14,7 @@ currency: EUR
 price: 14.67
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Crocs Classic Clog Kids  Zuecos Unisex Niños  Rojo  Pepper   25/26 EU
+prodname: 'Crocs Classic Clog Kids  Zuecos Unisex Niños  Rojo  Pepper   25/26 EU'
 ---
 
 Tienes [Crocs Classic Clog Kids  Zuecos Unisex Niños  Rojo  Pepper   25/26 EU](https://www.amazon.es/dp/B01HEXGM0C/?tag=tolees-21) con un 45.65 % de descuento con precio de oferta de 14.67 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Crocs Literide Clog  Zuecos Unisex Adulto  Azul  Navy/Pepper   43/44 EU
+prodname: 'Crocs Literide Clog  Zuecos Unisex Adulto  Azul  Navy/Pepper   43/44 EU'
 ---
 
 Ahora mismo tienes [Crocs Literide Clog  Zuecos Unisex Adulto  Azul  Navy/Pepper   43/44 EU](https://www.amazon.es/dp/B07HHRJ2MB/?tag=tolees-21) a 32.99 EUR (original: 54.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

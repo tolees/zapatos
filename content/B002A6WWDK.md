@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 25.9 EUR
 inStock: true
-prodname: Havaianas Slim  Chanclas para Mujer  Oro  SandGrey/Light Golden   33/34 EU
+prodname: 'Havaianas Slim  Chanclas para Mujer  Oro  SandGrey/Light Golden   33/34 EU'
 ---
 
 Tienes [Havaianas Slim  Chanclas para Mujer  Oro  SandGrey/Light Golden   33/34 EU](https://www.amazon.es/dp/B002A6WWDK/?tag=tolees-21) con un 65.44 % de descuento con precio de oferta de 8.95 EUR (original: 25.9 EUR) en el siguiente enlace!

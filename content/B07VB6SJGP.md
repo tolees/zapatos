@@ -14,7 +14,7 @@ currency: EUR
 price: 27.58
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Cotrell Lane 261486517  Zapatos de Cordones Derby Hombre  Marrón  Tan Combi Lea Tan Combi Lea   44.5 EU
+prodname: 'Clarks Cotrell Lane 261486517  Zapatos de Cordones Derby Hombre  Marrón  Tan Combi Lea Tan Combi Lea   44.5 EU'
 ---
 
 Tienes [Clarks Cotrell Lane 261486517  Zapatos de Cordones Derby Hombre  Marrón  Tan Combi Lea Tan Combi Lea   44.5 EU](https://www.amazon.es/dp/B07VB6SJGP/?tag=tolees-21) con un 65.50 % de descuento con precio de oferta de 27.58 EUR (original: 79.95 EUR) en el siguiente enlace!

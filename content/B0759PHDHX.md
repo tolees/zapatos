@@ -14,7 +14,7 @@ currency: EUR
 price: 79.61
 comparePrice: 110 EUR
 inStock: true
-prodname: Clarks Orson Bay  Zapatos de Cordones Derby para Hombre  Gris  Grey Nubuck-   42 EU
+prodname: 'Clarks Orson Bay  Zapatos de Cordones Derby para Hombre  Gris  Grey Nubuck-   42 EU'
 ---
 
 Ahora mismo tienes [Clarks Orson Bay  Zapatos de Cordones Derby para Hombre  Gris  Grey Nubuck-   42 EU](https://www.amazon.es/dp/B0759PHDHX/?tag=tolees-21) a 79.61 EUR (original: 110 EUR) (27.63 %  de descuento) en el siguiente enlace!

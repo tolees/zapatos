@@ -14,7 +14,7 @@ currency: EUR
 price: 31.68
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Ronnie Walk  Zapatos de Cordones Derby  Piel Negra  40 EU
+prodname: 'Clarks Ronnie Walk  Zapatos de Cordones Derby  Piel Negra  40 EU'
 ---
 
 Tienes [Clarks Ronnie Walk  Zapatos de Cordones Derby  Piel Negra  40 EU](https://www.amazon.es/dp/B07MJ7FXPM/?tag=tolees-21) con un 68.30 % de descuento con precio de oferta de 31.68 EUR (original: 99.95 EUR) en el siguiente enlace!

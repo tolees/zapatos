@@ -14,7 +14,7 @@ currency: EUR
 price: 31.16
 comparePrice: 49.95 EUR
 inStock: true
-prodname: REFRESH - Zapatilla Casual para Mujer - Cierre con Cordones - Color Negro - Talla 36
+prodname: 'REFRESH - Zapatilla Casual para Mujer - Cierre con Cordones - Color Negro - Talla 36'
 ---
 
 Ahora mismo tienes [REFRESH - Zapatilla Casual para Mujer - Cierre con Cordones - Color Negro - Talla 36](https://www.amazon.es/dp/B08CVB7ZCP/?tag=tolees-21) a 31.16 EUR (original: 49.95 EUR) (37.62 %  de descuento) en el siguiente enlace!

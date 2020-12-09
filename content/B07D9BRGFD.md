@@ -14,7 +14,7 @@ currency: EUR
 price: 13.85
 comparePrice: 65.95 EUR
 inStock: true
-prodname: Marco Tozzi 26298-21  Botines para Mujer  Marrón  Tobacco Comb 465   37 EU
+prodname: 'Marco Tozzi 26298-21  Botines para Mujer  Marrón  Tobacco Comb 465   37 EU'
 ---
 
 Tienes [Marco Tozzi 26298-21  Botines para Mujer  Marrón  Tobacco Comb 465   37 EU](https://www.amazon.es/dp/B07D9BRGFD/?tag=tolees-21) con un 79.00 % de descuento con precio de oferta de 13.85 EUR (original: 65.95 EUR) en el siguiente enlace!

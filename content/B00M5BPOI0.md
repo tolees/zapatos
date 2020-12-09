@@ -14,7 +14,7 @@ currency: EUR
 price: 35.19
 comparePrice: 89.74 EUR
 inStock: true
-prodname: Nike Air MAX Infuriate 2 Mid  Zapatos de Baloncesto para Hombre  Negro  Aa7066/002   41 EU
+prodname: 'Nike Air MAX Infuriate 2 Mid  Zapatos de Baloncesto para Hombre  Negro  Aa7066/002   41 EU'
 ---
 
 Tienes [Nike Air MAX Infuriate 2 Mid  Zapatos de Baloncesto para Hombre  Negro  Aa7066/002   41 EU](https://www.amazon.es/dp/B00M5BPOI0/?tag=tolees-21) con un 60.79 % de descuento con precio de oferta de 35.19 EUR (original: 89.74 EUR) en el siguiente enlace!
