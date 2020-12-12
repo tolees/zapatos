@@ -25,8 +25,8 @@ Tienes [KEENPACE Sandalias Deportivas Hombre Piel de Punta Cerrada Caminar Liger
 ℹ️:
 
 - La plantilla acolchada proporciona una buena amortiguación y comodidad – para senderismo al aire libre, senderismo, caminar y mochileros.
-- Tallas: comprueba nuestra tabla de tallas en las imágenes, si tienes alguna duda, escribe las "preguntas y respuestas" a continuación para obtener nuestros servicios.
 - Suela de goma duradera que proporciona un gran agarre en el suelo, proporciona una mejor resistencia al deslizamiento.
+- Tallas: comprueba nuestra tabla de tallas en las imágenes, si tienes alguna duda, escribe las "preguntas y respuestas" a continuación para obtener nuestros servicios.
 - El diseño de puntera abierta puede garantizar que haya suficiente espacio para expandirse y contraerse durante el camino, una mejor flexibilidad.
 - Parte superior de malla y cuero en un estilo de sandalia de pescador al aire libre, transpirable, de secado rápido y cómodo.
 
