@@ -28,12 +28,12 @@ Ahora mismo tienes [Havaianas Top  Chanclas Unisex Adulto  Marrón  Dark Brown  
 
 Características:
 
+- Revestimiento: Sin forro
+- Composición: Goma
+- Material de la suela: Goma
+- Cierre: Sin cordones
 - Material exterior: Goma
 - Tipo de tacón: Plano
-- Material de la suela: Goma
-- Revestimiento: Sin forro
-- Cierre: Sin cordones
-- Composición: Goma
 
 [Visítala!!!](https://www.amazon.es/dp/B000YKIXM8/?tag=tolees-21)
 
