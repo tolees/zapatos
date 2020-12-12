@@ -32,8 +32,8 @@ Características:
 - Composición: Goma
 - Material de la suela: Goma
 - Cierre: Sin cordones
-- Material exterior: Goma
 - Tipo de tacón: Plano
+- Material exterior: Goma
 
 [Visítala!!!](https://www.amazon.es/dp/B000YKIXM8/?tag=tolees-21)
 
