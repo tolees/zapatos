@@ -25,7 +25,7 @@ Ahora mismo tienes [find. Botines de Tacón para Mujer  Negro  Black   41 EU](ht
 🔎:
 
 - Diseño con puntera
-- Tacón alto y fino
 - Caña alta con elástico
+- Tacón alto y fino
 
 [Visítala!!!](https://www.amazon.es/dp/B073QRLRL4/?tag=tolees-21)
