@@ -1,5 +1,5 @@
 baseURL = "https://zapatos.tole.es"
-title = "Últimas ofertas"
+title = "Últimas ofertas en calzado"
 theme = "portfolio"
 languageCode = "es-es"
 # Enable comments by entering your Disqus shortname
