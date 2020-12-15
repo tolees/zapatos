@@ -25,10 +25,10 @@ Ahora mismo tienes [Geox U Nebula B - Zapatos para hombre  Negro  41 EU](https:/
 
 🔎:
 
-- Cierre: Sin cordones
 - Revestimiento: Malla
-- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Tipo de tacón: Plano
+- Cierre: Sin cordones
 - Material de la suela: EVA
 
 [Visítala!!!](https://www.amazon.es/dp/B00KWK2ICG/?tag=tolees-21)
