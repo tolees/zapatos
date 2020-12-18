@@ -25,10 +25,10 @@ Está [Geox U NEBULA B - zapatilla deportiva de cuero hombre  Azul  NAVYC4002   
 
 ℹ️:
 
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
-- Material exterior: Sintético
 - Material de la suela: EVA
+- Tipo de tacón: Plano
 - Revestimiento: Malla
+- Cierre: Sin cordones
+- Material exterior: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00QRCGJQ4/?tag=tolees-21)
