@@ -25,8 +25,8 @@ Ahora mismo tienes [Clarks Garratt Street  Zapatos de Cordones Derby Hombre  Mar
 
 🔎:
 
-- plano.
-- Interior: textil.
 - Exterior: piel.
+- Interior: textil.
+- plano.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TPYMV1D/?tag=tolees-21)
