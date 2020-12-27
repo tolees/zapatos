@@ -25,13 +25,13 @@ En este momento está [Crocs Bistro  Zuecos Unisex Adulto  Negro  Black   36/37 
 
 🔎:
 
+- Revestimiento: Sintético
+- Tipo de talla: talla estándar
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Cierre: Sin cordones
 - Composición: Sintético
 - Anchura del zapato: Regular
 - Material exterior: Espuma
-- Cierre: Sin cordones
-- Tipo de talla: talla estándar
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
 
 [Aquí!!!](https://www.amazon.es/dp/B0010T3UUC/?tag=tolees-21)
