@@ -25,8 +25,8 @@ En este momento está [Asics Gel-Nimbus 22  Zapatos para Correr Hombre  Directoi
 
 🔎:
 
+- SPEVA-Duración
 - FLYTEFOAM Tecnología de amortiguación
 - GEL Tecnología de Acolchado
-- SPEVA-Duración
 
 [Aquí!!!](https://www.amazon.es/dp/B0823JPC8Z/?tag=tolees-21)
