@@ -25,9 +25,9 @@ Está [Nike Court Vision Mid  Zapatilla de Baloncesto Hombre  Blanco  42.5 EU](h
 
 ℹ️:
 
-- Brand: NIKE
 - Modello: CD5466
-- Articolo: Scarpe
 - Stagione: Autunno/Inverno
+- Articolo: Scarpe
+- Brand: NIKE
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RDMBBK1/?tag=tolees-21)
