@@ -26,7 +26,7 @@ En este momento está [Clarks Foxwell Hall  Zapatos de Cordones Derby  Beige  Da
 🔎:
 
 - Material interior: sin forro.
-- Exterior: piel.
 - plano.
+- Exterior: piel.
 
 [Aquí!!!](https://www.amazon.es/dp/B07TMRMTD3/?tag=tolees-21)
