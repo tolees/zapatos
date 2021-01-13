@@ -25,13 +25,13 @@ Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Negro  Black   36-37
 
 🔎:
 
-- Tipo de tacón: Plano
-- Altura del tacón: 1 centímetro
+- Cierre: Sin cordones
 - Composición: Sintético
+- Tipo de tacón: Plano
 - Revestimiento: Sintético
-- Material de la suela: Goma
 - Tipo de talla: talla estándar
 - Material exterior: Espuma
-- Cierre: Sin cordones
+- Material de la suela: Goma
+- Altura del tacón: 1 centímetro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSSPG/?tag=tolees-21)
