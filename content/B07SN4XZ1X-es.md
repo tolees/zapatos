@@ -25,9 +25,9 @@ Está [Havaianas Top Vibes  Chanclas para Mujer  Multicolor  Turquoise 0212   37
 
 ℹ️:
 
-- Ancho de calzado: estrecho.
+- Suela: goma.
 - Cierre: sin cierre.
 - Resistente al agua
-- Suela: goma.
+- Ancho de calzado: estrecho.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SN4XZ1X/?tag=tolees-21)
