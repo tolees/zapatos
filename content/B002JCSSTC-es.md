@@ -25,10 +25,10 @@ Ahora mismo tienes [Crocs Crocband Unisex  Zuecos Adulto  Negro  43/44 EU](https
 
 🔎:
 
-- Material exterior: Espuma
 - Material de la suela: Goma
 - Revestimiento: Sintético
-- Cierre: Sin cordones
 - Altura del tacón: 1.5 pulgadas
+- Cierre: Sin cordones
+- Material exterior: Espuma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSSTC/?tag=tolees-21)
