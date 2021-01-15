@@ -25,10 +25,10 @@ En este momento está [Geox Uomo Carnaby D  Zapatos de Cuero con Cordones para H
 
 🔎:
 
-- Hochwertiges Leder ist strapazierfähig und langlebig
 - Komfortable Innensohle
+- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
 - Anlass: Business
 - Der U Carnaby D für Herren von Geox ist ein atmungsaktiver Schnür-Halbschuh für Beruf und Alltag.
-- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
+- Hochwertiges Leder ist strapazierfähig und langlebig
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00OJZJU3K/?tag=tolees-21)
