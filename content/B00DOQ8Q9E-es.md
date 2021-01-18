@@ -25,9 +25,9 @@ Tienes [NIKE Benassi JDI  Chanclas Unisex Adulto  Azul  Midnight Navy/Windchill 
 
 🔎:
 
+- Plantilla con botones finos, correas acolchadas
+- Material interno textil
 - Suela de caucho con dibujo de tracción en espiga
 - Parte superior de imitación cuero
-- Material interno textil
-- Plantilla con botones finos, correas acolchadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DOQ8Q9E/?tag=tolees-21)
