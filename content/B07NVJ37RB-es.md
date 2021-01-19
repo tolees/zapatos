@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVJ37RB-es Zapatillas de Estar por Casa Ultraligera de Hombre y Mujer...'
-tags: [ 'tole.es','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5
