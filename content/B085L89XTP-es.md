@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085L89XTP-es MoneRffi Mujeres Sandalias Planas Sandalias Casuales...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

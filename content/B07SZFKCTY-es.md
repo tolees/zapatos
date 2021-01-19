@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZFKCTY-es Nike Benassi Sandalia de Diapositivas para Hombre Hierro...'
-tags: sandalia
+tags: tole.es, sandalia
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

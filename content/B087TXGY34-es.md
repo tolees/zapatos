@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TXGY34-es VulusValas Mujer Comodo Clip Toe Plano Corcho Sandalias...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076TGHZBD-es Skechers 51874 Sandalia con Pulsera para Hombre Negro...'
-tags: sandalia
+tags: tole.es, sandalia
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

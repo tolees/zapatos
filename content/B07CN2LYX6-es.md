@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN2LYX6-es gracosy Sandalias Cuero Verano Mujer Estilo Bohemia...'
-tags: chanclas, zapatos
+tags: tole.es, chanclas, zapatos
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMMJUBK-es Geox U Dublin B Zapatos de Vestir para Hombre Negro...'
-tags: zapatos
+tags: tole.es, zapatos
 actualPrice: 61.27 EUR
 currency: EUR
 price: 61.27
