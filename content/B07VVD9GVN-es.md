@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVD9GVN-es PIKOLINOS Sandalia Plana de Piel MARAZUL W3F'
-tags: tole.es, sandalia
+tags: [ 'tole.es','sandalia', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744BRSJQ-es gracosy Alpargatas Zapatos de Mujer Caminando Zapatillas...'
-tags: tole.es, zapatos
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

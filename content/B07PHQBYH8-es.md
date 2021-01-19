@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHQBYH8-es Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex Tira...'
-tags: tole.es, sandalia
+tags: [ 'tole.es','sandalia', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

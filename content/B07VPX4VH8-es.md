@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPX4VH8-es bugatti 431881826950 Sandalia con Pulsera para Mujer Braun...'
-tags: tole.es, sandalia
+tags: [ 'tole.es','sandalia', ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

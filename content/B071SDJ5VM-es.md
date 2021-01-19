@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071SDJ5VM-es GEOX U740HA-022ME-C9997 DAMIAN Zapatilla de hombre color...'
-tags: tole.es, zapatilla
+tags: [ 'tole.es','zapatilla', ]
 actualPrice: 37.16 EUR
 currency: EUR
 price: 37.16

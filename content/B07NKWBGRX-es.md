@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKWBGRX-es Sandalias Niño con Plantillas de Trekking Senderismo...'
-tags: tole.es, zapatos
+tags: [ 'tole.es','zapatos', ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39
