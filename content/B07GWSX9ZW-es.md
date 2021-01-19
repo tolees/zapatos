@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418cxp1CKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWSX9ZW-es'
+slug: 'B07GWSX9ZW-es SAGUARO Otoño Invierno Zapatillas Interior Casa Caliente...'
+tags: zapatos, zapatilla
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

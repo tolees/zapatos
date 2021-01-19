@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kG+1JAvhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPDF78S-es'
+slug: 'B07NPDF78S-es Mocasines de Cuero Mujer Casual Zapatos de Conducción Moda...'
+tags: zapatos
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

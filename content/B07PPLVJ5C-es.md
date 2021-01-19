@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sk2bPFnoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPLVJ5C-es'
+slug: 'B07PPLVJ5C-es Zapatos de Trabajo Muy cómodos para Trabajos de hostelería...'
+tags: zapatos
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

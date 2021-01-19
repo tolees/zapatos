@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U4hetV5OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKK39LY-es'
+slug: 'B07HKK39LY-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
+tags: zapatos
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

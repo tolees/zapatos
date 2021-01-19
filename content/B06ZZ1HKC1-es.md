@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EN-sVJ5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZ1HKC1-es'
+slug: 'B06ZZ1HKC1-es Miunana 5x Vestidos de noche + 10 Zapatos Vestir de Fiesta...'
+tags: zapatos
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

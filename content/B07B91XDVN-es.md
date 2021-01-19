@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319MkUOhlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B91XDVN-es'
+slug: 'B07B91XDVN-es Clarks Dalia Rose Zapatos de Tacón para Mujer Negro Black...'
+tags: zapatos
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

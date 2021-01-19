@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Era5N5TVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D8Q6CYW-es'
+slug: 'B08D8Q6CYW-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre...'
+tags: zapatos
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

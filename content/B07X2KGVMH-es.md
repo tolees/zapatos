@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hN+-D6XWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2KGVMH-es'
+slug: 'B07X2KGVMH-es Zapatos Invierno Mujer Botas de Nieve Forradas Calientes...'
+tags: botines, zapatos
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

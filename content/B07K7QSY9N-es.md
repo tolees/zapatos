@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414rzxd6WNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7QSY9N-es'
+slug: 'B07K7QSY9N-es Columbia WAYFINDER Outdry Zapatos Multideporte para Mujer...'
+tags: zapatos
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

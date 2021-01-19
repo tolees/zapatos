@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fDBfNIY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E42CRA6-es'
+slug: 'B00E42CRA6-es Timberland Bradstreet Ox Zapatos de Cordones Oxford para...'
+tags: zapatos
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MsTn57y3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8WRMM-es'
+slug: 'B07CN8WRMM-es Crocs Classic II Slide Zapatos de Playa y Piscina Unisex...'
+tags: zapatos
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

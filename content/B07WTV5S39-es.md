@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kJa-396jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTV5S39-es'
+slug: 'B07WTV5S39-es Botas de Invierno para Niños Zapatillas de Senderismo...'
+tags: zapatos
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

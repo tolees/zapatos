@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qFjxvo68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0755CVLZY-es'
+slug: 'B0755CVLZY-es Vicloon Organizador de Equipaje 8 en 1 Set de...'
+tags: zapatos
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

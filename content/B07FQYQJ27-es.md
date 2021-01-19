@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hQny2tkeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQYQJ27-es'
+slug: 'B07FQYQJ27-es Clarks Oakland Lace Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

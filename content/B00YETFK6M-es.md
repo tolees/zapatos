@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EwM3-syCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YETFK6M-es'
+slug: 'B00YETFK6M-es Biomecanics 151157 Zapatos de primeros pasos Unisex Bebés...'
+tags: zapatos
 actualPrice: 41.34 EUR
 currency: EUR
 price: 41.34

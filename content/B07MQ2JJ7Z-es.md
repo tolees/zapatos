@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a0md3qbQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2JJ7Z-es'
+slug: 'B07MQ2JJ7Z-es Clarks Bampton Wing Zapatos de Cordones Brogue para Hombre...'
+tags: zapatos
 actualPrice: 26.03 EUR
 currency: EUR
 price: 26.03

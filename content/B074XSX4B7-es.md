@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HuSqLgn5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074XSX4B7-es'
+slug: 'B074XSX4B7-es APALUS Bolsa Desodorante para Zapatos Bolsa De Carbón...'
+tags: zapatos
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

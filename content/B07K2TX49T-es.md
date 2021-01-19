@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qAuor7LJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2TX49T-es'
+slug: 'B07K2TX49T-es Adidas Adilette Aqua Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41350xmKQ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDZ4G4N-es'
+slug: 'B07YDZ4G4N-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
+tags: zapatilla
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

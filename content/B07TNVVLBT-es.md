@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YzjyRNZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVVLBT-es'
+slug: 'B07TNVVLBT-es Clarks Atticus Lace Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

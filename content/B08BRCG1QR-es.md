@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tPwhKYbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BRCG1QR-es'
+slug: 'B08BRCG1QR-es FUSHITON Hombre Zapatillas Casual Calzado Deportivo Moda...'
+tags: zapatos
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

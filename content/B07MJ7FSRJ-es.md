@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ7FSRJ-es'
+slug: 'B07MJ7FSRJ-es Clarks Un Larvik Lace Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

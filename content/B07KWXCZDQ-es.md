@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xd2dFA+XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWXCZDQ-es'
+slug: 'B07KWXCZDQ-es SMARTEN Air Zapatillas de Running Hombre Mujer Calzado...'
+tags: zapatos
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

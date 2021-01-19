@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413mezLQL6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GP36XCR-es'
+slug: 'B07GP36XCR-es Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory...'
+tags: zapatos
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

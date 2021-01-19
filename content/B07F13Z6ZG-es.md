@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i6WY9aErL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F13Z6ZG-es'
+slug: 'B07F13Z6ZG-es Havaianas Brasil Logo Chanclas Unisex niños Amarillo...'
+tags: chanclas
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

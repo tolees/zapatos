@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SOUukfsSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDGTBP2-es'
+slug: 'B07DDGTBP2-es Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Vela...'
+tags: zapatos
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

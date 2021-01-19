@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5120khSoYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899JPMST-es'
+slug: 'B0899JPMST-es Zapatos de Seguridad para Mujer Zapatillas Zapatos de...'
+tags: zapatos
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

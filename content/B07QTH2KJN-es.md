@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yqh8Yl2XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTH2KJN-es'
+slug: 'B07QTH2KJN-es Organizador de equipaje de viaje 7 piezas impermeables...'
+tags: zapatos
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

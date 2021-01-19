@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wbJe14ufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPX4VH8-es'
+slug: 'B07VPX4VH8-es bugatti 431881826950 Sandalia con Pulsera para Mujer Braun...'
+tags: sandalia
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

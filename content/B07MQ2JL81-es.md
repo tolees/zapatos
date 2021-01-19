@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317gmAJeYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2JL81-es'
+slug: 'B07MQ2JL81-es Clarks Cotrell Stride Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 38.87 EUR
 currency: EUR
 price: 38.87

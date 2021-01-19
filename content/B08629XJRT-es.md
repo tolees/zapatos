@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iFI71POPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08629XJRT-es'
+slug: 'B08629XJRT-es Fiween Zapatos de Color Beige de plástico de Alta talón...'
+tags: zapatos
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

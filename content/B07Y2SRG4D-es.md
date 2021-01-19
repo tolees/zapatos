@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B8QOZsyGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2SRG4D-es'
+slug: 'B07Y2SRG4D-es Botines Impermeables Hombre Mujer Botas de Nieve Botines...'
+tags: botines, zapatos
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

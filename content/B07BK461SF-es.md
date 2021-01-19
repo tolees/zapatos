@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516t8sO50tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK461SF-es'
+slug: 'B07BK461SF-es Portátil bolsas de zapatos de viaje multifuncional oxford...'
+tags: zapatos
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

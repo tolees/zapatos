@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xokot9KWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT2WNQH-es'
+slug: 'B06XT2WNQH-es Izas Sandalia Tena'
+tags: sandalia
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

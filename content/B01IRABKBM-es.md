@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AwwlGViwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IRABKBM-es'
+slug: 'B01IRABKBM-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
+tags: zapatos
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

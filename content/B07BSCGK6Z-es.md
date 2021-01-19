@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y8s2-4oJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSCGK6Z-es'
+slug: 'B07BSCGK6Z-es gracosy Zapatos de Cuero de tacón bajo de Mujer Merceditas...'
+tags: zapatos
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

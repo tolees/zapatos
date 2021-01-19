@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JSbarI5gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKGDGFM-es'
+slug: 'B07HKGDGFM-es Under Armour UA Lockdown 4 Zapatos de Baloncesto para...'
+tags: zapatos
 actualPrice: 48.28 EUR
 currency: EUR
 price: 48.28

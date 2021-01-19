@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PGSULO2UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHW9L2M-es'
+slug: 'B07JHW9L2M-es Columbia WAYFINDER Mid Outdry Zapatos de montaña para...'
+tags: zapatos
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

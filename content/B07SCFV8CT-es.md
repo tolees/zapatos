@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n7obddpwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCFV8CT-es'
+slug: 'B07SCFV8CT-es Crocs Classic Glitter Clog Kids Zuecos Unisex Niños Rosa...'
+tags: zuecos
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

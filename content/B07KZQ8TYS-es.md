@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513qtZt88eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZQ8TYS-es'
+slug: 'B07KZQ8TYS-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
+tags: zapatos
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-7GXEOwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGRQL2Y-es'
+slug: 'B07PGRQL2Y-es alvorog Perchero con Zapatero Perchero Metálico de Pie...'
+tags: zapatos
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

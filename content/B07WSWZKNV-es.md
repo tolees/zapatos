@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41miOpe7mzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSWZKNV-es'
+slug: 'B07WSWZKNV-es Deevike Pantuflas Zapatillas Hombre Invierno CáLido...'
+tags: zapatos
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

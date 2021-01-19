@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DaXDE+X5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN9BVHM-es'
+slug: 'B07GN9BVHM-es Zapatillas de Estar por Casa para Niñas Niños Invierno...'
+tags: zapatilla
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

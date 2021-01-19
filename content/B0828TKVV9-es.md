@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BJtfjHuXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828TKVV9-es'
+slug: 'B0828TKVV9-es Plantillas calentadas calentadores de pies plantillas de...'
+tags: zapatos
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412UOLgJ8zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C6XTSGF-es'
+slug: 'B07C6XTSGF-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
+tags: zapatos
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

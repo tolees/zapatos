@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313ER0Tm2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR6FCST-es'
+slug: 'B07FR6FCST-es Clarks Edward Plain Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 27.31 EUR
 currency: EUR
 price: 27.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412eirxhRGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854PWVNV-es'
+slug: 'B0854PWVNV-es XTI Sandalia BAS034304 para Mujer Blanco 38'
+tags: sandalia
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

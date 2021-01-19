@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OCp0JonyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK7NH13-es'
+slug: 'B07QK7NH13-es MTNG Collection 58673 Botines para Mujer Marrón Karma...'
+tags: botines
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

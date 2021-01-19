@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sqD9v5wVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZC67N-es'
+slug: 'B07LFZC67N-es Geox D BIBBIANA A Zapatos de Tacón para Mujer Negro Black...'
+tags: zapatos
 actualPrice: 65.98 EUR
 currency: EUR
 price: 65.98

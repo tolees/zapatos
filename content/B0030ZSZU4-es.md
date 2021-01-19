@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GHOTItKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030ZSZU4-es'
+slug: 'B0030ZSZU4-es adidas Duramo Slide Chanclas Unisex Adulto Negro...'
+tags: chanclas
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

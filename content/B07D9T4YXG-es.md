@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U0GqPWVfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9T4YXG-es'
+slug: 'B07D9T4YXG-es Jack Wolfskin Vojo Hike 2 Texapore Mid W Wasserdicht...'
+tags: zapatos
 actualPrice: 52.94 EUR
 currency: EUR
 price: 52.94

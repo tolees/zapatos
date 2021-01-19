@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412yBrOOF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JXZ6H7-es'
+slug: 'B086JXZ6H7-es XTI Sandalia BAS034250 para Mujer Negro 38'
+tags: sandalia
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

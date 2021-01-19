@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B2QoKdHNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKS4PG4-es'
+slug: 'B07TKS4PG4-es Clarks Jillian Rise Sandalia con Pulsera para Mujer...'
+tags: sandalia
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414iT7snAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYSZJQ1-es'
+slug: 'B07MYSZJQ1-es Zapatillas de Deporte Blanco para Las niñas Harpia Zapatos...'
+tags: zapatos
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

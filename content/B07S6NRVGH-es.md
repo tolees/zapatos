@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21kko7sKeZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NRVGH-es'
+slug: 'B07S6NRVGH-es PUMA Epic Flip V2 Amplified Zapatos de Playa y Piscina...'
+tags: zapatos
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

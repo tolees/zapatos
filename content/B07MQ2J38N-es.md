@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ek--XQaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2J38N-es'
+slug: 'B07MQ2J38N-es Clarks Ronnie Walk Zapatos de Cordones Derby Marrón...'
+tags: zapatos
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

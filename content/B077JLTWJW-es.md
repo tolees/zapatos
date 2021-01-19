@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wPjv95ujL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077JLTWJW-es'
+slug: 'B077JLTWJW-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
+tags: zapatos
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

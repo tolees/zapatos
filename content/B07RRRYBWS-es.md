@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K+2Nb5CJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRRYBWS-es'
+slug: 'B07RRRYBWS-es Sandalias para Mujer Verano 2019 Plataforma Cuña...'
+tags: zapatos
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

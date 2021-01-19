@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JSqygC2KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDY23CH-es'
+slug: 'B07PDY23CH-es LoveOlvidoE 1: 6 Mujer Mujer Soldado Simulación Stiletto...'
+tags: zapatos
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

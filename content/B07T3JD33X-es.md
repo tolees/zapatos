@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H1Q6kB1wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3JD33X-es'
+slug: 'B07T3JD33X-es LARNMERN Zapatos de Seguridad para Hombre con Puntera de...'
+tags: zapatos
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

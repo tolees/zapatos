@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xMCuvLgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR4MKK3-es'
+slug: 'B07SR4MKK3-es LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres...'
+tags: zapatos
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ua6T7NZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXR2NWD-es'
+slug: 'B07FXR2NWD-es Havaianas Slim Crystal Glamour SW Chanclas para Mujer...'
+tags: chanclas
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jb1XgiozL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RC4MPC-es'
+slug: 'B087RC4MPC-es ELEEMEE Mujer Moda Sandalias Tacón Alto Correa de Tobillo...'
+tags: zapatos
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

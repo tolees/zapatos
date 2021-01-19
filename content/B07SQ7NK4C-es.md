@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-xMCuvLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ7NK4C-es'
+slug: 'B07SQ7NK4C-es Zapatillas de Hombre - Zapatos Casuales de Paseo Moda...'
+tags: zapatos
 actualPrice: 25.66 EUR
 currency: EUR
 price: 25.66

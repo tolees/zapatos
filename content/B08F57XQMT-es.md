@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rHitkwwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F57XQMT-es'
+slug: 'B08F57XQMT-es Zapatillas de Seguridad Hombres Zapatos de Trabajo con...'
+tags: zapatos
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kXKibnoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074JJWHDG-es'
+slug: 'B074JJWHDG-es Skechers Desert Kiss 31440 Sandalia con Pulsera para Mujer...'
+tags: sandalia
 actualPrice: 30.08 EUR
 currency: EUR
 price: 30.08

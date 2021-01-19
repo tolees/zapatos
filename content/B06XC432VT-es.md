@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aZgto7OmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC432VT-es'
+slug: 'B06XC432VT-es Clarks Tilden Walk Zapatos de Cordones Derby Marrón Dark...'
+tags: zapatos
 actualPrice: 46.26 EUR
 currency: EUR
 price: 46.26

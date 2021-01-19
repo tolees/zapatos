@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rW8h0ZfEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRW7N8M-es'
+slug: 'B08CRW7N8M-es DYKHMILY Zapatillas de Seguridad Hombre Ligeras Comodo...'
+tags: zapatos
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

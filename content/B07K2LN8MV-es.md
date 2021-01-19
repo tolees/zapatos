@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T1yHex2PL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LN8MV-es'
+slug: 'B07K2LN8MV-es Under Armour UA HOVR Havoc 2 Zapatos de Baloncesto para...'
+tags: zapatos
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

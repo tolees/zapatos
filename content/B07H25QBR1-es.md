@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tQvApcRVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H25QBR1-es'
+slug: 'B07H25QBR1-es Hombre Invierno Botines Botas de Nieve Cálido Aire Libre...'
+tags: botines, zapatos
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

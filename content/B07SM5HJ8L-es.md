@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UF4gysdkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM5HJ8L-es'
+slug: 'B07SM5HJ8L-es Zapatos de Seguridad para Hombre con Puntera de Acero...'
+tags: zapatos
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

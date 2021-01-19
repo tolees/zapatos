@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YiiQoFlAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087MBBD35-es'
+slug: 'B087MBBD35-es Ucayali Zapatos de Seguridad Hombre Trabajo Verano...'
+tags: zapatos
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

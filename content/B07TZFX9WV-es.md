@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4192vLm5E1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZFX9WV-es'
+slug: 'B07TZFX9WV-es Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos...'
+tags: zapatos
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

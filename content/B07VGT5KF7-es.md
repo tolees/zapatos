@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WALPVyg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGT5KF7-es'
+slug: 'B07VGT5KF7-es Havaianas Slim Frozen Chanclas Chica Multicolor Crystal...'
+tags: chanclas
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hYkf7YNLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C94BCCR-es'
+slug: 'B07C94BCCR-es Columbia Ruckel Ridge Plus Waterproof Zapatos Impermeables...'
+tags: zapatos
 actualPrice: 98.96 EUR
 currency: EUR
 price: 98.96

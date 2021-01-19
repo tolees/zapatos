@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51veVCROVDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AIMNFFG-es'
+slug: 'B01AIMNFFG-es Relaxdays – Zapatero Compuesto de estructuras de Acero...'
+tags: zapatos
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lWM5pdRML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNJLDC9-es'
+slug: 'B07QNJLDC9-es Zapatos para Correr Deportes en Montaña Asfalto Zapatillas...'
+tags: zapatos
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UF5LhBsNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ4LYZL-es'
+slug: 'B07SJ4LYZL-es amzdeal - 30pcs Organizadores de Zapatos Ajustables...'
+tags: zapatos
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

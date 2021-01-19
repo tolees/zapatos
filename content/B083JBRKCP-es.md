@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Up-isfqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JBRKCP-es'
+slug: 'B083JBRKCP-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano...'
+tags: zapatos
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ss1Iz3OfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D7RR4D-es'
+slug: 'B088D7RR4D-es HuiHang Mujer Cuero Confort Peep Toe Sandalias Plataforma...'
+tags: zapatos
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tv5JPW+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0875YVRVG-es'
+slug: 'B0875YVRVG-es Sandalias Mujer Verano Cuña Cómodos Mules Zuecos Casual...'
+tags: zapatos, zuecos
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

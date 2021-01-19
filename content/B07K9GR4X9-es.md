@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DLjeV9jEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9GR4X9-es'
+slug: 'B07K9GR4X9-es 【Vuelta al Colegio】 REYLEO Organizador de Equipaje...'
+tags: zapatos
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

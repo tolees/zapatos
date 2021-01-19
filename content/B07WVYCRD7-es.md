@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XKJeRx4zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVYCRD7-es'
+slug: 'B07WVYCRD7-es Hombres Sandalias Senderismo Verano Zapatillas Trekking...'
+tags: zapatos
 actualPrice: 20.34 EUR
 currency: EUR
 price: 20.34

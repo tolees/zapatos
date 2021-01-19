@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+RZ+TLiBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WV2HHH-es'
+slug: 'B078WV2HHH-es Quiksilver Molokai-Flip-Flops For Men Zapatos de Playa y...'
+tags: zapatos
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

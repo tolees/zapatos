@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y6uTFSUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876ZHYLX-es'
+slug: 'B0876ZHYLX-es ELEEMEE Mujer Elegant sin Cordones Zapatos con Lazos Tacón...'
+tags: zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

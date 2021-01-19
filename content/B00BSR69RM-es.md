@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BSR69RM-es'
+slug: 'B00BSR69RM-es Geox 43c9999 J Agata C Zapatos de Vestir para Niñas Negro...'
+tags: zapatos
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

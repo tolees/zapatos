@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416nvQSSRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJP4L2G-es'
+slug: 'B07TJP4L2G-es Clarks Alice Flame Zapatos de Tacón para Mujer Azul Blush...'
+tags: zapatos
 actualPrice: 22.71 EUR
 currency: EUR
 price: 22.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AcxQuGS2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9N76BL-es'
+slug: 'B07K9N76BL-es Crocs Classic Clog K Zuecos Unisex Niños Rosa Pink...'
+tags: zuecos
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

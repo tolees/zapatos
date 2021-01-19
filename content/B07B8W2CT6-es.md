@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rY+yEsaML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8W2CT6-es'
+slug: 'B07B8W2CT6-es Clarks Vargo Plain Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

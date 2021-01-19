@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZKmK54V2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BMMJUBK-es'
+slug: 'B00BMMJUBK-es Geox U Dublin B Zapatos de Vestir para Hombre Negro...'
+tags: zapatos
 actualPrice: 61.27 EUR
 currency: EUR
 price: 61.27

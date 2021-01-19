@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RtXyMiF+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8B84TJ-es'
+slug: 'B07S8B84TJ-es Sandalias Mujer Verano 2019 con Plataforma Damas Moda...'
+tags: zapatos
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

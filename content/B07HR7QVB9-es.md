@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51b3sd41cxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HR7QVB9-es'
+slug: 'B07HR7QVB9-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
+tags: botines, zapatos
 actualPrice: 29.65 EUR
 currency: EUR
 price: 29.65

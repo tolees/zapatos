@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wBdE1tDdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083M86RBN-es'
+slug: 'B083M86RBN-es LuckyGirls Chic Sandalias Mujer Verano 2020 Fiesta Planas...'
+tags: chanclas, zapatos
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

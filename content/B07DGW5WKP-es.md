@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bDnBvwhUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGW5WKP-es'
+slug: 'B07DGW5WKP-es Biwat Plantillas de Zapatos con Tacón Alto T-forma...'
+tags: zapatos
 actualPrice: 4.86 EUR
 currency: EUR
 price: 4.86

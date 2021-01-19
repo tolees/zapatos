@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fKck3U9vL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR7V2FV-es'
+slug: 'B07FR7V2FV-es Clarks Batcombe Hall Derby - Zapatos de Cordones para...'
+tags: zapatos
 actualPrice: 67.28 EUR
 currency: EUR
 price: 67.28

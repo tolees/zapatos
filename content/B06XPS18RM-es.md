@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oEUHn1jzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPS18RM-es'
+slug: 'B06XPS18RM-es Calzado Deportivo Masculino de Seguridad con Puntera...'
+tags: zapatos
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

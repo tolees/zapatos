@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413S-w3h5ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHQ5P6X-es'
+slug: 'B07NHQ5P6X-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Negro Leo...'
+tags: zapatos
 actualPrice: 16.11 EUR
 currency: EUR
 price: 16.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GVbRkv2AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH193DX-es'
+slug: 'B07QH193DX-es MTNG Collection 58027 Botines para Mujer Marrón Vintage...'
+tags: botines
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xyoXesW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTDRDC-es'
+slug: 'B07SWTDRDC-es Geox D Borealis A Sandalia con Pulsera para Mujer Azul...'
+tags: sandalia
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

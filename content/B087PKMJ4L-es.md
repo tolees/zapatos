@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vzKXnto6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PKMJ4L-es'
+slug: 'B087PKMJ4L-es Gracemee Mujer Moda Stiletto Heels Zapatos Ponerse Basic...'
+tags: zapatos
 actualPrice: 45.6 EUR
 currency: EUR
 price: 45.6

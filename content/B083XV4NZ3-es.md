@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QGwjsHiqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XV4NZ3-es'
+slug: 'B083XV4NZ3-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable...'
+tags: zapatos, zuecos, sandalia
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k-cW8T3RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TM43Q1V-es'
+slug: 'B07TM43Q1V-es Zapatos de Seguridad para Hombre Mujer con Puntera de...'
+tags: zapatos
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

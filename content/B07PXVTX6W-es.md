@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gnq09hxeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXVTX6W-es'
+slug: 'B07PXVTX6W-es rismart Mujer Cuña Plataforma Botín Elegante Deportivos...'
+tags: zapatos
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

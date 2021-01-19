@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yjVkRhaNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1K6YJ5-es'
+slug: 'B07X1K6YJ5-es Mishansha Zapatillas Invierno Hombre Casa Zapatos...'
+tags: zapatos
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413X8dTFK2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV4LS6T-es'
+slug: 'B07TV4LS6T-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
+tags: zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG18M4S-es'
+slug: 'B07LG18M4S-es Geox D New ANNYA Mid A Zapatos con Tacón para Mujer Negro...'
+tags: zapatos
 actualPrice: 68.76 EUR
 currency: EUR
 price: 68.76

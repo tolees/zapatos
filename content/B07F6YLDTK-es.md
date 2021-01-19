@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Gaxdm-nxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6YLDTK-es'
+slug: 'B07F6YLDTK-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Azul...'
+tags: zapatos
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

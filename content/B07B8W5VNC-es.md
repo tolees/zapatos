@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rY+yEsaML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8W5VNC-es'
+slug: 'B07B8W5VNC-es Clarks Vargo Plain Zapatos de Cordones Derby Marrón Dark...'
+tags: zapatos
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

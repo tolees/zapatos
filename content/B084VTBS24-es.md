@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WpkfstqWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VTBS24-es'
+slug: 'B084VTBS24-es Zapatos para Mujer Tacon Alto Aguja Primavera 2020 Sexy...'
+tags: zapatos
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

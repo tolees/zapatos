@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hreg9jIzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876FLM2D-es'
+slug: 'B0876FLM2D-es NIGHT CHERRY Mujer Moda Tacón Ancho Verano Sandalias...'
+tags: zapatos
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

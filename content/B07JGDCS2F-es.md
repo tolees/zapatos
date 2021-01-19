@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4136DOZuaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGDCS2F-es'
+slug: 'B07JGDCS2F-es Columbia WAYFINDER Outdry Zapatos Multideporte para Hombre...'
+tags: zapatos
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99
