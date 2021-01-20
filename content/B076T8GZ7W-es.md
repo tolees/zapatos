@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076T8GZ7W-es Skechers 51874 Sandalia con Pulsera para Hombre Negro...'
+sku: 'B076T8GZ7W-es'
 tags: [ 'sandalia', ]
 actualPrice: 35.95 EUR
 currency: EUR

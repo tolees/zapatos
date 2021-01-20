@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8R1ZZ6-es MTNG Collection 51089 Sandalia con Pulsera para Mujer...'
+sku: 'B07M8R1ZZ6-es'
 tags: [ 'sandalia', ]
 actualPrice: 10.86 EUR
 currency: EUR

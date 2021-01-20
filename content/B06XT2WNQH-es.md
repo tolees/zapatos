@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XT2WNQH-es Izas Sandalia Tena'
+sku: 'B06XT2WNQH-es'
 tags: [ 'sandalia', ]
 actualPrice: 27.99 EUR
 currency: EUR

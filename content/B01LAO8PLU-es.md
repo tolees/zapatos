@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAO8PLU-es Pikolinos Sandalia Mykonos para Mujer'
+sku: 'B01LAO8PLU-es'
 tags: [ 'sandalia', ]
 actualPrice: 42.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086JXZ6H7-es XTI Sandalia BAS034250 para Mujer Negro 38'
+sku: 'B086JXZ6H7-es'
 tags: [ 'sandalia', ]
 actualPrice: 19.95 EUR
 currency: EUR

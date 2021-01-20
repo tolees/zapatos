@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07932GTPM-es Clarks Brixby Shore Sandalia con Pulsera para Hombre...'
+sku: 'B07932GTPM-es'
 tags: [ 'sandalia', ]
 actualPrice: 54.73 EUR
 currency: EUR
