@@ -26,8 +26,8 @@ Tienes [Crocs Crocband Flip  Chanclas Unisex-Adult  Black  37/38](https://www.am
 
 🔎:
 
-- Chanclas Tiempo libre y sportwear Mujer
-- Crocband Flip W (206100)
 - Calzado crocs
+- Crocband Flip W (206100)
+- Chanclas Tiempo libre y sportwear Mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S854HZL/?tag=tolees-21)
