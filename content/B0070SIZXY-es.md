@@ -27,13 +27,13 @@ Tienes [Timberland Stormbucks Plain Toe  Zapatos de Cordones Oxford Hombre  Negr
 
 ℹ️:
 
-- Tacón 2 centímetros
-- Adecuado para: hombre
-- Color: negro
-- Material exterior: cuero
-- Talla: 42 EU (Talla de fabricante: 8.5 M US)
-- Material de la suela: goma
-- Cierre: cordones
 - Precio mínimo en los 30 días previos a la oferta: 76.95€
+- Color: negro
+- Material de la suela: goma
+- Talla: 42 EU (Talla de fabricante: 8.5 M US)
+- Tacón 2 centímetros
+- Cierre: cordones
+- Adecuado para: hombre
+- Material exterior: cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0070SIZXY/?tag=tolees-21)
