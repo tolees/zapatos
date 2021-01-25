@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Benassi JDI  Chanclas Unisex Adulto al 26.80 % de rebaja'
-date: 2021-01-20 21:16:34
+date: 2021-01-25 10:15:42
 image: 'https://m.media-amazon.com/images/I/31U0jPWuj0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,9 +27,9 @@ Tienes [NIKE Benassi JDI  Chanclas Unisex Adulto  Negro Negro 001  46 EU](https:
 
 🔎:
 
-- Material interno textil
 - Suela de caucho con dibujo de tracción en espiga
 - Parte superior de imitación cuero
 - Plantilla con botones finos, correas acolchadas
+- Material interno textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00B3Z2TB4/?tag=tolees-21)
