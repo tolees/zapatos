@@ -28,13 +28,13 @@ En este momento está [Havaianas Brasil Logo  Chanclas Unisex Adulto  Verde  Oli
 🔎:
 
 - Revestimiento: Sin forro
-- Composición: Goma
-- Cierre: Sin cordones
-- Material exterior: Goma
 - Altura del tacón: 2 centímetros
-- Tipo de tacón: Plano
-- Anchura del zapato: Normal
+- Composición: Goma
+- Material exterior: Goma
 - Material de la suela: Goma
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - 45/46 EU (43/44 Brazilian)
+- Cierre: Sin cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FYBXZZ3/?tag=tolees-21)
