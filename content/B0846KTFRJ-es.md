@@ -27,10 +27,10 @@ Está [Tommy Hilfiger Indra 1b1  Zapatos para Mujer  Azul  39 EU](https://www.am
 
 ℹ️:
 
-- Tipologia: DONNA
-- Articolo: DECOLLETE
-- Colore: BLU NAVY
 - Modello: FW0FW05143
+- Tipologia: DONNA
 - Brand: TOMMY HILFIGER
+- Colore: BLU NAVY
+- Articolo: DECOLLETE
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0846KTFRJ/?tag=tolees-21)
