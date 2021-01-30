@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers 51874   Sandalia con Pulsera para Hombre  Negro  Black   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076T8GZ7W/?tag=tolees-21'
 descuento: '20.02'
 average: '35.95'

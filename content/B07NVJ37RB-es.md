@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Zapatillas de Estar por Casa Ultraligera de Hombre y Mujer  Tira Ancha  Sandalia Tipo Chancla con función de Masaje Verano  Morado Claro  Masajear el talón   38/39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVJ37RB/?tag=tolees-21'
 descuento: '23.64'
 average: '16.744999999999997'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Jillian Rise  Sandalia con Pulsera para Mujer  Plateado  Pewter Metallic Pewter Metallic   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKS4PG4/?tag=tolees-21'
 descuento: '20.84'
 average: '71.2'

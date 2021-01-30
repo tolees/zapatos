@@ -16,6 +16,7 @@ comparePrice: 20.71 EUR
 prodname: 'bugatti 431881826950  Sandalia con Pulsera para Mujer  Braun Mid Brown Sand 6453-Secador de Pelo  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPX4VH8/?tag=tolees-21'
 descuento: '20.86'
 average: '16.39'

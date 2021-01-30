@@ -16,6 +16,7 @@ comparePrice: 12.94 EUR
 prodname: 'MTNG Collection 51089  Sandalia con Pulsera para Mujer   Nobuck Negro/Metalizado Silver C45347   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8R1ZZ6/?tag=tolees-21'
 descuento: '16.07'
 average: '10.86'

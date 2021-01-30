@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Izas Sandalia Tena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XT2WNQH/?tag=tolees-21'
 descuento: '20.01'
 average: '26.526666666666667'

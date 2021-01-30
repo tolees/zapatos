@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'XTI Sandalia BAS034250 para Mujer Negro 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JXZ6H7/?tag=tolees-21'
 descuento: '20.04'
 average: '19.95'

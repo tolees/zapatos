@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'XTI Sandalia BAS034304 para Mujer Blanco 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854PWVNV/?tag=tolees-21'
 descuento: '20.03'
 average: '23.95'
