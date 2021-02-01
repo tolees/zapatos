@@ -28,11 +28,11 @@ Ahora mismo tienes [Geox D LEELU  B  Zapatos de Cordones Brogue  Dorado  Gold C2
 
 🔎:
 
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Cierre: Cordones
-- Revestimiento: Cuero
 - Tipo de tacón: Plano
 - Material de la suela: Sintético
+- Revestimiento: Cuero
 - Material exterior: Cuero
+- Cierre: Cordones
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWV2FVT/?tag=tolees-21)
