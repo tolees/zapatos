@@ -29,9 +29,9 @@ Tienes [Columbia Canyon Point Mid  Zapatos de Senderismo Impermeables Mujer  Mar
 ℹ️:
 
 - Material de la suela: Caucho
+- Material exterior: Cuero
 - Cierre: Cordones
 - Revestimiento: Malla
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CW75FJM/?tag=tolees-21)
