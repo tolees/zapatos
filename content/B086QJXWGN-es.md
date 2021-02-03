@@ -29,9 +29,9 @@ Está [MTNG 58712 Botines de Mujer Negro](https://www.amazon.es/dp/B086QJXWGN/?t
 ℹ️:
 
 - Altura Tacón Alto (de 5 A 9 cm)
-- Material de la suela Sintética
+- Tipo de cierre Elástico
 - Tipo de tacón Plano
 - Material principal Sintetico
-- Tipo de cierre Elástico
+- Material de la suela Sintética
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086QJXWGN/?tag=tolees-21)
