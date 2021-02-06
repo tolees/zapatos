@@ -28,10 +28,10 @@ Está [DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet de Danza Baile
 
 ℹ️:
 
-- Revestimiento: Tela
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
-- Material de la suela: Cuero
 - Material exterior: Lona
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material de la suela: Cuero
+- Cierre: Sin cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071LNLGPD/?tag=tolees-21)
