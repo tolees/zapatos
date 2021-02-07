@@ -28,10 +28,10 @@ Está [Skechers 51874   Sandalia con Pulsera Hombre  Negro  Black   42 EU](https
 
 ℹ️:
 
-- Forro: Tela
-- Talón: 2,5 Cm De Altura única
-- Suela: Goma
 - Corte: Sintético/textil
+- Talón: 2,5 Cm De Altura única
 - Fijación: Cinta De Rip
+- Forro: Tela
+- Suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076TVLLZF/?tag=tolees-21)
