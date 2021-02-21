@@ -2,7 +2,7 @@
 layout: post
 title: 'XTI Sandalia BAS034250 para Mujer Negro  al 20.04 % de descuento'
 date: 2020-07-21 10:45:05
-image: 'https://m.media-amazon.com/images/I/412yBrOOF1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412yBrOOF1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Ahora mismo tienes [XTI Sandalia BAS034250 para Mujer Negro 38](https://www.amazon.es/dp/B086JXZ6H7/?tag=tolees-21) a 19.95 EUR (original: 24.95 EUR) (20.04 %  de descuento) en el siguiente enlace!
 
-[![XTI Sandalia BAS034250 para Mujer Negro ](https://m.media-amazon.com/images/I/412yBrOOF1L._SL200_.jpg)](https://www.amazon.es/dp/B086JXZ6H7/?tag=tolees-21)
+[![XTI Sandalia BAS034250 para Mujer Negro ](https://m.media-amazon.com/images/I/412yBrOOF1L._SL400_.jpg)](https://www.amazon.es/dp/B086JXZ6H7/?tag=tolees-21)
 
 🔎:
 
