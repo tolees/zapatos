@@ -28,12 +28,12 @@ Está [Crocs Classic Clog K  Zuecos Unisex Niños  Pepper  30/31 EU](https://www
 
 ℹ️:
 
+- Revestimiento: Sin forro
 - Composición: Espuma
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
 - Material exterior: Espuma
 - Material de la suela: EVA
+- Anchura del zapato: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEXGGSU/?tag=tolees-21)
