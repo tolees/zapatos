@@ -28,10 +28,10 @@ Ahora mismo tienes [Levi s Mendocino l  Chanclas Hombre  Azul  Navy Blue 17 ](ht
 
 🔎:
 
+- Tiras de sujeción en tela tejana
+- Chanclas esclavas Levis
 - Suela de goma de 1.5 cm.
 - Logo en la planta
 - Perfectas para el verano
-- Chanclas esclavas Levis
-- Tiras de sujeción en tela tejana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SH1TWL7/?tag=tolees-21)
