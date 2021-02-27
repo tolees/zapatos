@@ -28,9 +28,9 @@ Está [Birkenstock Gizeh BS  Chanclas para Mujer  Blanco  Blanc Blanc   36 EU](h
 
 ℹ️:
 
-- Material de la suela: EVA
-- Birkenstock
 - Cierre: Hebilla
+- Birkenstock
+- Material de la suela: EVA
 - Revestimiento: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076SQGPGQ/?tag=tolees-21)
