@@ -28,12 +28,12 @@ Está [Crocs Classic Clog K  Zuecos Unisex Niños  Black  22/23 EU](https://www.
 
 ℹ️:
 
-- Material exterior: Espuma
-- Revestimiento: Sin forro
-- Composición: Espuma
-- Cierre: Sin cordones
-- Material de la suela: EVA
-- Tipo de tacón: Plano
 - Anchura del zapato: Normal
+- Revestimiento: Sin forro
+- Material de la suela: EVA
+- Composición: Espuma
+- Material exterior: Espuma
+- Cierre: Sin cordones
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEXGDZ6/?tag=tolees-21)
