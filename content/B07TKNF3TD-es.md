@@ -28,10 +28,10 @@ En este momento está [Clarks Stanford Walk  Zapatos de Cordones Derby  Negro  B
 
 🔎:
 
-- Suela: Tr
 - Ancho: G (estándar)
-- Parte Superior: Cuero
-- Forro: Textil
 - Fijación: Encaje
+- Forro: Textil
+- Parte Superior: Cuero
+- Suela: Tr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TKNF3TD/?tag=tolees-21)
