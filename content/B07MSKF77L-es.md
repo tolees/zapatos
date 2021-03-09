@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Marr�
 
 🔎:
 
-- Lining: Textile
-- Fit: (G) Standard
 - Sole: EVA
+- Lining: Textile
 - Uppers: Leather
+- Fit: (G) Standard
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MSKF77L/?tag=tolees-21)
