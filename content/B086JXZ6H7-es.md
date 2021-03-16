@@ -5,7 +5,7 @@ date: 2020-07-21 10:45:05
 image: 'https://m.media-amazon.com/images/I/412yBrOOF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JXZ6H7-es XTI Sandalia BAS034250 para Mujer Negro 38'
 sku: 'B086JXZ6H7-es'
 tags: [ 'sandalia', ]

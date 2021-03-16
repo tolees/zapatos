@@ -5,7 +5,7 @@ date: 2021-01-17 07:22:18
 image: 'https://m.media-amazon.com/images/I/41ozdA6o9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q7EV71E-es Columbia Peakfreak Venture Zapatos impermeables para...'
 sku: 'B00Q7EV71E-es'
 tags: [ 'zapatos', ]
@@ -28,13 +28,13 @@ Está [Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black
 
 ℹ️:
 
-- Revestimiento: Sintético
+- Material de la suela: Caucho
 - Altura del tacón: 1 centímetros
 - Tipo de tacón: Plano
-- Composición: Cuero/Malla
-- Anchura del zapato: Normal
-- Material exterior: Cuero
-- Material de la suela: Caucho
 - Cierre: Cordones
+- Material exterior: Cuero
+- Composición: Cuero/Malla
+- Revestimiento: Sintético
+- Anchura del zapato: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q7EV71E/?tag=tolees-21)

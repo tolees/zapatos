@@ -5,7 +5,7 @@ date: 2020-07-21 09:47:52
 image: 'https://m.media-amazon.com/images/I/412eirxhRGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854PWVNV-es XTI Sandalia BAS034304 para Mujer Blanco 38'
 sku: 'B0854PWVNV-es'
 tags: [ 'sandalia', ]

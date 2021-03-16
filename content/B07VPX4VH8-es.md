@@ -5,7 +5,7 @@ date: 2020-09-23 09:51:04
 image: 'https://m.media-amazon.com/images/I/41wbJe14ufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPX4VH8-es bugatti 431881826950 Sandalia con Pulsera para Mujer Braun...'
 sku: 'B07VPX4VH8-es'
 tags: [ 'sandalia', ]

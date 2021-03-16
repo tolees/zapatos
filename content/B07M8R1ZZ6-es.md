@@ -5,7 +5,7 @@ date: 2020-02-27 11:43:10
 image: 'https://m.media-amazon.com/images/I/317CJYqHaHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8R1ZZ6-es MTNG Collection 51089 Sandalia con Pulsera para Mujer...'
 sku: 'B07M8R1ZZ6-es'
 tags: [ 'sandalia', ]

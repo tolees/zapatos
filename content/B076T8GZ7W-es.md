@@ -5,7 +5,7 @@ date: 2020-07-03 17:12:52
 image: 'https://m.media-amazon.com/images/I/31hZ6OmN7kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076T8GZ7W-es Skechers 51874 Sandalia con Pulsera para Hombre Negro...'
 sku: 'B076T8GZ7W-es'
 tags: [ 'sandalia', ]
