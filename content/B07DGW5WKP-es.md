@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGW5WKP-es Biwat Plantillas de Zapatos con Tacón Alto T-forma...'
 sku: 'B07DGW5WKP-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 4.86 EUR
 currency: EUR
 price: 4.86

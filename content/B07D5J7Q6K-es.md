@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5J7Q6K-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
 sku: 'B07D5J7Q6K-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

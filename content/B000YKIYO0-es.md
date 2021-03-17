@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000YKIYO0-es Havaianas Brasil Chanclas Unisex Adulto Blanco Brasil...'
 sku: 'B000YKIYO0-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4P1C4W-es Art Bergen Botines para Mujer Verde Forest Forest 39 EU'
 sku: 'B07P4P1C4W-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ4LYZL-es amzdeal - 30pcs Organizadores de Zapatos Ajustables...'
 sku: 'B07SJ4LYZL-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GUXJJ4Y-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Zapatos...'
 sku: 'B00GUXJJ4Y-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

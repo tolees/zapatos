@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMP2H8H-es find. Leather Round Toe Block Heel Court Zapatos de Tacón...'
 sku: 'B07KMP2H8H-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

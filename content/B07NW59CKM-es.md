@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW59CKM-es Skechers Keepsakes 2.0 Botines Mujer Marrón Chestnut Suede...'
 sku: 'B07NW59CKM-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
 actualPrice: 50.76 EUR
 currency: EUR
 price: 50.76

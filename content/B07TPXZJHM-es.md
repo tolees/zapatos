@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPXZJHM-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07TPXZJHM-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 43.54 EUR
 currency: EUR
 price: 43.54

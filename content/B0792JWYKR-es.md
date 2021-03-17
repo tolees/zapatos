@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792JWYKR-es Geox JR Agata D Zapatos de Cordones Brogue para Niñas...'
 sku: 'B0792JWYKR-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

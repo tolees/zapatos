@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTVCKR9-es Nike Air MAX Invigor Zapatilla de Correr para Hombre Smoke...'
 sku: 'B07ZTVCKR9-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatilla', ]
 actualPrice: 50.83 EUR
 currency: EUR
 price: 50.83

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087G73SXG-es NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera...'
 sku: 'B087G73SXG-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

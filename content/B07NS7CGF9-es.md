@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NS7CGF9-es Marco Tozzi 2-2-22416-33 Zapatos de Tacón para Mujer...'
 sku: 'B07NS7CGF9-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

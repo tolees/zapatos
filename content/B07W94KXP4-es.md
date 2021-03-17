@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W94KXP4-es LuckyGirls Zapatos de Deporte Zapatillas de Deporte...'
 sku: 'B07W94KXP4-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

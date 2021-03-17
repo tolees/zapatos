@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LJY2R6-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable...'
 sku: 'B089LJY2R6-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia','zapatos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia','zapatos','zuecos', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

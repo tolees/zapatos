@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5VZCTM-es El Naturalista N5144 Botines para Mujer Rojo Rioja Rioja...'
 sku: 'B07S5VZCTM-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
 actualPrice: 23.32 EUR
 currency: EUR
 price: 23.32

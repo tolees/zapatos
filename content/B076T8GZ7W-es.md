@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076T8GZ7W-es Skechers 51874 Sandalia con Pulsera para Hombre Negro...'
 sku: 'B076T8GZ7W-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

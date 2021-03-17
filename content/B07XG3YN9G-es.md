@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG3YN9G-es Sharplace Forma De Memoria Almohadillas De Copa Del Talón...'
 sku: 'B07XG3YN9G-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

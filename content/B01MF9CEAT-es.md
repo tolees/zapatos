@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MF9CEAT-es Skechers Work Relaxed Fit: Hobbes-Frat SR Zapatos de...'
 sku: 'B01MF9CEAT-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 64.29 EUR
 currency: EUR
 price: 64.29

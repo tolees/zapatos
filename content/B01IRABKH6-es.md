@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IRABKH6-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
 sku: 'B01IRABKH6-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

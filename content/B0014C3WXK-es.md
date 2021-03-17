@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014C3WXK-es Crocs Classic Clog Zuecos Unisex Adulto Azul Navy 36/37 EU'
 sku: 'B0014C3WXK-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

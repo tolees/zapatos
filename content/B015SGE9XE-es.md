@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015SGE9XE-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B015SGE9XE-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

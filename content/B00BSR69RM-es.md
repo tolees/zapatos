@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BSR69RM-es Geox 43c9999 J Agata C Zapatos de Vestir para Niñas Negro...'
 sku: 'B00BSR69RM-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

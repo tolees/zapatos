@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTM4KYQ-es Asics Classic CT Zapatos de Baloncesto para Hombre Negro...'
 sku: 'B07QTM4KYQ-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 27.81 EUR
 currency: EUR
 price: 27.81

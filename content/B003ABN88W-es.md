@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ABN88W-es Havaianas Chanclas Unisex adulto Azul Brasil Logo Marine...'
 sku: 'B003ABN88W-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

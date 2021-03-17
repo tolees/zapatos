@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFXYYS-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños...'
 sku: 'B07SCFXYYS-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

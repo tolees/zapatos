@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPX4VH8-es bugatti 431881826950 Sandalia con Pulsera para Mujer Braun...'
 sku: 'B07VPX4VH8-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

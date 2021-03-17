@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK43F2S-es Columbia Peakfreak Venture Zapatos Impermeables para...'
 sku: 'B07KK43F2S-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 74.48 EUR
 currency: EUR
 price: 74.48

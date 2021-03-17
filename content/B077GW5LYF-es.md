@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GW5LYF-es find. Sandalia de Tiras con Tacón Mujer Violeta Lilac 41'
 sku: 'B077GW5LYF-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

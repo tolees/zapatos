@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HH3V8Y-es GEOX Zapatos con Cordones Schnürer Edgeware Brown tamaño:42'
 sku: 'B078HH3V8Y-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 41.45 EUR
 currency: EUR
 price: 41.45

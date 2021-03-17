@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07798MPHJ-es COMVIP Bebé niña Resbalón Anti del algodón elástico de...'
 sku: 'B07798MPHJ-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatilla','zapatos', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

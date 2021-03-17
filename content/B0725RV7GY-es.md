@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725RV7GY-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Ballerina...'
 sku: 'B0725RV7GY-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

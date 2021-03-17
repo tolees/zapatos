@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XN2R1L-es Emily Bridal Zapatos Nupciales De Mujer satén Sedoso Tacón...'
 sku: 'B075XN2R1L-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

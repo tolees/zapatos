@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Y2F1MY-es Skechers On-The-go 600-Foxy Sandalia con Pulsera para...'
 sku: 'B075Y2F1MY-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

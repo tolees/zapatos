@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785GS4CZ-es Gregster Bauna Zapatos de Low Rise Senderismo para Hombre...'
 sku: 'B0785GS4CZ-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

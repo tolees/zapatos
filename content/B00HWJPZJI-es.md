@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HWJPZJI-es Superga 2750-Lamew S001820 - Zapatos de lona para mujer...'
 sku: 'B00HWJPZJI-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

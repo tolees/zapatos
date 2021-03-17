@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RBTBJF-es ELEEMEE Mujer Moda Tacón Alto Verano Zapatos Tacón Pequeno...'
 sku: 'B087RBTBJF-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLSV1RQ-es Clarks Ronnie Limit Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MLSV1RQ-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 32.31 EUR
 currency: EUR
 price: 32.31

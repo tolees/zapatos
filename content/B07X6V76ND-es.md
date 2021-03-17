@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6V76ND-es Ipanema Anat Temas IX Fem Chanclas para Mujer Multicolor...'
 sku: 'B07X6V76ND-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

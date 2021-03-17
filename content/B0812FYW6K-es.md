@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0812FYW6K-es Asics Gel-Pulse 11 Zapatos para Correr Mens Azul 42 EU'
 sku: 'B0812FYW6K-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

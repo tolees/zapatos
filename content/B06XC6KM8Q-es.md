@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XC6KM8Q-es Clarks Tilden Walk Zapatos de Cordones Derby Marrón Dark...'
 sku: 'B06XC6KM8Q-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

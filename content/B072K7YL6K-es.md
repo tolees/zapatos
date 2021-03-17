@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K7YL6K-es find. Botines Años 60 Efecto Ante con Cremallera Mujer...'
 sku: 'B072K7YL6K-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

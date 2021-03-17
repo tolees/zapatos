@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHX3TJN-es Columbia WAYFINDER Zapatos Multideporte para Hombre Gris...'
 sku: 'B07JHX3TJN-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

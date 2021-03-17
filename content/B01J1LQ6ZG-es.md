@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1LQ6ZG-es Crocs Crocband U Zuecos Unisex Adulto Azul Navy-Volt...'
 sku: 'B01J1LQ6ZG-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

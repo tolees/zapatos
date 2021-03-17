@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074JJWHDG-es Skechers Desert Kiss 31440 Sandalia con Pulsera para Mujer...'
 sku: 'B074JJWHDG-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 30.08 EUR
 currency: EUR
 price: 30.08

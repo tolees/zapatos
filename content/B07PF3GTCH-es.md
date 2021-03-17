@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PF3GTCH-es KTOL Personalidad Chanclas de Piscina para Hombre Elegante...'
 sku: 'B07PF3GTCH-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

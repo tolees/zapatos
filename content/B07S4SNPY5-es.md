@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4SNPY5-es New Balance 373 Hook and Loop n Zapatilla Clásica para...'
 sku: 'B07S4SNPY5-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatilla', ]
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

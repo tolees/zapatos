@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPCGCZD-es Crocs Crocband U Zuecos Unisex Adulto Verde Army Green-...'
 sku: 'B07CPCGCZD-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

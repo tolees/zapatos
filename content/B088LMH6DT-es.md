@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LMH6DT-es RAIN BOW ISLAND Zuecos Clásicos con Correa Trasera Hombre...'
 sku: 'B088LMH6DT-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

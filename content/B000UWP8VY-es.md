@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UWP8VY-es Birkenstock Gizeh Birko-Flor Chanclas para Mujer Negro...'
 sku: 'B000UWP8VY-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

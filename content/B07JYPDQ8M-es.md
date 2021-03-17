@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYPDQ8M-es Tommy Hilfiger Knitted Rain Boot Botines para Mujer Negro...'
 sku: 'B07JYPDQ8M-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
 actualPrice: 40.09 EUR
 currency: EUR
 price: 40.09

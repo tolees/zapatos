@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BLBUG9M-es Arena Hydrofit Man Hook Zapatos de Playa y Piscina Hombre...'
 sku: 'B00BLBUG9M-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

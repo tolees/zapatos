@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HSV7W9-es MUOU Zapatillas Hombres Deporte Running Zapatos para...'
 sku: 'B079HSV7W9-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

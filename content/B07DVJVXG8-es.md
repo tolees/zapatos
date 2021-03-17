@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVJVXG8-es New Balance MS 247 FK de la Zapatilla de deporte para...'
 sku: 'B07DVJVXG8-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatilla', ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

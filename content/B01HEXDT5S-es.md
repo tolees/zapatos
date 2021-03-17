@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXDT5S-es Crocs Classic Clog K Zuecos Unisex Niños Amarillo Lemon...'
 sku: 'B01HEXDT5S-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

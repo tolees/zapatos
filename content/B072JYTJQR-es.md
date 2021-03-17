@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JYTJQR-es Clarks Batcombe Wing Zapatos de Cordones Derby Negro Black...'
 sku: 'B072JYTJQR-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 52.07 EUR
 currency: EUR
 price: 52.07

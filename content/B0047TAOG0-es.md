@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0047TAOG0-es Crocs Crocband U Zuecos Unisex Adulto Marrón Espresso-...'
 sku: 'B0047TAOG0-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 25.34 EUR
 currency: EUR
 price: 25.34

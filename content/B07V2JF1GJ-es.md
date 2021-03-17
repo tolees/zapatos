@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2JF1GJ-es Billabong™ - Chanclas - Hombre - EU 42 - Negro'
 sku: 'B07V2JF1GJ-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

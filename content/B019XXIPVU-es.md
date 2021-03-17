@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019XXIPVU-es Crocs Classic Clog Zuecos Unisex Adulto Verde New Mint 3P7...'
 sku: 'B019XXIPVU-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

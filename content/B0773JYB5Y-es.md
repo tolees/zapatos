@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0773JYB5Y-es Crocs Yukon Vista Clog M Zuecos para Hombre Negro...'
 sku: 'B0773JYB5Y-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 31.63 EUR
 currency: EUR
 price: 31.63

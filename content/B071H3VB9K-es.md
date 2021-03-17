@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071H3VB9K-es find. Botines con Suela de Crepe Estilo Óxford para Hombre...'
 sku: 'B071H3VB9K-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
 actualPrice: 18.53 EUR
 currency: EUR
 price: 18.53

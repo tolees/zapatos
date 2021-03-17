@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XACVLSK-es Scholl Desodorante Pies Fresh Step anti-transpirante...'
 sku: 'B00XACVLSK-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

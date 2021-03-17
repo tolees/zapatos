@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXF10O-es Crocs Crocband Clog K Zuecos con Correa Unisex-Bambini...'
 sku: 'B01HEXF10O-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 15.18 EUR
 currency: EUR
 price: 15.18

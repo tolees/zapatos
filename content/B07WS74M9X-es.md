@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS74M9X-es Hombre Mujer Zapatillas de Deportes Zapatos Sneakers...'
 sku: 'B07WS74M9X-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4BCMPG-es New Balance 574 Nms Deportes De Los Zapatos De La...'
 sku: 'B07S4BCMPG-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatilla','zapatos', ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

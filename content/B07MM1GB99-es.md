@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM1GB99-es alvorog Perchero con Zapatero Perchero Metálico de Pie...'
 sku: 'B07MM1GB99-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

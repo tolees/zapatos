@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X16JXJ9-es adidas Adilette Shower Chanclas Hombre Blanco Footwear...'
 sku: 'B06X16JXJ9-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPCN7WK-es Crocs Baya Clog Zuecos Unisex Niños Rosa Neon Magenta 6l0...'
 sku: 'B07CPCN7WK-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

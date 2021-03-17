@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9HS8K6-es Spiuk Altube Road Zapatilla Unisex Adulto Negro Mate 37'
 sku: 'B07L9HS8K6-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatilla', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HR7QVB9-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
 sku: 'B07HR7QVB9-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 29.65 EUR
 currency: EUR
 price: 29.65

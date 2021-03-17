@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVJ37RB-es Zapatillas de Estar por Casa Ultraligera de Hombre y Mujer...'
 sku: 'B07NVJ37RB-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

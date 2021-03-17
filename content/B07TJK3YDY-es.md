@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJK3YDY-es Clarks Alexis Shine Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07TJK3YDY-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 32.03 EUR
 currency: EUR
 price: 32.03

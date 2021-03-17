@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W8AMRG-es Havaianas Slim Chanclas Mujer Negro Black 0090 39/40 EU'
 sku: 'B000W8AMRG-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NHQ5P6X-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Negro Leo...'
 sku: 'B07NHQ5P6X-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 16.11 EUR
 currency: EUR
 price: 16.11

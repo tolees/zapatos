@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BNVVWML-es Columbia Ruckel Ridge Waterproof Zapatos Impermeables de...'
 sku: 'B07BNVVWML-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 55.89 EUR
 currency: EUR
 price: 55.89

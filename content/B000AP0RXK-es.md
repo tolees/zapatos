@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AP0RXK-es Reebok Classic Nylon Zapatilla de Running Hombre Negro...'
 sku: 'B000AP0RXK-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatilla', ]
 actualPrice: 51.89 EUR
 currency: EUR
 price: 51.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXTHMMV-es Geox D Borealis A Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07SXTHMMV-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

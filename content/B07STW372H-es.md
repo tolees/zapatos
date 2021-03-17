@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STW372H-es Quiksilver Molokai Layback Zapatos de Playa y Piscina para...'
 sku: 'B07STW372H-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SNA7WS-es Crocs Crocband Flip Chanclas Unisex-Adult Black 41/42 EU'
 sku: 'B002SNA7WS-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

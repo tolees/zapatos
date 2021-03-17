@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087P2PFVT-es Kaizi Karzi Mujer Moda Puntiagudo Zapatos de la Corte...'
 sku: 'B087P2PFVT-es'
-tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86
