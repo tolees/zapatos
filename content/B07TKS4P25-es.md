@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKS4P25-es Clarks Adriel Cove Zapatos con Tacon y Correa de Tobillo...'
 sku: 'B07TKS4P25-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 35.33 EUR
 currency: EUR
 price: 35.33

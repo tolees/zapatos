@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPM5TRS-es Camper Lotta Botines para Mujer Schwarz Black 1 41 EU'
 sku: 'B07BPM5TRS-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','botines', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
 actualPrice: 51.58 EUR
 currency: EUR
 price: 51.58

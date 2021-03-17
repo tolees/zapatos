@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXRMTVS-es Geox D Borealis A Sandalia con Pulsera para Mujer Gris Dk...'
 sku: 'B07SXRMTVS-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','sandalia', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 43.25 EUR
 currency: EUR
 price: 43.25

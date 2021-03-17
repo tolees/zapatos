@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR3CHBS-es Clarks Un Trail Form Zapatos de Cordones Derby Marrón Tan...'
 sku: 'B07FR3CHBS-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UVVGDE-es NIKE Benassi JDI Chanclas para Hombre Blanco White/Black...'
 sku: 'B005UVVGDE-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','chanclas', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

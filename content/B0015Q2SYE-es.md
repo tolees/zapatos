@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0015Q2SYE-es Havaianas Top Chanclas Unisex Adulto Blanco White 33/34 EU'
 sku: 'B0015Q2SYE-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','chanclas', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

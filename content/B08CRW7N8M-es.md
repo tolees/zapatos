@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRW7N8M-es DYKHMILY Zapatillas de Seguridad Hombre Ligeras Comodo...'
 sku: 'B08CRW7N8M-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

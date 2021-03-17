@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1LQ16U-es Crocs Crocband U Zuecos Unisex Adulto Beige Stucco-Melon...'
 sku: 'B01J1LQ16U-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zuecos', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

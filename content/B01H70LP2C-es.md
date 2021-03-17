@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H70LP2C-es crocs 203998 Chanclas Mujer Negro Black/White 36/37 EU W 6 US'
 sku: 'B01H70LP2C-es'
-tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','chanclas', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3
