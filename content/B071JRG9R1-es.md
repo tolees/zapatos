@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JRG9R1-es Clarks Batcombe Wing Zapatos de Cordones Derby Negro Black...'
 sku: 'B071JRG9R1-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 42.67 EUR
 currency: EUR
 price: 42.67

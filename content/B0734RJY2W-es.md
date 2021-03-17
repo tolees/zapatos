@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0734RJY2W-es find. Zapatos de Charol y Empeine Alto para Mujer Rojo Red...'
 sku: 'B0734RJY2W-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

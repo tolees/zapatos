@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNRY4SP-es Skechers Sargo REYON Chanclas para Hombre Negro Negro Lona...'
 sku: 'B07WNRY4SP-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','chanclas', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

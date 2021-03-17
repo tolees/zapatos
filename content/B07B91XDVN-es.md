@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B91XDVN-es Clarks Dalia Rose Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07B91XDVN-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BBZ5M9-es find. Botines Chelsea de Ante para Mujer Marrón Congo 36 EU'
 sku: 'B072BBZ5M9-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','botines', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLTWXH2-es Clarks Un Cosmo Strap Sandalia con Pulsera para Mujer Gris...'
 sku: 'B07TLTWXH2-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','sandalia', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','sandalia', ]
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

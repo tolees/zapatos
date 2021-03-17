@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSSSI-es Crocs Crocband U Zuecos Unisex Adulto Negro Black 41-42 EU'
 sku: 'B002JCSSSI-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zuecos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

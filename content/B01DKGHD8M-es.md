@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DKGHD8M-es MagiDeal Zapatos Botas Encaje para Muñeca Muchacha...'
 sku: 'B01DKGHD8M-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

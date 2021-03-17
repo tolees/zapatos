@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHY84K8-es New Balance 520v6 Zapatos para Correr para Mujer Azul Blue...'
 sku: 'B07RHY84K8-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

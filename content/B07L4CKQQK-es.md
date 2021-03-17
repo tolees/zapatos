@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4CKQQK-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Rojo...'
 sku: 'B07L4CKQQK-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BLY0BH6-es Nike Benassi Jdi Chanclas Unisex Adulto Negro Black/White...'
 sku: 'B00BLY0BH6-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','chanclas', ]
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

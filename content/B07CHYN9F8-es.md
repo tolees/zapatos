@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHYN9F8-es El Naturalista N5401 Dolce DOVELA Botines para Mujer Negro...'
 sku: 'B07CHYN9F8-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','botines', ]
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

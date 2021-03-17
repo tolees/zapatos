@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9L8G5P-es Under Armour UA Core PTH SL Zapatos de Playa y Piscina...'
 sku: 'B07S9L8G5P-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

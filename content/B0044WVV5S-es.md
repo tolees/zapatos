@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044WVV5S-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Blossom 682...'
 sku: 'B0044WVV5S-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zuecos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zuecos', ]
 actualPrice: 21.07 EUR
 currency: EUR
 price: 21.07

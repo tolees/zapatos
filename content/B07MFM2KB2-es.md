@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM2KB2-es Clarks 261440557 - Botines de Cuero Hombre Color Marrón...'
 sku: 'B07MFM2KB2-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','botines', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','botines', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

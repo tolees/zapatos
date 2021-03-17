@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NBK2B-es PUMA Cali WN S Zapatos Deportivos para Mujer Negro Black...'
 sku: 'B07S6NBK2B-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','zapatos', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

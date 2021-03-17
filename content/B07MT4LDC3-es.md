@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MT4LDC3-es gracosy Sandalias Cuero Planas Verano Mujer Estilo Bohemia...'
 sku: 'B07MT4LDC3-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','chanclas','zapatos', ]
+tags: [ 'Calzado de trabajo para mujer','Calzado deportivo para hombre','Calzado sanitario y de hostelería para mujer','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos para niñas pequeñas','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','chanclas','zapatos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
