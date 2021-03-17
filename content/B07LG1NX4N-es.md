@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG1NX4N-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LG1NX4N-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 55.51 EUR
 currency: EUR
 price: 55.51

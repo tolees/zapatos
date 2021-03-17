@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BGT1BV-es Asics Gel-Pulse 11 Zapatos para Correr Mens Negro 40 1/2 EU'
 sku: 'B081BGT1BV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

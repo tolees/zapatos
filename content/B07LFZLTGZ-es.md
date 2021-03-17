@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZLTGZ-es Geox U New Life C Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFZLTGZ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

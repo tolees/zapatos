@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044WVTBE-es Crocs Classic Clog Zuecos Unisex Adulto Pink 36/37 EU'
 sku: 'B0044WVTBE-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

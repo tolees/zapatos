@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T3JD33X-es LARNMERN Zapatos de Seguridad para Hombre con Puntera de...'
 sku: 'B07T3JD33X-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

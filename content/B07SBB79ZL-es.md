@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBB79ZL-es Crocs Swiftwater Expedition Sandal Kids Sandalia con...'
 sku: 'B07SBB79ZL-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVZ278-es PUMA Cozy Flip Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07SBVZ278-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.43 EUR
 currency: EUR
 price: 15.43

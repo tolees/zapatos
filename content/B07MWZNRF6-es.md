@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MWZNRF6-es KATOOM Zapatilla fregona 3 Pares Limpiar Polvo Microfibra...'
 sku: 'B07MWZNRF6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

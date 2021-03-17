@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1LQ16U-es Crocs Crocband U Zuecos Unisex Adulto Beige Stucco-Melon...'
 sku: 'B01J1LQ16U-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

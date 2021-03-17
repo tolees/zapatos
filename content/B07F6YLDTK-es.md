@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F6YLDTK-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Azul...'
 sku: 'B07F6YLDTK-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

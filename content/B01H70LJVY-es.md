@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H70LJVY-es crocs 203998 Chanclas Mujer Negro Black/White 41/42 EU W...'
 sku: 'B01H70LJVY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 21.34 EUR
 currency: EUR
 price: 21.34

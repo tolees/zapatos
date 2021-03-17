@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJXFLH6-es DoGeek Botas Nieve Botas de Forro de Piel de Invierno...'
 sku: 'B07XJXFLH6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

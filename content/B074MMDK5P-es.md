@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MMDK5P-es Havaianas Brasil Logo Chanclas Unisex Adulto Negro...'
 sku: 'B074MMDK5P-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

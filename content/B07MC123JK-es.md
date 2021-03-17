@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC123JK-es Clarks Ronnie Walk Zapatos de Cordones Derby Marrón...'
 sku: 'B07MC123JK-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 44.04 EUR
 currency: EUR
 price: 44.04

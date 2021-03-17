@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTHW136-es Superga 1908-puu Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07TTHW136-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

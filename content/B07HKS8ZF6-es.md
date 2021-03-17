@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKS8ZF6-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
 sku: 'B07HKS8ZF6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

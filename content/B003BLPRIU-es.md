@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003BLPRIU-es crocs Baya Zuecos Unisex Adulto Gris Graphite 41/42 EU'
 sku: 'B003BLPRIU-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

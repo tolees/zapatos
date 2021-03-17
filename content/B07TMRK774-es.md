@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMRK774-es Clarks Un Tynamo Tie Zapatos de Cordones Brogue para...'
 sku: 'B07TMRK774-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 82.59 EUR
 currency: EUR
 price: 82.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TWLWTD-es find. Zapatos de Serraje con Cordones Hombre Beige Sand 43 EU'
 sku: 'B077TWLWTD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

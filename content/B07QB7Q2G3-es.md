@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB7Q2G3-es P Prettyia Calzador de Zapatos de Madera Mango Largo...'
 sku: 'B07QB7Q2G3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

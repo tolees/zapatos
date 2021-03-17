@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFSXC6-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B07SCFSXC6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

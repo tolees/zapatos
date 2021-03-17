@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LQZNLE-es Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona...'
 sku: 'B000LQZNLE-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 53.28 EUR
 currency: EUR
 price: 53.28

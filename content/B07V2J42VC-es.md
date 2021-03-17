@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2J42VC-es Tommy Hilfiger Comfort Footbed Beach Sandal Chanclas para...'
 sku: 'B07V2J42VC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

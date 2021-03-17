@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014C2PZG-es Crocs Classic Z Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B0014C2PZG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

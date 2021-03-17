@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQV5NC7-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Dorado...'
 sku: 'B07FQV5NC7-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 41.57 EUR
 currency: EUR
 price: 41.57

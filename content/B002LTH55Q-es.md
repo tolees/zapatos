@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LTH55Q-es Superga 2750 COTU Classic Zapatilla de Deporte Unisexo...'
 sku: 'B002LTH55Q-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

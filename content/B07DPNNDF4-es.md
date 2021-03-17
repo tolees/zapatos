@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPNNDF4-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Negro...'
 sku: 'B07DPNNDF4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

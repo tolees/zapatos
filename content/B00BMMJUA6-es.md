@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BMMJUA6-es Geox U Dublin B Zapatos de Cordones Brogue para Hombre...'
 sku: 'B00BMMJUA6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

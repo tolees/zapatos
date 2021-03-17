@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFYL1YD-es Geox D New ANNYA A Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07LFYL1YD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

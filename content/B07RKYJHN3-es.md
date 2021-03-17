@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKYJHN3-es Nike Downshifter 9 Zapatilla de Correr para Hombre...'
 sku: 'B07RKYJHN3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 37.61 EUR
 currency: EUR
 price: 37.61

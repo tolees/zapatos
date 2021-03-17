@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXW6C19-es DoGeek Zapato Seguridad para el Verano Zapatos Trabajo con...'
 sku: 'B07RXW6C19-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKGCW34-es Under Armour UA Spawn Mid Zapatos de Baloncesto para...'
 sku: 'B07HKGCW34-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

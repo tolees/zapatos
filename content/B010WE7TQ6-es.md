@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010WE7TQ6-es Crocs Classic Clog Zuecos Unisex Adulto Naranja Tangerine...'
 sku: 'B010WE7TQ6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.8 EUR
 currency: EUR
 price: 27.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792FKCLP-es Geox D Stardust C Botines para Mujer Marrón Coffee C6009...'
 sku: 'B0792FKCLP-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 29.42 EUR
 currency: EUR
 price: 29.42

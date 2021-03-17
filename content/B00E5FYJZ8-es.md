@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E5FYJZ8-es PUMA Suede Classic+ Zapatilla para Hombre Rojo...'
 sku: 'B00E5FYJZ8-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 50.54 EUR
 currency: EUR
 price: 50.54

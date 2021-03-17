@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KMOFE0-es Reef Smoothy - Chanclas para hombre Negro 35 EU'
 sku: 'B000KMOFE0-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

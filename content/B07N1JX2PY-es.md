@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JX2PY-es Clarks Un Venturehi Botines para Mujer Negro Black Combi...'
 sku: 'B07N1JX2PY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 62.26 EUR
 currency: EUR
 price: 62.26

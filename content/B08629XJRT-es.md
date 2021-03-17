@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08629XJRT-es Fiween Zapatos de Color Beige de plástico de Alta talón...'
 sku: 'B08629XJRT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N6XYS7-es Clarks Batcombe Hall Derby - Zapatos de Cordones para...'
 sku: 'B074N6XYS7-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 61.03 EUR
 currency: EUR
 price: 61.03

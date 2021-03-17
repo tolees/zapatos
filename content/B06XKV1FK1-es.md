@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKV1FK1-es ElegantPark HC1621 Zapatos para Novia Boda Tacon Bajo...'
 sku: 'B06XKV1FK1-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

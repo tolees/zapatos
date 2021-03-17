@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B99XGSM-es Clarks Un Abode Ease Zapatos de Cordones Derby para Hombre...'
 sku: 'B07B99XGSM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 42.12 EUR
 currency: EUR
 price: 42.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8XM65-es Crocs Crocband U Zuecos Unisex Adulto Morado Lavender-...'
 sku: 'B07CN8XM65-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

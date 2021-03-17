@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HD24X-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Beige...'
 sku: 'B07N1HD24X-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.03 EUR
 currency: EUR
 price: 38.03

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7Y3MCS-es Billabong All Day Theme Chanclas para Hombre Negro...'
 sku: 'B07V7Y3MCS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPC1PYY-es Crocs Crocband Clog Kids Zuecos Unisex Niños Morado...'
 sku: 'B07CPC1PYY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

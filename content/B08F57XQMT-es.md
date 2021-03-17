@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F57XQMT-es Zapatillas de Seguridad Hombres Zapatos de Trabajo con...'
 sku: 'B08F57XQMT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

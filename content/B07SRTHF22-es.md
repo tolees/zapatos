@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRTHF22-es Quiksilver Molokai Tijuana Zapatos de Playa y Piscina para...'
 sku: 'B07SRTHF22-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

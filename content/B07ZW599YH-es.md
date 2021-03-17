@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW599YH-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón...'
 sku: 'B07ZW599YH-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

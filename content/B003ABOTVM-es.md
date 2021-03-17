@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ABOTVM-es Havaianas Brasil Chanclas Unisex Adulto Verde Amazonia...'
 sku: 'B003ABOTVM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

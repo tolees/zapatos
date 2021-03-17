@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJ1ZZY-es Tamaris 1-1-26250-23 Botines para Mujer Negro Black 1 39 EU'
 sku: 'B07NJJ1ZZY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

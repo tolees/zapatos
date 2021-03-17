@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081G8L6LX-es Mujer Zapatillas Deporte para Zapatillas de Ligeras...'
 sku: 'B081G8L6LX-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

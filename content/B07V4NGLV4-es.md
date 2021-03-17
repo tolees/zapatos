@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4NGLV4-es Billabong™ - Chanclas - Hombre - EU 45 - Negro'
 sku: 'B07V4NGLV4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

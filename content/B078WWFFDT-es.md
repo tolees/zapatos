@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WWFFDT-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
 sku: 'B078WWFFDT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

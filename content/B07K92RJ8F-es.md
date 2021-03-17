@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K92RJ8F-es Crocs Classic Clog Zuecos Unisex Adulto Verde Dusty Green...'
 sku: 'B07K92RJ8F-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

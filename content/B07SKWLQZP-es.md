@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKWLQZP-es Havaianas Top Vibes Chanclas para Mujer Multicolor...'
 sku: 'B07SKWLQZP-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

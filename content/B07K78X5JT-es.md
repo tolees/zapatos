@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K78X5JT-es Columbia WAYFINDER Outdry Zapatos Multideporte para Mujer...'
 sku: 'B07K78X5JT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

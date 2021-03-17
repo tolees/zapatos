@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM2LMT-es Clarks Oliver Limit Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM2LMT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 74.79 EUR
 currency: EUR
 price: 74.79

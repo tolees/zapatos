@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L410MOC-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B01L410MOC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 18.12 EUR
 currency: EUR
 price: 18.12

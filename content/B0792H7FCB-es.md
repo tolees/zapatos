@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792H7FCB-es FITFLOP Gogh Moc Slide in Leather Zapatos de Playa y...'
 sku: 'B0792H7FCB-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

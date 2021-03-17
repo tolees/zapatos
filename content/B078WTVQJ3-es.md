@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTVQJ3-es Quiksilver Carver Nubuck-Sandals For Men Zapatos de Playa...'
 sku: 'B078WTVQJ3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

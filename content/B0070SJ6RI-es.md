@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0070SJ6RI-es Timberland Stormbucks Plain Toe Zapatos de Cordones Oxford...'
 sku: 'B0070SJ6RI-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

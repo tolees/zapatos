@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFZWQFV-es Marca Amazon - find. High Heel Point Court Zapatos de...'
 sku: 'B07YFZWQFV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

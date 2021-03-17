@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0888CYTL2-es SINOES 270 2020 Hombre de Zapatos Deportivos Correr...'
 sku: 'B0888CYTL2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

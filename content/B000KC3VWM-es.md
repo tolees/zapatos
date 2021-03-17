@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KC3VWM-es Birkenstock Gizeh Birko-Flor Chanclas para Mujer Negro...'
 sku: 'B000KC3VWM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

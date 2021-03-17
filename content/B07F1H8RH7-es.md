@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1H8RH7-es Havaianas Slim Chanclas para Niñas Rosa Hollywood Rose...'
 sku: 'B07F1H8RH7-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

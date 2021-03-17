@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HR8ZC6D-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
 sku: 'B07HR8ZC6D-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

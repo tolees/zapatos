@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083G78MSW-es New balance NBML574SNU Zapatos Hombre Azul 50'
 sku: 'B083G78MSW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 80 EUR
 currency: EUR
 price: 80

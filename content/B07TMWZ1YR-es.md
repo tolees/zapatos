@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMWZ1YR-es Clarks Hero Zapatos de Cordones Brogue para Mujer Blanco...'
 sku: 'B07TMWZ1YR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 58.16 EUR
 currency: EUR
 price: 58.16

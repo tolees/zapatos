@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZQ15F-es Geox U Garret A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFZQ15F-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 77.66 EUR
 currency: EUR
 price: 77.66

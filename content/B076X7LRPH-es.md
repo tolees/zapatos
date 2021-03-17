@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X7LRPH-es Geox U Uvet A Zapatos de Cordones Brogue para Hombre Gris...'
 sku: 'B076X7LRPH-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SV3C29B-es Quiksilver Molokai Layback Zapatos de Playa y Piscina para...'
 sku: 'B07SV3C29B-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

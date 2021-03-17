@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB6TJ14-es Clarks Cotrell Lane 261486527 Zapatos de Cordones Derby...'
 sku: 'B07VB6TJ14-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 42.14 EUR
 currency: EUR
 price: 42.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2BNNNM-es Sandalias Mujer Verano 2042 cáñamo Fondo Grueso Sandalias...'
 sku: 'B07T2BNNNM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

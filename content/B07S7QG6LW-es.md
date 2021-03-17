@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7QG6LW-es PUMA Cali WN S Zapatos Deportivos para Mujer Blanco...'
 sku: 'B07S7QG6LW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 32.08 EUR
 currency: EUR
 price: 32.08

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRHZFY-es Geox D New ANNYA Mid A Zapatos con Tacón para Mujer Azul...'
 sku: 'B07LFRHZFY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.78 EUR
 currency: EUR
 price: 39.78

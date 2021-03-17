@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLSVDYH-es Clarks Ronnie Limit Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MLSVDYH-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 50.06 EUR
 currency: EUR
 price: 50.06

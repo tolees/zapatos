@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KCVCFB-es LuckyGirls Chic Sandalias Mujer Plataforma Cuña Verano...'
 sku: 'B083KCVCFB-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

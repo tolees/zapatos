@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLST8G1-es Clarks Ronnie Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MLST8G1-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.03 EUR
 currency: EUR
 price: 38.03

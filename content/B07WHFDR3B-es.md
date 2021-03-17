@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHFDR3B-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
 sku: 'B07WHFDR3B-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

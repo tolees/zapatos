@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JLHNS-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Marrón...'
 sku: 'B07N1JLHNS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 47.51 EUR
 currency: EUR
 price: 47.51

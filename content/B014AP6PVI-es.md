@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014AP6PVI-es Dockers by Gerli 37wa703 Botines Unisex Niños Marrón Braun...'
 sku: 'B014AP6PVI-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

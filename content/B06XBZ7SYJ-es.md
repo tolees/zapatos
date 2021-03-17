@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBZ7SYJ-es Clarks Tilden Walk Zapatos de Cordones Derby Marrón Dark...'
 sku: 'B06XBZ7SYJ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 48.56 EUR
 currency: EUR
 price: 48.56

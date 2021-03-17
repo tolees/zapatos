@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JNRTY-es Clarks Linvale Sea Zapatos con Tira de Tobillo para Mujer...'
 sku: 'B07N1JNRTY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.18 EUR
 currency: EUR
 price: 38.18

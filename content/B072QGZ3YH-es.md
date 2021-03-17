@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QGZ3YH-es Crocs Classic Clog Zuecos Unisex Adulto Azul Chambray Blue...'
 sku: 'B072QGZ3YH-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

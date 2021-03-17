@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014UNSQWQ-es Geox J54E6A00043 Zapatos con Velcro Niños Negro Blackc9999...'
 sku: 'B014UNSQWQ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

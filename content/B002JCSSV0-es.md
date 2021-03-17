@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSSV0-es Crocs Crocband U Zuecos Unisex Adulto Blanco White 39-40 EU'
 sku: 'B002JCSSV0-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

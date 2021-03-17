@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXEKYW-es Crocs Crocband Clog K Zuecos Unisex-Bambini BLU...'
 sku: 'B01HEXEKYW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

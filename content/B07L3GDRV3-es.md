@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3GDRV3-es Tommy Hilfiger Sporty Flat Beach Sandal Chanclas para...'
 sku: 'B07L3GDRV3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

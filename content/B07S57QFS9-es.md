@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S57QFS9-es Columbia Vapor Vent Zapatos para Hombre Gris Steam/Royal...'
 sku: 'B07S57QFS9-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 62.65 EUR
 currency: EUR
 price: 62.65

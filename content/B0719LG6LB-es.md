@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719LG6LB-es Crocs Crocband U Zuecos Unisex Adulto Blanco White-Blue...'
 sku: 'B0719LG6LB-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 28.41 EUR
 currency: EUR
 price: 28.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRW7N8M-es DYKHMILY Zapatillas de Seguridad Hombre Ligeras Comodo...'
 sku: 'B08CRW7N8M-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

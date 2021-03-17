@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXE46Q-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños...'
 sku: 'B01HEXE46Q-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 13.22 EUR
 currency: EUR
 price: 13.22

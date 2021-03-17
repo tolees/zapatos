@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084L7Q5BX-es Spiuk Sportline Zapatilla MTB ALDAPA Adultos Unisex...'
 sku: 'B084L7Q5BX-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

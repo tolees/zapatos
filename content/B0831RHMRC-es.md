@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0831RHMRC-es Zapatilla Casual Cuero Mujer - Nicki White Blue Red 36'
 sku: 'B0831RHMRC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

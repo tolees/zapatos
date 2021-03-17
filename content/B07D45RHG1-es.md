@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D45RHG1-es FIND Court Zapatos de Tacón Rosa Nude 39 EU'
 sku: 'B07D45RHG1-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

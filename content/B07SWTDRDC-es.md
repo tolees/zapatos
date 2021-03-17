@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTDRDC-es Geox D Borealis A Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07SWTDRDC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

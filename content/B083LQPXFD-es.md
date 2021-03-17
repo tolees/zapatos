@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LQPXFD-es MoneRffi Hombres Zapatillas de Deporte Malla Ultra Ligero...'
 sku: 'B083LQPXFD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

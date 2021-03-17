@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q249JCV-es Under Armour UA Jet Zapatos de Deporte para Hombre Negro...'
 sku: 'B07Q249JCV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

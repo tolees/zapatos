@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGD2DN9-es DCalderoni Moncayo Zapatos Piel Negros De Vestir con...'
 sku: 'B07KGD2DN9-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

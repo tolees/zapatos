@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ2LFP9-es New Balance 230 Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07DJ2LFP9-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

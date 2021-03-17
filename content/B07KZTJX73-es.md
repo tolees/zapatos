@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZTJX73-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B07KZTJX73-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

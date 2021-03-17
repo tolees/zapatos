@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLDM8GC-es Zapatillas Casa Mujer Hombre Invierno Calido Zapatillas...'
 sku: 'B07WLDM8GC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

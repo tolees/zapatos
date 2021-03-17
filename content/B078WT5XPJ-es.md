@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WT5XPJ-es Quiksilver Monkey Abyss Zapatos de Playa y Piscina para...'
 sku: 'B078WT5XPJ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

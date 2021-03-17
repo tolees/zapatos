@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BMMJUBK-es Geox U Dublin B Zapatos de Vestir para Hombre Negro...'
 sku: 'B00BMMJUBK-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 61.27 EUR
 currency: EUR
 price: 61.27

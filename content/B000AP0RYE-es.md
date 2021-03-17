@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AP0RYE-es Reebok Classic Nylon Zapatilla de Running Hombre Negro...'
 sku: 'B000AP0RYE-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

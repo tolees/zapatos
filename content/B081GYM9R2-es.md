@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GYM9R2-es Mujer Zapatillas Deporte para Zapatillas de Ligeras...'
 sku: 'B081GYM9R2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

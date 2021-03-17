@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSNKYOL-es PUMA Popcat Zapatos de Playa y Piscina Unisex Adulto White...'
 sku: 'B01MSNKYOL-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

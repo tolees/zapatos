@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S31NSK3-es Columbia Vapor Vent Zapatos para Hombre Azul Pool/Red...'
 sku: 'B07S31NSK3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

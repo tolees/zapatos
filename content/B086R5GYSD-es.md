@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086R5GYSD-es Nautico J.Bradford Cuero Marino JB-CORVETTES - Color -...'
 sku: 'B086R5GYSD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

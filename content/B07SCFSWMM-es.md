@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFSWMM-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
 sku: 'B07SCFSWMM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

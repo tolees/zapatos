@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR6GJS5-es Clarks Step Beat Dune Zapatos de Cordones Derby para...'
 sku: 'B07FR6GJS5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.47 EUR
 currency: EUR
 price: 37.47

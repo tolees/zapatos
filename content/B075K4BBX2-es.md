@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075K4BBX2-es SAGUARO® Invierno Al Aire Libre Zapatillas Caliente...'
 sku: 'B075K4BBX2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla','zapatos', ]
+tags: [ 'zapatilla','zapatos', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

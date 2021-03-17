@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGYWND3-es El Naturalista N5311 Iris Coral Botines para Mujer Negro...'
 sku: 'B07NGYWND3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

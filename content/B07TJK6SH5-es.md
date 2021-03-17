@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJK6SH5-es Havaianas Slim Flatform Chanclas para Mujer Azul Blue 0057...'
 sku: 'B07TJK6SH5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

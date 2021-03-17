@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZJRFW-es Havaianas High Light Chanclas para Mujer Negro Black/Dark...'
 sku: 'B07SLZJRFW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

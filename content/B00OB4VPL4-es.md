@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OB4VPL4-es Cofra 40-JV028000-39 - Calzado de Seguridad Nuevo Santo...'
 sku: 'B00OB4VPL4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

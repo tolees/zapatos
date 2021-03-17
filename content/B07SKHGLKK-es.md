@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKHGLKK-es Asics Gel-Nimbus 22 Zapatilla de Correr para Hombre...'
 sku: 'B07SKHGLKK-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 109.24 EUR
 currency: EUR
 price: 109.24

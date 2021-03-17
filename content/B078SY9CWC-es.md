@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SY9CWC-es Timberland Gateway Pier Casual Zapatos de Cordones Oxford...'
 sku: 'B078SY9CWC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

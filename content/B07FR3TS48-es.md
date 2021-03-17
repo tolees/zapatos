@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR3TS48-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Negro...'
 sku: 'B07FR3TS48-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 38.66 EUR
 currency: EUR
 price: 38.66

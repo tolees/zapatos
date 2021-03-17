@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR9ZGSM-es Clarks Sharon Crystal Zapatos de Cordones Derby para Mujer...'
 sku: 'B07FR9ZGSM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.73 EUR
 currency: EUR
 price: 24.73

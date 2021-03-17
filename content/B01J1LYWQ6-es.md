@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1LYWQ6-es Crocs Crocband Clog Kids Zuecos Unisex Niños Beige...'
 sku: 'B01J1LYWQ6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

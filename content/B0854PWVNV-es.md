@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854PWVNV-es XTI Sandalia BAS034304 para Mujer Blanco 38'
 sku: 'B0854PWVNV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

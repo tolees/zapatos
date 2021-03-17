@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNZMDD5-es Clarks Sense Strap Sandalia con Pulsera para Mujer Beige...'
 sku: 'B07TNZMDD5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

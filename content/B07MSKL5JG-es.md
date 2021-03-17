@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSKL5JG-es Clarks Un Larvik Lace Zapatos de Cordones Derby para...'
 sku: 'B07MSKL5JG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

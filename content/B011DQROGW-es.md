@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011DQROGW-es Footful 1 Par de Profesional Protectores Punteras para...'
 sku: 'B011DQROGW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

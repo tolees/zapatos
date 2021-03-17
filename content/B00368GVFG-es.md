@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00368GVFG-es adidas Adilette Zapatos de playa y piscina Unisex adulto...'
 sku: 'B00368GVFG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

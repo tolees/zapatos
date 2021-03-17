@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ1KL84-es Quiksilver Molokai Zapatos de Playa y Piscina para Hombre...'
 sku: 'B07DJ1KL84-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

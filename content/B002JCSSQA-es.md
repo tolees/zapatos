@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSSQA-es Crocs Crocband U Zuecos Unisex Adulto Negro Black 37-38 EU'
 sku: 'B002JCSSQA-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

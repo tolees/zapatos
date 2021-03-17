@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JL8TV-es Clarks Step Explorhi Botines para Mujer Azul Navy Navy...'
 sku: 'B07N1JL8TV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

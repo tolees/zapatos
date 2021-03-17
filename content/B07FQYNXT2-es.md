@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQYNXT2-es Clarks Un Lisbon Lace Zapatos de Cordones Derby para...'
 sku: 'B07FQYNXT2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

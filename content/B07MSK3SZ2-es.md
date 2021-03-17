@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSK3SZ2-es Clarks Cotrell Stride Zapatos de Cordones Derby para...'
 sku: 'B07MSK3SZ2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.13 EUR
 currency: EUR
 price: 37.13

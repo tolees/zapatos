@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9XJVTR-es Castellanisimos Zapatos Náuticos de Piel Marron Hombre con...'
 sku: 'B07Y9XJVTR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

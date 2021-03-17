@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNKYZKH-es Kickers Holster Zapatos de Cordones Derby para Mujer Beige...'
 sku: 'B07TNKYZKH-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

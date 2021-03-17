@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BBCXJV-es Zuecos Unisex Niños Verano Sandalias de Playa Respirable...'
 sku: 'B083BBCXJV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos','zuecos', ]
+tags: [ 'zapatos','zuecos', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

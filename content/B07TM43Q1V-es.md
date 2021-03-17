@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TM43Q1V-es Zapatos de Seguridad para Hombre Mujer con Puntera de...'
 sku: 'B07TM43Q1V-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

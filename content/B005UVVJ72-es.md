@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UVVJ72-es Nike Benassi JDI Chanclas Unisex Adulto Multicolor...'
 sku: 'B005UVVJ72-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

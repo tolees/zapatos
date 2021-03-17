@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HRW7Z2Q-es Mishansha Zapatillas de Running para Hombre Casual Tenis...'
 sku: 'B08HRW7Z2Q-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

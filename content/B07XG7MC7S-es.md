@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG7MC7S-es Gaatpot Zapatos Invierno Niña Niño Botas de Nieve Forradas...'
 sku: 'B07XG7MC7S-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

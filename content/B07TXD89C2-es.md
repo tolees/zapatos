@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXD89C2-es Superdry Rainbow Sleek Flip Flop Chanclas para Mujer...'
 sku: 'B07TXD89C2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

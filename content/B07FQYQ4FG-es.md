@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQYQ4FG-es Clarks Mena Blossom Zapatos de Tacón para Mujer Negro...'
 sku: 'B07FQYQ4FG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

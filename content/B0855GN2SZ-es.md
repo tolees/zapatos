@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0855GN2SZ-es New Balance Sandalias Chanclas K2013 HPK para Niñas Rosa...'
 sku: 'B0855GN2SZ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

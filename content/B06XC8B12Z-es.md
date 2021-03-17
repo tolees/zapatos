@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XC8B12Z-es Clarks Tilden Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B06XC8B12Z-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 27.02 EUR
 currency: EUR
 price: 27.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZPL8DP-es Bruetting Countdown Zapatos de Low Rise Senderismo para...'
 sku: 'B075ZPL8DP-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.46 EUR
 currency: EUR
 price: 15.46

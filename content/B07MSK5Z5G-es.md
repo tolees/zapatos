@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSK5Z5G-es Clarks Arla Free Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSK5Z5G-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQP42DF-es Anyeat Hormas para Zapatos 1 par Árbol del zapato Árbol...'
 sku: 'B07QQP42DF-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD19XPR-es PUMA Epic Flip V2 Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07SD19XPR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

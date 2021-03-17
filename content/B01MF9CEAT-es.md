@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MF9CEAT-es Skechers Work Relaxed Fit: Hobbes-Frat SR Zapatos de...'
 sku: 'B01MF9CEAT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 64.29 EUR
 currency: EUR
 price: 64.29

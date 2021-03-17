@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGZHV54-es Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual...'
 sku: 'B07VGZHV54-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

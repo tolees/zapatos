@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078BDJC13-es Crocs Baya Zuecos Unisex Adulto Rosa Party Pink 41/42 EU'
 sku: 'B078BDJC13-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 29.44 EUR
 currency: EUR
 price: 29.44

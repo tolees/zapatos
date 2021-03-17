@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S75W3NH-es Crocs Classic Zuecos Unisex Adulto Pink 41/42 EU'
 sku: 'B07S75W3NH-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXR2NWD-es Havaianas Slim Crystal Glamour SW Chanclas para Mujer...'
 sku: 'B07FXR2NWD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

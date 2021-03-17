@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HXWBD-es Clarks Step Explorhi Botines para Mujer Negro Black Black...'
 sku: 'B07N1HXWBD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 44.28 EUR
 currency: EUR
 price: 44.28

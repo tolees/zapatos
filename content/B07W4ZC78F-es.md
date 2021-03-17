@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4ZC78F-es Zapatillas para Mujer Altas Aire Libre y Deporte...'
 sku: 'B07W4ZC78F-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

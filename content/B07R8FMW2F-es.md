@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R8FMW2F-es find. Lace Up Wedge Bootie Botines Marrón Tan 39 EU'
 sku: 'B07R8FMW2F-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

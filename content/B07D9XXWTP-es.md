@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9XXWTP-es Jack Wolfskin Vojo Hike 2 Texapore Mid M Wasserdicht...'
 sku: 'B07D9XXWTP-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

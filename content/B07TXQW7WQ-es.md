@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXQW7WQ-es Skechers Go Walk Smart-First Class Chanclas para Mujer...'
 sku: 'B07TXQW7WQ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 28.96 EUR
 currency: EUR
 price: 28.96

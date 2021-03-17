@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5KJ2QV-es Adidas Adilette Comfort Zapatos de Playa y Piscina para...'
 sku: 'B07D5KJ2QV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

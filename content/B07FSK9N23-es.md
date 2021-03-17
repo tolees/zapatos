@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSK9N23-es Clarks Blake Jewel Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07FSK9N23-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

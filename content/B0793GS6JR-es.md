@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793GS6JR-es Clarks Un Aldric Lace Zapatos de Cordones Derby para...'
 sku: 'B0793GS6JR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.01 EUR
 currency: EUR
 price: 30.01

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NPBC95-es 7 PCS Organizadores de Viaje para Maletas Bolsas de...'
 sku: 'B085NPBC95-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

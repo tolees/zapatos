@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVD9GVN-es PIKOLINOS Sandalia Plana de Piel MARAZUL W3F'
 sku: 'B07VVD9GVN-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

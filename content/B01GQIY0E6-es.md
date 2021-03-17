@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GQIY0E6-es Reef Contoured Cushion Chanclas para Hombre Negro Black...'
 sku: 'B01GQIY0E6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

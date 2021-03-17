@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXT523Z-es Geox D Borealis A Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07SXT523Z-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQH9D9T-es FIND Cork Two Part Sling Back Wedge Zapatos de tacón con...'
 sku: 'B07XQH9D9T-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

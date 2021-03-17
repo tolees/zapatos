@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NHNPPT4-es Tamaris 1-1-25059-23 Botines para Mujer Rojo Bordeaux 549...'
 sku: 'B07NHNPPT4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 19.37 EUR
 currency: EUR
 price: 19.37

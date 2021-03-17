@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0758FQBBP-es Clarks Garratt Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B0758FQBBP-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

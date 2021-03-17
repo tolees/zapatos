@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OI3M3O-es Havaianas Brasil Chanclas Unisex Adulto Azul Brasil Logo...'
 sku: 'B001OI3M3O-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.48 EUR
 currency: EUR
 price: 13.48

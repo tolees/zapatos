@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBZBDSF-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
 sku: 'B07XBZBDSF-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

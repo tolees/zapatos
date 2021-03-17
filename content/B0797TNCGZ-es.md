@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797TNCGZ-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre...'
 sku: 'B0797TNCGZ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

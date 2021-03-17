@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A6LTOGS-es Crocs Classic Lined Clog Zuecos Unisex Adulto Negro...'
 sku: 'B01A6LTOGS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 29.58 EUR
 currency: EUR
 price: 29.58

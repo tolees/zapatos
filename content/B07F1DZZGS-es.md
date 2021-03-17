@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1DZZGS-es Havaianas Top Mix Chanclas Unisex Adulto Multicolor Lake...'
 sku: 'B07F1DZZGS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

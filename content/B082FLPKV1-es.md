@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FLPKV1-es P Prettyia Plantillas Cálidas de Invierno Unisex...'
 sku: 'B082FLPKV1-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 7.67 EUR
 currency: EUR
 price: 7.67

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A6LANI6-es Crocs Crocband U Zuecos Unisex Adulto Azul Cerulean Blue-...'
 sku: 'B01A6LANI6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

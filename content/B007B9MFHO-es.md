@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007B9MFHO-es Crocs Crocband U Zuecos Unisex Adulto Gris Charcoal-Ocean...'
 sku: 'B007B9MFHO-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 34.81 EUR
 currency: EUR
 price: 34.81

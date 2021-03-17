@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S74TM5N-es adidas Grand Court Base Zapatos de Tenis para Hombre...'
 sku: 'B07S74TM5N-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

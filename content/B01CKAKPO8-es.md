@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CKAKPO8-es Feliz Caminar - Zuecos Sanitarios Flotantes Blanco 41'
 sku: 'B01CKAKPO8-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

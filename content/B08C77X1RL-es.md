@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C77X1RL-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable...'
 sku: 'B08C77X1RL-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia','zapatos','zuecos', ]
+tags: [ 'sandalia','zapatos','zuecos', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S75WPRR-es Crocs Baya Zuecos Unisex Adulto Amarillo Lemon 7c1 36/37 EU'
 sku: 'B07S75WPRR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DDMT2G-es Tommy Hilfiger Essential Suede Lace Up Derby Zapatos de...'
 sku: 'B076DDMT2G-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 93.95 EUR
 currency: EUR
 price: 93.95

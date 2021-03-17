@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXGCPM-es Crocs Crocband Clog K Zuecos con Correa Unisex-Bambini...'
 sku: 'B01HEXGCPM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

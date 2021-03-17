@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S974JRW-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Electric Pink...'
 sku: 'B07S974JRW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

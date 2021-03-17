@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S854BXY-es Crocs Crocband Zuecos Unisex Adulto Naranja Orange/White...'
 sku: 'B07S854BXY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBVKVZ9-es Botines Impermeables Hombre Mujer Botas de Nieve Botines...'
 sku: 'B07WBVKVZ9-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JKHYV8-es Crocs LiteRide Flip Chanclas Unisex Adulto Negro...'
 sku: 'B076JKHYV8-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

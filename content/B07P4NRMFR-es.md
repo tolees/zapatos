@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4NRMFR-es Art Harlem Botines para Mujer Marrón Cuero Cuero 40 EU'
 sku: 'B07P4NRMFR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 67.89 EUR
 currency: EUR
 price: 67.89

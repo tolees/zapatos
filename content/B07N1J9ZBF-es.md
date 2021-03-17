@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1J9ZBF-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07N1J9ZBF-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 32.84 EUR
 currency: EUR
 price: 32.84

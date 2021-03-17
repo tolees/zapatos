@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXE0L2R-es Crocs Swiftwater Wave M Zapatos de agua Hombre Azul...'
 sku: 'B01MXE0L2R-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

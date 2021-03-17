@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN6DDJ5-es Crocs Baya Clog Zuecos Unisex Niños Verde Volt Green 395...'
 sku: 'B07CN6DDJ5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

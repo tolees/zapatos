@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UVVJOA-es NIKE Benassi JDI Chanclas Unisex Adulto Blanco White/Black...'
 sku: 'B005UVVJOA-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

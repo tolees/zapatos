@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFYLP2F-es Levi s June L S Chanclas para Mujer Negro R Black 59 38 EU'
 sku: 'B07SFYLP2F-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

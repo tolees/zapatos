@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WLR3LJ-es Crocs Crocband U Zuecos Unisex Adulto Amarillo Tennis Ball...'
 sku: 'B071WLR3LJ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

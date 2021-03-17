@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFHDW99-es Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex Tira...'
 sku: 'B07PFHDW99-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

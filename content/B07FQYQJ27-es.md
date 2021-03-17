@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQYQJ27-es Clarks Oakland Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FQYQJ27-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD4KNWK-es Zapatillas de Niños Niñas Running Zapatos Azul 29'
 sku: 'B07VD4KNWK-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

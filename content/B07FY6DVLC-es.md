@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY6DVLC-es Havaianas Slim Chanclas para Mujer Camo Green 7184 41/42 EU'
 sku: 'B07FY6DVLC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

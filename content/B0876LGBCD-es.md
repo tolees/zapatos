@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876LGBCD-es Sandalias duraderas para Hombres Sandalias de Verano para...'
 sku: 'B0876LGBCD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

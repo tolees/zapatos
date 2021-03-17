@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JLGB49-es Crocs Classic Clog K Zuecos Unisex Niños Verde Grass Green...'
 sku: 'B072JLGB49-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

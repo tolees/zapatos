@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQ7TCHQ-es Clarks Originals Desert London Zapatos de Cordones Derby...'
 sku: 'B07FQ7TCHQ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 105.6 EUR
 currency: EUR
 price: 105.6

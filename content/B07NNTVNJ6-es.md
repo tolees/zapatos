@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNTVNJ6-es Under Armour UA Jet Zapatos de Deporte para Hombre Gris...'
 sku: 'B07NNTVNJ6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 45.3 EUR
 currency: EUR
 price: 45.3

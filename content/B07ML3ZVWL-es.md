@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML3ZVWL-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Azul...'
 sku: 'B07ML3ZVWL-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 32.69 EUR
 currency: EUR
 price: 32.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08218VRMX-es Kit Ojetes Metalicos 8mm ManLee 100pcs Ojales Metalicos...'
 sku: 'B08218VRMX-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

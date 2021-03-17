@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL8XQ6C-es Columbia Redmond Zapatos Bajos Impermeables Unisex Niños...'
 sku: 'B07JL8XQ6C-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

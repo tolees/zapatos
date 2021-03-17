@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7KJN7Y-es crocs Crocband U Zuecos Unisex Adulto Azul Ice Blue-White...'
 sku: 'B01N7KJN7Y-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

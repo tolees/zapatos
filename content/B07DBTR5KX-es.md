@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBTR5KX-es HOMCOM Perchero Colgador Metálico Zapatero para Ropa y...'
 sku: 'B07DBTR5KX-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

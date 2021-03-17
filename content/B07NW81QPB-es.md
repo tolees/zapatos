@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW81QPB-es Skechers Keepsakes 2.0 Botines Mujer Morado Mauve Suede...'
 sku: 'B07NW81QPB-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSXGM8K-es BeiaMina Mujer Zapatos Moda Tacón Alto Sandalias...'
 sku: 'B07SSXGM8K-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

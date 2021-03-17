@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQANM1U-es Crocs Crocband Flip Chanclas Unisex – Adulto Rosso...'
 sku: 'B01HQANM1U-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

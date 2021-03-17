@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SY8LZ3-es Timberland Wild Dunes Synthetic Thong Chanclas de Dedo...'
 sku: 'B078SY8LZ3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LT6VM6-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable...'
 sku: 'B089LT6VM6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia','zapatos','zuecos', ]
+tags: [ 'sandalia','zapatos','zuecos', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

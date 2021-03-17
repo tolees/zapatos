@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FF488RN-es Aire Zapatillas Fitness Hombre Zapatos Deportivos para...'
 sku: 'B08FF488RN-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVPNBXN-es Geox U Timothy A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07SVPNBXN-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 83.9 EUR
 currency: EUR
 price: 83.9

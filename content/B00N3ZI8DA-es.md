@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N3ZI8DA-es Havaianas Slim Chanclas Mujer Oro SandGrey/Light Golden...'
 sku: 'B00N3ZI8DA-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

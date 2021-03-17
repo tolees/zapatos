@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWL41RN-es Crocs Literide Clog Kids Zuecos Unisex Niños Verde Neo...'
 sku: 'B07FWL41RN-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.27 EUR
 currency: EUR
 price: 23.27

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQV4LR4-es Clarks Un Tynamo Tie Zapatos de Cordones Brogue para...'
 sku: 'B07TQV4LR4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

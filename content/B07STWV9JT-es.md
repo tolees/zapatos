@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STWV9JT-es Roxy Viva Sparkle Zapatos de Playa y Piscina para Mujer...'
 sku: 'B07STWV9JT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

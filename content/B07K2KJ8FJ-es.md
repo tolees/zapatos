@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2KJ8FJ-es Adidas Adissage Zapatos de playa y piscina Unisex adulto...'
 sku: 'B07K2KJ8FJ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

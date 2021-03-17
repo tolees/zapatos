@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7VDPYN-es Geox Uomo Symbol B Zapatos de Cordones Oxford para Hombre...'
 sku: 'B01N7VDPYN-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 71.87 EUR
 currency: EUR
 price: 71.87

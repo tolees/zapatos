@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBB8DYX-es Crocs Crocband Flip Women Chanclas para Mujer Negro Black...'
 sku: 'B07SBB8DYX-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

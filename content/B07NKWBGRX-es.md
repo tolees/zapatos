@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NKWBGRX-es Sandalias Niño con Plantillas de Trekking Senderismo...'
 sku: 'B07NKWBGRX-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

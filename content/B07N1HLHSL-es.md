@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HLHSL-es Clarks Un Adorn Lace Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1HLHSL-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 28.08 EUR
 currency: EUR
 price: 28.08

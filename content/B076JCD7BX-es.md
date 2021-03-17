@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JCD7BX-es Panama Jack Capri Cork Sandalia con Pulsera para Mujer...'
 sku: 'B076JCD7BX-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 50.04 EUR
 currency: EUR
 price: 50.04

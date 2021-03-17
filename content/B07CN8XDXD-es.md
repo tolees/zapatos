@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8XDXD-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Melon 737...'
 sku: 'B07CN8XDXD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZS8Q9RM-es DC Shoes ADYS700071 Zapatilla Hombre Negro Black/White Bkw...'
 sku: 'B00ZS8Q9RM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

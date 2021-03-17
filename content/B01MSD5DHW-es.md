@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSD5DHW-es Crocs Baya Zuecos Unisex Adulto Marrón Espresso 37/38 EU'
 sku: 'B01MSD5DHW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZLQ1F-es Havaianas Ipe Chanclas Unisex Adulto Multicolor...'
 sku: 'B07SLZLQ1F-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

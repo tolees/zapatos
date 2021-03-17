@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWCS286-es AGPTEK Bolsa Deporte y Viaje para Mujer y Hombre con...'
 sku: 'B07PWCS286-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

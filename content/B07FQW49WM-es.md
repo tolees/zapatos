@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQW49WM-es Clarks Edward Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FQW49WM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.46 EUR
 currency: EUR
 price: 35.46

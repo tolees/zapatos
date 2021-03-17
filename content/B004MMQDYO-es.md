@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004MMQDYO-es Josef Seibel Schuhfabrik GmbH Anvers 08 Zapatos de...'
 sku: 'B004MMQDYO-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

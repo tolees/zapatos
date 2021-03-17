@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYBWSR5-es Quiksilver Molokai Abyss Cork-Sandals For Men Zapatos de...'
 sku: 'B07DYBWSR5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

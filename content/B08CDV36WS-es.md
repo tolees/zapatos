@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDV36WS-es Zapatos de Seguridad Hombre Mujer Zapatillas de Trabajo...'
 sku: 'B08CDV36WS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

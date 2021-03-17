@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZFX9WV-es Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos...'
 sku: 'B07TZFX9WV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

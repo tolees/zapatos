@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDYXSWW-es Marca Amazon - find. Casual Suede Ankle Botines Naranja...'
 sku: 'B07RDYXSWW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

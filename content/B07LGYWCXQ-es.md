@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGYWCXQ-es JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes...'
 sku: 'B07LGYWCXQ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

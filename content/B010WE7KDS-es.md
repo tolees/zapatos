@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010WE7KDS-es Crocs Classic U Zuecos Unisex Adulto Lemon 43/44 EU'
 sku: 'B010WE7KDS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

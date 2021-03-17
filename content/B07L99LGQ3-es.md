@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L99LGQ3-es Spiuk Altube MTB Zapatilla Unisex Adulto Amarillo Flúor...'
 sku: 'B07L99LGQ3-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 59.88 EUR
 currency: EUR
 price: 59.88

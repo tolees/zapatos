@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN4HB1Y-es Crocs Crocband Flip Chanclas Unisex-Adult Grey Light...'
 sku: 'B07CN4HB1Y-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

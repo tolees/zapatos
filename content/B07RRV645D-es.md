@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRV645D-es Zapatos de Seguridad para Hombre Zapatillas de Seguridad...'
 sku: 'B07RRV645D-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

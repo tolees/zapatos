@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQYNBR1-es Clarks Maritsa Lara Sandalia con Pulsera Tira de Tobillo...'
 sku: 'B07FQYNBR1-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

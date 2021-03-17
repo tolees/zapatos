@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XC6LWKM-es Clarks Tilden Plain Zapatos de cordones derby Hombre...'
 sku: 'B06XC6LWKM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 41.16 EUR
 currency: EUR
 price: 41.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJH38P9-es Birkenstock Rio Sandalia con Pulsera para Niñas Rosa Coral...'
 sku: 'B07MJH38P9-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

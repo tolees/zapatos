@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH35QRC-es Columbia Five Forks Zapatos de Senderismo Impermeables...'
 sku: 'B07JH35QRC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

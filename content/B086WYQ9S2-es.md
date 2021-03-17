@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WYQ9S2-es AARDIMI - Sandalias para mujer sandalias con tacón plano...'
 sku: 'B086WYQ9S2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQX26FD-es SINOES Hombre 720 Caña Baja Gimnasia Ligero Transpirable...'
 sku: 'B07VQX26FD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

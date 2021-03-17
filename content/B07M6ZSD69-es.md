@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6ZSD69-es COZ7W|#Cole Haan Zerogrand Wingtip Zapatos de Cordones...'
 sku: 'B07M6ZSD69-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

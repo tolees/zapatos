@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMZQ87R-es Crocs Santa Cruz Canvas Flip Men Zapatos de Playa y...'
 sku: 'B07CMZQ87R-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

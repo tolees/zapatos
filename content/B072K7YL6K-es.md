@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K7YL6K-es find. Botines Años 60 Efecto Ante con Cremallera Mujer...'
 sku: 'B072K7YL6K-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

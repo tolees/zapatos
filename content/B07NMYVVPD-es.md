@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NMYVVPD-es Nike Court Vision Mid Zapatos de Baloncesto para Hombre...'
 sku: 'B07NMYVVPD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 48.53 EUR
 currency: EUR
 price: 48.53

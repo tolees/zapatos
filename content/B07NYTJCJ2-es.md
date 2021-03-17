@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTJCJ2-es Skechers Stamina Cutback Zapatilla Deportiva con Cordones...'
 sku: 'B07NYTJCJ2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

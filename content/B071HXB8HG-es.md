@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HXB8HG-es Crocs Classic Clog Zuecos Unisex Adulto Ballerina Pink...'
 sku: 'B071HXB8HG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 25.23 EUR
 currency: EUR
 price: 25.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HWSV2VY-es crocs Baya Zuecos Unisex Adulto Azul Cerulean Blue 39/40 EU'
 sku: 'B00HWSV2VY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

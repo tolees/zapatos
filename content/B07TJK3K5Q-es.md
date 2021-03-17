@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJK3K5Q-es Clarks Hero Walk Zapatos de Cordones Derby Blanco White...'
 sku: 'B07TJK3K5Q-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 47.41 EUR
 currency: EUR
 price: 47.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMHKH3J-es SimpleLife Sport Bag Gym Shoulder Bag Travel Travel Sports...'
 sku: 'B07RMHKH3J-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

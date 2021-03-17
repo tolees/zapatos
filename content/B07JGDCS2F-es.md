@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGDCS2F-es Columbia WAYFINDER Outdry Zapatos Multideporte para Hombre...'
 sku: 'B07JGDCS2F-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

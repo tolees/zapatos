@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCXCZQ5-es Zapatillas de Deporte para niños Niños Zapatillas de...'
 sku: 'B07MCXCZQ5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2GQRZ5-es Under Armour Women s Atlantic Dune T Dusch-& Badeschuhe...'
 sku: 'B07Q2GQRZ5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

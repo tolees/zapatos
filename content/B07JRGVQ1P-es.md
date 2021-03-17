@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JRGVQ1P-es Zapatillas de Seguridad Hombre LM-18 Zapatos de Seguridad...'
 sku: 'B07JRGVQ1P-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

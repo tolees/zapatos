@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013SPM3V2-es Victoria Mercedes Lona Pañuelo Zapatos de primeros pasos...'
 sku: 'B013SPM3V2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

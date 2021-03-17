@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5D7VRP-es Salewa WS Alpenviolet Mid GTX Zapatos de High Rise...'
 sku: 'B07M5D7VRP-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 59.83 EUR
 currency: EUR
 price: 59.83

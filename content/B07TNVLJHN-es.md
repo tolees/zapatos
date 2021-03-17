@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNVLJHN-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Rosa Pink...'
 sku: 'B07TNVLJHN-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

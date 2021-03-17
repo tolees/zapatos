@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001U9JLCS-es Crocs Classic Clog Zuecos Unisex Adulto Morado Lavanda 530...'
 sku: 'B001U9JLCS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

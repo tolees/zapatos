@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS57YWM-es Asics Classic CT Zapatos de Baloncesto para Hombre Blanco...'
 sku: 'B07QS57YWM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 42 EUR
 currency: EUR
 price: 42

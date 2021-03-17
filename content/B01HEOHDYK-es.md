@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEOHDYK-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños Rosa...'
 sku: 'B01HEOHDYK-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003AOP0DK-es Havaianas Top Chanclas Unisex Adulto Rojo Ruby Red 37/38 EU'
 sku: 'B003AOP0DK-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.71 EUR
 currency: EUR
 price: 11.71

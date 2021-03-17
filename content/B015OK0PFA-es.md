@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OK0PFA-es PUMA Epic Flip V2 Chanclas Unisex-Adulto Negro Black/White...'
 sku: 'B015OK0PFA-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

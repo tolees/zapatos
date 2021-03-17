@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGT5KF7-es Havaianas Slim Frozen Chanclas Chica Multicolor Crystal...'
 sku: 'B07VGT5KF7-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

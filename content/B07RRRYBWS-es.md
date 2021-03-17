@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRRYBWS-es Sandalias para Mujer Verano 2019 Plataforma Cuña...'
 sku: 'B07RRRYBWS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQYSSFQ-es Clarks Laina RAE Zapatos de Tacón para Mujer Beige Nude...'
 sku: 'B07FQYSSFQ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

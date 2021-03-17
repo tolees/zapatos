@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N25I1OQ-es Geox Uomo Symbol B Zapatos de Cordones Oxford para Hombre...'
 sku: 'B01N25I1OQ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STWTJ4J-es Roxy Portofino Zapatos de Playa y Piscina para Mujer...'
 sku: 'B07STWTJ4J-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKD2Q83-es find. Kitten Heel Point Toe Zapatos con Tira de Tobillo...'
 sku: 'B07PKD2Q83-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

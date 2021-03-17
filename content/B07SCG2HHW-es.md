@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCG2HHW-es Crocs Literide Clog Zuecos Unisex Adulto Azul Navy/Almost...'
 sku: 'B07SCG2HHW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

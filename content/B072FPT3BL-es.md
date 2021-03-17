@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FPT3BL-es DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet...'
 sku: 'B072FPT3BL-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

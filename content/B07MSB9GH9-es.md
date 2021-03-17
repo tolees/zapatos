@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSB9GH9-es Kickers Maldan Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSB9GH9-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.13 EUR
 currency: EUR
 price: 30.13

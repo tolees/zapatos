@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZFKCTY-es Nike Benassi Sandalia de Diapositivas para Hombre Hierro...'
 sku: 'B07SZFKCTY-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

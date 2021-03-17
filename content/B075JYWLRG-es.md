@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JYWLRG-es Madbike Accesorios de Cambio de Engranaje para Zapatos...'
 sku: 'B075JYWLRG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLP43X4-es Clarks Hero Zapatos de Cordones Brogue para Mujer Gris...'
 sku: 'B07TLP43X4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

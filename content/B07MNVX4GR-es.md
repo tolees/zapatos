@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNVX4GR-es SINOES Zapatos De Los Hombres De Microfibra Otoño De...'
 sku: 'B07MNVX4GR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

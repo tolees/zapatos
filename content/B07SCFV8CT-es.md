@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFV8CT-es Crocs Classic Glitter Clog Kids Zuecos Unisex Niños Rosa...'
 sku: 'B07SCFV8CT-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

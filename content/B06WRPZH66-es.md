@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRPZH66-es adidas Adilette Shower Chanclas Hombre Blanco Footwear...'
 sku: 'B06WRPZH66-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

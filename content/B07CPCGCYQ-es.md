@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPCGCYQ-es Crocs Crocband U Zuecos Unisex Adulto Verde Army Green-...'
 sku: 'B07CPCGCYQ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

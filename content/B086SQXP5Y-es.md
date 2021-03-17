@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SQXP5Y-es Mujer Zapatos de tacón Alto con tacón de Aguja de Boda...'
 sku: 'B086SQXP5Y-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

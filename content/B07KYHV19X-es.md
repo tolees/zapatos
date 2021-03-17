@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYHV19X-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero...'
 sku: 'B07KYHV19X-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

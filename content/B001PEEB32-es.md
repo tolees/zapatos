@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001PEEB32-es adidas Originals Adilette Zapatos de Playa y Piscina...'
 sku: 'B001PEEB32-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

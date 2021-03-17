@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085L89XTP-es MoneRffi Mujeres Sandalias Planas Sandalias Casuales...'
 sku: 'B085L89XTP-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

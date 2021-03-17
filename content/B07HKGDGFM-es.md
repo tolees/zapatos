@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKGDGFM-es Under Armour UA Lockdown 4 Zapatos de Baloncesto para...'
 sku: 'B07HKGDGFM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 48.28 EUR
 currency: EUR
 price: 48.28

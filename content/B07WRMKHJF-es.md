@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRMKHJF-es Skechers Sargo Reyon Chanclas para Hombre Marrón Chocolate...'
 sku: 'B07WRMKHJF-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 27.65 EUR
 currency: EUR
 price: 27.65

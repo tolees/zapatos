@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHL9WB9-es Columbia WAYFINDER Zapatos Multideporte para Mujer Negro...'
 sku: 'B07JHL9WB9-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

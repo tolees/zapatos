@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSK3T2T-es Clarks Vargo Vibe Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSK3T2T-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

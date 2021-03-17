@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SST9WY7-es Quiksilver Carver Print Zapatos de Playa y Piscina para...'
 sku: 'B07SST9WY7-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCHHP87-es Clarks Gilman Mode Zapatos de Cordones Derby para Hombre...'
 sku: 'B06XCHHP87-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 31.76 EUR
 currency: EUR
 price: 31.76

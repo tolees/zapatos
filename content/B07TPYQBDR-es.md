@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPYQBDR-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07TPYQBDR-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 28.68 EUR
 currency: EUR
 price: 28.68

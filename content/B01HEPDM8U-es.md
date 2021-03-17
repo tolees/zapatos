@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEPDM8U-es Crocs Crocband Clog K Zuecos con Correa Trasera Unisex-...'
 sku: 'B01HEPDM8U-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK465YV-es Geox Tapuz Bebe Sandalia Niño Transpirantes para Bebés...'
 sku: 'B07DK465YV-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

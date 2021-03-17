@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K97C1QH-es Crocs Crocband Zuecos Unisex Adulto Rosa Pink...'
 sku: 'B07K97C1QH-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

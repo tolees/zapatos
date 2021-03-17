@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5DLN38-es Dannto Zapatos luminosos de 7 colores con luz led para...'
 sku: 'B07H5DLN38-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

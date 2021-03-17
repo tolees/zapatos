@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4NYYS2-es UCAYALI Zapatos de Trabajo Unisex Adulto Azul/Negro Talla 44'
 sku: 'B08G4NYYS2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

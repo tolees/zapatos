@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY8WFHW-es lodi ESIN Botines para Mujer Negro Glove Negro Glove Negro...'
 sku: 'B07NY8WFHW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 129.74 EUR
 currency: EUR
 price: 129.74

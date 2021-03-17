@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GEECFOA-es Rieker Mujer Sandalias de Vestir 62461 señora Sandalias de...'
 sku: 'B00GEECFOA-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2MLC3L-es Adidas Adilette Aqua Zapatos de playa y piscina Unisex...'
 sku: 'B07K2MLC3L-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR3CHBS-es Clarks Un Trail Form Zapatos de Cordones Derby Marrón Tan...'
 sku: 'B07FR3CHBS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

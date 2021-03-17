@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLQ8SQN-es Timberland Bradstreet Perforated Plain Toe Zapatos de...'
 sku: 'B07JLQ8SQN-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

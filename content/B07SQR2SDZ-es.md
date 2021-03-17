@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQR2SDZ-es Quiksilver Molokai Vacancy Youth Zapatos de Playa y...'
 sku: 'B07SQR2SDZ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

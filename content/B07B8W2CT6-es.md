@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8W2CT6-es Clarks Vargo Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07B8W2CT6-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

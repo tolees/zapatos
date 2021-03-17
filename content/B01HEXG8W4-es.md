@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXG8W4-es Crocs Classic Clog K Zuecos Unisex Niños Negro Black 27/28 EU'
 sku: 'B01HEXG8W4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

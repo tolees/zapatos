@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ9KF88-es Marca Amazon - FIND Stiletto Round Toe T-Bar Zapatos de...'
 sku: 'B07XQ9KF88-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

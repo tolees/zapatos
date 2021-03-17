@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSK8R65-es Clarks Un Karely Sun Chanclas para Mujer Gris Sage Nubuck-...'
 sku: 'B07FSK8R65-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 68.69 EUR
 currency: EUR
 price: 68.69

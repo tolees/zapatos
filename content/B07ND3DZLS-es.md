@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND3DZLS-es Billabong Sunlight Zapatos de Playa y Piscina para Mujer...'
 sku: 'B07ND3DZLS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

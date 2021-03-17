@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QEMRZM4-es Crocs Classic Clog Zuecos Unisex Adulto Azul Pool 40M...'
 sku: 'B00QEMRZM4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

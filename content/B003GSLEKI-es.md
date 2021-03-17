@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003GSLEKI-es Havaianas Brasil Logo Chanclas Unisex niños Azul Navy Blue...'
 sku: 'B003GSLEKI-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

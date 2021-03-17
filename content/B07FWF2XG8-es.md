@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWF2XG8-es Columbia Ruckel Ridge Plus Waterproof Zapatos Impermeables...'
 sku: 'B07FWF2XG8-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRN381-es Geox D New ANNYA Mid B Botines para Mujer Marrón Brown...'
 sku: 'B07LFRN381-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HWCW8-es Clarks Sharon Noel Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1HWCW8-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.23 EUR
 currency: EUR
 price: 26.23

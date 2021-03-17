@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3GY97P-es Dockers by Gerli 43ln201 Botines para Mujer Marrón Braun...'
 sku: 'B07Q3GY97P-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

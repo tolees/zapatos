@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFYQLC-es Crocs Literide Flip Chanclas Unisex Adulto Azul Ice Blue...'
 sku: 'B07SCFYQLC-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 27.43 EUR
 currency: EUR
 price: 27.43

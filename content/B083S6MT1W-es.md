@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083S6MT1W-es COFACE Chanclas para Mujer Chancletas de Playa Sandalias...'
 sku: 'B083S6MT1W-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','zapatos', ]
+tags: [ 'chanclas','zapatos', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

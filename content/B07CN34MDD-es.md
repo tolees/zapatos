@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN34MDD-es Crocs Crocband Flip U Chanclas para Mujer Rosa Melon/White...'
 sku: 'B07CN34MDD-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCZDR4A-es ValueHall Crampones universales 18 dientes acero hielo...'
 sku: 'B01MCZDR4A-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

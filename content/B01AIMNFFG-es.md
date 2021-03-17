@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AIMNFFG-es Relaxdays – Zapatero Compuesto de estructuras de Acero...'
 sku: 'B01AIMNFFG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGQRN6Z-es XTI 49285 Botines para Mujer Blanco 39 EU'
 sku: 'B07PGQRN6Z-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

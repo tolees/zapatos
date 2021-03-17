@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014C5RSS-es Crocs Classic Clog Zuecos Unisex Adulto Verde Army Green...'
 sku: 'B0014C5RSS-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1LZ59Y-es Crocs Crocband Clog K Zuecos con Correa Unisex Niños Azul...'
 sku: 'B01J1LZ59Y-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 22.03 EUR
 currency: EUR
 price: 22.03

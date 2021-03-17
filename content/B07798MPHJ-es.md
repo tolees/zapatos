@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07798MPHJ-es COMVIP Bebé niña Resbalón Anti del algodón elástico de...'
 sku: 'B07798MPHJ-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla','zapatos', ]
+tags: [ 'zapatilla','zapatos', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

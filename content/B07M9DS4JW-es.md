@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9DS4JW-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
 sku: 'B07M9DS4JW-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9BVVP5-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Oceano...'
 sku: 'B07D9BVVP5-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

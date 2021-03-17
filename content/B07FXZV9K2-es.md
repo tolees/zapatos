@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXZV9K2-es Havaianas Top Tiras Chanclas para Mujer Dorado Rose Nude...'
 sku: 'B07FXZV9K2-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

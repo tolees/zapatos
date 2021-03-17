@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQVNMNF-es Clarks Paulson Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07TQVNMNF-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 27.21 EUR
 currency: EUR
 price: 27.21

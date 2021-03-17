@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GCZCZOG-es Redskins Gosseti Zapatos de Cordones Oxford para Hombre...'
 sku: 'B00GCZCZOG-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

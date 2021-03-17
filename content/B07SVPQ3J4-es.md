@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVPQ3J4-es Geox U Artie B Chanclas para Hombre Marrón Coffee C6009 40 EU'
 sku: 'B07SVPQ3J4-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 31.75 EUR
 currency: EUR
 price: 31.75
