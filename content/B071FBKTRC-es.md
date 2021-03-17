@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FBKTRC-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B071FBKTRC-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

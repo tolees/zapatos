@@ -28,8 +28,8 @@ Tienes [Levi s June Batwing  Chanclas Hombre  Negro  R Black 59   42 EU](https:/
 
 🔎:
 
+- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 - Levis Negro Deslizadores Batwing
 - Ver descripción del producto para obtener más información.
-- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SFJ9JJM/?tag=tolees-21)

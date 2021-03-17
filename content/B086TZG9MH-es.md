@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086TZG9MH-es YUNB 6PCS Zapatos de plástico Beige de tacón Alto Consejos...'
 sku: 'B086TZG9MH-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

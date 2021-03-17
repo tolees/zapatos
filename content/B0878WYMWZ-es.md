@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0878WYMWZ-es Odetina Zapatos de tacón alto sólido Mary Janes con correa...'
 sku: 'B0878WYMWZ-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 20.14 EUR
 currency: EUR
 price: 20.14

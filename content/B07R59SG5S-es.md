@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R59SG5S-es find. High Point Botines Rojo Burgundy Croc 38 EU'
 sku: 'B07R59SG5S-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

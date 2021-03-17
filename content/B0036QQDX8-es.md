@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036QQDX8-es Havaianas Brasil Logo Chanclas Unisex Adulto Blanco White...'
 sku: 'B0036QQDX8-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

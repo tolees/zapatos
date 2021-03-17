@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C4HPCW-es Birkenstock Rio Sandalia con Pulsera para Niñas Blanco...'
 sku: 'B079C4HPCW-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 35.93 EUR
 currency: EUR
 price: 35.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072T2TQ7Y-es Skechers On The Go 600-Brilliancy Sandalia con Pulsera...'
 sku: 'B072T2TQ7Y-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

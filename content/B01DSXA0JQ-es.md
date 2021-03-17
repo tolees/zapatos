@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSXA0JQ-es SONGMICS Perchero con 3 Capas para Zapatos con 18 Ganchos...'
 sku: 'B01DSXA0JQ-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

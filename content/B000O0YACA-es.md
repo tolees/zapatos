@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000O0YACA-es Crocs Classic Clog Zuecos Unisex Adulto Morado Lavanda 530...'
 sku: 'B000O0YACA-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 24.24 EUR
 currency: EUR
 price: 24.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MW6YWGH-es Camper Pelotas XL Zapatos de Cordones Oxford para Hombre...'
 sku: 'B07MW6YWGH-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

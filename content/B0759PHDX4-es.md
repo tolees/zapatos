@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759PHDX4-es Clarks Step Isle Lace Zapatos de Cordones Derby para...'
 sku: 'B0759PHDX4-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

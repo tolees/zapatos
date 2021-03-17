@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S975PRB-es Crocs Crocband Flip Women Chanclas para Mujer Azul Navy...'
 sku: 'B07S975PRB-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E42CRA6-es Timberland Bradstreet Ox Zapatos de Cordones Oxford para...'
 sku: 'B00E42CRA6-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0798QC5RP-es Tommy Hilfiger Tommy Loves NY Beach Sandal Chanclas para...'
 sku: 'B0798QC5RP-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

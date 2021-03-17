@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0744BRSJQ-es gracosy Alpargatas Zapatos de Mujer Caminando Zapatillas...'
 sku: 'B0744BRSJQ-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

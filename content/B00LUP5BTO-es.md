@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LUP5BTO-es Crocs Freesail Clog Zuecos para Mujer Azul Navy 42/43 EU'
 sku: 'B00LUP5BTO-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

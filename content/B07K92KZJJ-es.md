@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K92KZJJ-es Crocs Classic Clog K Zuecos Unisex Niños Rosa Pink...'
 sku: 'B07K92KZJJ-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

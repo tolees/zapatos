@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M17UQQS-es Havaianas Brasil Chanclas Unisex Adulto Gris Steel Grey...'
 sku: 'B00M17UQQS-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

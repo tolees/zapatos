@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0030ZSZTA-es adidas Duramo Slide Chanclas Unisex Adulto Negro...'
 sku: 'B0030ZSZTA-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

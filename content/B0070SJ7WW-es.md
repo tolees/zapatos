@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0070SJ7WW-es Timberland Stormbucks PT Zapatos de Cordones Oxford para...'
 sku: 'B0070SJ7WW-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 85.3 EUR
 currency: EUR
 price: 85.3

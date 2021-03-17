@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084LDXKYK-es Syllana 2 PCS Bolsa de Lavadora para Zapatos Bolsa de...'
 sku: 'B084LDXKYK-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DLYVGC-es Clarks Brixby Cove Sandalia con Pulsera para Hombre Marrón...'
 sku: 'B075DLYVGC-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 44.68 EUR
 currency: EUR
 price: 44.68

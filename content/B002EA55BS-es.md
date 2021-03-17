@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002EA55BS-es Havaianas Slim Chanclas Mujer Negro Black 0090 33/34 EU'
 sku: 'B002EA55BS-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

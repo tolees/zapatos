@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YB6CW8P-es XTI Zapatilla XTI049956 para Mujer Negro 39'
 sku: 'B07YB6CW8P-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

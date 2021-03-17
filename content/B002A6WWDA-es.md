@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002A6WWDA-es Havaianas Slim Chanclas para Mujer Oro SandGrey/Light...'
 sku: 'B002A6WWDA-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

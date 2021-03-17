@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RC4MPC-es ELEEMEE Mujer Moda Sandalias Tacón Alto Correa de Tobillo...'
 sku: 'B087RC4MPC-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

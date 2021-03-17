@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876FLM2D-es NIGHT CHERRY Mujer Moda Tacón Ancho Verano Sandalias...'
 sku: 'B0876FLM2D-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

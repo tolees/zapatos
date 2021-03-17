@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JLFJSX-es Crocs LiteRide Flip Chanclas Unisex Adulto Negro...'
 sku: 'B076JLFJSX-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67

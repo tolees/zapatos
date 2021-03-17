@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TX2TV5-es Si Diosa Moda Mujer Zapatos Verano D Orsay Stiletto Heels...'
 sku: 'B088TX2TV5-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

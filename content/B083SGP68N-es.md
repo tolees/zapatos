@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SGP68N-es IceUnicorn - Escarpines de baño para niña zapatos de playa...'
 sku: 'B083SGP68N-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

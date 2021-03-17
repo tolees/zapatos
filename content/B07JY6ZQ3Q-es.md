@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY6ZQ3Q-es Zapatos de Cuero para Hombres Patrón de impresión Vestido...'
 sku: 'B07JY6ZQ3Q-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

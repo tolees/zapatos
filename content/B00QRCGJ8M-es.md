@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QRCGJ8M-es Geox U NEBULA B - zapatilla deportiva de cuero hombre Azul...'
 sku: 'B00QRCGJ8M-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
 actualPrice: 58.59 EUR
 currency: EUR
 price: 58.59

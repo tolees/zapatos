@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RW47TGW-es Zapatillas Hombres De Deporte Talla 39-48 Sin Cordones De...'
 sku: 'B07RW47TGW-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

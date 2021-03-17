@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0881P4CKJ-es XTI - Sandalia Plana Casual - Cierre con Hebilla - Color...'
 sku: 'B0881P4CKJ-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

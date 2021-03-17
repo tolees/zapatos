@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RD99NH2-es crocs Crocband U Zuecos Unisex Adulto Rosa Pearl Pink-Wild...'
 sku: 'B00RD99NH2-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

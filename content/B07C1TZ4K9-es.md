@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C1TZ4K9-es H by Hudson Antrim Zapatos de Cordones Derby para Hombre...'
 sku: 'B07C1TZ4K9-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

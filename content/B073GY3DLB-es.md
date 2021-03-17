@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GY3DLB-es Clarks Batcombe Hall Derby - Zapatos de Cordones para...'
 sku: 'B073GY3DLB-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

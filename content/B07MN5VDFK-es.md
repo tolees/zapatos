@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN5VDFK-es Fly London Ragi539fly Botines para Mujer Rojo Red 006 38 EU'
 sku: 'B07MN5VDFK-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TFHN19-es LuckyGirls Hombres Verano Roma Chanclas Zapatillas de...'
 sku: 'B081TFHN19-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

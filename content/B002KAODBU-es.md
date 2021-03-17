@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002KAODBU-es Crocs Crocband U Zuecos Unisex Adulto Blanco White 45-46 EU'
 sku: 'B002KAODBU-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78
