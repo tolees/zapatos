@@ -28,12 +28,12 @@ Ahora mismo tienes [Havaianas Flores  Chanclas para Niñas  Multicolor  Crystal 
 
 🔎:
 
-- Revestimiento: Sin forro
-- Altura del tacón: 1 centímetros
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
-- Material de la suela: Goma
+- Altura del tacón: 1 centímetros
 - Material exterior: Caucho
+- Revestimiento: Sin forro
+- Material de la suela: Goma
 - Cierre: Sin cordones
+- Anchura del zapato: Normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SLZKQKM/?tag=tolees-21)
