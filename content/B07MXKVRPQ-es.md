@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXKVRPQ-es Buffalo - 1339-14 2.0 - Zapatos para mujer Negro negro 37 EU'
 sku: 'B07MXKVRPQ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

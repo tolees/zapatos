@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00196JOFG-es Dr. Martens 1461 Zapatos de cordones para Hombre Rojo...'
 sku: 'B00196JOFG-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 81.7 EUR
 currency: EUR
 price: 81.7

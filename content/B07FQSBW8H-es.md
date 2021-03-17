@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQSBW8H-es Clarks Step Urban Mix Zapatos de Cordones Derby para...'
 sku: 'B07FQSBW8H-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

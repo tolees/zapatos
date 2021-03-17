@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFWT7H6-es Marca Amazon - find. Zip Front Leather Botines Negro Black...'
 sku: 'B07RFWT7H6-es'
-tags: [ 'botines', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

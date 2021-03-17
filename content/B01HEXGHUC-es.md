@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXGHUC-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños Rojo...'
 sku: 'B01HEXGHUC-es'
-tags: [ 'zuecos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

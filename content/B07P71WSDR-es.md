@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P71WSDR-es ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos...'
 sku: 'B07P71WSDR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

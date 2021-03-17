@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKYXSV3-es New Balance 574v2 Zapatilla Baja de Deporte para Hombre...'
 sku: 'B07PKYXSV3-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

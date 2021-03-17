@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HYDFVP4-es Gorila Cole Zapatos Unisex para Niños Azul Oscuro 34 EU'
 sku: 'B01HYDFVP4-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

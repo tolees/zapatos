@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6F7R7B-es Vagabond Lara Botines para Mujer Multicolor Sand/Black 87...'
 sku: 'B07P6F7R7B-es'
-tags: [ 'botines', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
 actualPrice: 56.79 EUR
 currency: EUR
 price: 56.79

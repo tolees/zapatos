@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08629XJRT-es Fiween Zapatos de Color Beige de plástico de Alta talón...'
 sku: 'B08629XJRT-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

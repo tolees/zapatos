@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFXX81-es Crocs Crocband Zuecos Unisex Adulto Verde Deep Green/White...'
 sku: 'B07SCFXX81-es'
-tags: [ 'zuecos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

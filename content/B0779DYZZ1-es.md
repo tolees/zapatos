@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779DYZZ1-es Spiuk Rodda Road Zapatilla Unisex Adulto Amarillo AV 43'
 sku: 'B0779DYZZ1-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
 actualPrice: 64.34 EUR
 currency: EUR
 price: 64.34

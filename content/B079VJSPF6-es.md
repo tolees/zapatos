@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VJSPF6-es Clarks Un Aldric Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B079VJSPF6-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 66.91 EUR
 currency: EUR
 price: 66.91

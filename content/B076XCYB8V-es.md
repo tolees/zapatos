@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076XCYB8V-es Geox J Sveth A Zapatilla Baja para Niños Azul Royal 27 EU'
 sku: 'B076XCYB8V-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6ZNTXZ-es FitFlop Mukluk Shorty III Botines para Mujer Marrón...'
 sku: 'B07L6ZNTXZ-es'
-tags: [ 'botines', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
 actualPrice: 95.02 EUR
 currency: EUR
 price: 95.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WJLF66-es Sandalias Mujer Planas Zapatillas Verano Chanclas con...'
 sku: 'B086WJLF66-es'
-tags: [ 'chanclas','zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','zapatos', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JXZ6H7-es XTI Sandalia BAS034250 para Mujer Negro 38'
 sku: 'B086JXZ6H7-es'
-tags: [ 'sandalia', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQFL4N9-es Botas de Nieve Hombre Antideslizante Invierno Botines...'
 sku: 'B07JQFL4N9-es'
-tags: [ 'botines','zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

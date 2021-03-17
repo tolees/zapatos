@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828V1PYY-es Plantillas calentadas calentadores de pies plantillas de...'
 sku: 'B0828V1PYY-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

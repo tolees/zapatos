@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NPBC95-es 7 PCS Organizadores de Viaje para Maletas Bolsas de...'
 sku: 'B085NPBC95-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

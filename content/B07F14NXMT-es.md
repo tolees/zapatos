@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F14NXMT-es Havaianas Slim Logo Chanclas para Niñas Azul Blue 29/30 EU'
 sku: 'B07F14NXMT-es'
-tags: [ 'chanclas', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

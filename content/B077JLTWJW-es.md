@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JLTWJW-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
 sku: 'B077JLTWJW-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

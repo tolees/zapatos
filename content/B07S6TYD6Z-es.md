@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6TYD6Z-es El Naturalista N5133 Botines para Mujer Negro Black-...'
 sku: 'B07S6TYD6Z-es'
-tags: [ 'botines', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines', ]
 actualPrice: 45.58 EUR
 currency: EUR
 price: 45.58

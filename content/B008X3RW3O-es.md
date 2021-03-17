@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008X3RW3O-es Geox U Federico W Zapatos Derby para Hombre Negro Black...'
 sku: 'B008X3RW3O-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

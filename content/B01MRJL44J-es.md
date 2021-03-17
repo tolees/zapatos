@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRJL44J-es Asiv 20 Piezas Ropa y Zapatos para Muñeca Doll - 10 Piezas...'
 sku: 'B01MRJL44J-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

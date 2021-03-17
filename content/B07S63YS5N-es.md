@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S63YS5N-es Crocs Literide Flip Chanclas Unisex Adulto Verde Neo...'
 sku: 'B07S63YS5N-es'
-tags: [ 'chanclas', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 18.48 EUR
 currency: EUR
 price: 18.48

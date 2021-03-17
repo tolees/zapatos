@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRH5FK6-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B08BRH5FK6-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

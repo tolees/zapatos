@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WB91KH-es Stonefly Berry II 1 Calf Zapatos de Cordones Brogue para...'
 sku: 'B078WB91KH-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 49.96 EUR
 currency: EUR
 price: 49.96

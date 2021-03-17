@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X6PSZ2-es Geox Uomo Sandal Strada D Sandalia con Pulsera para Hombre...'
 sku: 'B076X6PSZ2-es'
-tags: [ 'sandalia', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 50.19 EUR
 currency: EUR
 price: 50.19

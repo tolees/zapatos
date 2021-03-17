@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKZ31V7-es New Balance 574v2 Zapatilla Baja de Deporte para Hombre...'
 sku: 'B07PKZ31V7-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
 actualPrice: 48.83 EUR
 currency: EUR
 price: 48.83

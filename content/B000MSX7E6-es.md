@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MSX7E6-es Birkenstock Arizona Zapatos con Hebilla Unisex Adulto...'
 sku: 'B000MSX7E6-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

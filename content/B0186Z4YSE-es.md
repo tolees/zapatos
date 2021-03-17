@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0186Z4YSE-es Homar sin corbata Cordones de zapatos para niños y adultos...'
 sku: 'B0186Z4YSE-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

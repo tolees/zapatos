@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBHH6KG-es JOINFREE Zapatos de Agua para niños Calzado de Secado...'
 sku: 'B07PBHH6KG-es'
-tags: [ 'botines','zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGWGQM-es Geox D Sandal Vega A Sandalia con Pulsera para Mujer Beige...'
 sku: 'B07SQGWGQM-es'
-tags: [ 'sandalia', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 50.66 EUR
 currency: EUR
 price: 50.66

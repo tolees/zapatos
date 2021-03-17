@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084JCNW9F-es XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón...'
 sku: 'B084JCNW9F-es'
-tags: [ 'sandalia', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sandalia', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LITTDS-es Crocs Crocband U Zuecos Unisex Adulto Negro Black 46-47 EU'
 sku: 'B002LITTDS-es'
-tags: [ 'zuecos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zuecos', ]
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

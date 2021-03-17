@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ABQKUU-es Havaianas Brasil Chanclas Unisex Adulto Azul Brasil Logo...'
 sku: 'B003ABQKUU-es'
-tags: [ 'chanclas', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

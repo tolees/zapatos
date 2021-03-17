@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V5REM4W-es ElegantPark HC1509 Zapatos de tacón Zapato con Cierre Raso...'
 sku: 'B00V5REM4W-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

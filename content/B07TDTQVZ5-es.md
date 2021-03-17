@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TDTQVZ5-es Kappa Krus Chanclas Unisex Adulto Rojo Red/White 2010 45 EU'
 sku: 'B07TDTQVZ5-es'
-tags: [ 'chanclas', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

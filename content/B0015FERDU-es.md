@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0015FERDU-es Havaianas Brasil Chanclas Unisex Adulto Negro Black 47/48 EU'
 sku: 'B0015FERDU-es'
-tags: [ 'chanclas', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

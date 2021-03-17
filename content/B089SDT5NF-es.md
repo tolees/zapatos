@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SDT5NF-es BIGABIGA Mujer Moda Punta Redonda Shallow Casual Lofers...'
 sku: 'B089SDT5NF-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 27.79 EUR
 currency: EUR
 price: 27.79

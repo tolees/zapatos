@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084C3CVTN-es Mishansha Zapatillas de Masculino Femenino Ligero Suave...'
 sku: 'B084C3CVTN-es'
-tags: [ 'zapatos', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

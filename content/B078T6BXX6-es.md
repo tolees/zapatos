@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078T6BXX6-es Tommy Hilfiger Essential TH Beach Sandal Chanclas para...'
 sku: 'B078T6BXX6-es'
-tags: [ 'chanclas', ]
+tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas', ]
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92
