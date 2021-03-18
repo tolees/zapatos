@@ -28,7 +28,7 @@ Está [FILA Morro Bay 2.0 men Sandalia Hombre  rojo  Fila Red   44 EU](https://w
 
 ℹ️:
 
-- Suela exterior de EVA moldeada
 - Correa
+- Suela exterior de EVA moldeada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V4G6SKL/?tag=tolees-21)
