@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKTJ2PY-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
 sku: 'B07HKTJ2PY-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

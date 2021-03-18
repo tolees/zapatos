@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00368GVFG-es adidas Adilette Zapatos de playa y piscina Unisex adulto...'
 sku: 'B00368GVFG-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

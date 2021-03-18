@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QH1BM1N-es MTNG Collection 58641 Botines para Mujer Negro Antil Negro...'
 sku: 'B07QH1BM1N-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

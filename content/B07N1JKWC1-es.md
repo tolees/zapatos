@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JKWC1-es Clarks Un Venturehi Botines para Mujer Negro Black Combi...'
 sku: 'B07N1JKWC1-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 63.4 EUR
 currency: EUR
 price: 63.4

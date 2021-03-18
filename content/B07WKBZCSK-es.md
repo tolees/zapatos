@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKBZCSK-es UNISA Loreal Zapatos de tacón Mujeres Rojo - 38 - Zapatos...'
 sku: 'B07WKBZCSK-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

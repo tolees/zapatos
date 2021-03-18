@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8W2DZJ-es Clarks Un Geo Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B07B8W2DZJ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

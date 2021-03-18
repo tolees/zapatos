@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVD9FXV-es PIKOLINOS Sandalia Plana de Piel MARAZUL W3F'
 sku: 'B07VVD9FXV-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

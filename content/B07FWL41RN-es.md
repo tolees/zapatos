@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWL41RN-es Crocs Literide Clog Kids Zuecos Unisex Niños Verde Neo...'
 sku: 'B07FWL41RN-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 23.27 EUR
 currency: EUR
 price: 23.27

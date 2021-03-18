@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY8H28W-es Art Harlem Botines para Mujer Marrón Brown/Brown...'
 sku: 'B07NY8H28W-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71

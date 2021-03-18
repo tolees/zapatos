@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTVCKR9-es Nike Air MAX Invigor Zapatilla de Correr para Hombre Smoke...'
 sku: 'B07ZTVCKR9-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 50.83 EUR
 currency: EUR
 price: 50.83

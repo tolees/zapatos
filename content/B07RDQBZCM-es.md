@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDQBZCM-es adidas Hoops Mid 2.0 K Zapatos de Baloncesto Unisex Niños...'
 sku: 'B07RDQBZCM-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDY23CH-es LoveOlvidoE 1: 6 Mujer Mujer Soldado Simulación Stiletto...'
 sku: 'B07PDY23CH-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

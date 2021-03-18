@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WV2HHH-es Quiksilver Molokai-Flip-Flops For Men Zapatos de Playa y...'
 sku: 'B078WV2HHH-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

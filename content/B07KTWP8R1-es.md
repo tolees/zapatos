@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTWP8R1-es Adidas Adilette Shower - Zapatos de Playa y Piscina para...'
 sku: 'B07KTWP8R1-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

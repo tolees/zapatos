@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OVFKCW-es adidas Originals Adilette Chanclas para Hombre Azul...'
 sku: 'B001OVFKCW-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

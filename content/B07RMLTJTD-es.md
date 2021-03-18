@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMLTJTD-es New Balance 520v6 Zapatos para Correr para Mujer Negro...'
 sku: 'B07RMLTJTD-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

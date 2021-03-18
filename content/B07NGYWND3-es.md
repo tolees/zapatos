@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGYWND3-es El Naturalista N5311 Iris Coral Botines para Mujer Negro...'
 sku: 'B07NGYWND3-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

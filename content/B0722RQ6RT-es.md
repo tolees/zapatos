@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722RQ6RT-es El Naturalista N5142 Capretto Nectar Botines para Mujer...'
 sku: 'B0722RQ6RT-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

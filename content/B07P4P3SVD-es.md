@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4P3SVD-es Art Harlem Botines para Mujer Marrón Cuero Cuero 38 EU'
 sku: 'B07P4P3SVD-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 116.68 EUR
 currency: EUR
 price: 116.68

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HXB8HG-es Crocs Classic Clog Zuecos Unisex Adulto Ballerina Pink...'
 sku: 'B071HXB8HG-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 25.23 EUR
 currency: EUR
 price: 25.23

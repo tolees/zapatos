@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7RKMYZ-es Zapatillas de Estar por Casa para Niñas Niños Invierno...'
 sku: 'B07Z7RKMYZ-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

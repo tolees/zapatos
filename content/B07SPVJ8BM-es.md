@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPVJ8BM-es SINOES 270 Zapatillas Deporte Hombres Running Zapatos...'
 sku: 'B07SPVJ8BM-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

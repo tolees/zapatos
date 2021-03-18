@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXSLGJG-es Geox U IACOPO A Zapatos de Cordones Oxford para Hombre...'
 sku: 'B07SXSLGJG-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

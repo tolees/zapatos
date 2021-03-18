@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BMMJUBK-es Geox U Dublin B Zapatos de Vestir para Hombre Negro...'
 sku: 'B00BMMJUBK-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 61.27 EUR
 currency: EUR
 price: 61.27

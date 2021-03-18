@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRMVNK-es Geox U New Life C Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFRMVNK-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 27.39 EUR
 currency: EUR
 price: 27.39

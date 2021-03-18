@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WLR3LJ-es Crocs Crocband U Zuecos Unisex Adulto Amarillo Tennis Ball...'
 sku: 'B071WLR3LJ-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

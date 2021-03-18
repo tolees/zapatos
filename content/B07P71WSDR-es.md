@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P71WSDR-es ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos...'
 sku: 'B07P71WSDR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

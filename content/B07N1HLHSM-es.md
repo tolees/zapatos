@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HLHSM-es Clarks Un Cosmo Way Zapatos de Tacón para Mujer Gris Grey...'
 sku: 'B07N1HLHSM-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 17.05 EUR
 currency: EUR
 price: 17.05

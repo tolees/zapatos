@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LTH55Q-es Superga 2750 COTU Classic Zapatilla de Deporte Unisexo...'
 sku: 'B002LTH55Q-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

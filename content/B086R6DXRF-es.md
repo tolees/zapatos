@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086R6DXRF-es Nautico J.Bradford Cuero Marron JB-CORVETTES - Color -...'
 sku: 'B086R6DXRF-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

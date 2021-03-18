@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RV9H7QM-es YWLINK Zapatos NiñO NiñA Deportes Aire Libre Mesh Fire...'
 sku: 'B07RV9H7QM-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

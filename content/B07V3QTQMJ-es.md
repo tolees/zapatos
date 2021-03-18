@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3QTQMJ-es gracosy Botas Nieve Mujer de Piel Invierno Antideslizante...'
 sku: 'B07V3QTQMJ-es'
-tags: [ 'botines','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

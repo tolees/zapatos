@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN7TV81-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Melon 737...'
 sku: 'B07CN7TV81-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 22.97 EUR
 currency: EUR
 price: 22.97

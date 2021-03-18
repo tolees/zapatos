@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08629XJRT-es Fiween Zapatos de Color Beige de plástico de Alta talón...'
 sku: 'B08629XJRT-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D8Q6CYW-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre...'
 sku: 'B08D8Q6CYW-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

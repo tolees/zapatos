@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076T8GZ7W-es Skechers 51874 Sandalia con Pulsera para Hombre Negro...'
 sku: 'B076T8GZ7W-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

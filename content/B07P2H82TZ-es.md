@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2H82TZ-es lodi VAREZ Zapatos de tacón con Punta Cerrada para Mujer...'
 sku: 'B07P2H82TZ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 54.38 EUR
 currency: EUR
 price: 54.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2QGHM9-es Adidas Adissage Zapatos de playa y piscina Unisex adulto...'
 sku: 'B07K2QGHM9-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

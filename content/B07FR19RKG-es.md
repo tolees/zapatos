@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR19RKG-es Clarks Step Beat Dune Zapatos de Cordones Derby para...'
 sku: 'B07FR19RKG-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

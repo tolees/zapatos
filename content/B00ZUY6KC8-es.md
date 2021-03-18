@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUY6KC8-es REEF R2026ALB Chanclas Hombre Negro Black / Silver 36 EU'
 sku: 'B00ZUY6KC8-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

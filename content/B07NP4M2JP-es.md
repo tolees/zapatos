@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NP4M2JP-es Zerimar Zapatos con Alzas Interiores para Hombres Aumento...'
 sku: 'B07NP4M2JP-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

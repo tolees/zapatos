@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VTBS24-es Zapatos para Mujer Tacon Alto Aguja Primavera 2020 Sexy...'
 sku: 'B084VTBS24-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK276KH-es Columbia Ruckel Ridge Plus Waterproof Zapatos Impermeables...'
 sku: 'B07KK276KH-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

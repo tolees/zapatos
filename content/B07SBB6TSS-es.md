@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBB6TSS-es Crocs Crocband Zuecos Unisex Adulto Rosa Blossom/White 6ph...'
 sku: 'B07SBB6TSS-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

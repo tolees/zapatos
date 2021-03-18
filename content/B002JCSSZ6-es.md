@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSSZ6-es Crocs Crocband Zuecos Unisex Adulto Azul Navy 37/38 EU'
 sku: 'B002JCSSZ6-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

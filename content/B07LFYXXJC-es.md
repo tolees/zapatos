@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFYXXJC-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFYXXJC-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 52.2 EUR
 currency: EUR
 price: 52.2

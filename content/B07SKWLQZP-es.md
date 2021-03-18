@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKWLQZP-es Havaianas Top Vibes Chanclas para Mujer Multicolor...'
 sku: 'B07SKWLQZP-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

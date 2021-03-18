@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L99LGQ3-es Spiuk Altube MTB Zapatilla Unisex Adulto Amarillo Flúor...'
 sku: 'B07L99LGQ3-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 59.88 EUR
 currency: EUR
 price: 59.88

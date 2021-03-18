@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3NDBPY-es Billabong™ - Chanclas - Hombre - EU 43 - Negro'
 sku: 'B07V3NDBPY-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

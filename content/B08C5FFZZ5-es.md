@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C5FFZZ5-es Sandalia Plataforma para Mujer'
 sku: 'B08C5FFZZ5-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

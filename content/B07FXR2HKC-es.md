@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXR2HKC-es Havaianas Stars Wars Chanclas Unisex Adulto Multicolor...'
 sku: 'B07FXR2HKC-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

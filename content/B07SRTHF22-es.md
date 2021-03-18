@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRTHF22-es Quiksilver Molokai Tijuana Zapatos de Playa y Piscina para...'
 sku: 'B07SRTHF22-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

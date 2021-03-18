@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JRG9R1-es Clarks Batcombe Wing Zapatos de Cordones Derby Negro Black...'
 sku: 'B071JRG9R1-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 42.67 EUR
 currency: EUR
 price: 42.67

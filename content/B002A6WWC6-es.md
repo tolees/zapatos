@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002A6WWC6-es Havaianas Slim Chanclas Mujer Oro SandGrey/Light Golden...'
 sku: 'B002A6WWC6-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

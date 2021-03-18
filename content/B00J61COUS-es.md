@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J61COUS-es Columbia Woodburn II Zapatilla Multideporte para Hombre...'
 sku: 'B00J61COUS-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 39.44 EUR
 currency: EUR
 price: 39.44

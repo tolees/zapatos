@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014AP6PVI-es Dockers by Gerli 37wa703 Botines Unisex Niños Marrón Braun...'
 sku: 'B014AP6PVI-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

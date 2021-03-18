@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMWZ1YR-es Clarks Hero Zapatos de Cordones Brogue para Mujer Blanco...'
 sku: 'B07TMWZ1YR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 58.16 EUR
 currency: EUR
 price: 58.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M797WHL-es Clarks Un Larvik Lace Zapatos de Cordones Derby para...'
 sku: 'B07M797WHL-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

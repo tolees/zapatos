@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078T6RZWX-es Tommy Hilfiger Essential TH Beach Sandal Chanclas para...'
 sku: 'B078T6RZWX-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

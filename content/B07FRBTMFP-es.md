@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FRBTMFP-es Clarks Batcombe Wing Zapatos de Cordones Derby Marrón Tan...'
 sku: 'B07FRBTMFP-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 53.14 EUR
 currency: EUR
 price: 53.14

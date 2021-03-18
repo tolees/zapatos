@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EIJNWS0-es Rieker Hombre Botines B1340 de Caballero Botas Chukka...'
 sku: 'B01EIJNWS0-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

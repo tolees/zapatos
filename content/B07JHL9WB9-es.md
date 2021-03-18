@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHL9WB9-es Columbia WAYFINDER Zapatos Multideporte para Mujer Negro...'
 sku: 'B07JHL9WB9-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

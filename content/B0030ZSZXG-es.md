@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0030ZSZXG-es adidas Duramo Slide Chanclas Unisex Azul New...'
 sku: 'B0030ZSZXG-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

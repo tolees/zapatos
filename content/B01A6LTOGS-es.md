@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A6LTOGS-es Crocs Classic Lined Clog Zuecos Unisex Adulto Negro...'
 sku: 'B01A6LTOGS-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 29.58 EUR
 currency: EUR
 price: 29.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071W6NT3H-es Fluchos- retail ES Spain 8499 Zapatos sin Cordones Hombre...'
 sku: 'B071W6NT3H-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 58.16 EUR
 currency: EUR
 price: 58.16

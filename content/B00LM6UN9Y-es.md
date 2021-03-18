@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM6UN9Y-es Havaianas Slim Chanclas Mujer Marrón Rose Gold 39/40 EU'
 sku: 'B00LM6UN9Y-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

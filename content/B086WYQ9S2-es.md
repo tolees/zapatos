@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WYQ9S2-es AARDIMI - Sandalias para mujer sandalias con tacón plano...'
 sku: 'B086WYQ9S2-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

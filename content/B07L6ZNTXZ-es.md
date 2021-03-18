@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6ZNTXZ-es FitFlop Mukluk Shorty III Botines para Mujer Marrón...'
 sku: 'B07L6ZNTXZ-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 95.02 EUR
 currency: EUR
 price: 95.02

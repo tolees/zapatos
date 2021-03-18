@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GEECFOA-es Rieker Mujer Sandalias de Vestir 62461 señora Sandalias de...'
 sku: 'B00GEECFOA-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

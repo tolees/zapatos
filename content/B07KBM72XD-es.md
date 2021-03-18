@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBM72XD-es Crocs Classic Clog K Zuecos Unisex Niños Azul Bright...'
 sku: 'B07KBM72XD-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

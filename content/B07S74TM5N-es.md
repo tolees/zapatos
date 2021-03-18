@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S74TM5N-es adidas Grand Court Base Zapatos de Tenis para Hombre...'
 sku: 'B07S74TM5N-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

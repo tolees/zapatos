@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFW3WD5-es Crocs Baya Clog Kids Zuecos Unisex Niños Negro Black 001...'
 sku: 'B07HFW3WD5-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KKC2BG-es Crocs Classic Clog Zuecos Unisex Adulto Azul Chambray Blue...'
 sku: 'B074KKC2BG-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

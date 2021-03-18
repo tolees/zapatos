@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQ7NK4C-es Zapatillas de Hombre - Zapatos Casuales de Paseo Moda...'
 sku: 'B07SQ7NK4C-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 25.66 EUR
 currency: EUR
 price: 25.66

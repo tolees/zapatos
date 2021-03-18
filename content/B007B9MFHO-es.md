@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007B9MFHO-es Crocs Crocband U Zuecos Unisex Adulto Gris Charcoal-Ocean...'
 sku: 'B007B9MFHO-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 34.81 EUR
 currency: EUR
 price: 34.81

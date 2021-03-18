@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087BXRQPY-es TAONEEF Mujer Moda Tacon Delgados Sandalias Cruzado Tacon...'
 sku: 'B087BXRQPY-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 22.88 EUR
 currency: EUR
 price: 22.88

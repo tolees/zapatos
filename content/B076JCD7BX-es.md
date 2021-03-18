@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JCD7BX-es Panama Jack Capri Cork Sandalia con Pulsera para Mujer...'
 sku: 'B076JCD7BX-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 50.04 EUR
 currency: EUR
 price: 50.04

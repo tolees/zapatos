@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMMK99J-es DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de...'
 sku: 'B07CMMK99J-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

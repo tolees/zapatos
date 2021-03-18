@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BGT1BV-es Asics Gel-Pulse 11 Zapatos para Correr Mens Negro 40 1/2 EU'
 sku: 'B081BGT1BV-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

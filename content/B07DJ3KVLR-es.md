@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ3KVLR-es Geox U Leitan B Zapatos de Cordones Derby para Hombre Azul...'
 sku: 'B07DJ3KVLR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 58.94 EUR
 currency: EUR
 price: 58.94

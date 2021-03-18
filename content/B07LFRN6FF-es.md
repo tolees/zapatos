@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRN6FF-es Geox D New ANNYA Mid A Zapatos de Tacón para Mujer Negro...'
 sku: 'B07LFRN6FF-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 35.48 EUR
 currency: EUR
 price: 35.48

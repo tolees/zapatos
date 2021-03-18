@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FLR2NIE-es hummel HUMMEL SLIMMER STADIL LOW - Zapatos de caña baja de...'
 sku: 'B00FLR2NIE-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

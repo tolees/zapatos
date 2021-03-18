@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H37VVTX-es Pastaza Hombre Mujer Botas de Nieve Senderismo...'
 sku: 'B07H37VVTX-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 26.83 EUR
 currency: EUR
 price: 26.83

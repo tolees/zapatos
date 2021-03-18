@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q13RCD8-es Under Armour UA Core PTH SL Zapatos de Playa y Piscina...'
 sku: 'B07Q13RCD8-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

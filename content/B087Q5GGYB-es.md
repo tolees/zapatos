@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087Q5GGYB-es TAOFFEN Mujer Tacón Medio Zapatillas de Deporte Caña Baja...'
 sku: 'B087Q5GGYB-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

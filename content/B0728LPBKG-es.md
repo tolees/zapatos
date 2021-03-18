@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0728LPBKG-es WuiWuiyu - Zapatilla Baja de Material Sintético para Chico'
 sku: 'B0728LPBKG-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 18.51 EUR
 currency: EUR
 price: 18.51

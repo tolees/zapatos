@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWKP2NB-es Ted Baker Sumpsa Zapatos de Cordones Derby para Hombre...'
 sku: 'B07RWKP2NB-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 47.84 EUR
 currency: EUR
 price: 47.84

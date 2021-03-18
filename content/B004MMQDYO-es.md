@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004MMQDYO-es Josef Seibel Schuhfabrik GmbH Anvers 08 Zapatos de...'
 sku: 'B004MMQDYO-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM6US76-es Havaianas Slim Chanclas Mujer Gris Steel Grey 37/38 EU'
 sku: 'B00LM6US76-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

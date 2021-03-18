@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN34MDD-es Crocs Crocband Flip U Chanclas para Mujer Rosa Melon/White...'
 sku: 'B07CN34MDD-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

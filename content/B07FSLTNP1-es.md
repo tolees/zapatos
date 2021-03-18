@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSLTNP1-es Clarks Un Karely Sun Chanclas para Mujer Negro Black...'
 sku: 'B07FSLTNP1-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 44.34 EUR
 currency: EUR
 price: 44.34

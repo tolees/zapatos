@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR9SW1C-es Clarks Blake Jewel Sandalia con Pulsera para Mujer Marrón...'
 sku: 'B07FR9SW1C-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 37.44 EUR
 currency: EUR
 price: 37.44

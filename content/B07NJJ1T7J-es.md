@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJ1T7J-es Tamaris 1-1-25356-23 Botines para Mujer Marrón Antelope...'
 sku: 'B07NJJ1T7J-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

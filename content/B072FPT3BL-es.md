@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FPT3BL-es DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet...'
 sku: 'B072FPT3BL-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2LN8MV-es Under Armour UA HOVR Havoc 2 Zapatos de Baloncesto para...'
 sku: 'B07K2LN8MV-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RC4MPC-es ELEEMEE Mujer Moda Sandalias Tacón Alto Correa de Tobillo...'
 sku: 'B087RC4MPC-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

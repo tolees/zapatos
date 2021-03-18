@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S75W3NH-es Crocs Classic Zuecos Unisex Adulto Pink 41/42 EU'
 sku: 'B07S75W3NH-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

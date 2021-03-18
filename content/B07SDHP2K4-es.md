@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDHP2K4-es Crocs Literide Flip Chanclas Unisex Adulto Azul Ice...'
 sku: 'B07SDHP2K4-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

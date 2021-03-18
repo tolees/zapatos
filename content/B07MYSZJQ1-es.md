@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYSZJQ1-es Zapatillas de Deporte Blanco para Las niñas Harpia Zapatos...'
 sku: 'B07MYSZJQ1-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

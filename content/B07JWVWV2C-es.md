@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWVWV2C-es Columbia Five Forks Zapatos de Senderismo Impermeables...'
 sku: 'B07JWVWV2C-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 68.52 EUR
 currency: EUR
 price: 68.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XMB6XN-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
 sku: 'B075XMB6XN-es'
-tags: [ 'botines','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

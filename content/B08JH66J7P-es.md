@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JH66J7P-es Zapatos de Seguridad Hombre Zapatillas de Seguridad con...'
 sku: 'B08JH66J7P-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

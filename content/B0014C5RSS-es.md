@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014C5RSS-es Crocs Classic Clog Zuecos Unisex Adulto Verde Army Green...'
 sku: 'B0014C5RSS-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBCK5MK-es Kappa Sveberg Kids Botines para Niñas Ice/Pink 6522 25 EU'
 sku: 'B07LBCK5MK-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

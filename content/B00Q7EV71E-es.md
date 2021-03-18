@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q7EV71E-es Columbia Peakfreak Venture Zapatos impermeables para...'
 sku: 'B00Q7EV71E-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66
@@ -28,13 +28,13 @@ Está [Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black
 
 ℹ️:
 
-- Composición: Cuero/Malla
-- Material de la suela: Caucho
-- Material exterior: Cuero
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Altura del tacón: 1 centímetros
-- Anchura del zapato: Normal
+- Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Composición: Cuero/Malla
 - Revestimiento: Sintético
+- Material exterior: Cuero
+- Anchura del zapato: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q7EV71E/?tag=tolees-21)

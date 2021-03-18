@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJTKY8J-es Columbia Sandal Sandalia para Hombre Azul Petrol Blue...'
 sku: 'B07RJTKY8J-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

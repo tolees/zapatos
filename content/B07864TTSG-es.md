@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07864TTSG-es CROCS Swiftwater Mesh Deck Sandal M Zuecos para Hombre...'
 sku: 'B07864TTSG-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

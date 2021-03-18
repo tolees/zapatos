@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAO8PLU-es Pikolinos Sandalia Mykonos para Mujer'
 sku: 'B01LAO8PLU-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 42.31 EUR
 currency: EUR
 price: 42.31

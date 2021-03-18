@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7VF6KK-es JK-2 Pegamento de Alta Intensidad Claro DIY Artesanía...'
 sku: 'B07X7VF6KK-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

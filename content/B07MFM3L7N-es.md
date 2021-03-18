@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM3L7N-es Clarks Gilman Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM3L7N-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 35.37 EUR
 currency: EUR
 price: 35.37

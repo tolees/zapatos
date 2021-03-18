@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JYWLRG-es Madbike Accesorios de Cambio de Engranaje para Zapatos...'
 sku: 'B075JYWLRG-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

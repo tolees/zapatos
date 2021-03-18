@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1H8FGR-es Clarks Sheer Rose Zapatos de Tacón para Mujer Multicolor...'
 sku: 'B07N1H8FGR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7FXJH-es Clarks - Botines de Cuero Hombre Color Negro Talla 45 EU'
 sku: 'B07MJ7FXJH-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYBWSR5-es Quiksilver Molokai Abyss Cork-Sandals For Men Zapatos de...'
 sku: 'B07DYBWSR5-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

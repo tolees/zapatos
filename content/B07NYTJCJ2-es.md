@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTJCJ2-es Skechers Stamina Cutback Zapatilla Deportiva con Cordones...'
 sku: 'B07NYTJCJ2-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

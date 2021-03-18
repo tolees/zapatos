@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QH193DX-es MTNG Collection 58027 Botines para Mujer Marrón Vintage...'
 sku: 'B07QH193DX-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

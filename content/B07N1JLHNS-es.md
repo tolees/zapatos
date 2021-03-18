@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JLHNS-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Marrón...'
 sku: 'B07N1JLHNS-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 47.51 EUR
 currency: EUR
 price: 47.51

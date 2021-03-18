@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q9QQFPF-es Zapatillas Hombres Deporte Running Zapatos para Correr...'
 sku: 'B07Q9QQFPF-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

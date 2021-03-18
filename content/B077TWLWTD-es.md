@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TWLWTD-es find. Zapatos de Serraje con Cordones Hombre Beige Sand 43 EU'
 sku: 'B077TWLWTD-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

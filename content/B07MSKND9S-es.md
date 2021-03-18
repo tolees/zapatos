@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSKND9S-es Clarks Grandin Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSKND9S-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 57.18 EUR
 currency: EUR
 price: 57.18

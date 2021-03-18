@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GT37J-es Clarks Griffin Lane Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1GT37J-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

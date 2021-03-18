@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTJKW4W-es Clarks Tilden Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B00TTJKW4W-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

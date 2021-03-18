@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLNQLJ2-es Nike Jumpman Diamond Mid Zapatos de Baloncesto para Hombre...'
 sku: 'B07SLNQLJ2-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 111.35 EUR
 currency: EUR
 price: 111.35

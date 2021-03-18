@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHW9L2M-es Columbia WAYFINDER Mid Outdry Zapatos de montaña para...'
 sku: 'B07JHW9L2M-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

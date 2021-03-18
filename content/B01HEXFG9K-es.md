@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXFG9K-es Crocs Crocband Clog K Zuecos con Correa Trasera Unisex-...'
 sku: 'B01HEXFG9K-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

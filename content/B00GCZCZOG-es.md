@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GCZCZOG-es Redskins Gosseti Zapatos de Cordones Oxford para Hombre...'
 sku: 'B00GCZCZOG-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

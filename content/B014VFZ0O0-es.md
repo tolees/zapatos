@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014VFZ0O0-es Clarks Carlita Cove - Zapatos de Tacón para Mujer Beige...'
 sku: 'B014VFZ0O0-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

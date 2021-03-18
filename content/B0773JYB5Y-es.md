@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0773JYB5Y-es Crocs Yukon Vista Clog M Zuecos para Hombre Negro...'
 sku: 'B0773JYB5Y-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 31.63 EUR
 currency: EUR
 price: 31.63

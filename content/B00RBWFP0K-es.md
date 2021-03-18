@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RBWFP0K-es Millet Friction Zapatos de Escalada Unisex Adulto Gris...'
 sku: 'B00RBWFP0K-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFWT7H6-es Marca Amazon - find. Zip Front Leather Botines Negro Black...'
 sku: 'B07RFWT7H6-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

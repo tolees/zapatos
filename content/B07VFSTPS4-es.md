@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFSTPS4-es Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual...'
 sku: 'B07VFSTPS4-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

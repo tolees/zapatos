@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HXWBD-es Clarks Step Explorhi Botines para Mujer Negro Black Black...'
 sku: 'B07N1HXWBD-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 44.28 EUR
 currency: EUR
 price: 44.28

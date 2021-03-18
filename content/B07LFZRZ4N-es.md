@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZRZ4N-es Geox U Garret A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFZRZ4N-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 56.34 EUR
 currency: EUR
 price: 56.34

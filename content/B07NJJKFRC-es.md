@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJKFRC-es Tamaris 1-1-26250-23 Botines para Mujer Marrón Cognac 305...'
 sku: 'B07NJJKFRC-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 18.63 EUR
 currency: EUR
 price: 18.63

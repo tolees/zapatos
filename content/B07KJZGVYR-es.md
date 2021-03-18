@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJZGVYR-es Columbia Fire Venture L II WP Zapatos de Senderismo para...'
 sku: 'B07KJZGVYR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

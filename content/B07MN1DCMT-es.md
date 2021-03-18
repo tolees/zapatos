@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN1DCMT-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
 sku: 'B07MN1DCMT-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

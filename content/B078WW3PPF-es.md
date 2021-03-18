@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WW3PPF-es Roxy Napili II J SNDL Zapatos de Playa y Piscina para...'
 sku: 'B078WW3PPF-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

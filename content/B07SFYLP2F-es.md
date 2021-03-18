@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFYLP2F-es Levi s June L S Chanclas para Mujer Negro R Black 59 38 EU'
 sku: 'B07SFYLP2F-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

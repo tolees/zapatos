@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8WXL1-es Crocs Baya Zuecos Unisex Adulto Azul Pool 36/37 EU'
 sku: 'B07CN8WXL1-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN7J1Y4-es Crocs Reviva Flip Chanclas Unisex Adulto Negro Black/Slate...'
 sku: 'B07CN7J1Y4-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 13.05 EUR
 currency: EUR
 price: 13.05

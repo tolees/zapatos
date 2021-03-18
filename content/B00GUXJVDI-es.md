@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GUXJVDI-es Columbia Peakfreak Nomad Zapatos impermeables para hombre...'
 sku: 'B00GUXJVDI-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

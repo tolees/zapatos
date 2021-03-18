@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLGT5C4-es gracosy Sandalias Cuero Planas Verano Mujer Estilo Bohemia...'
 sku: 'B07PLGT5C4-es'
-tags: [ 'chanclas','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas','zapatos', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

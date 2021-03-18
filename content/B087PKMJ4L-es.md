@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PKMJ4L-es Gracemee Mujer Moda Stiletto Heels Zapatos Ponerse Basic...'
 sku: 'B087PKMJ4L-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 45.6 EUR
 currency: EUR
 price: 45.6

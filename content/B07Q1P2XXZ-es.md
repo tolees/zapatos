@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1P2XXZ-es 【Vuelta al Colegio】 REYLEO Organizador de Equipaje...'
 sku: 'B07Q1P2XXZ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

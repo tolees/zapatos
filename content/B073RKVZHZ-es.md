@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RKVZHZ-es Adidas Adilette Comfort Zapatos de Playa y Piscina para...'
 sku: 'B073RKVZHZ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

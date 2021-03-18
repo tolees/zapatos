@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJX7GCB-es FIND Block Heel Slingback Zapatos de Talón Abierto Verde...'
 sku: 'B07WJX7GCB-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

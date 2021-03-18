@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014UNSQWQ-es Geox J54E6A00043 Zapatos con Velcro Niños Negro Blackc9999...'
 sku: 'B014UNSQWQ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

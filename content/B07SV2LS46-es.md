@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SV2LS46-es Asics Gel-Rocket 9 Zapatilla para Deportes para Hombre...'
 sku: 'B07SV2LS46-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

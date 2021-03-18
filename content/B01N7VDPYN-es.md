@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7VDPYN-es Geox Uomo Symbol B Zapatos de Cordones Oxford para Hombre...'
 sku: 'B01N7VDPYN-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 71.87 EUR
 currency: EUR
 price: 71.87

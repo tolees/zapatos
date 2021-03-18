@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QRCGJ8M-es Geox U NEBULA B - zapatilla deportiva de cuero hombre Azul...'
 sku: 'B00QRCGJ8M-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 58.59 EUR
 currency: EUR
 price: 58.59

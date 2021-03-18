@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNQK67G-es Sandalias para Mujer Verano 2019 Plataforma Cuña...'
 sku: 'B07RNQK67G-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 6.82 EUR
 currency: EUR
 price: 6.82

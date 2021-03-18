@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZK7YM-es Havaianas Ipe Chanclas Unisex Adulto Multicolor...'
 sku: 'B07SLZK7YM-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

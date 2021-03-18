@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ1KL84-es Quiksilver Molokai Zapatos de Playa y Piscina para Hombre...'
 sku: 'B07DJ1KL84-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKYZNZJ-es Slazenger Hombres Zapatos de Lona Golf'
 sku: 'B07BKYZNZJ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

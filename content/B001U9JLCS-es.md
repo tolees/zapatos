@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001U9JLCS-es Crocs Classic Clog Zuecos Unisex Adulto Morado Lavanda 530...'
 sku: 'B001U9JLCS-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

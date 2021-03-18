@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B94QT1Z-es Clarks Dalia Rose Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07B94QT1Z-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 28.14 EUR
 currency: EUR
 price: 28.14

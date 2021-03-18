@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ4LYZL-es amzdeal - 30pcs Organizadores de Zapatos Ajustables...'
 sku: 'B07SJ4LYZL-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

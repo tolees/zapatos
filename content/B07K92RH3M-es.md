@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K92RH3M-es Crocs Crocband Zuecos con Correa Unisex Adulto Azul Bright...'
 sku: 'B07K92RH3M-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

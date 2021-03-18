@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG3YN9G-es Sharplace Forma De Memoria Almohadillas De Copa Del Talón...'
 sku: 'B07XG3YN9G-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

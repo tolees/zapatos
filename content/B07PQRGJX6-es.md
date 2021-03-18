@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQRGJX6-es Top Zapatos para Correr Deportes en Montaña Asfalto...'
 sku: 'B07PQRGJX6-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

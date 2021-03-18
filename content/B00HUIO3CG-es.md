@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HUIO3CG-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Candy Pink...'
 sku: 'B00HUIO3CG-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

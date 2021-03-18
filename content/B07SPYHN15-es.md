@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPYHN15-es New front Zapatos de Princesa Niñas Bailarina Sandalias...'
 sku: 'B07SPYHN15-es'
-tags: [ 'zapatilla','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla','zapatos', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

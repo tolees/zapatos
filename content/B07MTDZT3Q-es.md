@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTDZT3Q-es Mizuno Sala Classic 2 IN Zapatilla de fútbol Sala Blue-...'
 sku: 'B07MTDZT3Q-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

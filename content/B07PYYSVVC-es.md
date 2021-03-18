@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYYSVVC-es Under Armour UA Jet Zapatos de Deporte para Hombre Gris...'
 sku: 'B07PYYSVVC-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 44.39 EUR
 currency: EUR
 price: 44.39

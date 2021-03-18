@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000YKIY4A-es Havaianas Brasil Chanclas Unisex Adulto Negro Black 35/36 EU'
 sku: 'B000YKIY4A-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

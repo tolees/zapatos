@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNRWLCF-es Skechers Sargo Reyon Chanclas para Hombre Marrón Chocolate...'
 sku: 'B07WNRWLCF-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 27.65 EUR
 currency: EUR
 price: 27.65

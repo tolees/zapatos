@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WBFPNL-es MO JOC - Zapatos de tacón para mujer color Negro talla 41 EU'
 sku: 'B086WBFPNL-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

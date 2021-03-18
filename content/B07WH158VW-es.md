@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WH158VW-es Mishansha Mujer Botas de Nieve Mujer Botines Zapatos...'
 sku: 'B07WH158VW-es'
-tags: [ 'botines','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

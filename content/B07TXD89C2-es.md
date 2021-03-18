@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXD89C2-es Superdry Rainbow Sleek Flip Flop Chanclas para Mujer...'
 sku: 'B07TXD89C2-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4ZC78F-es Zapatillas para Mujer Altas Aire Libre y Deporte...'
 sku: 'B07W4ZC78F-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

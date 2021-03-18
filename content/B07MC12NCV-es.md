@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC12NCV-es Clarks - Botines de Cuero Hombre Color Marrón Talla 42 EU'
 sku: 'B07MC12NCV-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

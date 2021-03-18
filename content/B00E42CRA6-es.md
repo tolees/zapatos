@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E42CRA6-es Timberland Bradstreet Ox Zapatos de Cordones Oxford para...'
 sku: 'B00E42CRA6-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

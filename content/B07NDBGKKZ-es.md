@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDBGKKZ-es bugatti 311815014141 Zapatos de Cordones Derby para Hombre...'
 sku: 'B07NDBGKKZ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

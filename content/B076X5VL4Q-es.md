@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X5VL4Q-es Geox Uomo Symbol A Zapatos de Cordones Oxford para Hombre...'
 sku: 'B076X5VL4Q-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 39.07 EUR
 currency: EUR
 price: 39.07

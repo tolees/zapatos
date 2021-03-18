@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQX26FD-es SINOES Hombre 720 Caña Baja Gimnasia Ligero Transpirable...'
 sku: 'B07VQX26FD-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

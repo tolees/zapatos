@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L410MOC-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B01L410MOC-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 18.12 EUR
 currency: EUR
 price: 18.12

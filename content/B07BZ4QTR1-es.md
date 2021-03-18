@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZ4QTR1-es CMP Rigel Mid Zapatos de High Rise Senderismo Unisex...'
 sku: 'B07BZ4QTR1-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

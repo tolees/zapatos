@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S974JRW-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Electric Pink...'
 sku: 'B07S974JRW-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

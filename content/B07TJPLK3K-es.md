@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJPLK3K-es Clarks Laina55 Court Zapatos de Tacón para Mujer Negro...'
 sku: 'B07TJPLK3K-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 28.29 EUR
 currency: EUR
 price: 28.29

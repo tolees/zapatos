@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JHBJL-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Beige...'
 sku: 'B07N1JHBJL-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

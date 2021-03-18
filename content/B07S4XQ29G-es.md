@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4XQ29G-es Asics Classic CT Zapatos de Baloncesto para Hombre Blanco...'
 sku: 'B07S4XQ29G-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 60.22 EUR
 currency: EUR
 price: 60.22

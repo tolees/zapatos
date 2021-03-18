@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVNYX3-es PUMA CALI WN S Zapatos Deportivos Mujer Blanco Puma White-...'
 sku: 'B07SBVNYX3-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

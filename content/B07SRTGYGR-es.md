@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRTGYGR-es Quiksilver Molokai Layback Zapatos de Playa y Piscina para...'
 sku: 'B07SRTGYGR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

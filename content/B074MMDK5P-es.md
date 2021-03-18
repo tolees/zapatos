@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MMDK5P-es Havaianas Brasil Logo Chanclas Unisex Adulto Negro...'
 sku: 'B074MMDK5P-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

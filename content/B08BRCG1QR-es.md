@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRCG1QR-es FUSHITON Hombre Zapatillas Casual Calzado Deportivo Moda...'
 sku: 'B08BRCG1QR-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

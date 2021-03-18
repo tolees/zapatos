@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUY5LUU-es REEF R2026ALB Chanclas Hombre Marrón Brown / Gum 36 EU'
 sku: 'B00ZUY5LUU-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

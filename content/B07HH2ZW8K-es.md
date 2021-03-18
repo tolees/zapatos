@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HH2ZW8K-es Mujer Botas de Nieve Zapatos Invierno Impermeables...'
 sku: 'B07HH2ZW8K-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

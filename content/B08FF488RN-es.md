@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FF488RN-es Aire Zapatillas Fitness Hombre Zapatos Deportivos para...'
 sku: 'B08FF488RN-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D45XTY7-es find. Suede Zapatos de Cordones Derby Gris Grey 46 EU'
 sku: 'B07D45XTY7-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB7Q2G3-es P Prettyia Calzador de Zapatos de Madera Mango Largo...'
 sku: 'B07QB7Q2G3-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

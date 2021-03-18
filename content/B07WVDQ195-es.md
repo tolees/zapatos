@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVDQ195-es Camper Hardwood K300027-006 Botines Hombre 42'
 sku: 'B07WVDQ195-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 132 EUR
 currency: EUR
 price: 132

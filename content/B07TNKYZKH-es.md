@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNKYZKH-es Kickers Holster Zapatos de Cordones Derby para Mujer Beige...'
 sku: 'B07TNKYZKH-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPS18RM-es Calzado Deportivo Masculino de Seguridad con Puntera...'
 sku: 'B06XPS18RM-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

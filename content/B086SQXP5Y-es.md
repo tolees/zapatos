@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SQXP5Y-es Mujer Zapatos de tacón Alto con tacón de Aguja de Boda...'
 sku: 'B086SQXP5Y-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

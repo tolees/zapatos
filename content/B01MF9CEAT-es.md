@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MF9CEAT-es Skechers Work Relaxed Fit: Hobbes-Frat SR Zapatos de...'
 sku: 'B01MF9CEAT-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 64.29 EUR
 currency: EUR
 price: 64.29

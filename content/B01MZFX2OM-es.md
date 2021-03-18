@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZFX2OM-es Crocs Athens Chanclas Unisex Adulto Marrón Espresso/Walnut...'
 sku: 'B01MZFX2OM-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

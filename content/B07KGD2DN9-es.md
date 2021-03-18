@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGD2DN9-es DCalderoni Moncayo Zapatos Piel Negros De Vestir con...'
 sku: 'B07KGD2DN9-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

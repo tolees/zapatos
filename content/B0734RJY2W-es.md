@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0734RJY2W-es find. Zapatos de Charol y Empeine Alto para Mujer Rojo Red...'
 sku: 'B0734RJY2W-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

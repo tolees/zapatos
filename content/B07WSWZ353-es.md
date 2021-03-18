@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSWZ353-es Deevike Pantuflas Zapatillas Hombre Invierno CáLido...'
 sku: 'B07WSWZ353-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSNGC67-es Clarks Mena Blossom Zapatos de Tacón para Mujer Plateado...'
 sku: 'B07FSNGC67-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

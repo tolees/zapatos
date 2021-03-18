@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07798MPHJ-es COMVIP Bebé niña Resbalón Anti del algodón elástico de...'
 sku: 'B07798MPHJ-es'
-tags: [ 'zapatilla','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla','zapatos', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

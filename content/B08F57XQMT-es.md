@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F57XQMT-es Zapatillas de Seguridad Hombres Zapatos de Trabajo con...'
 sku: 'B08F57XQMT-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

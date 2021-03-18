@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFYWMWL-es Geox U Terence C Botines para Hombre Marrón Cognac C6001...'
 sku: 'B07LFYWMWL-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

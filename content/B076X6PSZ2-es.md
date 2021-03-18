@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X6PSZ2-es Geox Uomo Sandal Strada D Sandalia con Pulsera para Hombre...'
 sku: 'B076X6PSZ2-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 50.19 EUR
 currency: EUR
 price: 50.19

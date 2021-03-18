@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FBKTRC-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
 sku: 'B071FBKTRC-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

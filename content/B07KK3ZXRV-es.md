@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3ZXRV-es Columbia Peakfreak Venture Zapatos Impermeables para...'
 sku: 'B07KK3ZXRV-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

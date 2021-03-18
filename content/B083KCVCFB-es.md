@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KCVCFB-es LuckyGirls Chic Sandalias Mujer Plataforma Cuña Verano...'
 sku: 'B083KCVCFB-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

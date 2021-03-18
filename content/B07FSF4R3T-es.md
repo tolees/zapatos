@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSF4R3T-es Clarks Mena Blossom Zapatos de Tacón para Mujer Negro...'
 sku: 'B07FSF4R3T-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

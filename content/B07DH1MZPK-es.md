@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DH1MZPK-es Cressi Reef Zapatillas Chanclas Unisex Adulto...'
 sku: 'B07DH1MZPK-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

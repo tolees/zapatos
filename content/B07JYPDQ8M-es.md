@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYPDQ8M-es Tommy Hilfiger Knitted Rain Boot Botines para Mujer Negro...'
 sku: 'B07JYPDQ8M-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 40.09 EUR
 currency: EUR
 price: 40.09

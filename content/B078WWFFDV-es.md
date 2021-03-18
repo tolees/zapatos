@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WWFFDV-es Quiksilver Monkey Abyss Zapatos de Playa y Piscina para...'
 sku: 'B078WWFFDV-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BLBUG9M-es Arena Hydrofit Man Hook Zapatos de Playa y Piscina Hombre...'
 sku: 'B00BLBUG9M-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

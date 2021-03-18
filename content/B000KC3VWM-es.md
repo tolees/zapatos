@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KC3VWM-es Birkenstock Gizeh Birko-Flor Chanclas para Mujer Negro...'
 sku: 'B000KC3VWM-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

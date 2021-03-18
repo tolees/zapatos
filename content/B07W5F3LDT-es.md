@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5F3LDT-es Zapatillas Casa Mujer Hombre Invierno Calido Zapatillas...'
 sku: 'B07W5F3LDT-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

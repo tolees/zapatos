@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7QSY9N-es Columbia WAYFINDER Outdry Zapatos Multideporte para Mujer...'
 sku: 'B07K7QSY9N-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

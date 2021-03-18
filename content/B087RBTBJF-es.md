@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RBTBJF-es ELEEMEE Mujer Moda Tacón Alto Verano Zapatos Tacón Pequeno...'
 sku: 'B087RBTBJF-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

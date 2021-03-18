@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1PKRL9-es Zapatillas de Running Hombre Zapatillas para Hombre...'
 sku: 'B07X1PKRL9-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

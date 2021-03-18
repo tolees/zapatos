@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR53LFY-es Clarks Un Karely Sun Chanclas para Mujer Gris Sage Nubuck-...'
 sku: 'B07FR53LFY-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 47.12 EUR
 currency: EUR
 price: 47.12

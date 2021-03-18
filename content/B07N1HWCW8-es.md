@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HWCW8-es Clarks Sharon Noel Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1HWCW8-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 26.23 EUR
 currency: EUR
 price: 26.23

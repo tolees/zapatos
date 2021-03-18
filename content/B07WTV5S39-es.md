@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTV5S39-es Botas de Invierno para Niños Zapatillas de Senderismo...'
 sku: 'B07WTV5S39-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

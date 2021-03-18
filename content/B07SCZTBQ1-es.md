@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCZTBQ1-es PUMA Cali WN S Zapatos Deportivos para Mujer Negro Black...'
 sku: 'B07SCZTBQ1-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 38.64 EUR
 currency: EUR
 price: 38.64

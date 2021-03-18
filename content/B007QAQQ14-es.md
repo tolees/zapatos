@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007QAQQ14-es Cressi Portofino Chanclas Flip Flops Hombre Azul/Blanco...'
 sku: 'B007QAQQ14-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

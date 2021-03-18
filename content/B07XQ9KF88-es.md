@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ9KF88-es Marca Amazon - FIND Stiletto Round Toe T-Bar Zapatos de...'
 sku: 'B07XQ9KF88-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

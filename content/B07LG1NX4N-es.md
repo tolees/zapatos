@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG1NX4N-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LG1NX4N-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 55.51 EUR
 currency: EUR
 price: 55.51

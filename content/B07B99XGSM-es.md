@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B99XGSM-es Clarks Un Abode Ease Zapatos de Cordones Derby para Hombre...'
 sku: 'B07B99XGSM-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 42.12 EUR
 currency: EUR
 price: 42.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HPMLY-es Clarks Pure Mist Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1HPMLY-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 26.45 EUR
 currency: EUR
 price: 26.45

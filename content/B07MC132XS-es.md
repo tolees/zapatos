@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC132XS-es Clarks Vargo Vibe Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MC132XS-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

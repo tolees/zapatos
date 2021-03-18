@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072T2TQ7Y-es Skechers On The Go 600-Brilliancy Sandalia con Pulsera...'
 sku: 'B072T2TQ7Y-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSK3T2M-es Clarks Arla Free Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSK3T2M-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 33.51 EUR
 currency: EUR
 price: 33.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BEQYUQS-es El Naturalista N758 Botines para Mujer Marrón Brown 000 37 EU'
 sku: 'B01BEQYUQS-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 87.9 EUR
 currency: EUR
 price: 87.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMZSK2W-es Crocs Crocband U Zuecos Unisex Adulto Morado Lavender-...'
 sku: 'B07CMZSK2W-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 36.68 EUR
 currency: EUR
 price: 36.68

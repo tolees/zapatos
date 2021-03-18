@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W8AMR6-es Havaianas Slim Chanclas para Mujer Negro Black 0090 37/38 EU'
 sku: 'B000W8AMR6-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

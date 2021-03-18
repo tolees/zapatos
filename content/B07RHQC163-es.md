@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHQC163-es Nike Wmns Revolution 5 Zapatilla de Correr para Mujer...'
 sku: 'B07RHQC163-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

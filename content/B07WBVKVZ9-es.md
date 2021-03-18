@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBVKVZ9-es Botines Impermeables Hombre Mujer Botas de Nieve Botines...'
 sku: 'B07WBVKVZ9-es'
-tags: [ 'botines','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

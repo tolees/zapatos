@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725RV7GY-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Ballerina...'
 sku: 'B0725RV7GY-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

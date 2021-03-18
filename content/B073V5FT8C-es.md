@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073V5FT8C-es adidas HVC K Zapatos de Boxeo Unisex Niños Negro Schwarz...'
 sku: 'B073V5FT8C-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 14.63 EUR
 currency: EUR
 price: 14.63

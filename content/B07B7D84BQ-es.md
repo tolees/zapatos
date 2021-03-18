@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7D84BQ-es Daclay Zapatos niños Deportivo Transpirable y Transpirable...'
 sku: 'B07B7D84BQ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

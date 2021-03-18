@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W0E6KT4-es Crocs Crocband U Zuecos Unisex Adulto Rosa Pearl Pink-Wild...'
 sku: 'B00W0E6KT4-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

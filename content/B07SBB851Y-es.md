@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBB851Y-es Crocs Crocband Flip Chanclas Unisex Adulto Verde Deep...'
 sku: 'B07SBB851Y-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

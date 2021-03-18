@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQYSSFQ-es Clarks Laina RAE Zapatos de Tacón para Mujer Beige Nude...'
 sku: 'B07FQYSSFQ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

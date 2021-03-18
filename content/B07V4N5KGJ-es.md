@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4N5KGJ-es Tommy Hilfiger TH Hardware Basic Mid Wedge Chanclas para...'
 sku: 'B07V4N5KGJ-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

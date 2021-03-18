@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1J5LDB-es Clarks Orabella Alice Botines para Mujer Gris Light Grey...'
 sku: 'B07N1J5LDB-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

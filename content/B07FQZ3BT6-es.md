@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQZ3BT6-es Clarks Un Maui Lace Zapatos de Cordones Derby para Mujer...'
 sku: 'B07FQZ3BT6-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

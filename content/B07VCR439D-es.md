@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCR439D-es Marcadores textiles RATEL 24 colores Marcadores de tela y...'
 sku: 'B07VCR439D-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

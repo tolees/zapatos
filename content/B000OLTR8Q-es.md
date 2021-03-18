@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OLTR8Q-es Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona...'
 sku: 'B000OLTR8Q-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

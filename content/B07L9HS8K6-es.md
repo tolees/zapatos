@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9HS8K6-es Spiuk Altube Road Zapatilla Unisex Adulto Negro Mate 37'
 sku: 'B07L9HS8K6-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

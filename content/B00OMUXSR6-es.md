@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OMUXSR6-es Chung Shi Sensomo I Zapatos Brogue para Hombre Marrón...'
 sku: 'B00OMUXSR6-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

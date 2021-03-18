@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH5NCTZ-es Nike Court Borough Low VF GS Zapatos de Baloncesto para...'
 sku: 'B07MH5NCTZ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 37.28 EUR
 currency: EUR
 price: 37.28

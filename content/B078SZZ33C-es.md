@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SZZ33C-es Clarks Brixby Shore Sandalia con Pulsera para Hombre...'
 sku: 'B078SZZ33C-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 37.13 EUR
 currency: EUR
 price: 37.13

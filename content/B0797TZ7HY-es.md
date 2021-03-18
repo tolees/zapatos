@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797TZ7HY-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre...'
 sku: 'B0797TZ7HY-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

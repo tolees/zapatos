@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K7YL6K-es find. Botines Años 60 Efecto Ante con Cremallera Mujer...'
 sku: 'B072K7YL6K-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

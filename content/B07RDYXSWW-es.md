@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDYXSWW-es Marca Amazon - find. Casual Suede Ankle Botines Naranja...'
 sku: 'B07RDYXSWW-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

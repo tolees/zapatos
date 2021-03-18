@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6VNZD8-es Tommy Hilfiger Signature Hilfiger Leather Shoe Zapatos de...'
 sku: 'B07N6VNZD8-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 73.13 EUR
 currency: EUR
 price: 73.13

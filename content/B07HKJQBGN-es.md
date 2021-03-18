@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKJQBGN-es Under Armour UA Jet Zapatos de Baloncesto para Hombre...'
 sku: 'B07HKJQBGN-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

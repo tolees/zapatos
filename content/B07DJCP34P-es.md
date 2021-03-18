@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJCP34P-es Geox U Leitan B Zapatos de Cordones Derby para Hombre Azul...'
 sku: 'B07DJCP34P-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 58.94 EUR
 currency: EUR
 price: 58.94

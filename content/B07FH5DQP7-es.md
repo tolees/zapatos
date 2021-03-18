@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FH5DQP7-es Havaianas Hype Chanclas Unisex Adulto Multicolor...'
 sku: 'B07FH5DQP7-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

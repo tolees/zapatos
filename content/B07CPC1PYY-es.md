@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPC1PYY-es Crocs Crocband Clog Kids Zuecos Unisex Niños Morado...'
 sku: 'B07CPC1PYY-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

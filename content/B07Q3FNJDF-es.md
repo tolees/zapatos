@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3FNJDF-es Tamaris 1-1-25946-33 Botines para Mujer Marrón Tobacco 336...'
 sku: 'B07Q3FNJDF-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

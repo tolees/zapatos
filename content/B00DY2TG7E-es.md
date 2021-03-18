@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DY2TG7E-es Geox Uomo Snake L Zapatos para Hombre Beige Beige/Dk...'
 sku: 'B00DY2TG7E-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 83.03 EUR
 currency: EUR
 price: 83.03

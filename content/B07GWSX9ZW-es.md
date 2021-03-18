@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWSX9ZW-es SAGUARO Otoño Invierno Zapatillas Interior Casa Caliente...'
 sku: 'B07GWSX9ZW-es'
-tags: [ 'zapatilla','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla','zapatos', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

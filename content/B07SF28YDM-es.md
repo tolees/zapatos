@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SF28YDM-es PUMA Cali WN S Zapatos Deportivos para Mujer Blanco...'
 sku: 'B07SF28YDM-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

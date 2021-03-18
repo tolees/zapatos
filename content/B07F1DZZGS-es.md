@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1DZZGS-es Havaianas Top Mix Chanclas Unisex Adulto Multicolor Lake...'
 sku: 'B07F1DZZGS-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

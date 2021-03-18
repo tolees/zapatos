@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RM6ZIW-es Havaianas Brasil Chanclas Unisex Adulto Blanco Brasil...'
 sku: 'B000RM6ZIW-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

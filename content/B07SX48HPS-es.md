@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SX48HPS-es Quiksilver Carver Print Zapatos de Playa y Piscina para...'
 sku: 'B07SX48HPS-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

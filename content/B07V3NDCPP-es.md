@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3NDCPP-es Billabong™ - Chanclas - Hombre - EU 44 - Azul'
 sku: 'B07V3NDCPP-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

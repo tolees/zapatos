@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081LGP2ZH-es Goal Sport 84775E - Zapatilla Deportiva Casual 37 EU'
 sku: 'B081LGP2ZH-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

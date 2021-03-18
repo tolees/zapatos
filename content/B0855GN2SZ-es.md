@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0855GN2SZ-es New Balance Sandalias Chanclas K2013 HPK para Niñas Rosa...'
 sku: 'B0855GN2SZ-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

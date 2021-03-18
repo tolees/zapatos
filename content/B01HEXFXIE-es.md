@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXFXIE-es Crocs Crocband Clog Kids Zuecos Unisex Niños Negro Black...'
 sku: 'B01HEXFXIE-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

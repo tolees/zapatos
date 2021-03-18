@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWRPG55-es Tamaris 1-1-28339-24 Sandalia con Pulsera para Mujer Rosa...'
 sku: 'B07VWRPG55-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 15.02 EUR
 currency: EUR
 price: 15.02

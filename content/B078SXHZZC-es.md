@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SXHZZC-es Timberland Gateway Pier Casual Zapatos de Cordones Oxford...'
 sku: 'B078SXHZZC-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

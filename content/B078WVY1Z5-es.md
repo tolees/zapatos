@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WVY1Z5-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
 sku: 'B078WVY1Z5-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0881P4CKJ-es XTI - Sandalia Plana Casual - Cierre con Hebilla - Color...'
 sku: 'B0881P4CKJ-es'
-tags: [ 'sandalia', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

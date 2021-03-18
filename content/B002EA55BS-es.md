@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002EA55BS-es Havaianas Slim Chanclas Mujer Negro Black 0090 33/34 EU'
 sku: 'B002EA55BS-es'
-tags: [ 'chanclas', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

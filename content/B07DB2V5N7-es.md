@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DB2V5N7-es Jack Wolfskin Vojo Hike 2 Texapore Mid W Wasserdicht...'
 sku: 'B07DB2V5N7-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 77.51 EUR
 currency: EUR
 price: 77.51

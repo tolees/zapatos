@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T3GZK6L-es Timberland Bradstreet Plain Toe Sensorflex Zapatos de...'
 sku: 'B07T3GZK6L-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

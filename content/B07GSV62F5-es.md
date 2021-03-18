@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSV62F5-es SKYSPER 3 Pares Calcetines de Deporte Deportivos para...'
 sku: 'B07GSV62F5-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

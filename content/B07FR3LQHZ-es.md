@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR3LQHZ-es Clarks Un Trail Form Zapatos de Cordones Derby Azul Navy...'
 sku: 'B07FR3LQHZ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 42.19 EUR
 currency: EUR
 price: 42.19

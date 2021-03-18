@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E5FYJZ8-es PUMA Suede Classic+ Zapatilla para Hombre Rojo...'
 sku: 'B00E5FYJZ8-es'
-tags: [ 'zapatilla', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
 actualPrice: 50.54 EUR
 currency: EUR
 price: 50.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792FKCLP-es Geox D Stardust C Botines para Mujer Marrón Coffee C6009...'
 sku: 'B0792FKCLP-es'
-tags: [ 'botines', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
 actualPrice: 29.42 EUR
 currency: EUR
 price: 29.42

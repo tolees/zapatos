@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0878WYMWZ-es Odetina Zapatos de tacón alto sólido Mary Janes con correa...'
 sku: 'B0878WYMWZ-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 20.14 EUR
 currency: EUR
 price: 20.14

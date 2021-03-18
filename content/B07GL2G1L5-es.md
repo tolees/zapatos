@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL2G1L5-es Rismart Hombre Punta Cerrado Gancho y Bucle Al Aire Libre...'
 sku: 'B07GL2G1L5-es'
-tags: [ 'chanclas','zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas','zapatos', ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL8XQ6C-es Columbia Redmond Zapatos Bajos Impermeables Unisex Niños...'
 sku: 'B07JL8XQ6C-es'
-tags: [ 'zapatos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

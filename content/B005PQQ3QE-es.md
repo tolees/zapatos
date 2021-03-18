@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005PQQ3QE-es Crocs Classic Clog Zuecos Unisex Adulto Azul Navy 410...'
 sku: 'B005PQQ3QE-es'
-tags: [ 'zuecos', ]
+tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
