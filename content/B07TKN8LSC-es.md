@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKN8LSC-es Clarks Botanic Poppy Sandalia con Pulsera para Mujer...'
 sku: 'B07TKN8LSC-es'
+tags: [ 'sandalia', ]
 actualPrice: 49.82 EUR
 currency: EUR
 price: 49.82

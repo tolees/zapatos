@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076TGHZBD-es Skechers 51874 Sandalia con Pulsera para Hombre Negro...'
 sku: 'B076TGHZBD-es'
+tags: [ 'sandalia', ]
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63
