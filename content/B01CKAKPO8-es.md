@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Feliz Caminar - Zuecos Sanitarios Flotan con un 16.33 % de descuento'
-date: 2020-03-31 17:35:19
+title: 'Feliz Caminar - Zuecos Sanitarios Flotan con un 19.76 % de descuento'
+date: 2021-03-18 09:52:33
 image: 'https://m.media-amazon.com/images/I/31vE0--8jTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01CKAKPO8-es Feliz Caminar - Zuecos Sanitarios Flotantes Blanco 41'
+slug: 'B01CKAKPO8-es Feliz Caminar - Zuecos Sanitarios Flotantes Blanco 41 EU'
 sku: 'B01CKAKPO8-es'
-tags: [ 'zuecos', ]
-actualPrice: 20.5 EUR
+tags: [ 'Calzado de trabajo para hombre','Calzado de trabajo para mujer','Calzado sanitario y de hostelería para hombre','Calzado sanitario y de hostelería para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','Zuecos sanitarios y de hostelería para hombre','Zuecos sanitarios y de hostelería para mujer','feliz caminar','zuecos', ]
+actualPrice: 19.98 EUR
 currency: EUR
-price: 20.5
-comparePrice: 24.5 EUR
-prodname: 'Feliz Caminar - Zuecos Sanitarios Flotantes Blanco  41'
+price: 19.98
+comparePrice: 24.9 EUR
+prodname: 'Feliz Caminar - Zuecos Sanitarios Flotantes  Blanco  41 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Feliz Caminar'
 buyurl: 'https://www.amazon.es/dp/B01CKAKPO8/?tag=tolees-21'
-descuento: '16.33'
-average: '20.5'
+descuento: '19.76'
+average: '20.1533333333333'
 ---
 
-En este momento está [Feliz Caminar - Zuecos Sanitarios Flotantes Blanco  41](https://www.amazon.es/dp/B01CKAKPO8/?tag=tolees-21) a 20.5 EUR (original: 24.5 EUR) (16.33 %  de descuento) en el siguiente enlace!
+En este momento está [Feliz Caminar - Zuecos Sanitarios Flotantes  Blanco  41 EU](https://www.amazon.es/dp/B01CKAKPO8/?tag=tolees-21) a 19.98 EUR (original: 24.9 EUR) (19.76 %  de descuento) en el siguiente enlace!
 
 [![Feliz Caminar - Zuecos Sanitarios Flotan](https://m.media-amazon.com/images/I/31vE0--8jTL._SL400_.jpg)](https://www.amazon.es/dp/B01CKAKPO8/?tag=tolees-21)
 
 🔎:
 
+- Sanidad
+- Hostelería
+- Zuecos
+- Calzado
+- Antideslizante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CKAKPO8/?tag=tolees-21)
