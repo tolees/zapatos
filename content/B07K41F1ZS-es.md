@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K41F1ZS-es Kuako Zapatillas de Estar por casa con Forro de vellón...'
 sku: 'B07K41F1ZS-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

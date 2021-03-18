@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VJSPF6-es Clarks Un Aldric Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B079VJSPF6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 66.91 EUR
 currency: EUR
 price: 66.91

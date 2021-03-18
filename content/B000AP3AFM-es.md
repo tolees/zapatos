@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AP3AFM-es Reebok Classic Nylon Zapatilla de Running Hombre Negro...'
 sku: 'B000AP3AFM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM346K-es Clarks Atticus Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MFM346K-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.4 EUR
 currency: EUR
 price: 39.4

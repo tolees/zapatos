@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFYL1YD-es Geox D New ANNYA A Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07LFYL1YD-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

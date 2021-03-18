@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGTS76T-es Aizeroth-UK Unisex Hombre Mujer Zapatillas de Seguridad...'
 sku: 'B07HGTS76T-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

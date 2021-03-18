@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZK7C9-es Geox D New ANNYA Mid A Zapatos con Tacón para Mujer Azul...'
 sku: 'B07LFZK7C9-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.02 EUR
 currency: EUR
 price: 23.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010WE7KDS-es Crocs Classic U Zuecos Unisex Adulto Lemon 43/44 EU'
 sku: 'B010WE7KDS-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

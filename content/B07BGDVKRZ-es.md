@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGDVKRZ-es PERLETTI Botas de Agua Miraculous Ladybug Niña - Botines...'
 sku: 'B07BGDVKRZ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

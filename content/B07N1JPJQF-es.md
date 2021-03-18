@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JPJQF-es Clarks Linvale Jerica Zapatos de tacón con Punta Cerrada...'
 sku: 'B07N1JPJQF-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

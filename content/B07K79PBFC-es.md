@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K79PBFC-es CMP Hamal Sandalia con Pulsera Unisex Niños Rosa Geranio-...'
 sku: 'B07K79PBFC-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

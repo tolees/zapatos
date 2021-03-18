@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM27WHQ-es PIKOLINOS Sandalia Plana de Piel Alcudia 816'
 sku: 'B07MM27WHQ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 30.68 EUR
 currency: EUR
 price: 30.68

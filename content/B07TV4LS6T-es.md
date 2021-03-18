@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV4LS6T-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
 sku: 'B07TV4LS6T-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0897XNJ1X-es Zapatos Colchón Aire Deporte Mujer Zapatillas Deportivas...'
 sku: 'B0897XNJ1X-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

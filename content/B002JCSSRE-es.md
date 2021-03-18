@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSSRE-es Crocs Crocband U Zuecos Unisex Adulto Negro Black 39-40 EU'
 sku: 'B002JCSSRE-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FS9T97M-es Clarks Step Urban Mix Zapatos de Cordones Derby para...'
 sku: 'B07FS9T97M-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

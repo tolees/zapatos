@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8XM1P-es Crocs Classic Flip K Chanclas Unisex Niños Azul Ice Blue...'
 sku: 'B07CN8XM1P-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

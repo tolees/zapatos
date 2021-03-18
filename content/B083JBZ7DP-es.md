@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JBZ7DP-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano...'
 sku: 'B083JBZ7DP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

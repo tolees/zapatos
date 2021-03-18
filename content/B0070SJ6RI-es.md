@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0070SJ6RI-es Timberland Stormbucks Plain Toe Zapatos de Cordones Oxford...'
 sku: 'B0070SJ6RI-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

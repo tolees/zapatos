@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYXCPM-es PUMA Rise XT 3 Zapatos de Futsal Unisex Adulto Black-...'
 sku: 'B07KFYXCPM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 33.17 EUR
 currency: EUR
 price: 33.17

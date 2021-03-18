@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829RRCG8-es Plantillas calentadas calentadores de pies plantillas de...'
 sku: 'B0829RRCG8-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

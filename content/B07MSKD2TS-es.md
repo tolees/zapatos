@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSKD2TS-es Clarks Ronnie Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MSKD2TS-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 79.96 EUR
 currency: EUR
 price: 79.96

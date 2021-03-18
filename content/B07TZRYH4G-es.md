@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZRYH4G-es Zapatos de bebé Sandalias Unisex Niños 0-6 Meses - 3-4...'
 sku: 'B07TZRYH4G-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

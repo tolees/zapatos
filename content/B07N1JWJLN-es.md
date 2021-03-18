@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JWJLN-es Clarks Adriel Mae Botines para Mujer Negro Black Leather...'
 sku: 'B07N1JWJLN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 66.47 EUR
 currency: EUR
 price: 66.47

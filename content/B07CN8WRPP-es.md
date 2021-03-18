@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8WRPP-es Crocs Classic Clog Zuecos Unisex Adulto Dorado Bronze 854...'
 sku: 'B07CN8WRPP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

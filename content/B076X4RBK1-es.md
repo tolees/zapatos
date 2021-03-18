@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X4RBK1-es Under Armour Curry 1 Lux Mid Zapatilla Baloncesto - 41'
 sku: 'B076X4RBK1-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

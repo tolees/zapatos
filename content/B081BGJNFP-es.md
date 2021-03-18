@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BGJNFP-es Asics Gel-Pulse 11 Zapatos para Correr Mens Gris 44 1/2 EU'
 sku: 'B081BGJNFP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

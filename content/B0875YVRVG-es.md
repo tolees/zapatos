@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0875YVRVG-es Sandalias Mujer Verano Cuña Cómodos Mules Zuecos Casual...'
 sku: 'B0875YVRVG-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos','zuecos', ]
+tags: [ 'zapatos','zuecos', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

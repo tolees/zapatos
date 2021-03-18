@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4P1C4W-es Art Bergen Botines para Mujer Verde Forest Forest 39 EU'
 sku: 'B07P4P1C4W-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

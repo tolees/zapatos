@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074JJWHDG-es Skechers Desert Kiss 31440 Sandalia con Pulsera para Mujer...'
 sku: 'B074JJWHDG-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 30.08 EUR
 currency: EUR
 price: 30.08

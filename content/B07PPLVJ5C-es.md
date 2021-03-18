@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPLVJ5C-es Zapatos de Trabajo Muy cómodos para Trabajos de hostelería...'
 sku: 'B07PPLVJ5C-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

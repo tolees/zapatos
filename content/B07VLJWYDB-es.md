@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLJWYDB-es SINOES Mujer 720 Caña Baja Gimnasia Ligero Transpirable...'
 sku: 'B07VLJWYDB-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

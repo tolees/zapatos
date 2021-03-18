@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT8DCK4-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
 sku: 'B07XT8DCK4-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

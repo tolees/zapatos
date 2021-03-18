@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLBR924-es Caprice Marlene Botines para Mujer Marrón Cognac Nappa 303...'
 sku: 'B07NLBR924-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

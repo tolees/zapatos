@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WCWTRF-es Crocs Classic Clog Zuecos Unisex Adulto Verde Grass Green...'
 sku: 'B071WCWTRF-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

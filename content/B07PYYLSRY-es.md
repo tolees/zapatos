@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYYLSRY-es Under Armour UA M Ignite Vi SL Zapatos de Playa y Piscina...'
 sku: 'B07PYYLSRY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

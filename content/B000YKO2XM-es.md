@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000YKO2XM-es Havaianas Top Chanclas Unisex Adulto Negro Black 41/42 EU'
 sku: 'B000YKO2XM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

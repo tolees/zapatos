@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQ53LTV-es Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático...'
 sku: 'B07JQ53LTV-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

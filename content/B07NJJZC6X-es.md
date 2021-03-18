@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJZC6X-es Tamaris 1-1-25425-23 Botines para Mujer Negro Black Comb...'
 sku: 'B07NJJZC6X-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 16.01 EUR
 currency: EUR
 price: 16.01

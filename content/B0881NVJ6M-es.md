@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0881NVJ6M-es XTI Sandalia BAS034275 para Mujer Negro 38'
 sku: 'B0881NVJ6M-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

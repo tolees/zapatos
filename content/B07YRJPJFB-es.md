@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRJPJFB-es VIFUUR Zapatillas Hombre Mujer de casa Espuma de Memoria...'
 sku: 'B07YRJPJFB-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

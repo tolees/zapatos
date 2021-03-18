@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKD2Q83-es find. Kitten Heel Point Toe Zapatos con Tira de Tobillo...'
 sku: 'B07PKD2Q83-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

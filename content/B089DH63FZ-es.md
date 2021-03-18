@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DH63FZ-es Sandalia Plana para Mujer Plateado 38 EU'
 sku: 'B089DH63FZ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

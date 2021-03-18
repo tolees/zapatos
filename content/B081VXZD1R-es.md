@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VXZD1R-es gracosy Botas de Mujer Otoño Invierno Goma Forro de Piel...'
 sku: 'B081VXZD1R-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

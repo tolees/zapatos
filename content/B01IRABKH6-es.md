@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IRABKH6-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
 sku: 'B01IRABKH6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

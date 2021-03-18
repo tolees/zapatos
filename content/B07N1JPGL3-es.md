@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JPGL3-es Clarks Orabella Alice Botines para Mujer Marrón Burgundy...'
 sku: 'B07N1JPGL3-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 30.63 EUR
 currency: EUR
 price: 30.63

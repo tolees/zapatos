@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2BNNNM-es Sandalias Mujer Verano 2042 cáñamo Fondo Grueso Sandalias...'
 sku: 'B07T2BNNNM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

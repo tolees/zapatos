@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087P2PFVT-es Kaizi Karzi Mujer Moda Puntiagudo Zapatos de la Corte...'
 sku: 'B087P2PFVT-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

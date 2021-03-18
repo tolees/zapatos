@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5Q5K6X-es FIND Block Heel Mary-Jane Zapatos de Tacón Morado Purple...'
 sku: 'B07W5Q5K6X-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 5.91 EUR
 currency: EUR
 price: 5.91

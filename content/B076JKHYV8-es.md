@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JKHYV8-es Crocs LiteRide Flip Chanclas Unisex Adulto Negro...'
 sku: 'B076JKHYV8-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

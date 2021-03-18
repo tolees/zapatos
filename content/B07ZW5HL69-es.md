@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW5HL69-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón...'
 sku: 'B07ZW5HL69-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

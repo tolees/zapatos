@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPM21F6-es LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres...'
 sku: 'B07SPM21F6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

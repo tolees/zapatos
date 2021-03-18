@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SNAYBW-es Clarks Nature Three 20339005 - Zapatos casual de cuero...'
 sku: 'B002SNAYBW-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 76.94 EUR
 currency: EUR
 price: 76.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCLHRTN-es Clarks Tilden Plain Zapatos de cordones derby Hombre...'
 sku: 'B06XCLHRTN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

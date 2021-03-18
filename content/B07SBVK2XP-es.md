@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVK2XP-es Crocs Classic Clog Zuecos Unisex Adulto Naranja Cantaloupe...'
 sku: 'B07SBVK2XP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

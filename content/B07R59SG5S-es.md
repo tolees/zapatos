@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R59SG5S-es find. High Point Botines Rojo Burgundy Croc 38 EU'
 sku: 'B07R59SG5S-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

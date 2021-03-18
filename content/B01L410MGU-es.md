@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L410MGU-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B01L410MGU-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

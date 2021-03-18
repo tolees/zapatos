@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR7DND4-es GANT Footwear Bari Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07KR7DND4-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

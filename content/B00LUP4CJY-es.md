@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LUP4CJY-es Crocs Freesail Clog Zuecos para Mujer Negro Black 41/42 EU'
 sku: 'B00LUP4CJY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

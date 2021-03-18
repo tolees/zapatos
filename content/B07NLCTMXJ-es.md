@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLCTMXJ-es Caprice Herma Botines para Mujer Verde Khaki Nappa 710 38 EU'
 sku: 'B07NLCTMXJ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

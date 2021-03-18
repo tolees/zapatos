@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JF9DH-es Clarks Un Cosmo Way Zapatos de Tacón para Mujer Negro...'
 sku: 'B07N1JF9DH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

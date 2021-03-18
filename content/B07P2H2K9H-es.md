@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2H2K9H-es Art Bergen Botines para Mujer Verde Kaki Kaki 37 EU'
 sku: 'B07P2H2K9H-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

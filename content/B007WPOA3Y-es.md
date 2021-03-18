@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WPOA3Y-es Havaianas Brasil Logo Chanclas Unisex Adulto Azul Marine...'
 sku: 'B007WPOA3Y-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

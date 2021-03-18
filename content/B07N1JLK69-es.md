@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JLK69-es Clarks Un Damson Mid Botines para Mujer Marrón Brown...'
 sku: 'B07N1JLK69-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

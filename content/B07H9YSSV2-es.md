@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9YSSV2-es Unisex Chico Chica Zapatilla de Deporte del Zapato Negro...'
 sku: 'B07H9YSSV2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

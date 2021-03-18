@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q13NLWZ-es Under Armour UA Lockdown 4 Zapatos de Baloncesto para...'
 sku: 'B07Q13NLWZ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

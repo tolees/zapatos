@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCFK2W5-es Clarks Adriel Viola Zapatos de Tacón para Mujer Negro...'
 sku: 'B06XCFK2W5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 67.06 EUR
 currency: EUR
 price: 67.06

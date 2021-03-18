@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071H3VB9K-es find. Botines con Suela de Crepe Estilo Óxford para Hombre...'
 sku: 'B071H3VB9K-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 18.53 EUR
 currency: EUR
 price: 18.53

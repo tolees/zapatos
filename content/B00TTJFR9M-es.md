@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTJFR9M-es Clarks Tilden Walk Zapatos de Cordones Derby Negro Black...'
 sku: 'B00TTJFR9M-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 44.76 EUR
 currency: EUR
 price: 44.76

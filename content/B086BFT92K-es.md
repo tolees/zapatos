@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BFT92K-es TENDYCOCO 100Pcs Cubren Los Zapatos Útiles Portátiles...'
 sku: 'B086BFT92K-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

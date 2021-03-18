@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9VYFXC-es Skechers On-The-go-Bundle Up Botines para Mujer Morado...'
 sku: 'B07B9VYFXC-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

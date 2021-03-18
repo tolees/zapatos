@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2KGVMH-es Zapatos Invierno Mujer Botas de Nieve Forradas Calientes...'
 sku: 'B07X2KGVMH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

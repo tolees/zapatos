@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084LDXKYK-es Syllana 2 PCS Bolsa de Lavadora para Zapatos Bolsa de...'
 sku: 'B084LDXKYK-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

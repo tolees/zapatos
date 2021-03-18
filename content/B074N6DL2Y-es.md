@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N6DL2Y-es Clarks Cotrell Edge Zapatos de Cordones Derby para Hombre...'
 sku: 'B074N6DL2Y-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 33.31 EUR
 currency: EUR
 price: 33.31

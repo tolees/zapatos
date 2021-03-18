@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTOFJPJ-es Superga 2750-cotu Classic Zapatilla Baja Unisex Adulto...'
 sku: 'B01MTOFJPJ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

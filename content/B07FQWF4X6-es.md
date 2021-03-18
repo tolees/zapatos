@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQWF4X6-es Clarks Edward Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FQWF4X6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 34.64 EUR
 currency: EUR
 price: 34.64

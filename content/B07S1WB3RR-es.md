@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1WB3RR-es Cressi Coral Shoes Zapatilla para Deportes Acuáticos...'
 sku: 'B07S1WB3RR-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4PFN54-es Art Mainz Zapatos de Cordones Brogue Unisex Adulto Marrón...'
 sku: 'B07P4PFN54-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

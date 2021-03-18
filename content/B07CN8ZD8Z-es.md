@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8ZD8Z-es Crocs Crocband Flip Chanclas Unisex-Adult Green Army...'
 sku: 'B07CN8ZD8Z-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

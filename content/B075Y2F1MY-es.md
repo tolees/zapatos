@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Y2F1MY-es Skechers On-The-go 600-Foxy Sandalia con Pulsera para...'
 sku: 'B075Y2F1MY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

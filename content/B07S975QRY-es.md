@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S975QRY-es Crocs Crocband Flip Women Chanclas para Mujer Negro Black...'
 sku: 'B07S975QRY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

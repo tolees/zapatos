@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AP0SAM-es Reebok Classic Nylon Zapatilla de Running Hombre Blanco...'
 sku: 'B000AP0SAM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

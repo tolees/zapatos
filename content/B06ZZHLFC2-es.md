@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZHLFC2-es Cressi Beach Portofino Chanclas Unisex Adulto Verde/Azul 42'
 sku: 'B06ZZHLFC2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

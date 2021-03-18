@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCZDR4A-es ValueHall Crampones universales 18 dientes acero hielo...'
 sku: 'B01MCZDR4A-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3WYX2W-es Asics Classic CT Zapatos de Baloncesto para Hombre Negro...'
 sku: 'B07S3WYX2W-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 22.58 EUR
 currency: EUR
 price: 22.58

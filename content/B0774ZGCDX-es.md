@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774ZGCDX-es Crocs Yukon Vista Clog M Zuecos para Hombre Marrón...'
 sku: 'B0774ZGCDX-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

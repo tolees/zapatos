@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7FSCP-es Clarks - Botines de Cuero Hombre color Taupe Suede talla...'
 sku: 'B07MJ7FSCP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 45.31 EUR
 currency: EUR
 price: 45.31

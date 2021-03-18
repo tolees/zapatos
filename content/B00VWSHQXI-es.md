@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VWSHQXI-es Viking Rondane GTX Zapatos de High Rise Senderismo Unisex...'
 sku: 'B00VWSHQXI-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

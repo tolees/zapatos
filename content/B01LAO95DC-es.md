@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAO95DC-es Pikolinos Sandalia Mykonos para Mujer'
 sku: 'B01LAO95DC-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

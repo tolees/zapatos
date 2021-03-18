@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6TP77R-es Tommy Hilfiger Comfort Footbed Beach Sandal Chanclas para...'
 sku: 'B07V6TP77R-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

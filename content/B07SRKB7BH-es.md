@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKB7BH-es Geox D Borealis A Sandalia con Pulsera para Mujer Rojo...'
 sku: 'B07SRKB7BH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

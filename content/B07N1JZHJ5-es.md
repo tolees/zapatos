@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JZHJ5-es Clarks Hamble Oak Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1JZHJ5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29.87 EUR
 currency: EUR
 price: 29.87

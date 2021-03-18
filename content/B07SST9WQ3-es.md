@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SST9WQ3-es Quiksilver Molokai Vacancy Zapatos de Playa y Piscina para...'
 sku: 'B07SST9WQ3-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0728CNXWK-es Crocs Classic Clog Zuecos Unisex Adulto Gris Slate Grey...'
 sku: 'B0728CNXWK-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

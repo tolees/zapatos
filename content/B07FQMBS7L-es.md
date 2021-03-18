@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQMBS7L-es Clarks Edward Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FQMBS7L-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

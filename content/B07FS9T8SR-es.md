@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FS9T8SR-es Clarks Oakland Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FS9T8SR-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

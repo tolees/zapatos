@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWVHTFQ-es Columbia WAYFINDER Zapatos Multideporte para Hombre Gris...'
 sku: 'B07JWVHTFQ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

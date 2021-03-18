@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010WE7PEM-es Crocs Classic Clog Zuecos Unisex Adulto Naranja Tangerine...'
 sku: 'B010WE7PEM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

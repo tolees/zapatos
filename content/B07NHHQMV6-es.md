@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NHHQMV6-es Tamaris 1-1-22418-23 Zapatos de Tacón para Mujer Plateado...'
 sku: 'B07NHHQMV6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

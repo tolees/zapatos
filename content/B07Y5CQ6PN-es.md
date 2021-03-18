@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5CQ6PN-es Deevike Pantuflas Zapatillas Mujer Invierno CáLido Zapatos...'
 sku: 'B07Y5CQ6PN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

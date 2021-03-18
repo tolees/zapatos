@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014C2QHS-es Crocs Classic Clog Zuecos Unisex Adulto Marrón Chocolate...'
 sku: 'B0014C2QHS-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

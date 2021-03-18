@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8B84TJ-es Sandalias Mujer Verano 2019 con Plataforma Damas Moda...'
 sku: 'B07S8B84TJ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

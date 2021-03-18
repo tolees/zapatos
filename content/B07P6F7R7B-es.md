@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6F7R7B-es Vagabond Lara Botines para Mujer Multicolor Sand/Black 87...'
 sku: 'B07P6F7R7B-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 56.79 EUR
 currency: EUR
 price: 56.79

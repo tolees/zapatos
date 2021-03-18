@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OK4K1U-es PumaPurecat - Zapatos de playa y piscina adultos unisex...'
 sku: 'B015OK4K1U-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

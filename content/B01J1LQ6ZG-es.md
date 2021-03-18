@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1LQ6ZG-es Crocs Crocband U Zuecos Unisex Adulto Azul Navy-Volt...'
 sku: 'B01J1LQ6ZG-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

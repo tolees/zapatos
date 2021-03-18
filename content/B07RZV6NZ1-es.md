@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZV6NZ1-es Columbia Vapor Vent Zapatos para Hombre Azul Pool/Red...'
 sku: 'B07RZV6NZ1-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

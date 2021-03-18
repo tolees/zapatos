@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0791FLQLX-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños Azul...'
 sku: 'B0791FLQLX-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

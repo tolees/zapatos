@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079M9L9WZ-es Geox J Kiwi Zapatos Para Niño 30'
 sku: 'B079M9L9WZ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

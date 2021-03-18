@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW59CKM-es Skechers Keepsakes 2.0 Botines Mujer Marrón Chestnut Suede...'
 sku: 'B07NW59CKM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 50.76 EUR
 currency: EUR
 price: 50.76

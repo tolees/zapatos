@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083M86RBN-es LuckyGirls Chic Sandalias Mujer Verano 2020 Fiesta Planas...'
 sku: 'B083M86RBN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas','zapatos', ]
+tags: [ 'chanclas','zapatos', ]
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

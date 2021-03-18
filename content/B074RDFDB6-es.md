@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074RDFDB6-es Red Tape Holker Zapatos de cordones derby hombre Negro...'
 sku: 'B074RDFDB6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

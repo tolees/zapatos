@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXDT5S-es Crocs Classic Clog K Zuecos Unisex Niños Amarillo Lemon...'
 sku: 'B01HEXDT5S-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

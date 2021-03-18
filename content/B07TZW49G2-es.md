@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZW49G2-es Merrell Terran Cross II Sandalia con Pulsera para Mujer...'
 sku: 'B07TZW49G2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 27.69 EUR
 currency: EUR
 price: 27.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LMH6DT-es RAIN BOW ISLAND Zuecos Clásicos con Correa Trasera Hombre...'
 sku: 'B088LMH6DT-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

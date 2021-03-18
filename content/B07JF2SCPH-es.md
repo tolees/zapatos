@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JF2SCPH-es P Prettyia 20 Juegos De Botines con Ganchos De Encaje con...'
 sku: 'B07JF2SCPH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

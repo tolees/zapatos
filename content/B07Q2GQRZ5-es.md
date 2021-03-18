@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2GQRZ5-es Under Armour Women s Atlantic Dune T Dusch-& Badeschuhe...'
 sku: 'B07Q2GQRZ5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

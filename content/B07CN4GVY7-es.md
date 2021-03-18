@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN4GVY7-es Crocs Baya Clog Zuecos Unisex Niños Azul Ice Blue 4o9...'
 sku: 'B07CN4GVY7-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

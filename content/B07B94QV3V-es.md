@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B94QV3V-es Clarks Laina RAE Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07B94QV3V-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0897FLPR5-es ELEEMEE Mujer Simple Tacón Bajo Sandalias Square Toe...'
 sku: 'B0897FLPR5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

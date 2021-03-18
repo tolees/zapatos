@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFXX81-es Crocs Crocband Zuecos Unisex Adulto Verde Deep Green/White...'
 sku: 'B07SCFXX81-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD8Z39G-es Zapatos de Hombres Zapatillas de Deportivos Running para...'
 sku: 'B07XD8Z39G-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

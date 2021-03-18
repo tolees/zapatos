@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LUP4ZPK-es Crocs Freesail Clog Zuecos para Mujer Azul Navy 34/35 EU'
 sku: 'B00LUP4ZPK-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 12.61 EUR
 currency: EUR
 price: 12.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OVDGF0-es adidas Adilette Chanclas Hombre Azul Adiblu/White/Adiblu...'
 sku: 'B001OVDGF0-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

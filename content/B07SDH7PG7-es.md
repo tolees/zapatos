@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDH7PG7-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
 sku: 'B07SDH7PG7-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

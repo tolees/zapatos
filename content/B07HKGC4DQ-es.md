@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKGC4DQ-es Under Armour UA Spawn Mid Zapatos de Baloncesto para...'
 sku: 'B07HKGC4DQ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

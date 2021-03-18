@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKNMXX6-es Havaianas Slim Animals Chanclas para Mujer Multicolor...'
 sku: 'B07TKNMXX6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

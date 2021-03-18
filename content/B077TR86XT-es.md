@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TR86XT-es find. Zapatos de Serraje con Cordones Hombre Marrón...'
 sku: 'B077TR86XT-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

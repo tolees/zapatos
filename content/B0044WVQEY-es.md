@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044WVQEY-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Blossom 682...'
 sku: 'B0044WVQEY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

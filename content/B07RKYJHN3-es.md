@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKYJHN3-es Nike Downshifter 9 Zapatilla de Correr para Hombre...'
 sku: 'B07RKYJHN3-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 37.61 EUR
 currency: EUR
 price: 37.61

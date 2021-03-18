@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8XVBYN-es Crocs Classic Clog Zuecos Unisex Adulto Verde Dusty Green...'
 sku: 'B07K8XVBYN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

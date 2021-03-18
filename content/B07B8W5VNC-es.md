@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8W5VNC-es Clarks Vargo Plain Zapatos de Cordones Derby Marrón Dark...'
 sku: 'B07B8W5VNC-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

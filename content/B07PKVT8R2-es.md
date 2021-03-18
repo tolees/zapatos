@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKVT8R2-es find. Flat Leather Pull On Botines Marrón Almond 38 EU'
 sku: 'B07PKVT8R2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0734HBFG3-es Lakerom Zapatos Mocasines para Hombres Zapatos sin...'
 sku: 'B0734HBFG3-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

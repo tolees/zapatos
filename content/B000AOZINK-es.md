@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AOZINK-es Reebok Classic Nylon Zapatilla de Running Hombre Negro...'
 sku: 'B000AOZINK-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

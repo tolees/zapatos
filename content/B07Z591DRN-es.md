@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z591DRN-es Marca Amazon - find. Square Toe Block Heel Slingback...'
 sku: 'B07Z591DRN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

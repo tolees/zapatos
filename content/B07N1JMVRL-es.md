@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JMVRL-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07N1JMVRL-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 31.07 EUR
 currency: EUR
 price: 31.07

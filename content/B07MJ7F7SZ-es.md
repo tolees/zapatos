@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7F7SZ-es Clarks Tunsil Lane Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MJ7F7SZ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 32.93 EUR
 currency: EUR
 price: 32.93

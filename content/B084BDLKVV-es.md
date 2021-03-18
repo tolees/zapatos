@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084BDLKVV-es Cerdá Zapatilla Deportiva Blanca de Minnie Mouse para Niña...'
 sku: 'B084BDLKVV-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

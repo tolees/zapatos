@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4QX83Z-es gracosy Botas Nieve Mujer Forro de Piel Invierno...'
 sku: 'B07V4QX83Z-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

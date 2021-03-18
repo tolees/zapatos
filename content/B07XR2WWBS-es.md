@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XR2WWBS-es Marca Amazon - FIND Mule Wedge Zapatos de tacón con Punta...'
 sku: 'B07XR2WWBS-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

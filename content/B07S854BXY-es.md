@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S854BXY-es Crocs Crocband Zuecos Unisex Adulto Naranja Orange/White...'
 sku: 'B07S854BXY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

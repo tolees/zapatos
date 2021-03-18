@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FH5L6T5-es Havaianas Brasil Chanclas Unisex Adulto Beige Sand...'
 sku: 'B07FH5L6T5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

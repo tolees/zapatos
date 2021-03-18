@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZRYX7-es Geox D BIBBIANA A Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07LFZRYX7-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 56.55 EUR
 currency: EUR
 price: 56.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087BXQRS2-es TAONEEF Mujer Moda Stiletto Sandalias Correa de Tobillo...'
 sku: 'B087BXQRS2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C1TZ4K9-es H by Hudson Antrim Zapatos de Cordones Derby para Hombre...'
 sku: 'B07C1TZ4K9-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

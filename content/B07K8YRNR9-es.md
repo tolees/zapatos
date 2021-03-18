@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8YRNR9-es Crocs Crocband Clog Kids Zuecos Unisex Niños Azul Bright...'
 sku: 'B07K8YRNR9-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

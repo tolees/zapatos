@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FV12NRW-es Millet Route GTX Zapatos de High Rise Senderismo para...'
 sku: 'B07FV12NRW-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

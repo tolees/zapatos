@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB62DYP-es Zapatillas de Deportivos de Running para Hombre Gimnasia...'
 sku: 'B07XB62DYP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4P2BTB-es Art 1521 Grass Black/Mainz Zapatos de Cordones para Hombre...'
 sku: 'B07P4P2BTB-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

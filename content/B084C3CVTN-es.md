@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084C3CVTN-es Mishansha Zapatillas de Masculino Femenino Ligero Suave...'
 sku: 'B084C3CVTN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

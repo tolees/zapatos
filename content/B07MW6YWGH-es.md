@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MW6YWGH-es Camper Pelotas XL Zapatos de Cordones Oxford para Hombre...'
 sku: 'B07MW6YWGH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VVHSQ7-es Crocs Classic Clog Zuecos Unisex Adulto Azul Tropical Teal...'
 sku: 'B071VVHSQ7-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

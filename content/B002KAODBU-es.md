@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002KAODBU-es Crocs Crocband U Zuecos Unisex Adulto Blanco White 45-46 EU'
 sku: 'B002KAODBU-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

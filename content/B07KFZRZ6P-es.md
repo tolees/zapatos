@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFZRZ6P-es PUMA AURIZ Zapatos de fútbol para Hombre Negro Black...'
 sku: 'B07KFZRZ6P-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

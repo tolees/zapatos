@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0030ZSZU4-es adidas Duramo Slide Chanclas Unisex Adulto Negro...'
 sku: 'B0030ZSZU4-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

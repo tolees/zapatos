@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015SGE4LQ-es Havaianas Brasil Logo Chanclas Unisex Adulto Multicolor...'
 sku: 'B015SGE4LQ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

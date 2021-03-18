@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZXMBX2-es Hush Puppies - Zapatos Rosie Estilo Menorquina de Esparto...'
 sku: 'B07VZXMBX2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

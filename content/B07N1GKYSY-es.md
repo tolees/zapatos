@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GKYSY-es Clarks Desert London Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1GKYSY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 44.23 EUR
 currency: EUR
 price: 44.23

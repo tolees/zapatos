@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWSMMB7-es Zapatos de Seguridad Hombres LM-313 Zapatillas de Trabajo...'
 sku: 'B07DWSMMB7-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

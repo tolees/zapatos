@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9X7PRQ-es Adidas Hoops 2.0 CMF C Zapatos de Baloncesto Unisex Niños...'
 sku: 'B07D9X7PRQ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

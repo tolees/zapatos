@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DLYVGC-es Clarks Brixby Cove Sandalia con Pulsera para Hombre Marrón...'
 sku: 'B075DLYVGC-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 44.68 EUR
 currency: EUR
 price: 44.68

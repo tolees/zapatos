@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTH2KJN-es Organizador de equipaje de viaje 7 piezas impermeables...'
 sku: 'B07QTH2KJN-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

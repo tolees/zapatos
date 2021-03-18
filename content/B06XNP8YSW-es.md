@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XNP8YSW-es Nike Court Borough Low PSV Zapatos de Baloncesto para...'
 sku: 'B06XNP8YSW-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

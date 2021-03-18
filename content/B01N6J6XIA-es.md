@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6J6XIA-es Crocs Flip Flops Chanclas Unisex Adulto Negro Black/Smoke...'
 sku: 'B01N6J6XIA-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPYSH8V-es Clarks Foxwell Hall Zapatos de Cordones Derby Negro Black...'
 sku: 'B07TPYSH8V-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.19 EUR
 currency: EUR
 price: 37.19

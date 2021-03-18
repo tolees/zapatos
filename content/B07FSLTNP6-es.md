@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSLTNP6-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Gris...'
 sku: 'B07FSLTNP6-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

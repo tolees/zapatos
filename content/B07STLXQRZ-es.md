@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLXQRZ-es Geox D Sandal Vega A Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07STLXQRZ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

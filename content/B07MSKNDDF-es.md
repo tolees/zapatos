@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSKNDDF-es Clarks Becken Lace Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MSKNDDF-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

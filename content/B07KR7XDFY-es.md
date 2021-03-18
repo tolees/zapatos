@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR7XDFY-es Clarks Un Costa Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B07KR7XDFY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087G73SXG-es NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera...'
 sku: 'B087G73SXG-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

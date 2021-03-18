@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZKXHZH-es Gioseppo 56856 Botines para Niñas Morado Burdeos 25 EU'
 sku: 'B07MZKXHZH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

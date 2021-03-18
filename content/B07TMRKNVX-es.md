@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMRKNVX-es Clarks Stanford Walk Zapatos de Cordones Derby Negro Black...'
 sku: 'B07TMRKNVX-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 50.55 EUR
 currency: EUR
 price: 50.55

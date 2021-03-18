@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B94RKZ5-es Clarks Un Adorn Lace Zapatos de Cordones Derby para Mujer...'
 sku: 'B07B94RKZ5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.67 EUR
 currency: EUR
 price: 17.67

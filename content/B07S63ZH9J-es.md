@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S63ZH9J-es Crocs Classic Clog K Zuecos Unisex Niños Naranja...'
 sku: 'B07S63ZH9J-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

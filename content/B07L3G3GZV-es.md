@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3G3GZV-es Tommy Hilfiger Colorful Rope Flat Sandal Chanclas para...'
 sku: 'B07L3G3GZV-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 59.58 EUR
 currency: EUR
 price: 59.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJ66H4H-es JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes...'
 sku: 'B07ZJ66H4H-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

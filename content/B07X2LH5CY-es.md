@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2LH5CY-es Ipanema Anat Lovely X Fem Chanclas para Mujer Multicolor...'
 sku: 'B07X2LH5CY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

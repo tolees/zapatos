@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSN2WLP-es Rockport Dress Sport 2 Fast FLT Plain Toe Zapatos de...'
 sku: 'B07FSN2WLP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

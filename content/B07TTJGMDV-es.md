@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTJGMDV-es Skechers Go Walk Smart-First Class Chanclas para Mujer...'
 sku: 'B07TTJGMDV-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

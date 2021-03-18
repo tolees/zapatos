@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFZWQFV-es Marca Amazon - find. High Heel Point Court Zapatos de...'
 sku: 'B07YFZWQFV-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2JJ7Z-es Clarks Bampton Wing Zapatos de Cordones Brogue para Hombre...'
 sku: 'B07MQ2JJ7Z-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.03 EUR
 currency: EUR
 price: 26.03

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LWANP0-es ALPRO A 630 - Zuecos de material sintético unisex negro -...'
 sku: 'B004LWANP0-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

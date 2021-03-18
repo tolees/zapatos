@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6VYZZS-es El Naturalista Myth Yggdrasil Botines para Mujer Gris...'
 sku: 'B07S6VYZZS-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 31.11 EUR
 currency: EUR
 price: 31.11

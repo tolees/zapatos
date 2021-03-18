@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQAM6LC-es Crocs Crocband Zuecos Unisex Adulto Azul Blue/Yellow 41/42 EU'
 sku: 'B01HQAM6LC-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

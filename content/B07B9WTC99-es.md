@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9WTC99-es Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma...'
 sku: 'B07B9WTC99-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

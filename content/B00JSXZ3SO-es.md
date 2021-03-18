@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JSXZ3SO-es Victoria Mercedes Lona Pañuelo Zapatos de primeros pasos...'
 sku: 'B00JSXZ3SO-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

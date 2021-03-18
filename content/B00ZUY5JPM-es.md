@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUY5JPM-es Reef Fanning Chanclas para Hombre Marrón Brown / Gum 35 EU'
 sku: 'B00ZUY5JPM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

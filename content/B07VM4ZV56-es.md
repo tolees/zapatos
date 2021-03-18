@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM4ZV56-es JIASUQI Zapatos clásicos de deporte descalzo para niños...'
 sku: 'B07VM4ZV56-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

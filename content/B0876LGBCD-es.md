@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876LGBCD-es Sandalias duraderas para Hombres Sandalias de Verano para...'
 sku: 'B0876LGBCD-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

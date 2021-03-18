@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBW4F6B-es PUMA Epic Flip V2 Amplified Zapatos de Playa y Piscina...'
 sku: 'B07SBW4F6B-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

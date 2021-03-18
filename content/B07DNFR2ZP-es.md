@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNFR2ZP-es Clarks Becken Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B07DNFR2ZP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

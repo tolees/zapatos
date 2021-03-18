@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003BLPRIU-es crocs Baya Zuecos Unisex Adulto Gris Graphite 41/42 EU'
 sku: 'B003BLPRIU-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

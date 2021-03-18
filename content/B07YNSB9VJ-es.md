@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNSB9VJ-es Marca Amazon - find. Kitten Heel Court Zapatos de tacón...'
 sku: 'B07YNSB9VJ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

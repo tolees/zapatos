@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077G5NWT5-es gracosy Mujer Botas de Nieve Senderismo Zapatos...'
 sku: 'B077G5NWT5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

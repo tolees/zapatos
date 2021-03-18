@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKS4PG4-es Clarks Jillian Rise Sandalia con Pulsera para Mujer...'
 sku: 'B07TKS4PG4-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

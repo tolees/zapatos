@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779FSTGW-es Clarks Originals Wallabee Zapatos de Cordones Derby para...'
 sku: 'B0779FSTGW-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 76.07 EUR
 currency: EUR
 price: 76.07

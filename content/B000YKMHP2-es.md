@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000YKMHP2-es Havaianas Top Chanclas Unisex Adulto Blanco White 41/42 EU'
 sku: 'B000YKMHP2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

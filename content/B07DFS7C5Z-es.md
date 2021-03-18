@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFS7C5Z-es Crocs LiteRide Clog Zuecos Unisex Adulto Gris Smoke/Pearl...'
 sku: 'B07DFS7C5Z-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

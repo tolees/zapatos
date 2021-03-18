@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCG487Z-es Crocs Crocband Flip Women Chanclas para Mujer Azul Navy...'
 sku: 'B07SCG487Z-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 13.35 EUR
 currency: EUR
 price: 13.35

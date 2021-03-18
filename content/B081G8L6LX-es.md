@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081G8L6LX-es Mujer Zapatillas Deporte para Zapatillas de Ligeras...'
 sku: 'B081G8L6LX-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

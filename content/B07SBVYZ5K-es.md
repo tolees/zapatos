@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVYZ5K-es PUMA Epic Flip V2 Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07SBVYZ5K-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

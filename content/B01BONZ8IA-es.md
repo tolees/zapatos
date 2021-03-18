@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BONZ8IA-es ECCO Soft 2.0 Zapatos de Cordones Derby para Mujer Negro...'
 sku: 'B01BONZ8IA-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 71.61 EUR
 currency: EUR
 price: 71.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7F1R5-es Clarks Cotrell Stride Zapatos de Cordones Derby para...'
 sku: 'B07MJ7F1R5-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

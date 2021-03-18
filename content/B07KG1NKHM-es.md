@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG1NKHM-es PUMA Monarch IT Jr Zapatos de Futsal Unisex Niños Black...'
 sku: 'B07KG1NKHM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29 EUR
 currency: EUR
 price: 29

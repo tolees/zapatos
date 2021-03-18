@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN36JFM-es Crocs Santa Cruz Canvas Flip Men Zapatos de Playa y...'
 sku: 'B07CN36JFM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

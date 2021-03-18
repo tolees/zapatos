@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH1V4MJ-es Levi s June L S Chanclas para Mujer Rosa Light Pink 81 38 EU'
 sku: 'B07SH1V4MJ-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

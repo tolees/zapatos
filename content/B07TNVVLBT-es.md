@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNVVLBT-es Clarks Atticus Lace Zapatos de Cordones Derby para Hombre...'
 sku: 'B07TNVVLBT-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

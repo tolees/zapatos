@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPC1PT4-es Crocs Crocband Clog Kids Zuecos Unisex Niños Verde Army...'
 sku: 'B07CPC1PT4-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

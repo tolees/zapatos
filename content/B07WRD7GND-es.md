@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRD7GND-es Zapatos de Seguridad Hombres LM-30 Zapatillas de Trabajo...'
 sku: 'B07WRD7GND-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

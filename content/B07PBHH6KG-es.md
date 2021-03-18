@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBHH6KG-es JOINFREE Zapatos de Agua para niños Calzado de Secado...'
 sku: 'B07PBHH6KG-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

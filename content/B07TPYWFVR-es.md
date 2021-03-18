@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPYWFVR-es Clarks Cotrell Lane 261486527 Zapatos de Cordones Derby...'
 sku: 'B07TPYWFVR-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 64.72 EUR
 currency: EUR
 price: 64.72

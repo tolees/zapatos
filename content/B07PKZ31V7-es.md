@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKZ31V7-es New Balance 574v2 Zapatilla Baja de Deporte para Hombre...'
 sku: 'B07PKZ31V7-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 48.83 EUR
 currency: EUR
 price: 48.83

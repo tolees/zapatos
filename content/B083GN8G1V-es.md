@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GN8G1V-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
 sku: 'B083GN8G1V-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

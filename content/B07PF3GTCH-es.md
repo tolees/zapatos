@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PF3GTCH-es KTOL Personalidad Chanclas de Piscina para Hombre Elegante...'
 sku: 'B07PF3GTCH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas','zapatos', ]
+tags: [ 'chanclas','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

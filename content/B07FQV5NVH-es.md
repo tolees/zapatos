@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQV5NVH-es Clarks Sharon Crystal Zapatos de Cordones Derby para Mujer...'
 sku: 'B07FQV5NVH-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.21 EUR
 currency: EUR
 price: 37.21

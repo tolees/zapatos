@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D5DNPHS-es Compactor Taupe Home Zapatos Bolsa de Almacenamiento...'
 sku: 'B01D5DNPHS-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

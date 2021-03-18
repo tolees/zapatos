@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5FCXCM-es El Naturalista N5144 Botines para Mujer Marrón Wood Wood...'
 sku: 'B07S5FCXCM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','botines', ]
+tags: [ 'botines', ]
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

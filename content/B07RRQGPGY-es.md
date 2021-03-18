@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRQGPGY-es Axcone Zapatillas Hombres Mujer Deporte Running Zapatos...'
 sku: 'B07RRQGPGY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

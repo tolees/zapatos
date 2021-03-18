@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLTWXH2-es Clarks Un Cosmo Strap Sandalia con Pulsera para Mujer Gris...'
 sku: 'B07TLTWXH2-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','sandalia', ]
+tags: [ 'sandalia', ]
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

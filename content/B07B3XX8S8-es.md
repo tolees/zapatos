@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3XX8S8-es Clarks Walbeck Edge II Zapatos de Cordones Derby para...'
 sku: 'B07B3XX8S8-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

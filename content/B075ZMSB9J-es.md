@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZMSB9J-es Zapatero Sable de 10 niveles almacenamiento para 50 pares...'
 sku: 'B075ZMSB9J-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

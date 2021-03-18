@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJNYJG1-es D C.Supernice - Zapatilla Baja Adultos Unisex Color Azul...'
 sku: 'B07NJNYJG1-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

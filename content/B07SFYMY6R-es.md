@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFYMY6R-es Levi s June Batwing Chanclas para Hombre Negro R Black 59...'
 sku: 'B07SFYMY6R-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

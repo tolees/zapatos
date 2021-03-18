@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ924GP-es FIND Cork Two Part Sling Back Wedge Zapatos de tacón con...'
 sku: 'B07XQ924GP-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG63SLY-es PUMA Auriz Zapatos de Futsal para Hombre White-Green...'
 sku: 'B07KG63SLY-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

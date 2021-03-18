@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRCY1KM-es Mary A1905 - Zapatos de napa color negro y rojo tacón de 6...'
 sku: 'B07PRCY1KM-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5
