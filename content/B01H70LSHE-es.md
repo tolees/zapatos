@@ -31,8 +31,8 @@ Tienes [crocs 203998  Chanclas Mujer  Negro  Black/White   38/39 EU  W 8 US ](ht
 - Material exterior: Espuma
 - Revestimiento: Sin forro
 - Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Composición: Sintético
+- Tipo de tacón: Plano
 - Material de la suela: EVA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H70LSHE/?tag=tolees-21)
