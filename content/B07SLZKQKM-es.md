@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZKQKM-es Havaianas Flores Chanclas para Niñas Multicolor Crystal...'
 sku: 'B07SLZKQKM-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias y chanclas para niña','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos para niñas pequeñas','Zapatos y complementos','chanclas','havaianas', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

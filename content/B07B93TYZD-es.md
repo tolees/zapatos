@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B93TYZD-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Negro...'
 sku: 'B07B93TYZD-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','clarks','zapatos', ]
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9S8KCL-es PUMA Leadcat FTR Zapatos de Playa y Piscina Azul Dark...'
 sku: 'B07S9S8KCL-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de vestir para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','puma','zapatos', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

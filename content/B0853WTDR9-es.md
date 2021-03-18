@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0853WTDR9-es Zapatos Casual Niña Pablosky Azul 342329 31'
 sku: 'B0853WTDR9-es'
-tags: [ 'Mocasines para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','pablosky','zapatos', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5
