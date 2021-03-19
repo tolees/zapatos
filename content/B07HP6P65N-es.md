@@ -28,10 +28,10 @@ Tienes [Skechers Status 2.0-Pexton  Zapatos de Cordones Derby Hombre  Multicolor
 
 ℹ️:
 
+- Color: gris pardo
 - Estilo: Sneaker Med
 - NÃºmero del fabricante: 65910 TPE
-- Material: Textil
-- Color: gris pardo
 - MÃ¡s informaciÃ³n: STATUS 2.0 PEXTON
+- Material: Textil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HP6P65N/?tag=tolees-21)
