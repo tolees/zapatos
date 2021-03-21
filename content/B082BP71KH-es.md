@@ -28,7 +28,7 @@ Está [Diadora - Zapatilla de Running Eagle 3 para Hombre  EU 40 ](https://www.a
 
 ℹ️:
 
-- Zapatilla de running para hombre
 - Diadora Sport: Innovación tecnológica, performance y estilo. Diadora es líder mundial en el mercado deporte, lifestyle y seguridad. Vanguardia estilística e innovación tecnológica son las palabras llaves del éxito de este Brand.
+- Zapatilla de running para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082BP71KH/?tag=tolees-21)
