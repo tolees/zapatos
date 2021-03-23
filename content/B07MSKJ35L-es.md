@@ -28,9 +28,9 @@ Tienes [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Marrón  Dark Bro
 
 ℹ️:
 
-- Suela: Eva
-- Forro: Textil
 - Ajuste: (g) Estándar
+- Forro: Textil
 - Superiores: Cuero
+- Suela: Eva
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MSKJ35L/?tag=tolees-21)
