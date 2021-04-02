@@ -28,10 +28,10 @@ Está [Geox D Sandal Vega A  Sandalia con Pulsera para Mujer  Beige  Taupe C6029
 
 ℹ️:
 
+- Revestimiento: Sintético
+- Material de la suela: Goma
 - Tipo de tacón: Plano
 - Cierre: Velcro
-- Revestimiento: Sintético
 - Material exterior: Sintético
-- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQGVG6Q/?tag=tolees-21)
