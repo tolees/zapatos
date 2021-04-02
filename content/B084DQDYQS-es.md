@@ -28,8 +28,8 @@ Tienes [Clarks Linvale Jerica  Zapatos de Vestir par Uniforme Mujer  Rojo Cereza
 
 🔎:
 
-- Material interior: sintético
-- Suela: piel y goma
 - Material exterior: piel lisa
+- Suela: piel y goma
+- Material interior: sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084DQDYQS/?tag=tolees-21)
