@@ -28,10 +28,10 @@ Tienes [Clarks Sharon Crystal  Zapatos de Cordones Derby  Beige  Pewter-   35.5 
 
 🔎:
 
-- Altura Del Talón: 4.5 Cm
 - Ajuste: (d) Estándar
-- Uppers: Gamuza
+- Altura Del Talón: 4.5 Cm
 - Forro: Textil
+- Uppers: Gamuza
 - Suela: Eva
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FSK9QFY/?tag=tolees-21)
