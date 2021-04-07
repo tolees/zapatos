@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Ronnie Limit  Zapatos de Cordones Brogue  Braun Briti
 
 🔎:
 
-- Forro: Textil
-- Superiores: Cuero
-- Ajuste: (g) Estándar
 - Suela: Tr
+- Superiores: Cuero
+- Forro: Textil
+- Ajuste: (g) Estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MSK5Z2S/?tag=tolees-21)
