@@ -28,11 +28,11 @@ Está [Crocs Baya Clog  Zuecos Unisex Niños  Rojo  Pepper 6en   24/25 EU](https
 
 ℹ️:
 
-- Material de la suela: EVA
-- Composición: Sintético
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
 - Cierre: Tira de tobillo
 - Material exterior: Espuma
+- Revestimiento: Sin forro
+- Composición: Sintético
+- Material de la suela: EVA
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CN6CRLT/?tag=tolees-21)
