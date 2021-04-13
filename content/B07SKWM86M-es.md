@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Havaianas Top Mix  Chanclas Unisex Adult al 54.82 % de descuento'
-date: 2021-04-12 10:18:01
-image: 'https://m.media-amazon.com/images/I/41mZzbYBmeL._SL400_.jpg'
+date: 2021-04-13 14:53:35
+image: 'https://m.media-amazon.com/images/I/41mZzbYBmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,21 +19,21 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B07SKWM86M/?tag=tolees-21'
 descuento: '54.82'
-average: '16.318'
+average: '15.0966666666667'
 ---
 
 Está [Havaianas Top Mix  Chanclas Unisex Adulto  Azul  Navy/Black 1554   41/42 EU](https://www.amazon.es/dp/B07SKWM86M/?tag=tolees-21) con 54.82 de descuento por 8.99 EUR (original: 19.9 EUR) en el siguiente enlace!
 
-[![Havaianas Top Mix  Chanclas Unisex Adult](https://m.media-amazon.com/images/I/41mZzbYBmeL._SL400_.jpg)](https://www.amazon.es/dp/B07SKWM86M/?tag=tolees-21)
+[![Havaianas Top Mix  Chanclas Unisex Adult](https://m.media-amazon.com/images/I/41mZzbYBmeL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SKWM86M/?tag=tolees-21)
 
 ℹ️:
 
-- Revestimiento: Sin forro
-- Altura del tacón: 1 centímetros
-- Cierre: Sin cierre
-- Tipo de tacón: Plano
 - Material exterior: Caucho
-- Anchura del zapato: Normal
+- Cierre: Sin cierre
 - Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Altura del tacón: 1 centímetros
+- Revestimiento: Sin forro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SKWM86M/?tag=tolees-21)
