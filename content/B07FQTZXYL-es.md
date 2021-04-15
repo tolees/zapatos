@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Un Maui Lace  Zapatos de Cordones Derby Mujer  Beige 
 
 🔎:
 
-- Cierre: Cordones.
 - Suela: Base de poliuretano.
 - Empeine: Piel suave.
+- Cierre: Cordones.
 - Material interior: Piel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FQTZXYL/?tag=tolees-21)
