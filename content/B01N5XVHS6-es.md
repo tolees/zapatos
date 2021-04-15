@@ -31,7 +31,7 @@ Está [adidas Terrex Ax2R K  Zapatos de Low Rise Senderismo Unisex Niños  Negro
 - Parte superior de malla técnica -on refuerzos sintéticos para una mayor ligereza y resistencia al desgaste.
 - Horma específica para pies en fase de crecimiento
 - Forro de malla transpirable alrededor del tobillo
-- Mediasuela de EVA -Para una amortiguación más ligera y duradera.
 - Suela con tecnología TRAXION -Proporciona una excelente tracción en todas las direcciones.
+- Mediasuela de EVA -Para una amortiguación más ligera y duradera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N5XVHS6/?tag=tolees-21)
