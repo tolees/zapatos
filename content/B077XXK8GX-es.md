@@ -29,7 +29,7 @@ En este momento está [FILA Disruptor wmn zapatilla Mujer  negro  Black   40 EU]
 🔎:
 
 - another material
-- adulto
 - Black
+- adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077XXK8GX/?tag=tolees-21)
