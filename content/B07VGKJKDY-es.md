@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Cotrell Lane 261486517  Zapatos de Cordones Derby Hom
 
 🔎:
 
-- Interior: textil
 - Exterior: piel
 - Suela: EVA
+- Interior: textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGKJKDY/?tag=tolees-21)

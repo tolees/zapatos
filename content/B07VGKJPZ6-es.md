@@ -28,8 +28,8 @@ Está [Clarks Cotrell Lane 261486517  Zapatos de Cordones Derby Hombre  Marrón 
 
 ℹ️:
 
+- Exterior: piel
 - Interior: textil
 - Suela: EVA
-- Exterior: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VGKJPZ6/?tag=tolees-21)
