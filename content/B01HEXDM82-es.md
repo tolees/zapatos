@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs Classic Clog K  Zuecos Unisex Niños  Lemon  27/28 EU]
 
 🔎:
 
-- Material de la suela: EVA
-- Revestimiento: Sin forro
-- Material exterior: Espuma
 - Cierre: Sin cordones
+- Revestimiento: Sin forro
+- Material de la suela: EVA
+- Material exterior: Espuma
 - Tipo de tacón: Plano
 - Composición: Espuma
 - Anchura del zapato: Normal
