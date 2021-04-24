@@ -28,11 +28,11 @@ Tienes [Havaianas Top  Chanclas Unisex Adulto  Marrón  Dark Brown   41/42 EU](h
 
 ℹ️:
 
-- Composición: Goma
+- Revestimiento: Sin forro
 - Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Material de la suela: Goma
 - Material exterior: Goma
-- Revestimiento: Sin forro
+- Composición: Goma
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000YKIXP0/?tag=tolees-21)
