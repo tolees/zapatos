@@ -28,10 +28,10 @@ Tienes [Crocs Crocband U  Zuecos Unisex Adulto  Blanco  White-Blue Jean   42-43 
 
 ℹ️:
 
-- Cierre: Sin cordones
-- Altura del tacón: 1.5 pulgadas
-- Material exterior: Espuma
-- Material de la suela: Goma
 - Revestimiento: Sintético
+- Material exterior: Espuma
+- Cierre: Sin cordones
+- Material de la suela: Goma
+- Altura del tacón: 1.5 pulgadas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072LQ5SLT/?tag=tolees-21)
