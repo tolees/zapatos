@@ -28,11 +28,11 @@ Tienes [Crocs Classic  Zuecos Unisex Adulto  Negro  Black   42/43 EU](https://ww
 
 🔎:
 
-- Revestimiento: Sin forro
-- Cierre: Tira de tobillo
-- Tipo de tacón: Plano
-- Material de la suela: Sintético
 - Composición: Sintético
+- Tipo de tacón: Plano
+- Cierre: Tira de tobillo
 - Material exterior: Espuma
+- Revestimiento: Sin forro
+- Material de la suela: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0014BYHGC/?tag=tolees-21)
