@@ -30,8 +30,8 @@ Ahora mismo tienes [Jack Wolfskin Vojo 3 Texapore Low W  Zapatos al Aire Libre M
 
 - Botas de senderismo para excursiones de día
 - Ajuste cómodo, perfil antideslizante
-- Impermeable, transpirable
-- Índice de actividad: A (senderismo)
 - Suela de senderismo resistente y amortiguada
+- Índice de actividad: A (senderismo)
+- Impermeable, transpirable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087MRGCGQ/?tag=tolees-21)
