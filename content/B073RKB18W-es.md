@@ -28,8 +28,8 @@ En este momento está [Adidas Adilette Comfort Zapatos de playa y piscina Niño 
 
 🔎:
 
-- Correa de poliuretano de secado rápido
-- Adilette para el uso diario
 - Diseño del deslizamiento
+- Adilette para el uso diario
+- Correa de poliuretano de secado rápido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RKB18W/?tag=tolees-21)
