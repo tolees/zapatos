@@ -28,8 +28,8 @@ Ahora mismo tienes [Adidas Adilette Aqua  Zapatos de Playa y Piscina Unisex Adul
 
 🔎:
 
+- Chanclas deportivas
 - Fácil de poner
 - 3 rayas en la parte superior
-- Chanclas deportivas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K2N2CQC/?tag=tolees-21)
