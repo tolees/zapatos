@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Morro Bay 2.0 men Sandalia Hombre   al 34.00 % de descuento'
-date: 2021-04-18 08:37:33
+date: 2021-05-01 17:38:29
 image: 'https://m.media-amazon.com/images/I/31e-F+QbnOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07V4G6SGP/?tag=tolees-21'
 descuento: '34.00'
-average: '14.85'
+average: '16.3633333333333'
 ---
 
 Está [FILA Morro Bay 2.0 men Sandalia Hombre  azul  Dress Blue   42 EU](https://www.amazon.es/dp/B07V4G6SGP/?tag=tolees-21) con 34.00 de descuento por 14.85 EUR (original: 22.5 EUR) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [FILA Morro Bay 2.0 men Sandalia Hombre  azul  Dress Blue   42 EU](https:/
 
 ℹ️:
 
-- Suela exterior de EVA moldeada
 - Correa
+- Suela exterior de EVA moldeada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V4G6SGP/?tag=tolees-21)
