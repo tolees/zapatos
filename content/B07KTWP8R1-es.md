@@ -28,8 +28,8 @@ Está [Adidas Adilette Shower Zapatos de Playa y Piscina para Hombre  Negro  43 
 
 ℹ️:
 
-- Material de la suela: Goma
-- Material exterior: Sintético
 - Revestimiento: Sintético
+- Material exterior: Sintético
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KTWP8R1/?tag=tolees-21)
