@@ -28,10 +28,10 @@ Está [Geox B Kaytan A  Zapatos de Primeros Pasos Niñas  White Silver C0007  19
 
 ℹ️:
 
-- Material de la suela: Sintético
-- Material exterior: Cuero
 - Revestimiento: Cuero
+- Material de la suela: Sintético
 - Cierre: Velcro
+- Material exterior: Cuero
 - Altura del tacón: 1.5 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DK21XBL/?tag=tolees-21)
