@@ -29,8 +29,8 @@ Está [Crocs Crocband Clog K  Zuecos  Navy/Volt Green  33/34 EU](https://www.ama
 ℹ️:
 
 - Estilo: Zueco con correa de talón
-- Color: azul
 - NÃºmero del fabricante: 204537-4K6
+- Color: azul
 - Material: Croslite
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J1LZCII/?tag=tolees-21)
