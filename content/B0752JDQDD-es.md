@@ -28,8 +28,8 @@ Ahora mismo tienes [PIKOLINOS Sandalia Plana de Piel P. Vallarta 655](https://ww
 
 🔎:
 
-- Soft, semi-vegetable tanned calfskin leather upper
 - Leather lined insole for cushioning and support
+- Soft, semi-vegetable tanned calfskin leather upper
 - Breathable and moisture-wicking leather lining for abrasion-free wear
 - Flexible, durable and textured synthetic sole
 - 2.5 cm wedge heel for height boost and stability
