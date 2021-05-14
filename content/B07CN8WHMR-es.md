@@ -30,7 +30,7 @@ En este momento está [Crocs Specialist II Vent Clog  Zuecos Unisex Adulto  Blan
 
 - Cierre: Sin cordones
 - Revestimiento: Sin forro
-- Material de la suela: EVA
 - Material exterior: Caucho
+- Material de la suela: EVA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CN8WHMR/?tag=tolees-21)
