@@ -28,10 +28,10 @@ Tienes [Crocs Crocband Sandal Kids  Sandalia  Pistachio  28/29 EU](https://www.a
 
 🔎:
 
-- Holes for jibbitz shoe charms for personalisation.
-- Crocs Girls Crocband Slip On Molded Croslite Anklestrap Sandals Pink Fully Moulded Croslite Material Construction For Maximum Lightweight Cushioning. Sporty Midsole Band Inspired By The Classic Vulcanised Style. Croslite Material
 - Sporty midsole band inspired by the classic vulcanised style.
-- Fully moulded Croslite material construction for maximum lightweight cushioning.
+- Crocs Girls Crocband Slip On Molded Croslite Anklestrap Sandals Pink Fully Moulded Croslite Material Construction For Maximum Lightweight Cushioning. Sporty Midsole Band Inspired By The Classic Vulcanised Style. Croslite Material
 - Croslite material heel strap for a secure fit.
+- Holes for jibbitz shoe charms for personalisation.
+- Fully moulded Croslite material construction for maximum lightweight cushioning.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089KFJQNX/?tag=tolees-21)
