@@ -28,7 +28,7 @@ En este momento está [FILA Morro Bay 2.0 men Sandalia Hombre  azul  Olympian Bl
 
 🔎:
 
-- Suela exterior de EVA moldeada
 - Correa
+- Suela exterior de EVA moldeada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V8NCRWD/?tag=tolees-21)
