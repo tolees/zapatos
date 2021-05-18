@@ -30,8 +30,8 @@ En este momento está [Crocs Baya Slide  Unisex Adulto Sandalia  Negro  Black   
 
 - Croslite Material
 - Anti bacterial
-- New Crocs logo Cut out design
 - Non slip sole
 - Jibbitz friendly
+- New Crocs logo Cut out design
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005HV2U3M/?tag=tolees-21)
