@@ -30,10 +30,10 @@ Tienes [Havaianas Brasil  Chanclas Unisex Adulto  Amarillo  Banana Yellow   33-3
 
 - Material de la suela: Goma
 - Composición: Caucho
-- Cierre: Sin cordones
-- Material exterior: Goma
-- Altura del tacón: 3 centímetros
-- Revestimiento: Sin forro
 - Tipo de tacón: Plano
+- Material exterior: Goma
+- Revestimiento: Sin forro
+- Altura del tacón: 3 centímetros
+- Cierre: Sin cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00QURPU20/?tag=tolees-21)
