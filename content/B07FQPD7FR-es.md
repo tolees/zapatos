@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Un Rio Lace  Zapatos de Cordones Derby Mujer  Blanco 
 
 🔎:
 
-- Forro: Cuero
-- Suela: Goma
 - Ajuste: (d) Estándar
+- Forro: Cuero
 - Superiores: Cuero
+- Suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FQPD7FR/?tag=tolees-21)
