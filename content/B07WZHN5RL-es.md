@@ -28,9 +28,9 @@ Tienes [Crocs Classic Clog K  Zuecos Unisex Niños  Electric Pink  27/28 EU](htt
 
 ℹ️:
 
-- Easy to clean.
-- Customizable with Jibbitz charms.
 - Pivoting heel straps for a more secure fit.
+- Customizable with Jibbitz charms.
+- Easy to clean.
 - Iconic Crocs comfort, lightweight, flexible and 360 degree comfort.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WZHN5RL/?tag=tolees-21)
