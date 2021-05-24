@@ -28,12 +28,12 @@ Está [Crocs Crocband Clog K  Zuecos  Navy/Red  33/34 EU](https://www.amazon.es/
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
 - Anchura del zapato: Normal
 - Cierre: Sin cordones
-- Material de la suela: EVA
-- Material exterior: Espuma
+- Revestimiento: Sin forro
 - Composición: Espuma
+- Material de la suela: EVA
+- Tipo de tacón: Plano
+- Material exterior: Espuma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEXF7H6/?tag=tolees-21)
