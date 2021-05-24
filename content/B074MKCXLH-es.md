@@ -28,11 +28,11 @@ Tienes [Havaianas Brasil Logo Chanclas Unisex Adulto  Negro  Black/Black   41/42
 
 🔎:
 
+- Composición: Goma
 - Revestimiento: Caucho
 - Material exterior: Caucho
-- Cierre: Sin cordones
-- Material de la suela: Goma
-- Composición: Goma
 - Tipo de tacón: Plano
+- Material de la suela: Goma
+- Cierre: Sin cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074MKCXLH/?tag=tolees-21)
