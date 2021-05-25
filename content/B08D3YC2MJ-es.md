@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Disruptor kids zapatilla Unisex niñ al 28.60 % de descuento'
-date: 2021-05-22 09:45:10
+date: 2021-05-25 10:58:10
 image: 'https://m.media-amazon.com/images/I/41TjKH73piL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [FILA Disruptor kids zapatilla Unisex niños  rosa  Sepia Ros
 
 🔎:
 
-- Heel height: 10 milímetros
 - Sole material: caucho
-- Outer material: sintético
 - Shoe width: normale
-- Closure: encaje
-- Lining: sintético
+- Outer material: sintético
+- Heel height: 10 milímetros
 - Material composition: pelle
+- Lining: sintético
+- Closure: encaje
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08D3YC2MJ/?tag=tolees-21)
