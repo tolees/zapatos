@@ -29,8 +29,8 @@ Ahora mismo tienes [Geox U Federico V  Zapatos de Cordones Derby Hombre  Negro  
 🔎:
 
 - Der U Federico V für Herren von Geox ist ein atmungsaktiver Schnür-Halbschuh für Beruf und Alltag.
-- Komfortable Innensohle
 - Hochwertiges Leder ist strapazierfähig und langlebig
+- Komfortable Innensohle
 - Anlass: Business
 - Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
 
