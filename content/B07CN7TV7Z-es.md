@@ -28,11 +28,11 @@ Ahora mismo tienes [Crocs Classic  Zuecos Unisex Adulto  Morado  Neon Purple   4
 
 🔎:
 
+- Composición: Sintético
 - Cierre: Tira de tobillo
+- Revestimiento: Sin forro
 - Tipo de tacón: Plano
 - Material de la suela: Sintético
-- Revestimiento: Sin forro
-- Composición: Sintético
 - Material exterior: Espuma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CN7TV7Z/?tag=tolees-21)
