@@ -29,7 +29,7 @@ Ahora mismo tienes [Roxy Sandy  Zapatos de Playa y Piscina para Mujer  Rosa  Cer
 🔎:
 
 - __parte superior:__parte superior de TPU moldeado con pin ROXY
-- __Plantilla:__ Plantilla de goma texturizada con gráfico
 - __suela exterior:__suela exterior de goma con estampado ROXY vintage
+- __Plantilla:__ Plantilla de goma texturizada con gráfico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STWVJJD/?tag=tolees-21)
