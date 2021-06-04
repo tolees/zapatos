@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Crocband II Sandal Kids  Sandalia  al 19.97 % de descuento'
-date: 2021-06-03 06:05:52
+date: 2021-06-04 06:17:10
 image: 'https://m.media-amazon.com/images/I/413KSP3gQIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B07K92CVVJ/?tag=tolees-21'
 descuento: '19.97'
-average: '25.3902857142857'
+average: '25.3516666666667'
 ---
 
 Ahora mismo tienes [Crocs Crocband II Sandal Kids  Sandalia con Pulsera Unisex Niños  Azul  Bright Cobalt/Charcoal 4jn   22/23 EU](https://www.amazon.es/dp/B07K92CVVJ/?tag=tolees-21) a 24.0 EUR (original: 29.99 EUR) (19.97 %  de descuento) en el siguiente enlace!
