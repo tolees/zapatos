@@ -28,9 +28,9 @@ Tienes [Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color marró
 
 ℹ️:
 
-- Der Halbschuh für Herren von Dockers by Gerli ist der ideale Begleiter für Alltag und Freizeit.
 - Leder ist langlebig und strapazierfähig
 - Verstärkte Ferse für guten Halt
+- Der Halbschuh für Herren von Dockers by Gerli ist der ideale Begleiter für Alltag und Freizeit.
 - Gepolsterter Schaft und Lasche für hohen Tragekomfort
 - Anlass: Casual
 
