@@ -29,8 +29,8 @@ Está [Crocs Crocband Clog K  Zuecos  Gris  Smoke/Navy   30/31 EU](https://www.a
 ℹ️:
 
 - Estilo: Zueco con correa de talón
-- NÃºmero del fabricante: 204537-05H
 - Material: Croslite
 - Color: gris
+- NÃºmero del fabricante: 204537-05H
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEXGCPM/?tag=tolees-21)
