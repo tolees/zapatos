@@ -29,13 +29,13 @@ En este momento está [Havaianas Brasil Logo  Chanclas Unisex niños  Azul  Navy
 🔎:
 
 - Altura del tacón: 1 centímetros
-- Material de la suela: Goma
-- Composición: Goma
-- 25/26 EU (23/24 Brazilian)
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Material exterior: Goma
+- 25/26 EU (23/24 Brazilian)
 - Revestimiento: Sin forro
+- Cierre: Sin cordones
+- Composición: Goma
+- Tipo de tacón: Plano
 - Anchura del zapato: Normal
+- Material de la suela: Goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003GSLEKI/?tag=tolees-21)
