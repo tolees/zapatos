@@ -28,8 +28,8 @@ En este momento está [Skechers ON-The-GO 600 Dainty  Sandalia Mujer  TPE  43 EU
 
 🔎:
 
-- Acolchado 5.ª generación, ligeras
 - Plantilla moldeada Skechers con tecnología Goga Mat para energizar cada paso
 - Parte superior de malla jaspeada suave
+- Acolchado 5.ª generación, ligeras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VN28QMK/?tag=tolees-21)
