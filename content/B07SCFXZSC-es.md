@@ -29,7 +29,7 @@ Ahora mismo tienes [Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 41
 🔎:
 
 - Classic II Flip (206119)
-- Calzado crocs
 - Chanclas Tiempo libre y sportwear Unisex Adulto
+- Calzado crocs
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SCFXZSC/?tag=tolees-21)

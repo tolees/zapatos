@@ -28,13 +28,13 @@ Tienes [Havaianas Brasil Logo Chanclas Unisex Adulto  Multicolor  Red   43/44 EU
 
 🔎:
 
-- Composición: Goma
-- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Material de la suela: Goma
 - Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
-- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 - Material exterior: Caucho
 - Cierre: Sin cordones
 - Resistente al agua
+- Composición: Goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B015SGE4LQ/?tag=tolees-21)
