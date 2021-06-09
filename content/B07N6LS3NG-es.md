@@ -28,8 +28,8 @@ En este momento está [FILA Strada wmn zapatilla Mujer  negro  Black   38 EU](ht
 
 🔎:
 
-- Talla/Tamaño: 38 EU
 - Brand: Fila
 - Color: Negro (Black 25Y)
+- Talla/Tamaño: 38 EU
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N6LS3NG/?tag=tolees-21)

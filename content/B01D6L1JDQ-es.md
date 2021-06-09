@@ -29,8 +29,8 @@ Está [Oxypas oxyvaj3801nav Oxyva - Slip On SRC cómodo zuecos  37/38 EU  Turquo
 ℹ️:
 
 - Transpirable forro interior de Coolmax
-- Antideslizante
 - Zapatos de trabajo
+- Antideslizante
 - Abeba – Zapatos para cuidado personal
 - Se adapta a cualquier forma del pie
 

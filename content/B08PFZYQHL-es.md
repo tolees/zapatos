@@ -28,9 +28,9 @@ En este momento está [Asics Patriot 12  Zapatos para Correr Mujer  Azul  French
 
 🔎:
 
-- Refuerzos en los dedos de los pies
-- Amortiguación EVA
 - Tecnología FLYTEFOAM
+- Amortiguación EVA
+- Refuerzos en los dedos de los pies
 - Amortiguación de gel
 - Innovador material de malla
 
