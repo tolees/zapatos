@@ -28,11 +28,11 @@ Ahora mismo tienes [Havaianas Slim  Chanclas Mujer  Rosa  Hollywood Rose   39/40
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Goma
-- Revestimiento: Sin forro
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Composición: Goma
+- Material de la suela: Goma
+- Cierre: Sin cordones
+- Revestimiento: Sin forro
+- Material exterior: Goma
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F14RG7X/?tag=tolees-21)
