@@ -30,7 +30,7 @@ Está [Crocs Classic  Zuecos Unisex Adulto  Bright Cobalt  39/40 EU](https://www
 
 - Correa de talón pivotante.
 - Los zapatos Crocs mostrarán tamaños de Estados Unidos.
-- Los tamaños de la suela son Estados Unidos. La etiqueta muestra el reino unido. M = hombres W = mujeres
 - Resistente al agua y flotante.
+- Los tamaños de la suela son Estados Unidos. La etiqueta muestra el reino unido. M = hombres W = mujeres
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K8XNCV6/?tag=tolees-21)
