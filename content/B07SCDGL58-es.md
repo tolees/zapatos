@@ -29,7 +29,7 @@ En este momento está [Adidas Grand Court Base  Zapatos de Tenis Hombre  FTWR Wh
 🔎:
 
 - Cordones de zapatos
-- La parte superior de cuero sintético
 - Corte regular
+- La parte superior de cuero sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SCDGL58/?tag=tolees-21)
