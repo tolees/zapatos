@@ -28,10 +28,10 @@ Ahora mismo tienes [Camper Atom Work Zapatos de cordones Oxford  para Hombre  Ne
 
 🔎:
 
-- Forro:
-- Suela/Características: EVA para mayor ligereza
 - Empeine: Piel (Piel vacuna)
-- Color: Negro
 - 75% Poliéster 10% Tejido (65% Nailon - 35% Poliuretano) 10% Sintético (70% Poliuretano - 30% Poliéster) 5% Sintético
+- Suela/Características: EVA para mayor ligereza
+- Color: Negro
+- Forro:
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GBZWZNK/?tag=tolees-21)
