@@ -28,11 +28,11 @@ Está [Havaianas Top  Chanclas Unisex Adulto  Negro  Black   43/44 EU](https://w
 
 ℹ️:
 
-- Composición: Goma
-- Material exterior: Goma
 - Revestimiento: Sin forro
-- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Composición: Goma
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
+- Material exterior: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000YKMHG6/?tag=tolees-21)
