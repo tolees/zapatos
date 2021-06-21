@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s June Batwing  Sandalia Hombre  Wh al 34.04 % de descuento'
-date: 2021-06-11 00:05:14
+date: 2021-06-21 01:04:21
 image: 'https://m.media-amazon.com/images/I/31blAkXZxwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
