@@ -28,7 +28,7 @@ Está [FILA Sandblast C wmn zapatilla Mujer  violeta  Light Lilac   36 EU](https
 
 ℹ️:
 
-- lona
 - Suela exterior de plataforma
+- lona
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FNCZY21/?tag=tolees-21)
