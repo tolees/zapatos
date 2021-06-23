@@ -29,10 +29,10 @@ Ahora mismo tienes [Havaianas Top  Chanclas Unisex Adulto  Azul  Marine Blue   3
 🔎:
 
 - Composición: Goma
-- Material de la suela: Goma
-- Material exterior: Goma
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Material exterior: Goma
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Revestimiento: Sin forro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003AOP0V2/?tag=tolees-21)
