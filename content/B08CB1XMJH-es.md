@@ -28,9 +28,9 @@ Está [Salomon Zapatilla de hombre ALPHACROSS BLAST GTX con EnergyCell para trai
 
 ℹ️:
 
+- Contagrip TD
 - EnergyCell
 - Para conseguir una tracción máxima en terreno mixto y gran durabilidad, Contagrip TD combina un agresivo patrón de tacos profundos con nuestro compuesto más resistente.
-- Contagrip TD
 - Para conseguir una tracción máxima en terreno mixto y gran durabilidad, Contagrip TD combina un agresivo patrón de tacos profundos con nuestro compuesto más resistente.
 - GORE-TEX
 
