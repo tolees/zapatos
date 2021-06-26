@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s June Perf S  Sandalia Mujer  Whit con un 17.51 % de descuento'
-date: 2021-06-14 23:50:06
+date: 2021-06-26 00:42:46
 image: 'https://m.media-amazon.com/images/I/214izOIQOBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
