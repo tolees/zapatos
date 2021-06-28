@@ -28,10 +28,10 @@ Tienes [Crocs Baya Flip  Unisex Adulto Sandalia  Negro  Black   45-46 EU](https:
 
 🔎:
 
-- Fully molded Croslite material for signature Crocs comfort.
-- Footbed nubs create a massage-like feel.
-- The Baya collection features the Crocs name along the side.
-- Non-marking Croslite material outsole.
 - Easy slip-on style.
+- Non-marking Croslite material outsole.
+- Footbed nubs create a massage-like feel.
+- Fully molded Croslite material for signature Crocs comfort.
+- The Baya collection features the Crocs name along the side.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005HV2OC4/?tag=tolees-21)
