@@ -28,8 +28,8 @@ Ahora mismo tienes [DC Shoes Bolsa  Chanclas Hombre  Negro  Black/Green/Orange X
 
 🔎:
 
-- EVA que proporciona confort y durabilidad
 - Parte superior en cuero sintético
 - Dibujo Pill Pattern de marca registrada por DC
+- EVA que proporciona confort y durabilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VKVXDKZ/?tag=tolees-21)
