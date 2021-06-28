@@ -28,7 +28,7 @@ Está [Skechers Pelem-Emiro  Chanclas Hombre  Negro  Choc Black Synthetic   40 E
 
 ℹ️:
 
-- Espuma viscoelástica
 - Ajuste relajado
+- Espuma viscoelástica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D1ZLGZQ/?tag=tolees-21)
