@@ -28,9 +28,9 @@ Está [Skechers Sargo Reyon  Chanclas Hombre  Negro  Black Canvas Black   43 EU]
 
 ℹ️:
 
-- Shock absorbing lightweight and flexible mid-sole
 - Soft fabric toe post
 - Memory Foam 360 cushioned and padded strap lining
+- Shock absorbing lightweight and flexible mid-sole
 - Soft woven canvas fabric upper
 - Memory Foam textured and contoured cushioned comfort foot-bed
 
