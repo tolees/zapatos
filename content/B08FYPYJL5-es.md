@@ -28,9 +28,9 @@ Tienes [Havaianas Top Tiras  Chanclas Mujer  Rosa de Ballet  37/38 EU](https://w
 
 ℹ️:
 
-- Cómodo
 - Resistente al agua
-- Antideslizante
 - Fabricado en Brasil
+- Cómodo
+- Antideslizante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FYPYJL5/?tag=tolees-21)
