@@ -28,9 +28,9 @@ Ahora mismo tienes [Spiuk Sportline Road Zapatilla Carretera ALDAMA  Adultos Uni
 
 🔎:
 
-- Suela de composite avanzado de fibra de vidrio y poliamida con ventilación directa
-- Nuestras zapatillas tienen un tallaje ajustado, por lo que recomendamos un numero mas o dos del que se utiliza en calzado no deportivo
 - Garganta asimétrica para un mejor reparto del ajuste
 - Zapatilla de ciclismo con boa fit system; enfocadas a entrenamientos y salidas de nivel medio/alto por carretera; ruleta boa fit system de ajuste milimétrico
+- Nuestras zapatillas tienen un tallaje ajustado, por lo que recomendamos un numero mas o dos del que se utiliza en calzado no deportivo
+- Suela de composite avanzado de fibra de vidrio y poliamida con ventilación directa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084L7YHXL/?tag=tolees-21)
