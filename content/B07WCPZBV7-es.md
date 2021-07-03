@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon Zapatilla de hombre XA PRO 3D v8 con 3D Advanced Cha
 
 🔎:
 
-- Color: Black/Black/Black
 - Xa PRO 3D V8
+- Color: Black/Black/Black
 - Salomon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WCPZBV7/?tag=tolees-21)
