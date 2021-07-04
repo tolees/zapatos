@@ -28,7 +28,7 @@ Ahora mismo tienes [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Negro
 
 🔎:
 
-- Color: cuero negro.
 - Material de la suela: EVA.
+- Color: cuero negro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MSKLPBZ/?tag=tolees-21)
