@@ -28,7 +28,7 @@ Está [Skechers Graceful-Get Connected  Zapatilla Baja Mujer  Negro  BBK Black M
 
 ℹ️:
 
-- Suela flexible
 - Peso ligero
+- Suela flexible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1CCVSO/?tag=tolees-21)
