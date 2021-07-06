@@ -28,7 +28,7 @@ En este momento está [New Balance ML574V2  Zapatilla Baja Hombre  Black  Triple
 
 🔎:
 
-- Forro: malla.
 - Material exterior: piel.
+- Forro: malla.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0783MLPPQ/?tag=tolees-21)
