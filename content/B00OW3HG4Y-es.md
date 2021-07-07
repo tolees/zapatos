@@ -28,10 +28,10 @@ Tienes [Havaianas Slim  Chanclas Mujer  Gris  41/42](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Cierre: Sin cordones
-- Material de la suela: Goma
+- Material exterior: Caucho
 - Tipo de tacón: Plano
 - Revestimiento: Sin forro
-- Material exterior: Caucho
+- Material de la suela: Goma
+- Cierre: Sin cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00OW3HG4Y/?tag=tolees-21)
