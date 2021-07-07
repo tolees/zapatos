@@ -28,7 +28,7 @@ Tienes [Ted Baker TRVSS  Zapatos de Cordones Brogue Hombre  Marrón  Tan Tan   4
 
 🔎:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RX1Q9GX/?tag=tolees-21)
