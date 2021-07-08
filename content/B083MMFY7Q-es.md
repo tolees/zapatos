@@ -28,10 +28,10 @@ Ahora mismo tienes [Havaianas Minecraft  Chanclas  Leaf Green  35/36 EU](https:/
 
 🔎:
 
-- Material de la suela: Caucho
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
-- Cierre: Sin cierre
 - Material exterior: Caucho
+- Tipo de tacón: Plano
+- Revestimiento: Sintético
+- Material de la suela: Caucho
+- Cierre: Sin cierre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083MMFY7Q/?tag=tolees-21)
