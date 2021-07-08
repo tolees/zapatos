@@ -28,9 +28,9 @@ En este momento está [Skechers BE-Lux Airy Winds  Zapatos Planos Mary Jane Muje
 
 🔎:
 
+- MF refrigerado por aire
 - Transpirable
 - Lavable a máquina
-- MF refrigerado por aire
 - Bio-Dri
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DFJXVHM/?tag=tolees-21)
