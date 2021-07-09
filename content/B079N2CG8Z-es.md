@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CONVERSE Chuck 70 Zapatos Deportivos Uni con un 35.35 % de descuento'
-date: 2021-06-27 03:21:09
+date: 2021-07-09 02:28:21
 image: 'https://m.media-amazon.com/images/I/21S8YFDKW4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
