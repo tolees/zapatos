@@ -28,10 +28,10 @@ En este momento está [Havaianas Minecraft  Chanclas  White  35/36 EU](https://w
 
 🔎:
 
-- Cierre: Sin cierre
-- Revestimiento: Sintético
-- Material de la suela: Caucho
-- Tipo de tacón: Plano
 - Material exterior: Caucho
+- Cierre: Sin cierre
+- Material de la suela: Caucho
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083MMZMN3/?tag=tolees-21)
