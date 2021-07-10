@@ -28,9 +28,9 @@ Está [Crocs Crocband Clog K  Zuecos Unisex Niños  28/29 EU  Azul  Navy/Volt Gr
 
 ℹ️:
 
+- NÃºmero del fabricante: 204537-4K6
+- Estilo: Zueco con correa de talón
 - Color: azul
 - Material: Croslite
-- Estilo: Zueco con correa de talón
-- NÃºmero del fabricante: 204537-4K6
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J1LZ51C/?tag=tolees-21)
