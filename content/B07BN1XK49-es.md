@@ -28,10 +28,10 @@ Tienes [Vans Ward Canvas  Zapatilla Baja Hombre  Negro  Checker/Black/True White
 
 🔎:
 
-- Material exterior: Cuero
 - Tipo de tacón: Plano
 - Material de la suela: Goma
 - Cierre: Cordones
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BN1XK49/?tag=tolees-21)
