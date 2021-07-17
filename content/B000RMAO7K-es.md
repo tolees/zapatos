@@ -28,11 +28,11 @@ Ahora mismo tienes [Havaianas Brasil Chanclas Unisex Adulto  Negro  Black 0090  
 
 🔎:
 
-- Material exterior: Caucho
 - Cierre: Sin cordones
 - Tipo de tacón: Plano
 - Revestimiento: Sin forro
-- Composición: Goma
+- Material exterior: Caucho
 - Material de la suela: Goma
+- Composición: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000RMAO7K/?tag=tolees-21)
