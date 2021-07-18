@@ -28,10 +28,10 @@ Está [Crocs Crocband Sandal Kids  Sandalia  Digital Aqua  23/24 EU](https://www
 
 ℹ️:
 
-- Croslite material heel strap for a secure fit.
 - Fully moulded Croslite material construction for maximum lightweight cushioning.
 - Holes for jibbitz shoe charms for personalisation.
-- Crocs Girls Crocband Slip On Molded Croslite Anklestrap Sandals Pink Fully Moulded Croslite Material Construction For Maximum Lightweight Cushioning. Sporty Midsole Band Inspired By The Classic Vulcanised Style. Croslite Material
+- Croslite material heel strap for a secure fit.
 - Sporty midsole band inspired by the classic vulcanised style.
+- Crocs Girls Crocband Slip On Molded Croslite Anklestrap Sandals Pink Fully Moulded Croslite Material Construction For Maximum Lightweight Cushioning. Sporty Midsole Band Inspired By The Classic Vulcanised Style. Croslite Material
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089KJQ21V/?tag=tolees-21)
