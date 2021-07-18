@@ -28,10 +28,10 @@ Tienes [Fluchos | Mocasín de Hombre | Clipper 9578 Cidacos Negro Zapatos Confor
 
 ℹ️:
 
+- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
+- TACÓN: Plano
 - CIERRE: Elásticos
 - MATERIALES: Piel de ternera de primera calidad y Piso de goma personalizado
-- TACÓN: Plano
-- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
 - COLOR: Negro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072JGXR5J/?tag=tolees-21)
