@@ -28,7 +28,7 @@ Ahora mismo tienes [FILA Retroque wmn zapatilla Mujer  blanco  White/Marshmallow
 
 🔎:
 
-- Entresuela de goma EVA
 - Retro Running
+- Entresuela de goma EVA
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FNF7ZDT/?tag=tolees-21)
