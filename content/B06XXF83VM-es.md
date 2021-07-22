@@ -28,7 +28,7 @@ En este momento está [New Balance ML574V2  Zapatilla Baja Hombre  Olive Night  
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XXF83VM/?tag=tolees-21)
