@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Foxwell Hall  Zapatos de Cordones Derby  Negro  Black
 
 🔎:
 
+- plano
 - Material interior: sin forro
 - Exterior: piel
-- plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLP83V7/?tag=tolees-21)
