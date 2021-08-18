@@ -29,9 +29,9 @@ En este momento está [Crocs Crocband Clogs  Zuecos Unisex Adulto  White/Blue Je
 🔎:
 
 - Material exterior: Espuma
-- Altura del tacón: 1.5 pulgadas
-- Cierre: Sin cordones
 - Material de la suela: Goma
 - Revestimiento: Sintético
+- Altura del tacón: 1.5 pulgadas
+- Cierre: Sin cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071FBKV3R/?tag=tolees-21)
