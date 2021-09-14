@@ -30,7 +30,7 @@ Tienes [Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro  Black Nubuck-
 
 - Suela: goma
 - Material exterior: piel (nobuck)
-- Material interior: piel
 - Cierre: velcro
+- Material interior: piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21)
