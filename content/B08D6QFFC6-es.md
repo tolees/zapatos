@@ -28,9 +28,9 @@ Está [Ipanema Fashion Sand IX Fem  Sandalia Mujer  Beige  Plateado y Negro  35.
 
 ℹ️:
 
-- 100% vegano, 100% reciclable, libre de ftalatos. Un clásico en el nuevo estilo de camuflaje.
-- Marca: Ipanema
-- País de origen: BR
 - Color: beige, plateado y negro
+- 100% vegano, 100% reciclable, libre de ftalatos. Un clásico en el nuevo estilo de camuflaje.
+- País de origen: BR
+- Marca: Ipanema
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D6QFFC6/?tag=tolees-21)
