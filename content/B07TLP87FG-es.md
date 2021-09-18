@@ -29,7 +29,7 @@ Ahora mismo tienes [Clarks Bensley Run  Zapatos de Cordones Derby Hombre  Marró
 🔎:
 
 - plano
-- Exterior: piel
 - Interior: textil
+- Exterior: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLP87FG/?tag=tolees-21)
