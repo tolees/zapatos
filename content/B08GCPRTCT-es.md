@@ -28,10 +28,10 @@ En este momento está [Skechers MARSING GMINA  Zapatos para Profesionales Sanita
 
 🔎:
 
-- Plantilla de espuma viscoelástica
-- Patrón de banda de rodadura antideslizante
-- EN ISO 20347:2012 - OB E SRC
 - Cordones atléticos con suela SR
 - Ajuste holgado
+- Plantilla de espuma viscoelástica
+- EN ISO 20347:2012 - OB E SRC
+- Patrón de banda de rodadura antideslizante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GCPRTCT/?tag=tolees-21)
