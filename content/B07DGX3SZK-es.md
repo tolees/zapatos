@@ -28,9 +28,9 @@ En este momento está [LUCK Zapatilla de Ciclismo Master  con Suela de Carbono y
 
 🔎:
 
+- Suela de carbono, muy rígida y ligera.
 - 3 tiras de velcro para una sujeción perfecta.
 - Es recomendable pedir un número más, del número que usamos a diario para zapatos de calle.
-- Suela de carbono, muy rígida y ligera.
 - Construida en una sola pieza sin costuras interiores
 - Puntera y trasera de refuerzo.
 
