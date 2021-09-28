@@ -29,7 +29,7 @@ Está [Adidas Adilette Shower   Chanclas Hombre  Negro  43 EU](https://www.amazo
 ℹ️:
 
 - Material exterior: Sintético
-- Material de la suela: Goma
 - Revestimiento: Sintético
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KTWP8R1/?tag=tolees-21)
