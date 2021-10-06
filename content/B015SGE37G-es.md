@@ -28,13 +28,13 @@ Ahora mismo tienes [Havaianas Brasil Logo   Chanclas Hombre  Rojo 124  39/40 EU]
 
 🔎:
 
-- Cierre: Sin cordones
-- Material de la suela: Goma
-- Material exterior: Caucho
-- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
 - Resistente al agua
-- Composición: Goma
-- Anchura del zapato: Normal
+- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
 - Tipo de tacón: Plano
+- Material de la suela: Goma
+- Anchura del zapato: Normal
+- Material exterior: Caucho
+- Composición: Goma
+- Cierre: Sin cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015SGE37G/?tag=tolees-21)
