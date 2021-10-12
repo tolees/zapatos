@@ -28,9 +28,9 @@ En este momento está [Reebok Royal Complete CLN2  Zapatos de Tenis Mujer  Multi
 
 🔎:
 
-- Mediasuela de caucho
-- La plantilla de EVA proporciona una amortiguación cómoda y suave
-- Corte bajo
 - Suela de caucho para más durabilidad y tracción
+- Corte bajo
+- La plantilla de EVA proporciona una amortiguación cómoda y suave
+- Mediasuela de caucho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083H7HC3K/?tag=tolees-21)
