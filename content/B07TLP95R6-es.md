@@ -28,8 +28,8 @@ Está [Clarks Oakland Craft  Zapatos de Cordones Derby Hombre  Azul  Navy Nubuck
 
 ℹ️:
 
-- Suela: goma
 - Interior: textil
 - Exterior: piel
+- Suela: goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TLP95R6/?tag=tolees-21)
