@@ -29,7 +29,7 @@ Tienes [find. Zapatos Oxford para Hombre  Gris  Grey   42 EU](https://www.amazon
 🔎:
 
 - Suave textura efecto ante
-- Suela de madera
 - Detalle en contraste en el talón
+- Suela de madera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XCJ14NZ/?tag=tolees-21)
