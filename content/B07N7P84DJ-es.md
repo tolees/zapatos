@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Strada wmn Zapatilla para Mujer  Blanco  White   37 EU'
-date: 2022-02-23 23:52:26
+date: 2022-03-06 05:45:52
 image: 'https://m.media-amazon.com/images/I/417wb-rqQQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07N7P84DJ/?tag=tolees-21'
 descuento: '35.01'
-average: '50.0833333333333'
+average: '50.23'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: sintético
-- Cierre: cordones
-- Material exterior: sintético
 - Suela: goma
+- Cierre: cordones
+- Material interior: sintético
+- Material exterior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
