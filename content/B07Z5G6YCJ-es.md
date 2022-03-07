@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número: 36
 - Alphacross Blast W India Ink/White/Black
+- Número: 36
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
