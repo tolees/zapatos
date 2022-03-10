@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botas || Materiales de larga duración || Altura del tacón: /
+- Tu nuevo merchandising favorito
 - Merch para fans y divertido
 - Botas con las siguientes características:
-- Tu nuevo merchandising favorito
+- Botas || Materiales de larga duración || Altura del tacón: /
 
 [🛒 Visítala!!!]({{< param buyurl >}})
