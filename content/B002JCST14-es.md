@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Sintético
-- Material de la suela: Goma
 - Tipo de talla: talla estándar
-- Material exterior: Espuma
-- Tipo de tacón: Plano
+- Material de la suela: Goma
 - Composición: Sintético
+- Tipo de tacón: Plano
+- Material exterior: Espuma
 - Cierre: Sin cordones
 - Altura del tacón: 1 centímetro
+- Revestimiento: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
