@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Altura del tacón: 6 cm
-- Piel procesada de manera sostenible
-- Tipo de tacón: cuña
-- Material exterior: mezcla
 - Plantilla acolchada y extraíble Touch-it
+- Material exterior: mezcla
+- Tipo de tacón: cuña
+- Piel procesada de manera sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
