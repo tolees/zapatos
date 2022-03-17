@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Leadcat FTR  Chanclas  para Unisex adulto  Negro  Puma Black-Puma Team Gold-Puma White   35.5 EU'
-date: 2022-03-07 11:18:30
+date: 2022-03-17 10:56:34
 image: 'https://m.media-amazon.com/images/I/31WUul2eNrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07S6NRWN5/?tag=tolees-21'
 descuento: '47.94'
-average: '15.3746153846154'
+average: '15.2042857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
