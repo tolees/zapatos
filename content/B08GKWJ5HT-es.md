@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso del paquete: 1 kg
 - Tamaño del paquete: 12,4 x 30,8 x 22,6 cm
+- Peso del paquete: 1 kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
