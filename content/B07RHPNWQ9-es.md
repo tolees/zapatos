@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Shoes x reveal gtx (l40969100)
 - Calzado salomon
 - Zapatillas de hiking montañismo, alpinismo y trekking hombre
-- Shoes x reveal gtx (l40969100)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
