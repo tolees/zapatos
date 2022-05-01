@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Adilette Aqua  Chanclas Unisex Adulto  Cloud White Platin Metallic Cloud White  43 EU'
-date: 2022-04-30 13:49:48
+date: 2022-05-01 17:34:23
 image: 'https://m.media-amazon.com/images/I/315g2QH9VPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07ZQCNRPS/?tag=tolees-21'
 descuento: '30.05'
-average: '15.99'
+average: '15.49'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
