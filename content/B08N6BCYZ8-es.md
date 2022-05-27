@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A Modern take on a classic Basketbal Silhouette
 - Capas coloridas con nubuck suave
+- A Modern take on a classic Basketbal Silhouette
 
 [🛒 Aquí!!!]({{< param buyurl >}})

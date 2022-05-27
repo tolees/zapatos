@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Superposición de ante suave con logotipo de pop en el talón y la lengua
 - A Modern take on a classic Basketbal Silhouette
+- Superposición de ante suave con logotipo de pop en el talón y la lengua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
