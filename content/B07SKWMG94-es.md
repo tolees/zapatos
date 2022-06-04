@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material de la suela: Caucho
+- Cierre: Sin cierre
 - Revestimiento: Sin forro
 - Material exterior: Caucho
-- Cierre: Sin cierre
-- Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
