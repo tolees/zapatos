@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Havaianas Top  Chanclas Unisex Adulto  Black  39/40 EU'
-date: 2022-06-09 01:35:05
+title: 'Havaianas Top  Chanclas Unisex Adulto  Black  41/42 EU'
+date: 2022-06-09 01:44:01
 image: 'https://m.media-amazon.com/images/I/314Dk-x7noL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000YKO2LE-es Havaianas Top Chanclas Unisex Adulto Black 39/40 EU'
-sku: 'B000YKO2LE-es'
-tags: [ 'Sandalias de dedo para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','chanclas','havaianas','🇪🇸', ]
+slug: 'B000YKO2XM-es Havaianas Top Chanclas Unisex Adulto Black 41/42 EU'
+sku: 'B000YKO2XM-es'
+tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','havaianas','🇪🇸', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
 comparePrice: 17.99 EUR
-prodname: 'Havaianas Top  Chanclas Unisex Adulto  Black  39/40 EU'
+prodname: 'Havaianas Top  Chanclas Unisex Adulto  Black  41/42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
-buyurl: 'https://www.amazon.es/dp/B000YKO2LE/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B000YKO2XM/?tag=tolees-21'
 descuento: '50.03'
-average: '12.1076923076923'
+average: '12.0691666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Revestimiento: Sin forro
-- Cierre: Sin cordones
-- Material de la suela: Goma
 - Material exterior: Goma
+- Material de la suela: Goma
 - Composición: Goma
 - Tipo de tacón: Plano
+- Cierre: Sin cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
