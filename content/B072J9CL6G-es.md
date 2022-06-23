@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Revestimiento: Tela
 - Material exterior: Lona
+- Revestimiento: Tela
+- Tipo de tacón: Plano
 - Material de la suela: Cuero
 - Cierre: Sin cordones
 
