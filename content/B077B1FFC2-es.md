@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tirador con pespunte
 - Suela de goma
 - Elásticos en los laterales
 - Detalle trasero en contraste
-- Tirador con pespunte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
