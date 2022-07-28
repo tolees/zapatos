@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Clara Cove  Sandalia  para Mujer  Azul  Navy   37.5 EU'
-date: 2022-07-26 22:16:50
+date: 2022-07-28 06:47:53
 image: 'https://m.media-amazon.com/images/I/31wi631OeNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B098QV5N1L/?tag=tolees-21'
 descuento: '73.58'
-average: '22.5925'
+average: '21.77'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Allday
-- Informal
 - Piel suave
+- Allday
 - Cama suave
+- Informal
 - Holiday
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
