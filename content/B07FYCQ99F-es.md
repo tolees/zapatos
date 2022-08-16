@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Verde  Green Olive   37/38 EU'
-date: 2022-08-15 00:53:03
+date: 2022-08-16 07:25:17
 image: 'https://m.media-amazon.com/images/I/31Bgb0taDPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B07FYCQ99F/?tag=tolees-21'
 descuento: '28.87'
-average: '15.7'
+average: '16.1333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura del tacón: 2 centímetros
 - Composición: Goma
-- 39/40 EU (37/38 Brazilian)
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
 - Anchura del zapato: Normal
+- Altura del tacón: 2 centímetros
 - Material de la suela: Goma
-- Material exterior: Goma
 - Cierre: Sin cordones
+- Revestimiento: Sin forro
+- 39/40 EU (37/38 Brazilian)
+- Material exterior: Goma
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
