@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre ajustable
-- Chrome Free Interior
 - Rubber Outsole
+- Chrome Free Interior
 - Zapato plano de cuero de mujer
 - Removable Insole
+- Cierre ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
