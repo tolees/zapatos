@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Eldred  Zapatos de Trabajo Mujer  Black  40 EU'
-date: 2022-09-17 07:30:45
+date: 2022-09-18 13:04:01
 image: 'https://m.media-amazon.com/images/I/41Ab5QODgcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Guarnición: Acoplamiento
-- Parte Superior: Cuero
-- Suela: Goma
-- Ajuste: Espacioso (relaxed Fit)
+- Lining: Mesh
+- Uppers: Leather
+- Fit: Roomy (Relaxed Fit)
+- Sole: Rubber
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
