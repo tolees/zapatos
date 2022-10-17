@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asics Patriot 13  Zapatilla Hombre  Safety Yellow/Velvet Pine  44 EU'
-date: 2022-10-14 23:31:10
+date: 2022-10-16 21:09:16
 image: 'https://m.media-amazon.com/images/I/41IyAlb8a0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
