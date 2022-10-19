@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Negro  Black/Black 850   41/42 EU'
-date: 2022-10-17 21:45:48
+date: 2022-10-19 03:57:07
 image: 'https://m.media-amazon.com/images/I/31RPJkzZDbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B074MKCXLH-es Havaianas Brasil Logo Chanclas Unisex Adulto Negro...'
 sku: 'B074MKCXLH-es'
-tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','havaianas','🇪🇸', ]
+tags: [ 'Moda','Moda Hombre','Sandalias de dedo para hombre','Zapatos para hombre','chanclas','havaianas','🇪🇸', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B074MKCXLH/?tag=tolees-21'
 descuento: '63.49'
-average: '11.5758490566037'
+average: '11.5372222222221'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Caucho
 - Composición: Goma
-- Cierre: Sin cordones
-- Material de la suela: Goma
 - Tipo de tacón: Plano
 - Material exterior: Caucho
+- Material de la suela: Goma
+- Revestimiento: Caucho
+- Cierre: Sin cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
