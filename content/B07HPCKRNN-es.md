@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Disruptor kids  Zapatilla Unisex niños  Blanco  White   35 EU'
-date: 2022-10-12 09:45:31
+date: 2022-10-19 12:01:00
 image: 'https://m.media-amazon.com/images/I/41ECqPILMOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición del material: sintético
-- Cierre: encaje
-- Material de la suela: caucho
-- Material exterior: sintético
-- Altura del tacón: 10 milímetros
-- Forro: sintético
+- Modello: 1010567
+- Colore: Bianco
+- Brand: Fila
+- Prodotto: Sneakers
 
 [🛒 Visítala!!!]({{< param buyurl >}})
