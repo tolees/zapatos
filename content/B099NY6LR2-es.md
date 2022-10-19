@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Art Larissa  Sandalia Mujer  Brown  39 EU'
-date: 2022-10-05 20:46:03
-image: 'https://m.media-amazon.com/images/I/41fEhSL+fqL._SL500_._SL400_.jpg'
+date: 2022-10-19 14:23:37
+image: 'https://m.media-amazon.com/images/I/41fDG6J1wOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B099NY6LR2-es Art Larissa Sandalia Mujer Brown 39 EU'
 sku: 'B099NY6LR2-es'
-tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','art','sandalia','🇪🇸', ]
+tags: [ 'Moda','Moda Mujer','Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos para mujer','art','sandalia','🇪🇸', ]
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79
