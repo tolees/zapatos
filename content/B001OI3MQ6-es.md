@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Navy Blue 01   41/42 EU'
-date: 2022-10-17 21:45:36
+date: 2022-10-23 10:30:33
 image: 'https://m.media-amazon.com/images/I/31PihBdHBGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B001OI3MQ6-es Havaianas Brasil Logo Chanclas Unisex Adulto Azul Navy...'
 sku: 'B001OI3MQ6-es'
-tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','havaianas','🇪🇸', ]
+tags: [ 'Moda','Moda Hombre','Sandalias de dedo para hombre','Zapatos para hombre','chanclas','havaianas','🇪🇸', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B001OI3MQ6/?tag=tolees-21'
 descuento: '63.49'
-average: '11.6929113924049'
+average: '11.6123170731705'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de la suela: Goma
-- Tipo de tacón: Plano
-- Material exterior: Caucho
 - Revestimiento: Caucho
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
 - Composición: Goma
+- Material exterior: Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
