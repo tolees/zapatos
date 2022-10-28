@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  Negro  43/44 EU'
-date: 2022-10-27 05:52:47
+date: 2022-10-28 07:19:09
 image: 'https://m.media-amazon.com/images/I/31lBOUiDNwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B000YKMHG6/?tag=tolees-21'
 descuento: '16.62'
-average: '11.0110714285714'
+average: '11.0810526315789'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
-- Material de la suela: Goma
-- Composición: Goma
-- Material exterior: Goma
+- Tipo de tacón: Plano
 - Revestimiento: Sin forro
+- Material exterior: Goma
+- Composición: Goma
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
