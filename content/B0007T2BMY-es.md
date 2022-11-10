@@ -32,7 +32,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Parte superior: piel otro.
 - Plantilla: Piel
 - Material de suela: cuero
-- Tipo de tacón: plano
 - Tamaño: Talla normal
+- Tipo de tacón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
