@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASICS Patriot 13  Zapatilla Hombre  Midnight/New Leaf  45 EU'
-date: 2023-01-28 23:53:35
+date: 2023-01-30 01:29:23
 image: 'https://m.media-amazon.com/images/I/31nVwqEXXUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.es/dp/B0B4S8F15T/?tag=tolees-21'
 descuento: '35.89'
-average: '41.936'
+average: '41.8916666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación y rebote
 - Intersuola con tecnología EVA
+- Amortiguación y rebote
 - Suela de goma con forma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
