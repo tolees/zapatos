@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro textil
 - Horma clásica
 - Mediasuela con amortiguación para una pisada cómoda
-- Forro textil
 - Cierre de cordones
 - Parte superior de piel sintética
 
