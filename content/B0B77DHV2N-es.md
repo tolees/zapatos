@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Bye Bye Suela
 - Sandalia tacón
 - Cierre ajustable
+- Tecnología Bye Bye Suela
 - Suela Softlight
 
 [🛒 Visítala!!!]({{< param buyurl >}})

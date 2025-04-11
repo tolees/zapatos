@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material principal: Piel lisa
 - Muy flexible.
 - Leather Working Group certificado
-- Forro: 45 % Piel porcina 33 % Algodón 22 % Textil (60% Nailon - 40% PU)
 - Color: marrón oscuro
+- Forro: 45 % Piel porcina 33 % Algodón 22 % Textil (60% Nailon - 40% PU)
+- Material principal: Piel lisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N4TNPYJ{{</world>}}

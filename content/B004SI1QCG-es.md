@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Correa trasera con logotipo de AirWair
-- Costuras visibles
 - 8 ojales
+- Costuras visibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004SI1QCG{{</world>}}

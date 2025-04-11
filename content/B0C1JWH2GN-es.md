@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Tela
 - Cierre: Cordones
+- Revestimiento: Tela
 - Material de la suela: Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

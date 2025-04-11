@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Durable
 - Fabricado en Brasil
 - Resistente al agua
-- Durable
 - Cómodo
 - Antideslizante
 

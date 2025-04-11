@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela de tracción flexible
 - Cierre: deslizante
 - Skechers Detalles del logotipo
-- Suela de tracción flexible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B9SSF65{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material interior: piel
+- Cierre: goma
 - Talla del zapato: Medium
 - Cuero: Cuero
-- Cierre: goma
 - Material exterior: sintético
 - Forma del talón: plano
 

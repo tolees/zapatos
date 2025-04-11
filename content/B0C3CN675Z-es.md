@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela AHAR
 - Tecnología PureGEL
+- Suela AHAR
 - Plantilla OrthoLite X-55
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

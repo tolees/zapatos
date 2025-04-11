@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón: Plataforma
 - Material exterior: Cuero
+- Tipo de tacón: Plataforma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09C4X3RQ3{{</world>}}

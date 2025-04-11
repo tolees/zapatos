@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro sin cromo
-- KICKERS
-- Bebe
-- Suela flexible
 - Suelo planetario
+- Suela flexible
+- KICKERS
+- Forro sin cromo
+- Bebe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P8S3DDV{{</world>}}

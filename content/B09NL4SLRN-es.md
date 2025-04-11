@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño acolchado
 - Plantilla de EVA
+- Diseño acolchado
+- Horma clásica
 - Forro textil
 - Cierre de cordones
-- Horma clásica
 - Parte superior de piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})

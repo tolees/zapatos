@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
-- Parte de ante
 - Mediasuela con amortiguación
+- Parte de ante
+- Forro textil
 - Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

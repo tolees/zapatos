@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material de la suela: Cuero
-- Material exterior: piel
 - Tipo de tacón: Sin tacón
+- Material exterior: piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094XNCV87{{</world>}}

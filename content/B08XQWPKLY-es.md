@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma reciclada
-- Empeines y cordones de algodón orgánico
-- Adhesivos al agua
-- Confección vulcanizada
 - Diseño vintage de inspiración militar
+- Empeines y cordones de algodón orgánico
+- Confección vulcanizada
+- Suela de goma reciclada
+- Adhesivos al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XQWPKLY{{</world>}}

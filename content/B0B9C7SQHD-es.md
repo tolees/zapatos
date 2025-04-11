@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Personalizable con dijes Jibbitz
+- Construcción de espuma Croslite ligera y flotante
 - Fácil de limpiar y de secado rápido
 - Iconic Crocs Comfort Lightweight. Flexible. Comodidad de 360 grados.
-- Construcción de espuma Croslite ligera y flotante
 - Suela resistente con banda de rodadura mejorada para una mayor tracción y apoyo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de tacón: Cuña
-- Material de la suela: Sintético
 - Revestimiento: Tela
+- Material de la suela: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BL6PZ1GR{{</world>}}

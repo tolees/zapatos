@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantillas Softlight
-- Interior libre de cromo
 - Sandalia de cuero
+- Interior libre de cromo
 - Cierre ajustable
 - Suela de caucho
 

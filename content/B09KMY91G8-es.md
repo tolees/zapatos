@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Cuero
-- Cierre: Velcro
 - Revestimiento: Cuero
+- Cierre: Velcro
+- Material exterior: Cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09KMY91G8{{</world>}}

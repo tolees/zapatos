@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Horma clásica
 - Suela de goma
 - Parte superior de piel sintética
-- Horma clásica
-- Forro textil
-- Cierre de cordones
 - Mediasuela con amortiguación para una pisada más cómoda
+- Cierre de cordones
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQR6XJ1V{{</world>}}

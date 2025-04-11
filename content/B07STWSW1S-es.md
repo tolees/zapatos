@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- __Plantilla:__ Plantilla EVA moldeada
 - __ Suela:__ Suela de EVA texturizada para mayor tracción
 - __Empeine:__ Empeine de goma forrada de nailon con logo ROXY en relieve
-- __Plantilla:__ Plantilla EVA moldeada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07STWSW1S{{</world>}}

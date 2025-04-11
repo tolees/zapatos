@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bailarinas con plantilla acolchada para una mayor comodidad
 - Suela de goma a tono, antideslizante y totalmente flexible
-- Bailarinas para niñas con punta redonda cerrada
+- Bailarinas con plantilla acolchada para una mayor comodidad
 - Cierre con cordón elástico para un ajuste perfecto
+- Bailarinas para niñas con punta redonda cerrada
 - Genial con vestidos, vaqueros o para ocasiones elegantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jibbitz Crocs Charms: un par de Crocs puede contener 26 dijes de zapatos Jibbitz, coloca el jibbitz en los agujeros de tus zapatos para una fácil fijación, cambia con amigos para personalizar tu look
 - Crocs Colgantes para zapatos: auténticos dijes Jibbitz de Crocs, diseñados específicamente por Crocs para crocs
 - Crocs Encantos: Jibbitz para Crocs te permiten personalizar tus Crocs con estilo, los zapatos Crocs se venden por separado
 - No es un juguete: no apto para niños menores de 3 años
+- Jibbitz Crocs Charms: un par de Crocs puede contener 26 dijes de zapatos Jibbitz, coloca el jibbitz en los agujeros de tus zapatos para una fácil fijación, cambia con amigos para personalizar tu look
 - Accesorio para zapatos: regalo perfecto para mujeres, hombres y adolescentes, también ideal como regalo de fiesta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

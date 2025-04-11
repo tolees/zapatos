@@ -30,13 +30,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Revestimiento: Sin forro
 - Composición: Goma
-- Altura del tacón: 2 centímetros
+- Cierre: Sin cordones
 - 35/36 EU (33/34 Brazilian)
 - Anchura del zapato: Normal
-- Cierre: Sin cordones
 - Material exterior: Goma
-- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Altura del tacón: 2 centímetros
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FXQ5N4D{{</world>}}

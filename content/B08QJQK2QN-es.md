@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 3M SCOTCHGARD
-- Forro de piel sintética
 - Ultra Go
+- Forro de piel sintética
 - Ajuste de arco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

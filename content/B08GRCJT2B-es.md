@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de poliuretano y helio
 - Suela de goma reciclada
-- Adhesivos al agua
 - Confección vulcanizada
+- Adhesivos al agua
+- Plantilla de poliuretano y helio
 - Empeines y cordones de algodón orgánico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

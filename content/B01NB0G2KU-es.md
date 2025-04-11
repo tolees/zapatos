@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de tacón: cuña, altura del tacón: 6 cm
 - Tipo de producto: Sandalia,Sandalias,Sandalias de correa,Julia Clay,Sandalias,Zapatos de verano,Sandalias de verano,Tacón
 - Material exterior: nobuck (nobuck), interior: piel, suela: EVA Foam
 - Fabricado en España
-- Tipo de tacón: cuña, altura del tacón: 6 cm
 - Cierre: sin cierre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
