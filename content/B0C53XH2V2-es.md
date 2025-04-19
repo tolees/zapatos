@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zapato estándar
 - Tallo de gamuza
 - Cierre con cordones
 - Forro textil
-- Zapato estándar
 - Entresuela amortiguada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

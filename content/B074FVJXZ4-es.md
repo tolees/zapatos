@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Glamurosas y cómodas
-- Botas confortables
 - Para todo tipo de ocasiones
+- Botas confortables
+- Glamurosas y cómodas
 - Botas Gioseppo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

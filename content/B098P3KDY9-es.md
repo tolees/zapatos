@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RECYCLED
-- Luz
-- Carbón FOOTPRINT REDUCTION
 - Ingredientes resistentes de ETRA
+- Carbón FOOTPRINT REDUCTION
+- Luz
+- RECYCLED
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098P3KDY9{{</world>}}

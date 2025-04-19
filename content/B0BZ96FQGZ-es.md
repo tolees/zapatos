@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalle del logotipo de Skechers
-- Plantilla acolchada de espuma viscoelástica Skechers
 - Cordones de entrenamiento ligeros con una malla diseñada y parte superior sintética
+- Plantilla acolchada de espuma viscoelástica Skechers
+- Detalle del logotipo de Skechers
 - Entresuela acolchada flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

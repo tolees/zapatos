@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material interior: sintético
-- Talla del zapato: Medium
-- Correa: tanga
-- Forma del tacón: sin tacón
 - Material exterior: poliéster
+- Correa: tanga
+- Talla del zapato: Medium
+- Forma del tacón: sin tacón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B53C5LKJ{{</world>}}

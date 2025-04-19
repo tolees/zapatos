@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Forro textil
 - Mediasuela con amortiguación
+- Horma clásica
 - Parte de ante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

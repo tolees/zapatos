@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Poliuretano
 - Revestimiento: Sintético
+- Material de la suela: Poliuretano
 - Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

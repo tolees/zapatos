@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Anchura del zapato: Normal
 - Tipo de talla: Los zapatos Geox son holgados
-- Tipo de tacón: Plano
 - Material exterior: Nobuck
 - Revestimiento: Lana
-- Altura del tacón: 1.5 centímetros
 - Material de la suela: Caucho
 - Cierre: Velcro
-- Anchura del zapato: Normal
+- Altura del tacón: 1.5 centímetros
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07LFW522C{{</world>}}

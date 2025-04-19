@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construcción de lengüeta regular que se adapta a varias formas de pie
 - Ajuste regular a estrecho
+- Construcción de lengüeta regular que se adapta a varias formas de pie
 - Lavar a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

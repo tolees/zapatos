@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rosa
-- Calzado
 - 31/32 EU
+- Calzado
+- Rosa
 - Moda
 - Fudaolee Botas de invierno para niños, botas de nieve de peluche, botas de nieve para niños pequeños, con forro térmico, botas de invierno para niños, botines antideslizantes para invierno, color rosa, 31/32 EU = etiqueta 190
 

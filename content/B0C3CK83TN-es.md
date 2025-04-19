@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla OrthoLite X-55
 - Tecnología PureGEL
+- Plantilla OrthoLite X-55
 - Suela AHAR
 
 [🛒 Aquí!!!]({{< param buyurl >}})

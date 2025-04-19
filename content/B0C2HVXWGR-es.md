@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puntera redonda
 - Talonera reforzada
+- Puntera redonda
 - Plantilla acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

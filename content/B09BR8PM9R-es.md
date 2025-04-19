@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Sintético
-- Cierre: Hebilla
 - Material exterior: Cuero
+- Cierre: Hebilla
+- Material de la suela: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BR8PM9R{{</world>}}

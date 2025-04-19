@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre ajustable
-- Sandalia tacón
 - Tecnología Bye Bye Suela
 - Suela Softlight
+- Cierre ajustable
+- Sandalia tacón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B77K4Y9Q{{</world>}}

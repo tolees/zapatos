@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de unidad Cloudfoam para mayor comodidad
 - 3 rayas en contraste
+- Suela de unidad Cloudfoam para mayor comodidad
 - Parte superior sintética con una venda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

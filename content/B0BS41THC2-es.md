@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tenis básicos vulcanizados de corte bajo con parte superior clásica
 - Ojal y zorro personalizados
+- Tenis básicos vulcanizados de corte bajo con parte superior clásica
 - Logotipo clásico en el lateral
 - Cuello acolchado y de color de contraste
 

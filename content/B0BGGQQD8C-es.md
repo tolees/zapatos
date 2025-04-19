@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Suela de TPU flexible
 - Exterior textil revestido
 - Corte normal
+- Cierre de cordones
+- Suela de TPU flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGGQQD8C{{</world>}}

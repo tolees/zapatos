@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Clásico diseño de chancla hawaiana
 - Parte superior sintética
+- Plantilla moldeada
 - Horma clásica
 - Forro sintético
-- Plantilla moldeada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5RRW1F2{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Revestimiento: Sin forro
+- Composición: Caucho
 - Cierre: Sin cordones
+- Material exterior: Goma
 - Material de la suela: Goma
 - Tipo de tacón: Plano
-- Composición: Caucho
-- Material exterior: Goma
-- Revestimiento: Sin forro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FXQ5RPP{{</world>}}

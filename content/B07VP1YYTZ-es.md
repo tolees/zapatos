@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación 5Gen ligera y sensible
 - Marca: Skechers
+- Amortiguación 5Gen ligera y sensible
 - Skechers La plantilla Goga Mat vigoriza cada paso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

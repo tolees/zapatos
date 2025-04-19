@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómoda sandalia con plantilla de piel
 - Combinable de muchas maneras, se adapta a cualquier estilo, ideal para negocios y ocio
+- Cómoda sandalia con plantilla de piel
 - Plantilla suave FEEL ME para mayor comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

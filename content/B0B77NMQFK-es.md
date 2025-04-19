@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre ajustable
-- Sandalia plana
 - Plantilla de caucho y corcho
+- Sandalia plana
+- Cierre ajustable
 - Suela de caucho y corcho
 - Sandalia de cuero
 

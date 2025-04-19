@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro interior en tejido.
-- Zapatilla básica en piel.
 - Cierre con cordones.
 - Detalle de Polo Club en el lateral, tobillo y suela.
+- Forro interior en tejido.
+- Zapatilla básica en piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMGQK79J{{</world>}}

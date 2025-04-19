@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de goma multitachonada de perfil bajo
+- PUMA Logo de gato en el talón
 - Lengüeta plegable
 - Contraste PUMA Formstrip en el lateral
-- PUMA Logo de gato en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2VBW8KB{{</world>}}

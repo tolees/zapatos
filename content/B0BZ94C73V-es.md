@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Tacón de 1 1/4 pulgadas
 - Parte superior de malla y sintética con cordones en la parte delantera
+- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Entresuela ultraligera y suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

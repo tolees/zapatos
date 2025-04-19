@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: Sandalia,Sandalias,Sandalias de correa,Julia Clay,Sandalias,Zapatos de verano,Sandalias de verano,Tacón
-- Fabricado en España
-- Material exterior: nobuck (nobuck), interior: piel, suela: EVA Foam
 - Cierre: sin cierre
 - Tipo de tacón: cuña, altura del tacón: 6 cm
+- Fabricado en España
+- Material exterior: nobuck (nobuck), interior: piel, suela: EVA Foam
+- Tipo de producto: Sandalia,Sandalias,Sandalias de correa,Julia Clay,Sandalias,Zapatos de verano,Sandalias de verano,Tacón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01NB0G2KU{{</world>}}

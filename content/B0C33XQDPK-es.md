@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello de punto de corte bajo para un ajuste ceñido alrededor del tobillo
 - Parte superior de malla ligera
 - Suela exterior de TPU SPEEDPLATE para tracción y propulsión
-- Cuello de punto de corte bajo para un ajuste ceñido alrededor del tobillo
 - Zapatilla de fútbol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

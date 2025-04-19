@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela de Dr. Martens con colchón de aire duradero
-- Tobillo elástico
 - Ajuste optimo
+- Tobillo elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000W8E2JK{{</world>}}

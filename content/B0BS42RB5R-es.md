@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenis básicos vulcanizados de corte bajo con parte superior clásica
 - Cuello acolchado y de color de contraste
-- Ojales y zorros personalizados
 - Logotipo clásico en el lateral
+- Ojales y zorros personalizados
+- Tenis básicos vulcanizados de corte bajo con parte superior clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS42RB5R{{</world>}}

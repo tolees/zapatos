@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deslizadores para el suelo de altura ajustable - En lugar de las tapas de extremo normales, el perchero está equipado con deslizadores para el suelo de altura ajustable, para que se puedan compensar pequeñas irregularidades.
-- Cumple su propósito perfectamente – el perchero ofrece 18 ganchos en la parte superior para colgar de chaquetas, abrigos, bufandas, cinturones, bolsos, etc. Cada gancho puede cargar hasta 5 kg.
 - Fácil montaje – los ganchos y las varillas han sido soldadas entre sí, lo que le ahorra el molesto atornillado. Con instrucciones de montaje detalladas e ilustradas. (idioma español no garantizado).
+- Cumple su propósito perfectamente – el perchero ofrece 18 ganchos en la parte superior para colgar de chaquetas, abrigos, bufandas, cinturones, bolsos, etc. Cada gancho puede cargar hasta 5 kg.
+- Deslizadores para el suelo de altura ajustable - En lugar de las tapas de extremo normales, el perchero está equipado con deslizadores para el suelo de altura ajustable, para que se puedan compensar pequeñas irregularidades.
 - Versátil – La superficie del perchero tiene un revestimiento de polvo, es moderno y elegante, encaja bien en la entrada, el pasillo, el salón, el dormitorio, etc.
 - La estabilidad se ha incrementado. Los tubos del bastidor se han ampliado a 32 mm de diámetro, los tubos transversales y los tubos laterales para las 2 bases inferiores se han ampliado a 19 mm y 16 mm de diámetro.
 
