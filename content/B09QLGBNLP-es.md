@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla del zapato: Medium
-- Material interior: piel
-- Cierre: goma
-- Cuero: Cuero
 - Forma del talón: plano
 - Material exterior: sintético
+- Material interior: piel
+- Cierre: goma
+- Talla del zapato: Medium
+- Cuero: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QLGBNLP{{</world>}}
