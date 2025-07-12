@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Skechers Detalle del logotipo
-- Cordones deportivos para exteriores
 - Entresuela que absorbe los golpes
+- Cordones deportivos para exteriores
+- Skechers Detalle del logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZJ7279P{{</world>}}

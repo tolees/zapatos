@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte de ante
-- Mediasuela con amortiguación
 - Forro textil
+- Mediasuela con amortiguación
+- Parte de ante
 - Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

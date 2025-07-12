@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calvin Klein Logotipo en relieve en la lengüeta lateral y el talón
 - Forro de malla de poliéster
+- Calvin Klein Logotipo en relieve en la lengüeta lateral y el talón
 - Suela de goma natural
 - Cuña interna oculta
 

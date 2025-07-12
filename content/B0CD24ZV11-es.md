@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Interior libre de cromo
-- Suela softlight
 - Forro de microfibra
+- Suela softlight
 - Cierre ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

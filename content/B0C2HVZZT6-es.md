@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles de ventilación en la parte superior
 - Plantilla extraíble de poliuretano
+- Detalles de ventilación en la parte superior
 - Paneles de textura mixta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

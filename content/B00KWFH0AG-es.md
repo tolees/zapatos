@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Revestimiento: Sintético
+- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Material de la suela: Goma
 - Cierre: Cordones
