@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Revestimiento: Sintético
-- Material de la suela: Caucho
-- Material exterior: Cuero
 - Cierre: Cordones
+- Material exterior: Cuero
+- Material de la suela: Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01HDPPU22{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Refuerzos estratégicos de TPU en el antepié y el mediopié
-- Mediasuela esculpida Vis-Tech de EVA
 - Forro textil
 - Parte superior de malla sin costuras con refuerzos sellados
+- Mediasuela esculpida Vis-Tech de EVA
 - Horma clásica
 - Cierre de cordones
 

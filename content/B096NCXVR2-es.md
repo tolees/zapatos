@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de EVA
 - Plantilla moldeada
 - Amortiguación ligera
 - Parte superior sintética
+- Suela de EVA
 - Horma clásica
 - Forro textil
 

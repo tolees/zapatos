@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de velcro
 - Suela Cloudfoam
+- Cierre de velcro
 - Banda de EVA de una sola pieza
 
 [🛒 Aquí!!!]({{< param buyurl >}})

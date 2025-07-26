@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material: lona (100% algodón)
+- Piel: 100 % algodón
+- 12.3 pulgadas
+- Colección: Primavera-Verano 18
 - PJL L FW Sh/Sn - Zapatillas deportivas bajas, zapatillas deportivas PJL L FW Sh/Sn
 - Cierre: goma
-- Piel: 100 % algodón
-- Material: lona (100% algodón)
-- Colección: Primavera-Verano 18
-- 12.3 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098FG1MT9{{</world>}}

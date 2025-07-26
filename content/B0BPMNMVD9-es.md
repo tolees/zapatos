@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela con amortiguación para una pisada más cómoda
-- Parte superior de piel sintética
-- Forro textil
-- Suela de goma
-- Cierre de velcro
 - Horma clásica
+- Cierre de velcro
+- Mediasuela con amortiguación para una pisada más cómoda
+- Forro textil
+- Parte superior de piel sintética
+- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPMNMVD9{{</world>}}
