@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Textil
 - Cierre: Cordones
+- Material exterior: Textil
 - Revestimiento: Tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

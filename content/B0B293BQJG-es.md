@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma del talón: plano
 - Ancho del zapato: medio
 - Cierre: goma
+- Forma del talón: plano
 - Material interior: 100 % piel de cabra de grano completo
 - Material exterior: sintético
 

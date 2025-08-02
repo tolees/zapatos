@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla de serraje
-- Bye Bye Suela
-- Suela de caucho y corcho
 - Forro de microfibra
 - Cierre ajustable
+- Suela de caucho y corcho
+- Bye Bye Suela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CD21BH1V{{</world>}}

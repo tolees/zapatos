@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sandalia cómoda y a la moda
-- Hebilla en la correa para ajustar el ajuste
 - Suela plana y transpirable
+- Hebilla en la correa para ajustar el ajuste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NKQ929{{</world>}}

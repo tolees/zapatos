@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Material Sintético
 - Cierre: Cordones
+- Material de la suela: Material Sintético
 - Material exterior: Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

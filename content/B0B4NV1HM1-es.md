@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Forma del tacón: sin tacón
 - Material exterior: poliéster
-- Material interior: sintético
 - Cierre: goma
 - Ancho del zapato: medio
+- Material interior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4NV1HM1{{</world>}}

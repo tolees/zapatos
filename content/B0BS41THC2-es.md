@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tenis básicos vulcanizados de corte bajo con parte superior clásica
+- Logotipo clásico en el lateral
 - Ojal y zorro personalizados
 - Cuello acolchado y de color de contraste
-- Logotipo clásico en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS41THC2{{</world>}}

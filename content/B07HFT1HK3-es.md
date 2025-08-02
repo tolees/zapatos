@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado crocs
 - Bayaband sandal k (205400)
+- Calzado crocs
 - Chanclas tiempo libre y sportwear unisex infantil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

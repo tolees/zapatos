@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre ajustable
-- Bye Bye Suela
-- Suela de caucho y corcho
-- Forro de microfibra
 - Plantilla de serraje
+- Cierre ajustable
+- Forro de microfibra
+- Suela de caucho y corcho
+- Bye Bye Suela
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CD22VQFW{{</world>}}

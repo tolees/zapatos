@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatilla de ciclismo muy ligera con boa fit system; ruleta boa fit system de ajuste milimétrico
 - Nuestras zapatillas tienen un tallaje ajustado, por lo que recomendamos un numero mas o dos del que se utiliza en calzado no deportivo
 - Garganta asimétrica para un mejor reparto del ajuste
 - Suela rlx3 de fibra de carbono, con entradas de aire para una ventilación directa
+- Zapatilla de ciclismo muy ligera con boa fit system; ruleta boa fit system de ajuste milimétrico
 - Diseñada para alta competición por carretera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

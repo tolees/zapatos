@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia de cuero
-- Suela de caucho
 - Cierre ajustable
+- Sandalia de cuero
 - Interior libre de cromo
+- Suela de caucho
 - Plantillas Softlight
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Purpurina
-- Material sintético transparente
 - Parche de goma con logotipo
+- Material sintético transparente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB9LDV8Y{{</world>}}
