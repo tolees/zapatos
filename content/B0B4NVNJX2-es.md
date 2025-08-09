@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ancho del zapato: medio
-- Cierre: goma
-- Material interior: sintético
-- Material exterior: poliéster
 - Forma del tacón: sin tacón
+- Material exterior: poliéster
+- Material interior: sintético
+- Cierre: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4NVNJX2{{</world>}}

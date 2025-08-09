@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forma del tacón: plano
 - Cierre: deslizante
 - Suela: N/A
-- Forma del tacón: plano
 - Material exterior: N/A
 
 [🛒 Visítala!!!]({{< param buyurl >}})

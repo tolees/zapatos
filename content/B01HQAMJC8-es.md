@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Espuma
-- Material de la suela: Goma
-- Cierre: Sin cordones
-- Revestimiento: Sintético
 - Altura del tacón: 1.5 pulgadas
+- Revestimiento: Sintético
+- Material exterior: Espuma
+- Cierre: Sin cordones
+- Material de la suela: Goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01HQAMJC8{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello acolchado y de color de contraste
-- Ojal y zorro personalizados
 - Tenis básicos vulcanizados de corte bajo con parte superior clásica
+- Ojal y zorro personalizados
+- Cuello acolchado y de color de contraste
 - Logotipo clásico en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})

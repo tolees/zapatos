@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Espuma
-- Revestimiento: Sintético
-- Altura del tacón: 1.5 pulgadas
-- Material de la suela: Goma
 - Cierre: Sin cordones
+- Altura del tacón: 1.5 pulgadas
+- Revestimiento: Sintético
+- Material de la suela: Goma
+- Material exterior: Espuma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002JCSSTM{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela exterior: suela de goma
 - __ Plantilla: __ Plantilla de goma texturizada con gráficos
+- Suela exterior: suela de goma
 - Material exterior: material exterior de TPU suave con pin de metal ROXY
 
 [🛒 Comprar!!!]({{< param buyurl >}})

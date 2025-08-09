@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Altura Tacón Bajo (de 1 A 3 cm)
+- Material principal Sintético
+- Material de la suela Caucho
 - Tipo de tacón Plano
 - Tipo de cierre Sin cierre-Abiertos
-- Material de la suela Caucho
-- Material principal Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBVHMVW2{{</world>}}

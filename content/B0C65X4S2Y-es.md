@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuadas para el verano
 - Con un estilo deportivo
+- Adecuadas para el verano
 - Ligeras y ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

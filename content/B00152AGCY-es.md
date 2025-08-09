@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Espuma
 - Tipo de tacón: Plano
 - Material de la suela: Sintético
 - Cierre: Tira de tobillo
+- Material exterior: Espuma
 - Composición: Sintético
 - Revestimiento: Sin forro
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Diseño acolchado
-- Forro textil
-- Parte superior de piel sintética
 - Plantilla de EVA
+- Cierre de cordones
+- Parte superior de piel sintética
+- Forro textil
 - Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
