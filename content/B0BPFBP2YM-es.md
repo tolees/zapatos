@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre de velcro
 - Horma clásica
 - Forro textil
-- Cierre de velcro
 - Suela de goma
 - Mediasuela con amortiguación para una pisada más cómoda
 - Parte superior de piel sintética
