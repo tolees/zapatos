@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material superior: sintético
-- Material interior: sintético
 - Suela: sintética
 - Cierre: sin cordones
+- Material superior: sintético
+- Material interior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07SFJ9JJT{{</world>}}

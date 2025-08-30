@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine: Piel (Piel vacuna)
-- Forro:
 - Suela/Características: Goma con un agarre extraordinario
+- Empeine: Piel (Piel vacuna)
 - Color: Marrón
+- Forro:
 - Costura a lo largo de todo el borde para mayor durabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

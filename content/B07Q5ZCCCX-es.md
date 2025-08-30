@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Zapatos de la arena del verano
 - Los niños de deslizamiento zapatos del agua
 - Nadando
-- Zapatos de la arena del verano
 - zapatos de pesca
 - Zapatos para deportes acuáticos
 

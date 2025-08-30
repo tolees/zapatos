@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeines y cordones de algodón orgánico
-- Plantilla de poliuretano y helio
-- Confección vulcanizada
-- Suela de goma reciclada
 - Adhesivos al agua
+- Empeines y cordones de algodón orgánico
+- Confección vulcanizada
+- Plantilla de poliuretano y helio
+- Suela de goma reciclada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08GRCJT2B{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Mediasuela de EVA
 - Parte superior de malla
-- Horma clásica
+- Cierre de cordones
 - Compra una talla más grande
+- Horma clásica
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

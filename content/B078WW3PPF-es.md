@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plantilla EVA
 - Detalles del material exterior: malla con purpurina en el material superior
 - Forro sintético: __ Forro sintético
 - Tejido: material exterior sintético
-- Plantilla EVA
 - __Suela:__ goma para tracción en superficies húmedas y secas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
