@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de puntera cerrada para ayudar a proteger el pie de derrames y caídas.
 - Plantilla contorneada con icónica Crocs
+- Diseño de puntera cerrada para ayudar a proteger el pie de derrames y caídas.
 - Crocs Suela antideslizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

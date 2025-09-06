@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de velcro
-- Suela de goma
-- Parte superior de piel sintética
 - Mediasuela con amortiguación para una pisada más cómoda
 - Horma clásica
+- Suela de goma
+- Parte superior de piel sintética
+- Cierre de velcro
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

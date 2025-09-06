@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela de EVA para una pisada cómoda
-- Horma clásica
-- Parte de malla con refuerzos
 - Cierre de cordones
+- Parte de malla con refuerzos
+- Horma clásica
+- Mediasuela de EVA para una pisada cómoda
 - Puntera de piel sintética resistente al desgaste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
