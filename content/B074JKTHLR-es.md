@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suave y suave durasuede texturizado sintético superior
+- Side Crossing Ankle Sling Strap with adjustable heel strap
 - Strappy casual comfort sandalia diseño
 - Memory Foam cushioned and contoured comfort footbed
-- Side Crossing Ankle Sling Strap with adjustable heel strap
+- Suave y suave durasuede texturizado sintético superior
 - Cierre táctil femenino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

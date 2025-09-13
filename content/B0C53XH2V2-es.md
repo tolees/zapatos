@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tallo de gamuza
 - Entresuela amortiguada
 - Forro textil
+- Tallo de gamuza
 - Zapato estándar
 - Cierre con cordones
 

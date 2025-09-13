@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: Caucho
 - Parte superior: cuero
 - Forma del talón: plano
+- Suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ZVLJ213{{</world>}}

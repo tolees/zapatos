@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: Material sintético
 - Material exterior: Sintético
+- Material de la suela: Material sintético
 - Cierre: Hebilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

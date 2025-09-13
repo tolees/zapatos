@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: goma
+- Material interior: 100 % piel de cabra de grano completo
+- Material exterior: sintético
 - Ancho del zapato: medio
 - Forma del talón: plano
-- Material exterior: sintético
-- Material interior: 100 % piel de cabra de grano completo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B293BQJG{{</world>}}
