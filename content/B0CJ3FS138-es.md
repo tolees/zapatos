@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela: 100% EVA
-- Color: negro
 - Material superior: cuero de vaca
+- Color: negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJ3FS138{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: goma
 - Material exterior: poliéster
+- Cierre: goma
 - Material interior: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

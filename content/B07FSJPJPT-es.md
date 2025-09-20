@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material interior: sintético
-- Suela: goma
 - Cierre: correa y encaje elástico
+- Suela: goma
 - Material exterior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

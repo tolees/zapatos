@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cushioning effect
 - Quick drying materials
+- Cushioning effect
 - Easy on footwear
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: algodón
 - Forma del talón: plano
+- Material exterior: algodón
 - Grut: correa de tobillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

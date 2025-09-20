@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre táctil femenino
-- Suave y suave durasuede texturizado sintético superior
 - Strappy casual comfort sandalia diseño
 - Memory Foam cushioned and contoured comfort footbed
+- Cierre táctil femenino
+- Suave y suave durasuede texturizado sintético superior
 - Side Crossing Ankle Sling Strap with adjustable heel strap
 
 [🛒 Comprar!!!]({{< param buyurl >}})

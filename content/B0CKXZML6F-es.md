@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Peso: 540 g (talla 42 2/3)
-- Empeine de ante
 - Drop: 10 mm (talón: 25 mm / antepié: 15 mm)
-- Suela Traxion
-- Horma clásica
+- Empeine de ante
 - Contiene al menos un 20% de material reciclado y renovable
+- Horma clásica
+- Suela Traxion
 - Aislamiento PrimaLoft
 - Tecnología COLD.RDY y acabado que repele el agua
+- Peso: 540 g (talla 42 2/3)
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXZML6F{{</world>}}
