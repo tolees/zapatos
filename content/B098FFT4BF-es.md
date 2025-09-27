@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cordones
 - Suela: Caucho
+- Cierre: cordones
 - Material exterior: lona
 - Material interior: textil
 

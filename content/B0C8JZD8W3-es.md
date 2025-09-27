@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuenta con un diseño ligero
-- Artículo de marca Tommy Hilfiger
 - Presentan detalles distintivos de la marca
+- Artículo de marca Tommy Hilfiger
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8JZD8W3{{</world>}}

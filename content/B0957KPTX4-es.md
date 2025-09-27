@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte de malla con refuerzos
 - Cierre de cordones
 - Horma clásica
+- Parte de malla con refuerzos
 - Puntera de piel sintética resistente al desgaste
 - Mediasuela de EVA para una pisada cómoda
 

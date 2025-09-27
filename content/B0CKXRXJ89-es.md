@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forro sintético
-- Horma clásica
 - Cierre de cordones
+- Horma clásica
 - Suela de goma cosida
 - Parte superior de piel sintética
 

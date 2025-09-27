@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para correr
 - PEPE JEANS LONDON PRINT W BISCUIT Ladies 36
+- Para correr
 - Deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
