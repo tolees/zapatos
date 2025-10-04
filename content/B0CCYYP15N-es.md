@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación adecuada
 - Peso ligero
+- Amortiguación adecuada
 - Suela de agarre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

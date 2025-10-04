@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un diseño ligero
 - Presentan detalles distintivos de la marca
+- Cuenta con un diseño ligero
 - Artículo de marca Tommy Hilfiger
 
 [🛒 Aquí!!!]({{< param buyurl >}})

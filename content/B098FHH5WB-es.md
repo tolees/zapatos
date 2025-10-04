@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: textil
-- Forma del talón: plano
 - Cierre: cordones
 - Suela: Caucho
+- Forma del talón: plano
+- Material interior: textil
 - Material exterior: lona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

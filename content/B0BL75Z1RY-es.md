@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Hebilla
-- Tipo de tacón: Cuña
 - Material exterior: Tejido
+- Tipo de tacón: Cuña
+- Cierre: Hebilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BL75Z1RY{{</world>}}

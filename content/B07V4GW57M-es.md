@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Transpirable
 - Fácil de llevar para un confort optimo
 - Flexibilidad
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Transpirable
 - Calzado sin cierre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

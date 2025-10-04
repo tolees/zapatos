@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Cierre de cordones
-- Mediasuela de EVA
-- Compra una talla más grande
 - Forro textil
 - Parte superior de malla
+- Compra una talla más grande
+- Cierre de cordones
+- Mediasuela de EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6FLV78T{{</world>}}

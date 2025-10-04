@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo: Zueco con correa de talón
 - Color: negro
+- Estilo: Zueco con correa de talón
 - Material: Croslite/Textil
 - Número del fabricante: 203591-060
 
