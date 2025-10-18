@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: sin cordones
 - Material superior: sintético
 - Suela: sintética
-- Cierre: sin cordones
 - Material interior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

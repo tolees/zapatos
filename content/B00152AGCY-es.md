@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Tira de tobillo
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
 - Material exterior: Espuma
+- Cierre: Tira de tobillo
 - Composición: Sintético
 - Material de la suela: Sintético
+- Revestimiento: Sin forro
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00152AGCY{{</world>}}

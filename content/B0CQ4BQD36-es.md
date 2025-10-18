@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo De Tacón: Plano
 - Tipo Gl: Zapatos
+- Tipo De Tacón: Plano
 - Tipo De Producto: Zapatos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

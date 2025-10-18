@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela: 100% EVA
 - exterior: 100% piel de vacuno
 - Better Leather
-- Suela: 100% EVA
 - Color: blanco natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
