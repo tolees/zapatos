@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro textil
-- Mediasuela de EVA
-- Horma clásica
 - Cierre de cordones
+- Horma clásica
 - Compra una talla más grande
+- Mediasuela de EVA
 - Parte superior de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

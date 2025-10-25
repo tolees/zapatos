@@ -30,13 +30,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Contiene al menos un 20% de material reciclado y renovable
 - RAIN.RDY
-- Peso: 390 g (talla 42 2/3)
-- Suela Traxion
-- Empeine textil con puntera reforzada
-- Forro textil
 - Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
-- Horma clásica
 - Mediasuela de EVA
+- Empeine textil con puntera reforzada
+- Horma clásica
+- Peso: 390 g (talla 42 2/3)
+- Forro textil
+- Suela Traxion
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXV45HG{{</world>}}
