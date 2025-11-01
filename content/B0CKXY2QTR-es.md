@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Forro textil
-- Suela de goma
 - Empeine textil
-- Horma clásica
+- Forro textil
+- Forro textil
 - Puntera reforzada
+- Suela de goma
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXY2QTR{{</world>}}

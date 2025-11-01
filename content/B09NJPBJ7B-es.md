@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Entresuela Cloudfoam
 - Parte superior sintética
-- Compra 1 talla más grande
 - Forro textil
+- Compra 1 talla más grande
 - Plantilla contorneada
 - Construcción sin cordones
 
