@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Revestimiento: Sintético
-- Cierre: Cordones
 - Material exterior: Cuero
+- Cierre: Cordones
 - Tipo de tacón: Plano
 - Material de la suela: Goma
 

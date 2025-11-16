@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte sintética suave
 - Mediasuela Cloudfoam
 - Horma clásica
-- Parte sintética suave
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
