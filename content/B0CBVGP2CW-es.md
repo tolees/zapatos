@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Altura Tacón Medio (de 3 A 5 cm)
+- Material principal Sintético
 - Tipo de tacón Plano
 - Material de la suela Phylon ultraligero
-- Material principal Sintético
 - Tipo de cierre Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

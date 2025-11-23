@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla moldeada
-- Horma clásica
-- Amortiguación ligera
 - Forro textil
+- Horma clásica
 - Suela de EVA
+- Amortiguación ligera
+- Plantilla moldeada
 - Parte superior sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de cordones
-- Diseño acolchado
 - Plantilla de EVA
 - Forro textil
+- Diseño acolchado
 - Parte superior de piel sintética
 - Horma clásica
 

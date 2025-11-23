@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligera
-- Forma redonda
 - Transpirable
+- Forma redonda
+- Ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MCYNW4S{{</world>}}

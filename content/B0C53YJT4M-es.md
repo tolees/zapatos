@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Parte de ante
+- Horma clásica
 - Mediasuela con amortiguación
 - Forro textil
 
