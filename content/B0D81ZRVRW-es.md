@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Deportivo
-- PEPE JEANS LONDON LINK M GREY Men 40
 - Para correr
+- PEPE JEANS LONDON LINK M GREY Men 40
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D81ZRVRW{{</world>}}

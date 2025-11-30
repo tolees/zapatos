@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma que no deja marcas
-- Entresuela Cloudfoam
-- Corte regular
 - Talonera externa
 - Parte superior de malla
+- Corte regular
 - Cierre de cordones
+- Entresuela Cloudfoam
+- Suela de goma que no deja marcas
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

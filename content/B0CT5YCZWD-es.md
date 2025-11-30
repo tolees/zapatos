@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro y plantilla transpirables, absorbentes y de secado rápido
-- Suela muy ligera, antideslizante y flexible
 - Forro transpirable, piso flexible y plantilla de piel muy acolchada y transpirable
+- Suela muy ligera, antideslizante y flexible
 - Bailarinas colegiales negras de piel curtidas de forma sostenible con cierres ajustables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

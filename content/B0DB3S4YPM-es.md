@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
-- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
-- Plantilla moldeada
 - Banda superior de goma
+- Plantilla moldeada
+- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DB3S4YPM{{</world>}}

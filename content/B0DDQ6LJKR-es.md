@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma de felpa
 - Lavable a máquina
+- Espuma de felpa
 - Slip-Ins
 - Vegano
 
