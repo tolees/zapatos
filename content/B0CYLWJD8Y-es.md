@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Drop: 9 mm (talón: 24 mm / antepié: 15 mm)
-- Suela de goma
+- Empeine sintético y textil
 - Peso: 230,5 g (talla 42 2/3)
 - Horma clásica
-- Mediasuela de EVA
-- Empeine sintético y textil
 - Forro textil
+- Mediasuela de EVA
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYLWJD8Y{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado ligero para una libertad de movimiento
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Transpirable
-- Fácil de llevar para un confort optimo
 - Flexibilidad
+- Fácil de llevar para un confort optimo
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calzado ligero para una libertad de movimiento
+- Transpirable
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 - Calzado con suela antihuellas
 

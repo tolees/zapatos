@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela Cloudfoam
 - Parte de malla
+- Mediasuela Cloudfoam
 - Horma clásica
 - Forro textil
 
