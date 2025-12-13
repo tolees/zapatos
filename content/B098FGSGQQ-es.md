@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Textil
-- SneakerCanvas
 - Cordones
+- SneakerCanvas
 - Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

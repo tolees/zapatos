@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Horma clásica
-- Suela de goma
-- Clásica puntera con forma de T
 - Cierre de cordones
 - Forro textil
+- Suela de goma
+- Clásica puntera con forma de T
 - Empeine de piel sintética y ante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
