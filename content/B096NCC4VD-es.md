@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forro textil
+- Horma clásica
 - Parte superior sintética
 - Amortiguación ligera
-- Horma clásica
 - Suela de EVA
 - Plantilla moldeada
 

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Peso: 390 g (talla 42 2/3)
 - Empeine textil con puntera reforzada
-- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
-- Mediasuela de EVA
 - Forro textil
-- Contiene al menos un 20% de material reciclado y renovable
+- Peso: 390 g (talla 42 2/3)
+- Mediasuela de EVA
+- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
 - Suela Traxion
+- Horma clásica
+- Contiene al menos un 20% de material reciclado y renovable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXQRD3T{{</world>}}

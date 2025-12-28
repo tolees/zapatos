@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Horma clásica
+- Puntera reforzada
 - Forro textil
 - Empeine textil
 - Cierre de cordones
-- Puntera reforzada
-- Horma clásica
 - Forro textil
 - Suela de goma
 

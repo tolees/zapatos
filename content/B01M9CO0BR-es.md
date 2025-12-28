@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapato Ancho: Normal
-- Material Composición: 34% Cuero 33% Malla 33% Caucho
 - Ajuste: Amplio (Ajuste Relajado)
+- Material Composición: 34% Cuero 33% Malla 33% Caucho
+- Zapato Ancho: Normal
 - Material Del Interior: Cuero
 - Material Exterior: Otro Cuero
 
