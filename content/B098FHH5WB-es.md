@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: textil
 - Suela: Caucho
+- Material interior: textil
 - Cierre: cordones
 - Material exterior: lona
 - Forma del talón: plano

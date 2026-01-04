@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Suela de goma
-- Suela de goma cosida
-- Parte superior sintética suave
 - La parte superior contiene al menos un 50% de material reciclado
+- Parte superior sintética suave
+- Forro textil
+- Suela de goma cosida
+- Suela de goma
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

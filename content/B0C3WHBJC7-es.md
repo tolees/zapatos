@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Parte sintética suave
 - Mediasuela Cloudfoam
 - Forro textil
-- Parte sintética suave
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

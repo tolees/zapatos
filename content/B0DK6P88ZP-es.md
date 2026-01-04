@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Horma clásica
-- Empeine de piel sintética y ante
-- Suela de goma
 - Clásica puntera con forma de T
+- Cierre de cordones
 - Forro textil
+- Empeine de piel sintética y ante
+- Horma clásica
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK6P88ZP{{</world>}}

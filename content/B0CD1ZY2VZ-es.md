@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de caucho
-- Interior libre de cromo
 - Plantilla Softlight
 - Cierre de hebilla
+- Interior libre de cromo
+- Suela de caucho
 - Forro de microfibra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
