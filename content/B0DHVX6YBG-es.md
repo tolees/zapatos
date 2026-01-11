@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro textil
 - Plantilla de EVA
 - Horma clásica
 - Suela con plataforma
-- Forro textil
 - Empeine sintético
 - Suela de goma
 

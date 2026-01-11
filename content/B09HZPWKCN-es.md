@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño fácil de poner y quitar
 - Mediasuela Cloudfoam
+- Horma clásica
 - Suela sintética
 - Plantilla moldeada
-- Horma clásica
-- Diseño fácil de poner y quitar
 - Parte superior sintética
 - Forro textil
 

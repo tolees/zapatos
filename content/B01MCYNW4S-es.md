@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forma redonda
 - Transpirable
+- Forma redonda
 - Ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

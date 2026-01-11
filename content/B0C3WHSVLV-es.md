@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela Cloudfoam
 - Forro textil
+- Mediasuela Cloudfoam
 - Parte sintética suave
 - Horma clásica
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine textil
-- Mediasuela Cloudfoam Walk
-- Suela Adiwear
 - Forro textil
 - Horma clásica
+- Mediasuela Cloudfoam Walk
+- Suela Adiwear
+- Empeine textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKS1J722{{</world>}}

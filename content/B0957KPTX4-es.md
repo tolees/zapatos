@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puntera de piel sintética resistente al desgaste
-- Cierre de cordones
 - Parte de malla con refuerzos
+- Puntera de piel sintética resistente al desgaste
 - Horma clásica
+- Cierre de cordones
 - Mediasuela de EVA para una pisada cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
