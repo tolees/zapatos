@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela Traxion
 - Peso: 390 g (talla 42 2/3)
-- Forro textil
 - Horma clásica
+- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
 - Empeine textil con puntera reforzada
+- Forro textil
 - Mediasuela de EVA
 - Contiene al menos un 20% de material reciclado y renovable
-- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
+- Suela Traxion
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXT67TN{{</world>}}
