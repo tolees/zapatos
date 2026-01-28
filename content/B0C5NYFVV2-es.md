@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior textil
 - Cierre de cordones
 - Horma clásica
 - Mediasuela Cloudfoam
+- Parte superior textil
 - La estética del running mira al futuro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

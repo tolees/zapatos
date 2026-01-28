@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela ligera que no deja marcas
-- Los puertos de ventilación añaden transpirabilidad y ayudan a drenar el agua y los desechos
 - Zapatos adecuados para playa o barco
 - La correa del talón ofrece un ajuste seguro
+- Los puertos de ventilación añaden transpirabilidad y ayudan a drenar el agua y los desechos
+- Suela ligera que no deja marcas
 - Fáciles de limpiar y de secado rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

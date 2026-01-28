@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro de microfibra
-- Interior libre de cromo
 - Plantilla Softlight
+- Interior libre de cromo
+- Forro de microfibra
 - Cierre de hebilla
 - Suela de caucho
 

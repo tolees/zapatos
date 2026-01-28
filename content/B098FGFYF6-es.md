@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del zapato: medio
+- Material interior: textil
 - Forma del talón: plano
 - Cierre: goma
-- Material interior: textil
+- Ancho del zapato: medio
 - Material exterior: lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

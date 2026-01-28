@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de tracción
-- Ligeras
 - Diseño de una sola pieza para una mayor comodidad
+- Ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSBMD283{{</world>}}

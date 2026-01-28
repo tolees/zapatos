@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela con amortiguación
-- Contiene al menos un 20% de material reciclado
-- Forro textil
 - Horma clásica
 - Suela de goma vulcanizada
+- Mediasuela con amortiguación
 - Parte superior de ante
+- Contiene al menos un 20% de material reciclado
+- Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKLXLXHD{{</world>}}

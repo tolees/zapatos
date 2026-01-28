@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavable a máquina
 - Ajuste de arco
 - Plantilla Goga Mat contorneada
-- Lavable a máquina
 - Tecnología Comfort Pillar
 - Ultra Go
 

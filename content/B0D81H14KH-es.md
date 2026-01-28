@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cojín suave
-- Flexibles
 - Clarks Collection Sandals, Jaylan Ray, Black Leather, 6 (Women)
+- Flexibles
 - Alta calidad
+- Cojín suave
 - Aspecto y tacto clásicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
