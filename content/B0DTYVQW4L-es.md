@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- zapato de salón destalonado
-- plantilla acolchada
-- cierres regulables
 - tacón kitten
+- zapato de salón destalonado
+- cierres regulables
+- plantilla acolchada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTYVQW4L{{</world>}}

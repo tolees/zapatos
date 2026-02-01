@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cojín suave
 - Clarks Sandals, Aristella Sun, Black Leather, 5 (Women)
-- Flexibles
 - Alta calidad
+- Cojín suave
+- Flexibles
 - Aspecto y tacto clásicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

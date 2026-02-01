@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela Adiwear
-- Empeine textil
-- Horma clásica
 - Forro textil
+- Empeine textil
+- Suela Adiwear
+- Horma clásica
 - Mediasuela Cloudfoam Walk
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

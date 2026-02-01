@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grut: correa de tobillo
 - Forma del talón: plano
+- Grut: correa de tobillo
 - Material exterior: algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
