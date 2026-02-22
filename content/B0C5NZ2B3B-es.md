@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro textil
 - Parte superior de piel sintética
+- Suela de goma
 - Mediasuela con amortiguación para una pisada más cómoda
 - Horma clásica
-- Suela de goma
-- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5NZ2B3B{{</world>}}

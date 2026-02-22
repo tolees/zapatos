@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de ante
+- Forro textil
 - Mediasuela con amortiguación
 - Contiene al menos un 20% de material reciclado
-- Forro textil
-- Parte superior de ante
 - Horma clásica
 - Suela de goma vulcanizada
 

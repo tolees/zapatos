@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Modelo de estilo casual, para completar y combinar con todo tipo de looks. Suela de goma antideslizante
 - Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- Zapato de niño con cordones regulable, de la marca Xti Kids. Fabricado en lona con pespuntes al tono
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Zapato de niño con cordones regulable, de la marca Xti Kids. Fabricado en lona con pespuntes al tono
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJD6ZN26{{</world>}}

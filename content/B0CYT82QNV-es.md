@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mediasuela Cloudfoam
-- Suela de goma
 - Forro textil
 - Refuerzo y estabilizador del talón de TPU
-- Contiene al menos un 20% de material reciclado
+- Suela de goma
 - Empeine de malla
+- Contiene al menos un 20% de material reciclado
+- Mediasuela Cloudfoam
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

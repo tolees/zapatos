@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Longitud del paquete del artículo: 270 mm
-- Altura del paquete del artículo: 100 mm
 - Peso del paquete del artículo: 0.205 kg
 - Ancho del paquete del artículo: 205 mm
+- Altura del paquete del artículo: 100 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0792JTPW2{{</world>}}

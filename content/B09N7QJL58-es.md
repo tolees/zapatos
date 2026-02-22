@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Transpirable
-- Calzado ligero para una libertad de movimiento
-- Flexibilidad
 - Fácil de llevar para un confort optimo
+- Transpirable
+- Flexibilidad
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Calzado ligero para una libertad de movimiento
 - Calzado con suela antihuellas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: poliéster
 - Material interior: sintético
+- Material exterior: poliéster
 - Cierre: goma
 - Ancho del zapato: medio
 - Forma del tacón: sin tacón

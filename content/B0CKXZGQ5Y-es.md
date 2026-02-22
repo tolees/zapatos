@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Contiene al menos un 20% de material reciclado
-- Suela de goma
-- Empeine de piel
-- Puntera reforzada
 - Forro textil
+- Suela de goma
 - Cierre de cordones
+- Horma clásica
+- Puntera reforzada
+- Contiene al menos un 20% de material reciclado
+- Empeine de piel
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
