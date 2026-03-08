@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un tacón bajo
 - Adecuadas para llevar durante todo el día
+- Con un tacón bajo
 - Transpirables y cómodas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

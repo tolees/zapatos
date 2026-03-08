@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Oxford casual con cordones de cuero suave
-- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Entresuela que absorbe los golpes
+- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
+- Oxford casual con cordones de cuero suave
 - Panel frontal elástico con cordones elásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

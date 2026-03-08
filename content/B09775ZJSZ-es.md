@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela ligera y amortiguadora para una comodidad duradera.
 - Plantilla LiteRide para una comodidad excepcional y duradera.
+- Suela ligera y amortiguadora para una comodidad duradera.
 - Cuña baja para una comodidad óptima durante todo el día.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

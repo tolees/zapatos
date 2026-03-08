@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de limpiar
 - Comodidad a 360 grados
+- Fácil de limpiar
 - Ligero y flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El diseño del producto permite apilar y anidar.
 - Material sólido y resistente
 - diseñado para su almacenamiento de oficina
-- El diseño del producto permite apilar y anidar.
 - caja transparente para ver el contenido sin tener que abrirlo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
