@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Skechers - 52631-BBK 39 zapatos para correr Black'
+date: 2026-05-01 08:33:31
+image: 'https://m.media-amazon.com/images/I/41VW51-MH0L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07CD1J17Y-es Skechers - 52631-BBK 39 zapatos para correr Black'
+sku: 'B07CD1J17Y-es'
+tags: [ 'zapatos','🇪🇸', ]
+actualPrice: 41.99 EUR
+currency: EUR
+price: 41.99
+comparePrice: 69.95 EUR
+prodname: 'Skechers - 52631-BBK 39 zapatos para correr Black'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07CD1J17Y/?tag=tolees-21'
+descuento: '39.97'
+average: '64.6314285714286'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- familia_x: SNEAKERS
+- Talla: 39
+- Sneakers Skechers Track-scloric Hombre Negro-negro
+- departam_x: HOMBRE
+- tacon_x: PLANO
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07CD1J17Y{{</world>}}
