@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla de EVA
-- Empeine sintético
+- Forro textil
 - Horma clásica
 - Suela de goma
 - Suela con plataforma
-- Forro textil
+- Empeine sintético
+- Plantilla de EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYLS4FYP{{</world>}}

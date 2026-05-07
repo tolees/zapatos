@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material exterior: 77% piel de vacuno, 23% tela (100% PET reciclado)
-- Forro: 52 % piel de vacuno, 48 % tela (100 % PET reciclado)
 - Suela: 100 % EVA
 - Color: azul marino
+- Forro: 52 % piel de vacuno, 48 % tela (100 % PET reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D79BVYNR{{</world>}}

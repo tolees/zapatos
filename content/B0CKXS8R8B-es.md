@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro textil
-- Forro textil
 - Empeine de malla
+- Forro textil
 - Suela y mediasuela de EVA
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXS8R8B{{</world>}}

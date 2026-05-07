@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Flexibles
 - Aspecto y tacto clásicos
 - Cojín suave
-- Flexibles
 - Alta calidad
 - Clarks Sandals, Arwell Glide, Blue Combi, 3 (Women)
 

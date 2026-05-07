@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- removable: falso
 - Material exterior: sintético
 - Material insole: sintético
-- lining: sintético
 - suela material: sintético
+- removable: falso
+- lining: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YY5N9E6{{</world>}}

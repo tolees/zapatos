@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo de marca adidas
 - Tiene detalles distintivos de la marca
+- Artículo de marca adidas
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

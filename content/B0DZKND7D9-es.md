@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EN ISO 20347:2022, O1 SR
 - Plantilla de espuma viscoelástica
+- EN ISO 20347:2022, O1 SR
 - Antideslizante
 - Entrenador atlético antideslizante elástico
 - Ajuste sin atar

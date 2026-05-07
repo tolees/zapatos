@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de ante
-- Horma clásica
-- Forro textil
-- Contiene al menos un 20% de material reciclado
 - Suela de goma
+- Empeine de ante
+- Contiene al menos un 20% de material reciclado
+- Forro textil
+- Horma clásica
 - Lengüeta acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

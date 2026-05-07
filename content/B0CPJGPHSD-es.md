@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Skech-Air
-- Parte superior/forro de piel sintética
 - Espuma viscoelástica refrigerada por aire
+- Parte superior/forro de piel sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPJGPHSD{{</world>}}
