@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: poliéster
-- Material interior: sintético
 - Cierre: goma
+- Material interior: sintético
+- Material exterior: poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4NZMP74{{</world>}}

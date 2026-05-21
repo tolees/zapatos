@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compra una talla más grande
-- Cierre de cordones
-- Horma clásica
 - Suela de goma
 - Parte superior de piel
+- Horma clásica
+- Compra una talla más grande
+- Cierre de cordones
 - Plantilla Cloudfoam
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de tacón: Plano
-- Material exterior: Suecia
 - Material interior: sintético
+- Material exterior: Suecia
 - Tipo de cierre: Enhebrador
 - Material único: Etileno acetato de vinilo
 

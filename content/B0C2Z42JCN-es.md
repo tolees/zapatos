@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ergonomía: Cierre con cordones; Banda elástica para guardar los cordones
-- Performance Shock: Insertos rígidos en la zona del maléolo con D-Foam blando por el lado interno; Zapato certificado según la norma CE - Cat. II - EN 13634
 - Materiales Principales: Parte superior de tela; Inserciones de gamuza sintética; Suela exterior de goma Groundtrax; Plantilla Ortholite con amortiguación a largo plazo y alto nivel de transpirabilidad
+- Performance Shock: Insertos rígidos en la zona del maléolo con D-Foam blando por el lado interno; Zapato certificado según la norma CE - Cat. II - EN 13634
 - Temperatura: Membrana Gore-Tex Extended Comfort; Forro de malla
+- Ergonomía: Cierre con cordones; Banda elástica para guardar los cordones
 - Caracteristicas: Protector para palanca del cambio en PU
 
 [🛒 Visítala!!!]({{< param buyurl >}})

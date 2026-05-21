@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela exterior: suela de goma con estampado Heritage ROXY
 - Roxy Logo
-- Zapatillas de verano perfectas
-- Material exterior: TPU moldeado con pin Roxy
 - Plantilla: plantilla de goma texturizada con gráficos
+- Suela exterior: suela de goma con estampado Heritage ROXY
+- Material exterior: TPU moldeado con pin Roxy
+- Zapatillas de verano perfectas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07STWV4Z4{{</world>}}

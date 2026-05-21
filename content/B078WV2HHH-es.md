@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quiksilver - Molokai - Flip-Flops for Men Zapatos de playa y piscina Hombre Schwarz Black/Black/White Xkkw'
-date: 2026-05-18 09:43:38
+date: 2026-05-20 09:23:26
 image: 'https://m.media-amazon.com/images/I/219HVBjh7eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WV2HHH/?tag=tolees-21'
 descuento: '47.69'
-average: '10.9178571428571'
+average: '10.8173333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

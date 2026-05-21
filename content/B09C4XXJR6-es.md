@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia
 - Plantilla de espuma
+- Sandalia
 - Correa ajustable
 - Suela cómoda
 

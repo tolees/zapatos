@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
 - Forro textil
 - Puntera reforzada
 

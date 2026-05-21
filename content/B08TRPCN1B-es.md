@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textil
+- Cordón
 - Suecia
 - 3. Plano
-- Cordón
+- Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TRPCN1B{{</world>}}

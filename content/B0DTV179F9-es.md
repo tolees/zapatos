@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bota tipo cowboy
-- Plantilla acolchada
-- Altura tacón: 5,5cm
 - cierre cremallera
+- Altura tacón: 5,5cm
+- Plantilla acolchada
+- Bota tipo cowboy
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTV179F9{{</world>}}

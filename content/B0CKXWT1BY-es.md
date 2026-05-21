@@ -33,8 +33,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Empeine textil
 - Puntera reforzada
 - Horma clásica
-- Cierre de cordones
 - Suela de goma
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXWT1BY{{</world>}}

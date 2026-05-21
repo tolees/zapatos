@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Correas de talón giratorias para un ajuste más seguro
 - Fáciles de limpiar
 - Personalizables con dijes Jibbitz
-- Correas de talón giratorias para un ajuste más seguro
 - Iconic Crocs Comfort: ligero. Flexibles. Comodidad de 360 grados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

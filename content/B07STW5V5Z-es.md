@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quiksilver AQYL100601 Hombre Zapatos de playa y piscina Multicolor Red/Blue/Red Xrbr 40 EU'
-date: 2026-05-18 11:17:29
+date: 2026-05-20 12:17:04
 image: 'https://m.media-amazon.com/images/I/31yo160VO1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STW5V5Z/?tag=tolees-21'
 descuento: '47.69'
-average: '13.0877777777778'
+average: '12.4190909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: sintético
 - Colección: Otoño/Invierno 19
 - Antideslizante
-- Cierre: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07STW5V5Z{{</world>}}
