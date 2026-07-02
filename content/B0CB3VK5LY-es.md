@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material interior: sintético
 - Tipo de cierre: Enhebrador
-- Material exterior: Suecia
 - Material único: Etileno acetato de vinilo
+- Material exterior: Suecia
 - Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

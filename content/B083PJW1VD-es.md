@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo masculino
 - Oak Canyon - Verketta
 - 51898 OLBK
 - Caña baja
 - Artículo para usar todo el año
+- Estilo masculino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083PJW1VD{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirables y ligeras
 - Refuerzo en la puntera
+- Transpirables y ligeras
 - Ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Suela: goma
 - Parte superior: cuero
-- Material interior: sintético
 - Forma del talón: plano
+- Material interior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07X87SHWK{{</world>}}

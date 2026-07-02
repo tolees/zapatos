@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TAMAÑO Al comprar chanclas Havaianas en Amazon, debe considerar el tamaño BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
-- Género: zapatos de moda para mujer
-- Composición: correas 100% PVC + logotipo: 100% PVC. Suela exterior: 100% goma + transferencia; 100% (sustrato, pintura, resinas y etiquetas)
 - Flip Flop. Color: marrón oscuro
+- Composición: correas 100% PVC + logotipo: 100% PVC. Suela exterior: 100% goma + transferencia; 100% (sustrato, pintura, resinas y etiquetas)
+- Género: zapatos de moda para mujer
 - Suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

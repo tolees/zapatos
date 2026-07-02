@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adjuntar
 - Sintético
+- Adjuntar
 - Punta redonda
 - Caucho
 - Plano

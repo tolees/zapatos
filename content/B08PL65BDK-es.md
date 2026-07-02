@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Cuero
-- Fácil de llevar para un confort optimo
-- Flexibilidad
-- Revestimiento: Sintético
 - Transpirable
+- Material exterior: Cuero
+- Revestimiento: Sintético
+- Flexibilidad
+- Fácil de llevar para un confort optimo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PL65BDK{{</world>}}

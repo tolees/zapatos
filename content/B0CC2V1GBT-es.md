@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
-- Aspecto y tacto clásicos
 - Cojín suave
 - Clarks Sandals, Sabina Sling, Navy Nubuck, 4 (Women)
+- Alta calidad
+- Aspecto y tacto clásicos
 - Flexibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

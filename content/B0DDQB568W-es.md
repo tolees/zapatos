@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología Goga Mat
-- Ultra Go
 - Lavable a máquina
+- Tecnología Goga Mat
 - Slip-Ins
 - Plantilla Goga Mat contorneada
+- Ultra Go
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDQB568W{{</world>}}

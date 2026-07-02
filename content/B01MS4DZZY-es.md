@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: sintético
 - Material exterior: cuero
+- Revestimiento: sintético
 - Material de la suela: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

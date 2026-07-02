@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rieker
 - Acabado de alta calidad
-- Cómodo
-- Materiales de alta calidad
-- Cómodo de llevar
 - Buena calidad
+- Materiales de alta calidad
+- Rieker
+- Cómodo
+- Cómodo de llevar
 - Rieker Y2574
 
 [🛒 Comprar!!!]({{< param buyurl >}})

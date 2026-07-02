@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello acolchado con cordones y suela Sr
 - EN ISO 20347:2012, ajuste relajado, MF refrigerado por aire, antideslizante, OB FO SRC
+- Cuello acolchado con cordones y suela Sr
 - Vestido casual con cordones para el trabajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

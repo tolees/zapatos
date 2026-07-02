@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómoda y fashion
-- Bota de agua
-- Suela antideslizante
 - Resistente al agua
+- Cómoda y fashion
+- Suela antideslizante
+- Bota de agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTV117FV{{</world>}}

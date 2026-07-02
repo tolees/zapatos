@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela Croslite con cápsulas de tracción de goma
 - Ajuste ajustable. Ventana de malla transpirable
 - Cobertura de puntera de goma
 - Parte superior de piel sintética vegana
-- Suela Croslite con cápsulas de tracción de goma
 - Estilo actualizado con detalles de costura
 - LiteRide: Revolucionaria suavidad y comodidad
 
