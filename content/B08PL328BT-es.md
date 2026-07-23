@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Material exterior: Cuero
 - Fácil de llevar para un confort optimo
-- Transpirable
-- Revestimiento: Sintético
 - Flexibilidad
+- Revestimiento: Sintético
+- Transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PL328BT{{</world>}}

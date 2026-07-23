@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Antideslizante en condiciones húmedas y secas
-- 3M Scotchgard
 - Ultra Go
+- 3M Scotchgard
 - Tecnología Goga Mat
 - Alfombrilla Goga refrigerada por aire
 

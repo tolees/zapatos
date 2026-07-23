@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Plantilla: goma espuma de EVA reciclada
 - Detalles del material exterior: __ correas TR
-- Tejido: material exterior sintético
 - Suela exterior: goma espuma de EVA reciclada
+- __Plantilla: goma espuma de EVA reciclada
+- Tejido: material exterior sintético
 - Forro sintético: __ Forro sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

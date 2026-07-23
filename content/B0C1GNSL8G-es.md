@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Correa: PVC. Material de la suela: goma
 - Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
-- Color de las chanclas: rosa
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
+- Color de las chanclas: rosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C1GNSL8G{{</world>}}

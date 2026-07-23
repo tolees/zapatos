@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñado para mejorar la transpirabilidad
 - Fácil de limpiar y de secado rápido
+- Diseñado para mejorar la transpirabilidad
 - Correas giratorias en el talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

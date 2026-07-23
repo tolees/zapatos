@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirable
 - Zapatos impermeables hechos de materiales de secado rápido
+- Transpirable
 - Zapatos fáciles de poner
 - Absorción de impactos óptima para proteger y absorber golpes e irregularidades del suelo
 - Zapatos ligeros

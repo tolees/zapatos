@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Flexibles
-- Cojín suave
 - Aspecto y tacto clásicos
 - Alta calidad
+- Flexibles
+- Cojín suave
 - Clarks Sandals, Serina35 Cross, Black, 7,5 (Women)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

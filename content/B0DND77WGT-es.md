@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Fáciles de limpiar y de secado rápido
 - Los puertos de ventilación añaden transpirabilidad y ayudan a drenar el agua y los desechos
-- La correa del talón ofrece un ajuste seguro
 - Suela ligera que no deja marcas
+- La correa del talón ofrece un ajuste seguro
 - Zapatos adecuados para playa o barco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

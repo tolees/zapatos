@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Sandalia B FUSBETTO GI para niña color rosa y morado talla 27 EU'
-date: 2026-07-21 17:32:02
+date: 2026-07-22 22:43:26
 image: 'https://m.media-amazon.com/images/I/3127Yo26+NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
