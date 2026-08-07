@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de limpiar y de secado rápido
-- Iconischer Crocs Komfort: leicht. Flexible. Comodidad de 360 grados.
 - recortes femeninos inspirados en flores
+- Iconischer Crocs Komfort: leicht. Flexible. Comodidad de 360 grados.
+- Fácil de limpiar y de secado rápido
 - Correas giratorias en el talón para un ajuste más seguro
 - Increíblemente ligero y divertido de llevar
 

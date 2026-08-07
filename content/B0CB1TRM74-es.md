@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistente al agua
-- Ligeras
 - Detalle del logotipo
+- Ligeras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1TRM74{{</world>}}

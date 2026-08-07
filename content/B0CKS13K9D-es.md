@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forro textil
 - Empeine de piel sintética
-- Forro textil
-- Suela de goma
-- Forro textil
 - Puntera de ante
+- Forro textil
 - Horma clásica
+- Suela de goma
 - Cierre con correas autoadherentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

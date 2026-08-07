@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Negro
-- Artículo: JADON BLACK SMOOTH
-- Estación: Otoño/Invierno
 - Designer: DR. MARTENS
+- Color: Negro
 - Material: piel
+- Estación: Otoño/Invierno
+- Artículo: JADON BLACK SMOOTH
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BC3VCYW{{</world>}}

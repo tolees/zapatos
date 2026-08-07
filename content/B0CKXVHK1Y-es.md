@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de malla
-- Suela y mediasuela de EVA
-- Cierre de cordones
 - Forro textil
 - Horma clásica
+- Cierre de cordones
+- Empeine de malla
+- Suela y mediasuela de EVA
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

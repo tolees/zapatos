@@ -29,13 +29,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
-- Peso: 390 g (talla 42 2/3)
-- Empeine textil con puntera reforzada
-- Forro textil
 - Suela Traxion
+- Peso: 390 g (talla 42 2/3)
 - Mediasuela de EVA
-- Horma clásica
 - Contiene al menos un 20% de material reciclado y renovable
+- Horma clásica
+- Forro textil
+- Empeine textil con puntera reforzada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXT67TN{{</world>}}

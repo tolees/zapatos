@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al agua
 - Bota de agua
+- Resistente al agua
 - Suela antideslizante
 - Cómoda y fashion
 

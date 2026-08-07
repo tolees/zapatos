@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Para uso en pistas y terrenos irregulares, donde se necesite un apoyo puntual en el suelo.
+- Suela de Composite Avanzado, con taqueado profundo y durable, y compatible con calas SPD.
 - Ajuste microrregulable rápido, preciso y sin esfuerzo gracias a su BOA Fit System.
 - Zapatilla de ciclismo de montaña equipada con BOA Fit System.
-- Suela de Composite Avanzado, con taqueado profundo y durable, y compatible con calas SPD.
-- Para uso en pistas y terrenos irregulares, donde se necesite un apoyo puntual en el suelo.
 - Estética minimalista y funcional orientada a un uso exigente y de fácil limpieza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

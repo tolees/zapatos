@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champion Logotipo C
 - Plantillas suaves y cómodas
+- Champion Logotipo C
 - Fabricado con materiales y construcción duraderos y de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

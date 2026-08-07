@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Refuerzo de goma en el talón
 - Cierre de cordones con detalles textiles
 - Amortiguación LIGHTMOTION
-- Horma clásica
 - Forro textil
+- Horma clásica
 - Empeine de malla con mezcla de materiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

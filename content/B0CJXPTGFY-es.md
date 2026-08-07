@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: sintético
-- Tipo de cierre: para poner
-- Tipo de tacón: plano
 - Material exterior: etileno acetato de vinilo (EVA)
 - Material único: acetato de etileno y vinilo
+- Tipo de cierre: para poner
+- Material interior: sintético
+- Tipo de tacón: plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJXPTGFY{{</world>}}

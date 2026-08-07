@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela exterior: suela de goma
 - Plantilla de goma texturizada
 - Material superior: __ Parte superior multicolor con degradado y pin ROXY
-- Suela exterior: suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097NGTM3X{{</world>}}

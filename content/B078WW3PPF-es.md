@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Suela:__ goma para tracción en superficies húmedas y secas
-- Forro sintético: __ Forro sintético
-- Detalles del material exterior: malla con purpurina en el material superior
 - Plantilla EVA
+- Forro sintético: __ Forro sintético
+- __Suela:__ goma para tracción en superficies húmedas y secas
+- Detalles del material exterior: malla con purpurina en el material superior
 - Tejido: material exterior sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Forro textil
 - Empeine textil
-- Forro textil
 - Cierre de cordones
+- Forro textil
 - Suela de goma
 - Horma clásica
 - Puntera reforzada

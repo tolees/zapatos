@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 - Composición: correas 100% PVC + logotipo: 100% PVC. Suela exterior: 100% goma + transferencia; 100% (sustrato, pintura, resinas y etiquetas)
-- TAMAÑO Al comprar chanclas Havaianas en Amazon, debe considerar el tamaño BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
 - Flip Flop. Color: marrón oscuro
+- Suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
+- TAMAÑO Al comprar chanclas Havaianas en Amazon, debe considerar el tamaño BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
 - Género: zapatos de moda para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

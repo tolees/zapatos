@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela con plataforma
 - Cierre de cordones
-- Suela de goma
+- Mediasuela con plataforma
 - Forro textil
+- Suela de goma
 - Empeine de piel sintética
 - Horma clásica
 
