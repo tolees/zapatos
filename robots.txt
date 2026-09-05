@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zapatos.tole.es/sitemap.xml
