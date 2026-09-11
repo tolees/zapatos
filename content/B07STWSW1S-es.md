@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del tacón: plano
+- Material interior: sintético
 - Material exterior: sintético
 - Suela: goma
-- Material interior: sintético
+- Forma del tacón: plano
 - Cierre: pull-on
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

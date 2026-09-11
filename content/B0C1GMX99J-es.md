@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar el tamaño BR/proveedor como equivalente al tamaño de la UE, independientemente de lo que se muestra en la suela del producto
 - Color de las chanclas: morado
-- TIPO DE SUELA: Cómodo, duradero, ligero, resistente al calor, antideslizante y resistente al agua
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 - Correa: PVC. Material de la suela: goma
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
+- TIPO DE SUELA: Cómodo, duradero, ligero, resistente al calor, antideslizante y resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1GMX99J{{</world>}}

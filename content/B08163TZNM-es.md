@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Inserciones de gamuza
-- Logotipo lateral
 - Combinación de colores
+- Logotipo lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08163TZNM{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre sin cordones
 - Chanclas casuales para hombre de la marca Crocs
+- Cierre sin cordones
 - Hecho de acetato de vinilo de etileno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

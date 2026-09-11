@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forrado en frío
-- Patrón: liso
 - Casquillo: Forma redonda
+- Patrón: liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NQFX2W3{{</world>}}

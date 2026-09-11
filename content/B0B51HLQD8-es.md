@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slip On
 - Material exterior: poliéster
 - Material interior: sintético
+- Slip On
 - Sole: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

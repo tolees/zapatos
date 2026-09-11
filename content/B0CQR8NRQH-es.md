@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas pivotantes en el talón
 - Ligeros y flexibles
+- Correas pivotantes en el talón
 - Con orificios de ventilación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

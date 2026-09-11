@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Vegano
 - Ajuste de arco
 - Lavable a máquina
-- Vegano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDQ95KD8{{</world>}}

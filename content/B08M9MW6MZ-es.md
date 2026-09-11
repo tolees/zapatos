@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 739127-10-116
 - SOCOOL CHO CHO
+- 739127-10-116
 - CAMEL CLARO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

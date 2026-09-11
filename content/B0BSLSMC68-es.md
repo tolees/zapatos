@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tipo de tacón: plano para un uso cómodo
 - Puntera redonda para un ajuste cómodo
-- Tecnología Touch-It para adecuado comodidad
 - Parte superior de cuero
+- Tecnología Touch-It para adecuado comodidad
 - Cierre: Slip-on para ponérselo y quitárselo fácilmente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

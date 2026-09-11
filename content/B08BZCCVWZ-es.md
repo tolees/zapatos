@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Marca: Mishansha
 - Talla: UE 39
 - Gris
 - Mishansha Botas clásicas para hombre Botas de moto impermeables Gris 39
-- Marca: Mishansha
 - Tipo de producto: BOTAS
 
 [🛒 Aquí!!!]({{< param buyurl >}})

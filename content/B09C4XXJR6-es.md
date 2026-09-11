@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia
 - Plantilla de espuma
 - Suela cómoda
+- Sandalia
 - Correa ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

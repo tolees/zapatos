@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAMBIA DE EXPRESIÓN - con un solo “clic” puedes cambiar la expresión de tu KookyLoos. ¿Le gustará su outfit? ¡Tú decides!
 - ¡LLÉVATELO DONDE QUIERAS! - Guarda sus conjuntos y accesorios en su armario, ¡y llévatelo a cualquier siti
+- CAMBIA DE EXPRESIÓN - con un solo “clic” puedes cambiar la expresión de tu KookyLoos. ¿Le gustará su outfit? ¡Tú decides!
 - CONOCE a ROBIN - Robin es la KookyLoos exclusiva de Robins Wardrobe, ¡solo puedes encontrarla aquí! Es súper moderna y atrevida, siempre va a la última, y no pasa nunca desapercibida. ¿Qué “outfit” le pega más a su “mood”? ¡Tú decides!
 - BRILLA EN la OSCURIDAD - ¡Esos colores neón son lo más! Si apagas la luz. ¡brillarán en la oscuridad!
 
