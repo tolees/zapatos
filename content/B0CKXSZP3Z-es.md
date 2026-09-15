@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela Cloudfoam
-- Forro textil
-- Empeine textil
-- Forro textil
 - Corte clásico
 - Cordones elásticos y correa autoadherente
+- Empeine textil
+- Mediasuela Cloudfoam
+- Forro textil
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXSZP3Z{{</world>}}

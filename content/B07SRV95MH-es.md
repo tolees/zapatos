@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Suela:__ espuma reciclada EVA con detalles clásicos Roxy
 - __Plantilla:__ eVA de goma mullida reciclada
-- __Forro:__ forro sintético
 - __Tejido:__ materiales sin PVC
+- __Forro:__ forro sintético
+- __Suela:__ espuma reciclada EVA con detalles clásicos Roxy
 - __Parte superior:__ tiras de TR con logo metálico Roxy
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

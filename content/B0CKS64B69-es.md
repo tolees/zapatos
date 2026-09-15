@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- departam_x: MUJER
-- familia_x: SANDALIAS PLANAS
 - Sandalias Planas Mujer Skechers 119975 Negro
 - Talla: 37
 - tacon_x: PLANO
+- departam_x: MUJER
+- familia_x: SANDALIAS PLANAS
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKS64B69{{</world>}}

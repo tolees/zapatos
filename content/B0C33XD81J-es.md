@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela exterior de TPU SPEEDPLATE para tracción y propulsión
 - Cuello de punto de corte bajo para un ajuste ceñido alrededor del tobillo
+- Suela exterior de TPU SPEEDPLATE para tracción y propulsión
 - Zapatilla de fútbol
 - Parte superior de malla ligera
 

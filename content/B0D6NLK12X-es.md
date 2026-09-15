@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo de llevar
 - Este estilo ha sido producido de manera sostenible
+- Cómodo de llevar
 - asegura un ajuste óptimo
 - Este es un producto auténtico y original Geox
 

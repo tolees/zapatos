@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de producto: SHOES
-- Tamaño: 36 EU
 - Zapatos niña de niño con Ruedas, 2 en 1, Zapatos para niños, Patines Brillantes, Zapatillas de Skateboard, Zapatillas
+- Tamaño: 36 EU
 - Marca: HUSKSWARE
 
 [🛒 Visítala!!!]({{< param buyurl >}})

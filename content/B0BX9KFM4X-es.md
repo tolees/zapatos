@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Zapatos de seguridad S3 para hombre, zapatillas de deporte para mujer, zapatos de trabajo de seguridad ligeros de acero, zapatos de protección Kevlar para niños, zapatos industriales y de construcción, gris, 42
 - Tipo de producto: ZAPATOS
-- Marca: HAIMAYEE
 - Talla: 42UE
+- Marca: HAIMAYEE
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BX9KFM4X{{</world>}}

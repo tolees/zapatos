@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
-- Empeine textil
-- Horma clásica
-- Forro textil
-- Forro textil
 - Mediasuela Cloudfoam
+- Forro textil
+- Empeine textil
+- Forro textil
+- Horma clásica
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXVC9PN{{</world>}}

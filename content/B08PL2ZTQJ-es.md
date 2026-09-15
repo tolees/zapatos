@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de llevar para un confort optimo
-- Material exterior: Cuero
-- Revestimiento: Sintético
 - Flexibilidad
+- Material exterior: Cuero
+- Fácil de llevar para un confort optimo
+- Revestimiento: Sintético
 - Transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Transpirable
-- Material exterior: Cuero
-- Revestimiento: Sintético
 - Fácil de llevar para un confort optimo
+- Revestimiento: Sintético
+- Material exterior: Cuero
 - Flexibilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

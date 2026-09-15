@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
-- Parte superior de piel sintética
-- Horma clásica
-- Forro textil
 - Mediasuela con amortiguación para una pisada más cómoda
+- Parte superior de piel sintética
+- Forro textil
+- Suela de goma
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NL44LLG{{</world>}}

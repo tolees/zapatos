@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras
 - Suela de tracción flexible
+- Ligeras
 - Amortiguación sensible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

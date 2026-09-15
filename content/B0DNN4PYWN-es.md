@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Silueta de dos correas
 - Revolucionarias plantillas de espuma literide
+- Silueta de dos correas
 - Base ligera Croslite
 
 [🛒 Comprar!!!]({{< param buyurl >}})
