@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inserciones de gamuza
 - Combinación de colores
+- Inserciones de gamuza
 - Logotipo lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})

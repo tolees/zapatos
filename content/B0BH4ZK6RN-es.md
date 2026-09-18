@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro textil
+- Compra 1 talla más grande
+- Construcción sin cordones
+- Parte superior sintética
 - Entresuela Cloudfoam
 - Plantilla contorneada
-- Compra 1 talla más grande
-- Forro textil
-- Parte superior sintética
-- Construcción sin cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BH4ZK6RN{{</world>}}

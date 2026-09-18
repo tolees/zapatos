@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comodidad y ajuste
 - Estilo versátil
 - Ligero y fácil de cuidar
 - Suela antideslizante
+- Comodidad y ajuste
 - Materiales de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior sintética
-- Suela sintética
-- Forro textil
-- Diseño fácil de poner y quitar
-- Plantilla moldeada
 - Mediasuela Cloudfoam
+- Forro textil
+- Parte superior sintética
+- Diseño fácil de poner y quitar
+- Suela sintética
+- Plantilla moldeada
 - Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

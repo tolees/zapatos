@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BILLABONG - Talla para hombre, color azul
 - Sandal básica
+- BILLABONG - Talla para hombre, color azul
 - Sandals
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

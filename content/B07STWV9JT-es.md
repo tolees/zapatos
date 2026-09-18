@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: sintético
 - Suela: Caucho
+- Material interior: sintético
 - Material exterior: poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zuecos modernos para niños de la marca. Crocs
 - Diseño especial para niños
+- Zuecos modernos para niños de la marca. Crocs
 - Fabricado con etilvinilacetato
 
 [🛒 Comprar!!!]({{< param buyurl >}})

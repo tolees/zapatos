@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: goma
 - Tipo de tacón: cuña
 - Estilo: clásico
 - Marca: SL-Saint
+- Material de la suela: goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B25RJG9N{{</world>}}

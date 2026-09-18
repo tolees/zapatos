@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material interior: sintético
 - Suela: goma
 - Material exterior: poliéster
-- Material interior: sintético
 - Sin cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

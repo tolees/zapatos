@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Personalizables con dijes Jibbitz
 - Fáciles de limpiar y de secado rápido
+- Personalizables con dijes Jibbitz
 - Ligeras. flexibles. Comodidad de 360 grados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

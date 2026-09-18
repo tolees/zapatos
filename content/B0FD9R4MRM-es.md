@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con materiales sin PVC
 - __Plantilla:__ EVA reciclada de doble densidad con gráfico
 - __Suela:__ EVA reciclada
+- Fabricado con materiales sin PVC
 - __Parte superior:__ tiras de TR con logo metálico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

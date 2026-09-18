@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Antideslizante en condiciones húmedas y secas
-- Repele el agua
 - Forro de invierno
+- Repele el agua
+- Antideslizante en condiciones húmedas y secas
 - Espuma viscoelástica Warm Tech
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material insole: sintético
 - removable: falso
 - lining: sintético
-- Material insole: sintético
 - Material exterior: sintético
 - suela material: sintético
 

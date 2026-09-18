@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
 - Horma clásica
 - Cierre de cordones
-- Empeine textil
-- Mediasuela Cloudfoam
 - Forro textil
+- Empeine textil
+- Forro textil
+- Mediasuela Cloudfoam
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXSRBV8{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Correa de talón ajustable
-- Parte superior sintética suave y lisa con textura Durasuede
 - Forro de correa de tela suave
+- Parte superior sintética suave y lisa con textura Durasuede
 - Ribete de borde de suela acentuada con punt
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
