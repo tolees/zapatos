@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de cierre Hebilla
-- Material principal Sintético
-- Tipo de tacón Plano
 - Material de la suela De goma
+- Tipo de tacón Plano
+- Material principal Sintético
 - Altura Tacón Bajo (de 1 A 3 cm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

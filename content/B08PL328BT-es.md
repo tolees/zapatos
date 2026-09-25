@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material exterior: Cuero
-- Fácil de llevar para un confort optimo
 - Transpirable
+- Fácil de llevar para un confort optimo
 - Revestimiento: Sintético
 - Flexibilidad
 

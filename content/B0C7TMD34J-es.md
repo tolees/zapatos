@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto: SHOES
-- Tamaño: 37 EU
 - Marca: JOISIDE
+- Tipo de producto: SHOES
 - Color: Cl797 Negro Verde
+- Tamaño: 37 EU
 - Calzado de Trabajo Verano Mujer 37 Zapatillas de Seguridad Hombre Ligeras Zapatos de Seguridad Deportivos Transpirable Comodo Antideslizante Botas de Seguridad para Verano Negro Verde
 
 [🛒 Comprar!!!]({{< param buyurl >}})

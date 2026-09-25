@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adjuntar
-- Punta redonda
-- Tanga
-- Sintético
-- Plano
 - Caucho
+- Sintético
+- Tanga
+- Adjuntar
+- Plano
+- Punta redonda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ2H3NY{{</world>}}

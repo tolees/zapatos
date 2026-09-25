@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lavable a máquina
+- Espuma de lujo
 - Slip-Ins
 - Vegano
-- Espuma de lujo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDQ7Q3DF{{</world>}}

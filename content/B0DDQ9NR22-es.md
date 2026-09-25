@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Vegano
-- Espuma de felpa
 - Slip-Ins
+- Espuma de felpa
 - Lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

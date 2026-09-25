@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras
 - Parte superior de malla transpirable
+- Ligeras
 - Skechers Detalle del logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

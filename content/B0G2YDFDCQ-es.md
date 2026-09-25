@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Forro textil
 - Cierre con correa autoadherente
-- Horma clásica
 - Forro textil
+- Horma clásica
 - Empeine textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
