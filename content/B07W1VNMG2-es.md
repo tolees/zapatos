@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: EVA
 - Material exterior: Tejido
+- Material de la suela: EVA
 - Cierre: Velcro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

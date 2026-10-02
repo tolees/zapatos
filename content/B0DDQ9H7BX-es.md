@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ajuste de arco
 - Lavable a máquina
-- Plantilla Goga Mat contorneada
 - Ultra Go
+- Plantilla Goga Mat contorneada
 - Tecnología Comfort Pillar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de limpiar y secar
 - Zapato cómodo
+- Fácil de limpiar y secar
 - Diseño divertido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

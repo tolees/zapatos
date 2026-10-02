@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: sintético
 - Material interior: sintético
+- Material exterior: sintético
 - Suela: goma
 - Cierre: correa y encaje elástico
 

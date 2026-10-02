@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto practico
 - Producto de alta calidad
+- Producto practico
 - De la marca: NIKE
 - Fácil de usar
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con etilvinilacetato
 - Diseño especial para niños
+- Fabricado con etilvinilacetato
 - Zuecos modernos para niños de la marca. Crocs
 
 [🛒 Comprar!!!]({{< param buyurl >}})

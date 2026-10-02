@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clarks Cloudsteppers Sandals, Arla Wave, Beige Combi, 5 (Women)
-- Alta calidad
-- Flexibles
 - Aspecto y tacto clásicos
+- Clarks Cloudsteppers Sandals, Arla Wave, Beige Combi, 5 (Women)
+- Flexibles
+- Alta calidad
 - Cojín suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

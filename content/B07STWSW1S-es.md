@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: goma
 - Material interior: sintético
-- Cierre: pull-on
-- Forma del tacón: plano
+- Suela: goma
 - Material exterior: sintético
+- Forma del tacón: plano
+- Cierre: pull-on
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07STWSW1S{{</world>}}

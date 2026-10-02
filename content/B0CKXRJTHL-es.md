@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Lengüeta reforzada
 - Empeine textil con puntera reforzada
-- RAIN.RDY
 - Mediasuela de EVA
 - Horma clásica
+- RAIN.RDY
 - Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

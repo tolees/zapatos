@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
+- Nuestro planeta importa: reciclado
 - Espuma de yoga
 - Slip-Ins integrados
-- Nuestro planeta importa: reciclado
 - Vegano
+- Lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDCRRVK3{{</world>}}

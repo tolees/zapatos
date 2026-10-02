@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Varilla sin forro
 - Realizadas en materiales que se secan rápidamente
+- Varilla sin forro
 - Cierre de velcro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

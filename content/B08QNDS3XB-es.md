@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Altura del paquete del artículo: 95 mm
 - Peso del paquete del artículo: 0.185 kg
-- Longitud del paquete del artículo: 255 mm
 - Ancho del paquete del artículo: 200 mm
+- Longitud del paquete del artículo: 255 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QNDS3XB{{</world>}}

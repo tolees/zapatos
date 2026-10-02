@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine sintético y textil
 - Suela de goma
 - Horma clásica
-- Cierre de cordones
 - Forro textil
+- Empeine sintético y textil
+- Cierre de cordones
 - Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

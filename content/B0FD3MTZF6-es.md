@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela exterior: EVA reciclada texturizada para mayor agarre
-- __Plantilla: EVA reciclada preformada
 - Material exterior: material exterior de goma forrado de nailon con logotipo de Roxy en relieve
+- __Plantilla: EVA reciclada preformada
+- Suela exterior: EVA reciclada texturizada para mayor agarre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FD3MTZF6{{</world>}}

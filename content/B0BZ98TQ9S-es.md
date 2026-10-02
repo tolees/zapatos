@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Skechers Detalle del logotipo
 - Ligeras
 - Parte superior de malla transpirable
-- Skechers Detalle del logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ98TQ9S{{</world>}}

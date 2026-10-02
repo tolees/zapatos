@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de tacón: Plano
 - Cierre: Cremallera
-- Material de la suela: Sintético
+- Altura del tacón: 2.3 centímetros
 - Material exterior: Sintético
 - Revestimiento: Sintético
-- Tipo de tacón: Plano
-- Altura del tacón: 2.3 centímetros
+- Material de la suela: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07C4XV2WG{{</world>}}

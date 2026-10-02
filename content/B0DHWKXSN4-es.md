@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela Cloudfoam
-- Fácil de poner y quitar
-- Consulte la siguiente guía de tallas
 - Empeine de material sintético
+- Consulte la siguiente guía de tallas
+- Fácil de poner y quitar
 - Forro textil
+- Mediasuela Cloudfoam
 - Suela sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
