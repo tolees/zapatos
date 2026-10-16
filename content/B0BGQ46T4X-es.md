@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tanga
-- Plano
-- Caucho
 - Adjuntar
+- Tanga
 - Punta redonda
 - Sintético
+- Caucho
+- Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ46T4X{{</world>}}

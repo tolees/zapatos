@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Silueta de dos correas
-- Base ligera Croslite
 - Revolucionarias plantillas de espuma literide
+- Base ligera Croslite
+- Silueta de dos correas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNN4CKK2{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero, resistente al agua y flotante
 - Correas de talón giratorias para un ajuste seguro
+- Ligero, resistente al agua y flotante
 - Puertos de ventilación para una mayor transpirabilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

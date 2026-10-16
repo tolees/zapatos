@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación ligera
 - Correa sintética
+- Amortiguación ligera
 - Suela de EVA inyectada para mayor suavidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

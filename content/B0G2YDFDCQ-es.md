@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Empeine textil
+- Forro textil
 - Horma clásica
 - Forro textil
-- Forro textil
 - Cierre con correa autoadherente
-- Empeine textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G2YDFDCQ{{</world>}}

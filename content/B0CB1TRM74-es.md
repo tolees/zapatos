@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras
 - Detalle del logotipo
+- Ligeras
 - Resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

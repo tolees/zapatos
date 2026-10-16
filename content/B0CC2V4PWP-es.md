@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aspecto y tacto clásicos
-- Flexibles
-- Cojín suave
-- Alta calidad
 - Clarks Sandals, Sabina Strap, Cream Leather, 4 (Women)
+- Aspecto y tacto clásicos
+- Cojín suave
+- Flexibles
+- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC2V4PWP{{</world>}}

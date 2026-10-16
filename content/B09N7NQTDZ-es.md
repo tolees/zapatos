@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Flexibilidad
 - Fácil de llevar para un confort optimo
+- Flexibilidad
 - Calzado con suela antihuellas
 - Transpirable
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Calzado ligero para una libertad de movimiento
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 

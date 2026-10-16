@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin atar, tejido elástico
-- Tejido elástico sin cordones con suela antideslizante
 - Antideslizante
+- Tejido elástico sin cordones con suela antideslizante
+- Sin atar, tejido elástico
 - OB E FO SR, EN ISO 20347:2026
 - Plantilla de espuma viscoelástica
 

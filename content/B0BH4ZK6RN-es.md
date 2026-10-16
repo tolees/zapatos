@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla contorneada
+- Entresuela Cloudfoam
 - Forro textil
 - Compra 1 talla más grande
+- Plantilla contorneada
 - Parte superior sintética
-- Entresuela Cloudfoam
 - Construcción sin cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

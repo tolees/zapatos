@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Interior de malla hecha de poliéster reciclado
 - Estilo icónico de Element
 - Adhesivos al agua
 - Cordones de algodón orgánico
+- Interior de malla hecha de poliéster reciclado
 - Empeine de cuero y ante con suela exterior de goma reciclada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

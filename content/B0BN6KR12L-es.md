@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Parte superior de piel sintética
 - Forro textil
 - Mediasuela con amortiguación para una pisada más cómoda
+- Horma clásica
 - Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

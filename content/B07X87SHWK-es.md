@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela: goma
 - Forma del talón: plano
 - Material interior: sintético
-- Suela: goma
 - Parte superior: cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
