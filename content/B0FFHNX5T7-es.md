@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Track Waves Hombre Chanclas Lima Salvaje 41/42 EU'
-date: 2026-10-20 13:55:44
+date: 2026-10-23 10:19:00
 image: 'https://m.media-amazon.com/images/I/41Hm9gSrxuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

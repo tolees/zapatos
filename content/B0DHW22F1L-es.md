@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
+- Cierre de cordones
 - Empeine de piel sintética
 - Forro textil
 - Mediasuela con plataforma
-- Cierre de cordones
 - Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

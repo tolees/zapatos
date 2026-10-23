@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Flexibles
-- Alta calidad
 - Cojín suave
 - Clarks Sandals, Tuscan Strap, Sand Leather, 6,5 (Women)
 - Aspecto y tacto clásicos
+- Flexibles
+- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D81GHK74{{</world>}}

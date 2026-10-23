@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: algodón
 - Forma del talón: plano
 - Grut: correa de tobillo
+- Material exterior: algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00RL2AST8{{</world>}}

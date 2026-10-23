@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela intermedia de doble densidad para mayor sujeción y confort ligero
+- Parte superior en loneta lavada con bordes deshilachados
 - Correa con forro de suave poliéster
 - Soporte para el arco anatómico
-- Parte superior en loneta lavada con bordes deshilachados
-- Suela intermedia de doble densidad para mayor sujeción y confort ligero
 - Separador de dedos doble
 
 [🛒 Comprar!!!]({{< param buyurl >}})

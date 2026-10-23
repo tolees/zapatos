@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estilo: Zapatillas de caña baja
-- Marca: AEKYIWL
 - Particularidad: ligero, transpirable
+- Marca: AEKYIWL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNF4TVDQ{{</world>}}

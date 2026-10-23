@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de hombro ajustable
 - Suela flexible que proporciona tracción
 - La entresuela acolchada proporciona apoyo para los pies
 - Tejido de satén degradado y parte superior de malla
+- Correa de hombro ajustable
 - Cómoda plantilla acolchada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAGUARO Mujer Barefoot Zapatillas Minimalistas Hombre Ligeras Calzado Minimalista con Suela Zero Drop Smart II - Zapatos Barefoot Gris Rosa Gr.40'
-date: 2026-10-19 14:29:37
+date: 2026-10-22 18:01:08
 image: 'https://m.media-amazon.com/images/I/516tzP4qO1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

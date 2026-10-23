@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro mullido
 - Correas de talón giratorias para un ajuste más seguro
+- Forro mullido
 - Increíblemente ligeros y fáciles de llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
