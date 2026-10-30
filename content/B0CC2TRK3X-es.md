@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Sandals, Orinoco Cross, Black Leather, 4 (Women)
 - Aspecto y tacto clásicos
 - Cojín suave
+- Clarks Sandals, Orinoco Cross, Black Leather, 4 (Women)
 - Alta calidad
 - Flexibles
 

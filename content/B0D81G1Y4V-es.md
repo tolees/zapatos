@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ventanas superiores para una mejor transpirabilidad
-- Estilo moderno para una estética elegante y simple
 - Top contemporáneo
+- Estilo moderno para una estética elegante y simple
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D81G1Y4V{{</world>}}

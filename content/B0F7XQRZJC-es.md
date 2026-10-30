@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine textil
 - Forro textil
+- Empeine textil
 - Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

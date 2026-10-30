@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para uso diario
 - Cierre con cordones
+- Para uso diario
 - Calzado deportivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

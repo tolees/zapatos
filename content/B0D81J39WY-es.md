@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Flexibles
 - Clarks Sandals, Aristella Mule, Black Sde, 4,5 (Women)
 - Alta calidad
 - Cojín suave
 - Aspecto y tacto clásicos
-- Flexibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D81J39WY{{</world>}}

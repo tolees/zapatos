@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Champion Logotipo C
 - Fabricado con materiales y construcción duraderos y de calidad
+- Champion Logotipo C
 - Plantillas suaves y cómodas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

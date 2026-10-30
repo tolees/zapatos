@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sandalia plana de piel compuesta por tiras cruzadas
+- Fabricado artesanalmente en España
 - Su plantilla acolchada de piel brinda confort en cada paso, y su suela antideslizante permite mayor estabilidad
 - Cierre con doble hebilla en empeine y en correa que rodea el tobillo para una mayor sujección y ajuste cómodo y seguro
-- Fabricado artesanalmente en España
 - Calzado de mujer artesanal fabricado en España que prioriza la comidad y el diseño, con esencia mediterránea.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
 - Plantilla acolchada de espuma viscoelástica
 - Suela ligera y flexible que absorbe los golpes
+- Suela de tracción flexible
 - Cordones en la parte delantera
 - Forro de tela suave
 

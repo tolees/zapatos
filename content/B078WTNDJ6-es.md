@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apoyo anatómicamente correcto del arco del pie
-- Plantilla con textura
 - Poppige líneas estrechas en el lado
+- Plantilla con textura
+- Apoyo anatómicamente correcto del arco del pie
 - Tejido de poliéster suave para mayor comodidad
 - Parte superior de lona de algodón
 

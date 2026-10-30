@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El acolchado en el cuello y en la zona del empeine proporcionan un extra de amortiguación
 - La ligera suela aporta amortiguación y flexibilidad gracias a la innovadora tecnología ECCO FLUIDFORM Direct Comfort
 - Plantilla moldeada extraíble de tela
+- El acolchado en el cuello y en la zona del empeine proporcionan un extra de amortiguación
 - Entrepiezas elásticas en los laterales para calzarse y descalzarse con facilidad
 - Modelo confeccionado con piel de nobuk encerada elaborada en nuestras propias curtidurías
 

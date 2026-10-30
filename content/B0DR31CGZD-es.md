@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla moldeada y cómoda que ofrece una amortiguación duradera
-- Detalles de ribete de cuero resistente
 - Suela ligera de EVA que absorbe los impactos
+- Detalles de ribete de cuero resistente
+- Plantilla moldeada y cómoda que ofrece una amortiguación duradera
 - Los cordones dan un aspecto clásico y un pie personalizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

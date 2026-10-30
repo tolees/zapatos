@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: algodón
 - Grut: correa de tobillo
+- Material exterior: algodón
 - Forma del talón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

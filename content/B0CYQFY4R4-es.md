@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tacón de bloque
 - Forro de microfibra
-- Suela softlight
+- Tacón de bloque
 - Sandalias para mujer
+- Suela softlight
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYQFY4R4{{</world>}}

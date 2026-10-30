@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adjuntar
-- Tanga
 - Punta redonda
+- Tanga
 - Caucho
 - Sintético
 

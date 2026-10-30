@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Plantilla moldeada
+- Horma clásica
 - Banda superior de goma
 - Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
 

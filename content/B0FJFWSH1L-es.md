@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art 2012 Verona Sandalia con talón Mujer Flamingo 40 EU'
-date: 2026-10-28 12:45:30
+date: 2026-10-30 12:33:54
 image: 'https://m.media-amazon.com/images/I/31NpvDOEgwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FJFWSH1L-es Art 2012 Verona Sandalia con talón Mujer Flamingo 40 EU'
 sku: 'B0FJFWSH1L-es'
 tags: [ 'sandalia','🇪🇸', ]
-actualPrice: 26.75 EUR
+actualPrice: 24.07 EUR
 currency: EUR
-price: 26.75
+price: 24.07
 comparePrice: 125.0 EUR
 prodname: 'Art 2012 Verona Sandalia con talón Mujer Flamingo 40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FJFWSH1L/?tag=tolees-21'
-descuento: '78.60'
-average: '26.75'
+descuento: '80.74'
+average: '25.41'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
