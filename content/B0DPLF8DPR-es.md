@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegano
-- Zapatos de moda
-- TOUCH-IT
 - Serpiente
+- Vegano
 - Zapatos cómodos
+- TOUCH-IT
+- Zapatos de moda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPLF8DPR{{</world>}}

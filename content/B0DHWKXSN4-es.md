@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela sintética
-- Forro textil
 - Empeine de material sintético
 - Consulte la siguiente guía de tallas
+- Forro textil
 - Mediasuela Cloudfoam
 - Fácil de poner y quitar
 

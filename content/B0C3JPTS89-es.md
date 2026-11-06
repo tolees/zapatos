@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puntera reforzada
 - Cierre de cordones
 - Horma clásica
-- Puntera reforzada
 - Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

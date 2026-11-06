@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Características cómodas: plantilla Ortholite, tela suave, suela TPR duradera, soporte para el talón
 - Cierre con cordones
-- Piel o gamuza de alta calidad
 - Altura del tacón: 1 pulgada
+- Piel o gamuza de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SMSHTDX{{</world>}}

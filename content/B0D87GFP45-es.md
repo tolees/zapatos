@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo y ligero
 - Diseño elegante
+- Cómodo y ligero
 - Fabricado con prácticas sostenibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

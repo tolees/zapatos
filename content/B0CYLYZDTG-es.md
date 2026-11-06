@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla moldeada
 - Mediasuela Cloudfoam
-- Suela sintética
 - Empeine de piel
+- Suela sintética
+- Plantilla moldeada
 - Diseño sin cordones
 - Consulte la siguiente guía de tallas
 

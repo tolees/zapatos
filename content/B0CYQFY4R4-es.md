@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sandalias para mujer
 - Forro de microfibra
+- Sandalias para mujer
 - Tacón de bloque
 - Suela softlight
 

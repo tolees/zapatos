@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Género: Niño
 - Deportes: Zapatillas
+- Género: Niño
 - El diseño esencial hace referencia al clásico AF1 y hace un guiño al estilo de los años 80.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

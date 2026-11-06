@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero
 - Skech-Air
 - MF refrigerado por aire
+- Diseño ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN6XMJ22{{</world>}}

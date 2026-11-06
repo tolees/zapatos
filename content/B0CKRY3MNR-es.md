@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela de goma
 - Horma clásica
-- Empeine sintético
-- Forro textil
 - Cierre con correas autoadherentes
 - Compra una talla más pequeña
 - Forro textil
-- Suela de goma
+- Forro textil
+- Empeine sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKRY3MNR{{</world>}}

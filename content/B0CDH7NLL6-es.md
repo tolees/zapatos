@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Collection Sandals, Wesley Sun, Beeswax Leather, 9 (Men)
 - Suela de goma antideslizante
+- Clarks Collection Sandals, Wesley Sun, Beeswax Leather, 9 (Men)
 - Plantilla de espuma de alto rebote que ofrece comodidad duradera
 - Calcetín y forro de cuero transpirable
 - Ajuste personalizado

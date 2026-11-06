@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hebilla en la correa para ajustar el ajuste
 - Excelente efecto de amortiguación
+- Hebilla en la correa para ajustar el ajuste
 - Calzado ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

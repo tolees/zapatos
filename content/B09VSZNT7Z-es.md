@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre de cordones
 - Suela de goma cosida
 - Forro sintético
-- Cierre de cordones
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
