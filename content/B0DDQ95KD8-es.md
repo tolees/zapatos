@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegano
 - Lavable a máquina
+- Vegano
 - Ajuste de arco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA Charged Surge 4 Zapatos de deporte para hombre ligeras y transpirables deportivas de hombre color negro/gris antracita/blanco'
-date: 2026-11-09 18:45:54
+date: 2026-11-12 19:45:14
 image: 'https://m.media-amazon.com/images/I/414ZwHiA0-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BZXMVK68/?tag=tolees-21'
 descuento: '42.52'
-average: '35.024074074074036'
+average: '34.987241379310312'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

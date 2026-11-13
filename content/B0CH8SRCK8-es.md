@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: Cremallera
-- Material de la suela: Caucho
 - Revestimiento: Tela
+- Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CH8SRCK8{{</world>}}

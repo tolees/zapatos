@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de llevar para un confort optimo
 - Altura del tacón: 5 cm / 2 inch
+- Fácil de llevar para un confort optimo
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Calzado ligero para una libertad de movimiento
 - Calce fácil y rápido gracias al elástico en la empella

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dr. Scholl’s Advanced Pain Relief Plantillas Ortopédicas Hombres Mujeres resistentes para zapatos y botas alivio fascitis plantar soporte arco pies planos soporta hasta 150kg 42-42.5'
-date: 2026-11-10 10:32:29
+date: 2026-11-11 19:54:34
 image: 'https://m.media-amazon.com/images/I/512zj-WwOXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FLY3V53V/?tag=tolees-21'
 descuento: '30.01'
-average: '21.64'
+average: '21.423333333333336'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

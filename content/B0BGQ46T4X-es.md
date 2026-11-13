@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Sintético
 - Tanga
-- Adjuntar
-- Caucho
 - Plano
+- Caucho
+- Adjuntar
 - Punta redonda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

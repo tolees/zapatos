@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido de poliéster suave para mayor comodidad
 - Parte superior de lona de algodón
 - Plantilla con textura
+- Tejido de poliéster suave para mayor comodidad
 - Poppige líneas estrechas en el lado
 - Apoyo anatómicamente correcto del arco del pie
 

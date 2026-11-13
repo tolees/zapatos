@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tacón de bloque
-- Sandalias para mujer
 - Suela softlight
+- Sandalias para mujer
+- Tacón de bloque
 - Forro de microfibra
 
 [🛒 Comprar!!!]({{< param buyurl >}})

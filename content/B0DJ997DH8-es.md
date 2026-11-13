@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de talón: plano
-- Cierre: de cordones
 - Ancho: estándar
 - Tipo de puntera: redondeada
+- Tipo de talón: plano
+- Cierre: de cordones
 - La estructura de soporte ligero estabiliza el pie dentro de la bota para permitir cambios de dirección rápidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

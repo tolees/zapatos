@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: sintético
-- Material: 95% piel, 5% sintético
 - Piel: Cuero liso
 - Colección: Primavera-Verano 20
+- Material: 95% piel, 5% sintético
 - Sandalias de verano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

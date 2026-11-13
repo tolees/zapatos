@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Drop: 8,5 mm (talón: 20,5 mm / antepié: 12 mm)
-- Cierre de cordones
-- Peso: 180 g
-- Horma clásica
-- RAIN.RDY
-- Mediasuela de EVA
 - Empeine textil con refuerzos de gran resistencia al desgaste
+- Horma clásica
 - Plantilla Adifit que mide la longitud del pie para asegurar un ajuste perfecto
+- RAIN.RDY
+- Peso: 180 g
+- Mediasuela de EVA
+- Drop: 8,5 mm (talón: 20,5 mm / antepié: 12 mm)
 - Suela Traxion con estrías flexibles en el antepié
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYXH6KML{{</world>}}

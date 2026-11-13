@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro de microfibra
 - Suela antideslizante con logotipo
+- Forro de microfibra
 - Plantilla Hydrobound ultrasuave con contornos anatómicamente correctos
 - Suela exterior: suela de goma
 - Material exterior: TPR suave y resistente al agua

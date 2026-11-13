@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: sintético
 - Pull On
 - Suela: goma
+- Material exterior: sintético
 - Material interior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

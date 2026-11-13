@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Flexibles
-- Aspecto y tacto clásicos
 - Alta calidad
 - Clarks Sandals, Ezoria Mae, Black Leather, 3,5 (Women)
+- Flexibles
+- Aspecto y tacto clásicos
 - Cojín suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

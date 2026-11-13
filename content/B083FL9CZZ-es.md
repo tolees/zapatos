@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Claudio A Zapatos Hombre Azul Navy 44 EU'
-date: 2026-11-10 10:22:58
+date: 2026-11-12 07:52:29
 image: 'https://m.media-amazon.com/images/I/31SiFequ3DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

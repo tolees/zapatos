@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lavable a máquina
-- Vegano
 - Ajuste de arco
+- Vegano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DDTJNZZ4{{</world>}}

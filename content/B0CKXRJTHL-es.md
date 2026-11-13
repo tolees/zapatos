@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine textil con puntera reforzada
 - Lengüeta reforzada
 - Horma clásica
-- Empeine textil con puntera reforzada
-- Cierre de cordones
 - RAIN.RDY
+- Cierre de cordones
 - Mediasuela de EVA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

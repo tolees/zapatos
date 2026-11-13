@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Victori One Chanclas Hombre Black White 001 38.5 EU'
-date: 2026-11-03 23:06:20
+date: 2026-11-11 20:38:10
 image: 'https://m.media-amazon.com/images/I/317zFuc3p3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08PKL2CB7-es NIKE Victori One Chanclas Hombre Black White 001 38.5 EU'
 sku: 'B08PKL2CB7-es'
 tags: [ 'chanclas','🇪🇸', ]
-actualPrice: 19.99 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 19.99
+price: 12.99
 comparePrice: 37.99 EUR
 prodname: 'NIKE Victori One Chanclas Hombre Black White 001 38.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08PKL2CB7/?tag=tolees-21'
-descuento: '47.38'
-average: '20.0191666666667'
+descuento: '65.81'
+average: '19.015000000000029'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

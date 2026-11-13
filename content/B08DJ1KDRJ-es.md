@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto practico
 - Fácil de usar
 - De la marca: NIKE
-- Producto practico
 - Producto de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
