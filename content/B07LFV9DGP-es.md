@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calce fácil y regulable con cremallera y cordones
 - Fácil de llevar para un confort optimo
 - Altura del tacón: 2.5 cm / 1 inch
+- Calce fácil y regulable con cremallera y cordones
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 
 [🛒 Comprar!!!]({{< param buyurl >}})

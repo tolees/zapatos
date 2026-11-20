@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Flexibles
+- Piel transpirable
 - Aspecto y tacto clásicos
 - Cojín suave
-- Piel transpirable
-- Flexibles
 - Alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

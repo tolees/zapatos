@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Empeine de malla
-- Horma clásica
-- Cordones elásticos y correa autoadherente
-- Forro textil
-- Forro textil
 - Mediasuela Bounce
+- Horma clásica
+- Forro textil
+- Forro textil
+- Cordones elásticos y correa autoadherente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXZBD3G{{</world>}}

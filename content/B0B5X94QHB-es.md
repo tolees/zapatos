@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Sin cordones
-- Material de la suela: Goma
-- Revestimiento: Sin forro
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 - Tipo de tacón: Plano
 - Al comprar chanclas Havaianas en Amazon, debes tener en cuenta que la talla BR/proveedor equivale a la talla de la UE, independientemente de lo que aparezca en la suela del producto
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
+- Cierre: Sin cordones
+- Revestimiento: Sin forro
+- Material de la suela: Goma
 - Material exterior: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

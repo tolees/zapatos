@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma de felpa
 - Slip-Ins
 - Vegano
+- Espuma de felpa
 - Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
 - Cierre de cordones
-- Empeine de piel y material sintético
 - Forro textil
+- Empeine de piel y material sintético
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F7XRGFPS{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Base ligera Croslite
 - Revolucionarias plantillas de espuma literide
+- Base ligera Croslite
 - Silueta de dos correas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

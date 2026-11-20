@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Plantilla: goma espuma de EVA reciclada
 - Suela exterior: goma EVA reciclada con arte Roxy
 - Material exterior: __ Correa superior TR con pin Roxy
+- __Plantilla: goma espuma de EVA reciclada
 - Material: materiales sin PVC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

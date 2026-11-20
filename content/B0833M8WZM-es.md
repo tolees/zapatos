@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Banda de rodadura con patrón de píldoras de la marca DCs
-- Lengüeta de malla ligera
 - Lengüeta y cuello acolchados de espuma para mayor comodidad y apoyo
+- Lengüeta de malla ligera
+- Banda de rodadura con patrón de píldoras de la marca DCs
 - Orificios de ventilación para mayor transpirabilidad
 - Construcción de suela de copa
 

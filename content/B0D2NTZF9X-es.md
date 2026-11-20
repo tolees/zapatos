@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuadas para uso diario
 - Diseño ligero y fácil de llevar
+- Adecuadas para uso diario
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

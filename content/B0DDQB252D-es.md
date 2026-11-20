@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma de lujo
 - Vegano
+- Espuma de lujo
 - Lavable a máquina
 - Slip-Ins
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
+- Forma anatómica que se adapta a tus pies
 - Transpirable
 - Fácil de llevar para un confort optimo
 - Flexibilidad

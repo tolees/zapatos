@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de llevar para un confort optimo
 - Revestimiento: Sintético
-- Flexibilidad
 - Transpirable
+- Fácil de llevar para un confort optimo
+- Flexibilidad
 - Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

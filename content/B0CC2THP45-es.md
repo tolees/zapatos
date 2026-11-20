@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cojín suave
-- Flexibles
 - Aspecto y tacto clásicos
 - Alta calidad
+- Cojín suave
+- Flexibles
 - Clarks Sandals, Aristella Sun, Bright Red Lea, 7 (Women)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
