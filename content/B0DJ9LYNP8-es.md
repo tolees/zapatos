@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - StabilitySkeleton para mejorar la estabilidad en las zonas media y lateral
+- Horma estándar
 - Deja atrás a tus contrincantes con las nuevas Solarflash
 - Plantilla de EVA con sujeción en la zona del arco
-- Horma estándar
 - Malla Ventair que ofrece transpirabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

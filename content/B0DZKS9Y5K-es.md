@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble orificio antideslizante atlético con Skechers manos libres sin cordones
-- Slip-Ins integrados con plantillas de espuma viscoelástica refrigeradas por aire
 - EN ISO 20347:2022, O1 SR
 - Peligro eléctrico
+- Doble orificio antideslizante atlético con Skechers manos libres sin cordones
+- Slip-Ins integrados con plantillas de espuma viscoelástica refrigeradas por aire
 - Antideslizante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

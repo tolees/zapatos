@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso diario
 - Calzado deportivo
+- Para uso diario
 - Cierre con cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

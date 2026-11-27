@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Merrell Intercept Zapatillas Hombre Marrón Moth Brown 43 EU | Zapatos para caminar'
-date: 2026-11-24 13:54:20
+date: 2026-11-26 15:50:44
 image: 'https://m.media-amazon.com/images/I/41c-MC1U2bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B001B0SIV6/?tag=tolees-21'
 descuento: '16.41'
-average: '72.766'
+average: '72.035714285714292'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

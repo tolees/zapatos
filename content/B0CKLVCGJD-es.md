@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Cierre de cordones
-- Mediasuela con amortiguación
-- Empeine de ante
 - Horma clásica
+- Forro textil
 - Suela de goma vulcanizada
 - Suela de goma vulcanizada
+- Cierre de cordones
+- Empeine de ante
+- Mediasuela con amortiguación
 - Contiene al menos un 20% de material reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

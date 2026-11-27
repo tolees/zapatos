@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con orificios de ventilación
 - Diseño ligero y flexible
+- Con orificios de ventilación
 - Correas pivotantes en el talón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

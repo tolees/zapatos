@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ultra Go
-- Tecnología Comfort Pillar
 - Ajuste de arco
+- Tecnología Comfort Pillar
 - Lavable a máquina
 - Plantilla Goga Mat contorneada
 

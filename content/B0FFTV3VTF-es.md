@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gancho en la caja de zapatos
 - Sandalia Bay Beach Party M con suela de EVA
+- Gancho en la caja de zapatos
 - Tanga de goma colgante en la caja de zapatos y logotipo clásico en tanga y plantilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

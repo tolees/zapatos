@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior en loneta lavada con bordes deshilachados
-- Soporte para el arco anatómico
 - Correa con forro de suave poliéster
+- Soporte para el arco anatómico
+- Parte superior en loneta lavada con bordes deshilachados
 - Separador de dedos doble
 - Suela intermedia de doble densidad para mayor sujeción y confort ligero
 

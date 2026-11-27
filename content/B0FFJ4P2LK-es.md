@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 80% caucho, 20% caucho reciclado
-- Color: negro
-- Forro: 61% piel de vacuno, 30% piel de cerdo, 9% textil 79% poliéster reciclado, 21% látex
 - Material : 89% piel de vacuno, 11% textil 79% poliéster reciclado, 21% látex
+- Forro: 61% piel de vacuno, 30% piel de cerdo, 9% textil 79% poliéster reciclado, 21% látex
+- Color: negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFJ4P2LK{{</world>}}

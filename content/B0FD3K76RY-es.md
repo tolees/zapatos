@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: __ Correa superior TR con pin Roxy
 - Material: materiales sin PVC
+- Material exterior: __ Correa superior TR con pin Roxy
 - Suela exterior: goma EVA reciclada con arte Roxy
 - __Plantilla: goma espuma de EVA reciclada
 

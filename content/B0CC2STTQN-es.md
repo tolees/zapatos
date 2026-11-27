@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cojín suave
-- Clarks Sandals, Sabina Sling, Navy Nubuck, 6,5 (Women)
 - Flexibles
+- Clarks Sandals, Sabina Sling, Navy Nubuck, 6,5 (Women)
 - Aspecto y tacto clásicos
 - Alta calidad
 
